@@ -1,0 +1,30 @@
+{
+    "id": 4592,
+    "strings": {
+        "name": "Wisdom Soup",
+        "article_type": "A",
+        "singular_name": "bowl of wisdom soup",
+        "plural_name": "bowls of wisdom soup",
+        "description": "A bowl of stone soup with\n\"that little extra something\" added.\nHP+3 MP+3 STR+1 DEX+1 VIT+1 AGI+1\nINT+1 MND+1 CHR+1\nHP recovered while healing +3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDU5MiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAGDA4gCAwOIAgMECAIDA4gCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgMECAIDhAgCA4SIAgOEiAKDhAgCg4SIAwOECAIDhIgCg4SIAoOEiAKEBIgChASIAoQFCAMEBIgChAUIAwQFCAMEhYgDBIWIAwSFiAOEhYgEBIWIA4SFiAOEhYgDBQYIA4UGCAOFBggDhQYIA4UGiAUFBYgEhQYIBIUGCAOFBogEBQYIBIUGCASFhggEBQaIBAWGCAMFhogEBYaIA4WGiAQFhogEBYaIBIWGCAOFhogEhYaIBIWGiAQFhogEBYcIBIWGiAUFhogDhYcIBQYGiAUGBogEBYcIBAYHCAUGBogEhgcIBQYGiAUGBogFBgaIBIYHCASGBwgEBgeIBYYGiASGBwgFBgaIBQYHCAUGBwgFhgaIBQYHCASGB4gEBgeIBYYHCAUGB4gGBoaIBIYHiAWGhwgGhoaIBgaHCASGh4gFhocIBYaHiASGh4gFBoeIBQaHiAUGh4gGhoaIBgaHiAYGhwgFBoeIBgaHCAUGiAgFBogIBgaHiAcHBwgFhwgIBgcHiAYHB4gFBwgIBYcICAYHCAgHBwcIBYcICAcHB4gFhwiIBQcIiAWHCIgHh4eIBgeICAaHiAgGB4iIBYeIiAWHiIgGB4iICAgICAaHiIgFh4kIB4gICAcICIgGB4kICAgICAWICYgGCAmICAgICAcICQgHiAkIBggJiAaICQgIiIiIB4gJCAYICYgGiAmICIiIiAaICYgICIiICAiJCAaICggICIkIBoiKCAaIiggICIkICQiIiAgIiQgHCImIBoiKCAkIiQgIiImIBwiJiAaIiogHiQoIBokKCAgJCYgGiIqICQkJCAiJCYgHCQqICYkJCAcJCogHiQoICQkJiAmJiYgJCYmICQmJiAcJCwgHiQqIBwkLCAcJCwgICYqIBwkLCAkJiggHiYsICQmKCAiJiogKCYmIB4mLCAeJiwgKiYmICYmKCAeJi4gICYsICAmLCAeJi4gKigoICAoLiAgKC4gKCgqICgoKiAmKCwgIiguICAoLiAqKCggKCgqICIoLiAoKiogJCgsICAoMCAiKC4gIigwICoqKiAqKiogIiowICQqLiAiKjAgLCoqICIqMCAkKjAgIiowICQqMCAkKjAgJCoyICYsMCAmLDAgJCwyICgsMCAsLCwgJCwyICYsMiAsLi4gJCwyICQsNCAuLi4gLi4uICYsMiAmLjQgKC4yICwuMCAqLjIgJi40ICguNCAqLjQgMDAwICguNCAsMDQgKjA2IDAwMCAwMDAgMDAwIDAwMCAyMjIgLjI2IDI0NCA0NjggPv7+/v7+/z7+/v7/Pv7+/v7/Pv8/Pv7+/v7+/v7/Pv7+/z7+/v7+/v8+/v7+/v7+/v7+/v7+/v7/Pv8/Pv8+/v7+/r6+vr6+vr6+vr6lzg4ODgsOEWv+vr6+vr6+vr7+/z7+vr5+fn5+bBIFw8PEhISEg8TDw8XK/n5+fn6+vv7+/v6+vkABQcMCw4WEBISDQ4LCw0NDxIJCwYA+fr6/Pz7+/r6+QUKDg8XFS1ORlBncWJQNyUaEQILCQjV+vr7+/v7+vqVDBgXQ12NjaGNjJ6YmH5XX1A8MSEPCRfr+vv7+/v6lxcYQ1d/rKydnZOMdoRjY2J4f3RROzoEDzjr+/v79OsgIFB/wp2EiJies6mrq6uiloVjcWFtNj0bEL/7+/v7XCZifJ18mKnK0s7a4tvSwu7d4d2kdl1xVj8hHfT7+80wXXxxdJPO2t/i3ODw8N3dp6fv3eC8fmNnbz8cnPv0Xld4Y2nC7ube6ejs9fP+m5+Ac2zv3dfbomJnZjJPzW42Yn5XuO7S7Onx7fH19vifvqqGW/bm29PKnmNtWiKcIlB8bZPK2uzo7OLf7e32/9TE6p+O8ube1sOzdmNfSzAkUHg3pNbo3N7B1sHa4uXy88jEoPHi09zWy9erTn5rGzJxcTXC0dzazvD99t7W5ezm4srQ5uDc29zX0rNXaWs6XnxiNcbO1tbg446GjnnX397c2tzs7sLK3dvXvFdOaUJeZ0Y5q8bmsoaGn66bc+rz4Nza4ObSssK40tLFfDdnOjpXTkCZvLiUm77UrnMqgPPm3dzg9dLw9u7W27iRRGIyR1BZQHe9tomn2cSuZHnb0tPW29PzyYNkdcLbnqNZPBtlPngzVaK9uKqbzIaJuLHAxr3A462AkoZz19eYo2pLWIRHY0wld7PFuK2nj6upprbAtr3Qm6fZ1LfgpKSIaSa55z06Yy41drPdtLGs07GZosDWvbO3rru1tYWMsnhMQfv7uTRLRC48dIK8w7G9xsXDvb3LvLjDtox9eKOyVSbN+/v0ez0ybS4udn6QmbGmw9PWwL29xZaHfXiNtXApXPv7+/vkSS02UDwfNS6FnpOTpJiFh4iMkHdpiqVZKU3r+/v8+/rHOCQ8PDonGiddYm1wVWB0TDk8gZp/TENI+vr7+/v7+vqoHigfLjI+MT47X19dXWJvgY96TjYZAfn6+vz7+/v6+vn5sHI7LjY0OkRQS2dXUGdhRjQjUtX5+fr6+/v7+/r6+vr6+s+/i3tKR09TSUlcaJeXz+T6+vr6+vr7+/v7/Pv7+/v7+/v7+/z7+/z7+/v7+/v7+/v7+/v7+/v7/Pv8+/v7+/v7+/v7+/v8+/z7/Pv7+/v7+/z7+/v8+/s"
+}

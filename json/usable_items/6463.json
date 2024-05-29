@@ -1,0 +1,29 @@
+{
+    "id": 6463,
+    "strings": {
+        "name": "Salt Ramen +1",
+        "article_type": "A",
+        "singular_name": "bowl of salt ramen +1",
+        "plural_name": "bowls of salt ramen +1",
+        "description": "The right amount of salt gives this ramen a special kick to shake off any vestiges of afternoon sleepiness.\nDEX+6 VIT+6 AGI+6\nAccuracy+6% (Max. 95)\nRanged Accuracy+6% (Max. 95)\nEvasion+6% (Max. 95)\n\"Resist Slow\"+15"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjQ2MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAAgAAQAIAAGBCAEBgQgAAgGIAIIBiAABgwgAAgIIAgICCAABBAgAAoIIAAGECAACAwgAAYSIAQMCCAACBAgCgoKIAAMCiAKCgogAggSIAwMCiAADAwgAgoUIAIODCAGDBIgAgoYIAIOEiAGDBIgDhAMIAYQECAODg4gAhAQIBAQDCAGDhQgDBAQIAYOFCACDhYgEBAOIAYSECAIEBQgBBAUIAIOGiACEBYgCBAWIBASDiACDB4gBhAYIAIQGCASEhAgBBISIAYQGCASEhIgCBAYIBISECAEEhogAg4iIAQOICASFBAgCBIWIAgSGCAGEhogEhQSIAwSFiAGFhQgFBQSIAgSGCAOFBYgBhIaIBQUFCAUFBIgChQaIAQUHCAIFBogFhYSIAwUGCAEFhggEBYWIAYYFiAKFBogFhYUIAgUHCAEECYgFhYUIAgUGiAIFB4gFhYUIBQWFiAGGBggCBYeIAYUICAKFh4gBhIkIBYYFCAMFhwgEhgYIAQYHCAWGBYgBhoaIAoYHCAGFiAgBhIoIBgYFiAUGBggChgeIAgWIiAMGB4gGBoWIBgYGCAMGB4gBhgiIAwYICAWGhogDhggIAgYJCAaGhggDBoeIAoaIiAaGhggEBogIBwcGCAYHBogChoiIAgeHiAIGCogHBwaIBwcGiAMGiIgFhwcIBwcGiAQHCAgCBokIA4cIiAcHhogGhwcIAwaJiAMHCQgHBwcIBYcHiAQHCIgHB4cIB4eGiAeHh4gDBwkIBAcJCAKGC4gHh4cIBweHiAKHCggDh4mIB4gHCAYHiIgEBwoIBAeJiAgIB4gICAgIA4eKiAaICIgEiAkICAgHiAgICAgECAmIBwgICAKIiQgICIeIBAgKCAWICQgFCAoIBQiJiAQICggICAgIB4iICAiIiAgIiIiIBAiKCAQICogFiAoICIiICASIiggEiAuICIiIiAaIiQgIiQgICIiIiAUIiggECIqIBYiJiAaIiYgFCAsICQkICAkJCIgFCQqICQkJCAWIiwgECIuICQmIiAcJCYgFiQqIBIkLCAYIjAgJCQkICYmIiAaJCogFCYsIBomKCAmJiQgJiYmIBokLCAWJiwgJiYmIBomKiAYJDAgICYoIBImLiAcJiwgFCYwICYoJiAoKCggEiguICgoJiAYKC4gKCgmICgoKCAcKC4gKCgoIBomMiAoKCggHigsIB4oLiAqKiYgKioqIBgqMCAgKjAgGCoyIB4oNCAqLCogLCwsIB4qNCAeLDAgIiowICwsLCAgKjYgGiwyICQsMiAsLCwgICo2IC4uLiAuLi4gJC40ICIsNiAYLjggJi40ICoyOCAAAAAAPn5+fn5+fn5+fn45OLi4uLb4ODi6Pb5+fn5+fn5+fn5+fn5+fn5+fn27p0fOC9YaHVYOCMfi+T5+fn5+fn5+fn5+dvb29vbwqI2OC84WIOHmIdILzMfKJ3K29vb29v5+fn529u2wpAjIyMzf67d7d/F2sWmaDMoMzaitrbb2/n5+fnb27YBFy9Dv92tT1FEJjU9hJ252rg8KAsBttvb+fn5+dvbnQsvprNpRUVNSTVzapFvOYrSra6cOBOd29v5+fn527k2Va5pTWWSc12FcbuKHTKWZkqw6a2zM0fK2/n5+fnKQ3XPTWC0l6ObS8hKqyYycDk5hVur3r24PIDT+fn5+aJ1y01xtGoxU11LijUdKqskJHBbJ0ZdsuGYSG7y+fnoPNpycV1rtZZ0UzF8pyaKKxuKGxs/qcNdupm4POD4+drPiEQmsfPVvsmaMSQZNQUFBwQPgebDXSYec3Ku0PnyrMCNGyqx+8nj7L6xJBAKBRQiCQMIJjceRLCJRZiA8tuueoEkKp7s7Pv3874cEgoIBxZCGgMIBenEnjFBJZjk4rOPmy5EPqnv8+/7bF4UQiAcDiJaGE7Z2as1Vnkli+LiuH+6YEQ+LjcePxoNfgM0fhkYDSlaYlsdMkZqwTaU4uLAdd5gqeHMsnlJDQ0iDH4rfWQUGFAtPZEnb2/pWJXi289t6U3Y8fXh2DcEFA8MahE0pUI0HYWBJ1Z2VvdMuOLg32j0Zeb6/v3qkmAQfgwsKQh2pXc1ajLNb29E6Ty/0+jLdV/eUcz69eZXOmwWOxB9ILA9N4HN6advS2xhSMvg8qzAdcd5jdjRzZdsMSxUMA9l1yQeSVNxknZvzDOcovL40N91f960wYawVjBXMOOTHOtq60Zl142SjcdMM7/Q+fnund91pNS0p0qSuxzXVlyTGcjcW5fNjbqoX0ici/b5+Pii34ePpuXwtPSX/LqqoI1nHKt8fNeoWW1DSMCv+fn5+cqA36GYobfNu+u6vLyGu/yekcjXgjxDMzO/i9D5+fn526+D56GmucvG5d7Hzs6q6c3WlXhMOC9DwHjQ2/n5+fnb25Uh57+/v7iuoY6Ie4iVjn94aEwvQ89Sndvb+fn5+dvbtgEG2t24pqGYh21/f39oaGhIQ4/PFQG229v5+fn529u2AAACQN3dh3ptf2htTDw4PIOUUgIAALbb2/n5+fnb27bCtrasi2Ozxcvny5yPeoeDf4ustrbCttvb+fn5+dvT29vb29vb0MLCtq+vrK+2ucLT29vb29vb09v5+fn5+fn5+fn5+fn5+fn4+Pj4+Pj5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fk"
+}

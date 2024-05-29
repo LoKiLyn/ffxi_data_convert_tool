@@ -1,0 +1,30 @@
+{
+    "id": 6395,
+    "strings": {
+        "name": "Pork Cutlet +1",
+        "article_type": "A",
+        "singular_name": "pork cutlet +1",
+        "plural_name": "pork cutlets +1",
+        "description": "A juicy pork cutlet fried to crispy\nperfection.\nHP+45 STR+8 INT-8 ${icon: fire}+21\nAttack+21% (Max. 125)\nRanged Attack+21% (Max. 125)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjM5NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAAACIAAAAiAAAgQgAAIEIAACBiAAAgYgAgQIIAIECCACBgogAgYMIAIGDCAECA4gBAgOIAQIECAECBAgBAgSIAYIEiAGChIgBAgUIAQKEiAGChIgBgoSIAQKFCAGChQgAgoWIAYKFiAGChYgBgwWIAYMFiAGDBYgBgwYIAQMGCAIDBYgBgwYIAYMGCAKDhQgBgwYIAYOGCAGDBggBgwYIAYMGCAEDBogCAwYIAYOGCAGDhogCA4YIAgOGiAMEBYgCA4aIAYOGiAKEBggCA4aIAwQFiAIDhwgBg4cIAgOGiAIDhwgCA4cIAgQHCAIEB4gCBAcIAgQHCAKEBwgCBAeIA4SGCAIEB4gCBAeIAgQHiAKEhwgCBIeIAgQICAIEh4gEBQYIAoSHiAIEh4gCBIgIAoSHiAKEiAgChIgIAgSICAKEiAgChIgIAoSICAKEiAgChIiIAoUIiAQFBwgChQgIAoUIiASFhogChQiIAoUICAOFh4gChQiIAoUIiAKFCIgChQiIAoUJCAMFCIgDBQiIAoUJCAOFiAgDBYiIAwWIiAKFiQgChYkIAwWJCAMFiQgChYiIAoWJCAMFiQgChYkIAoWJCAMFiQgDBYkIAwWJCAKFiYgFhgcIAwWJCAMFiYgEBggIAwWJiAOGCIgDBYmIAwWJiAMGCQgDBgmIAwYJiAMGCYgGhocIAwYJiAMGCYgDhgmIAwYJiAMGCYgGBoeIAwYJiAOGCYgDBgoIAwYJiAMGCYgDBgoIA4aJiAOGiggDBooIBwcHCAUGiIgDhooIA4aJiAOGiYgDBooIA4aJiAOGiggDhooIAwaKCAOGiggDBoqIAwaKCAWHCIgDhooIA4aKCASGiggDhooIAwaKiAOHCggDhoqIA4cKiAOHCogDhwqIBweICAeHh4gEBwoIA4cKiAMHCogDhwqIA4cKiAeHiAgDhwqIBAcKiAOHCogHh4iIA4cKiAOHiogEBwsIA4eLCAgICAgEB4sIA4eLCAOHiwgEB4sICAgIiAOHiwgEB4sIBAeLCAQHiwgEB4sICIiIiASHiwgEB4uICIiIiASICwgECAuIBAgLiAiIiIgICIkIBIgLCAQIC4gECAsIBAgLiASICwgEiAuIBIgLiAkJCQgFCIuIBIiLiASIi4gJCQkICQkJCAUIi4gEiIwIBIkMCASIjAgJCYmIBIkMCAUJDAgJiYmIBYkMCAWJDAgJiYmIBQkMiAmJiYgFCYyICgoKCAUJjIgKCgoIBYmMiAoKCggKCgoIBQoMiAoKCggKioqIBgoMiAqKiogLCwsICwsLCAuLi4gLi4uIC4uLiAAAAAAP7+/v700+jx4Pr+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+6ycfHRkvYPf9/v7+/v7+/v7+/v7+/v7+/v7+/v7+/tsnJj0zGUpkR7Hf7e/v7+/v7+/v7+/v7+/v7+/+/v79uyEzVjMZHkZRNyqIwM7S0tLS0tLS0tLS0tLr7/7+/PpHRk1GTUYoSi43RCQVCAIAAAAAAAAAAAAA0u/v/v790yMgOEJESTdDQVFFbSEyEQQBAAAAAAAAAADS7+/+/vcgVyC5bWdoTWhIWUxDOiUpGgsBAAAAAAAAANLv7/7+8zNbQotcand7ezFMeEFQSUREFAkBAAAAAAAA0u/v/v70nl9vX1SD7OmK3TE1TF5INxcXGAoBAAAAAADS7+/+/vaBXFdXvNjY3GHWeotVSGQ+LjNKHAcAAAAAANLv7/7+9GlXV2Wsk9l1pGFf8It4VUVAOC4sDgEAAAAA0u/v/v7xQFunV7qNg8HitHfmk5QlIVIjKCgcAwAAAADS7+/+/vNvb6aXcmqt0eORmoV0opqcdD8lIyIEAAAAANLv7/7+9kprdJKmja7R9X1ck+za1FZVYTczTAgAAAAA0u/v/v75Wo+W5tSQl+Gak9B08LKyqJxqhjxKEgcAAADS7+/+/vt/ldTKs6Ot2rykklzU3drHtZKQPDMtDwEAANLv7/7+/eVNrqJ45PDQvumkcrnnrblRia04RCMWCQIA0u/v/v7+83m4mn7mydXZxJfP4azq1IN0qVo8LigzEA3O7+/+/v73Zo+QcuTs4tDIo8LIpqD4ln6DoKxMRjMzDM7v7/7+/v2Zh8S4n6TR2ea8zNqWcsrIj53Dal6XODgomO3v/v7+/tJhqbWmlMju7r690bW4ur2vv6/DjUkhQCU2wPH+/v7+5WyLj2Gn5N7CyKefxMS+vMq2ncNeMSMzNTw72/7+/v7r20/EloSuxJasp724vKe9rtWKalqLSEU+PkhH9/7+/u/tmHaWuKZ9b5aFqa+1oqe4yPKskt6Ei5JMRUyO+/7+7+/LG1iWvJJveWbEh7+iote6yKvHcJ9hymdIQU/3/v7v79ICBU6bhqaceZauwmV+tsSAnHJbjYWnkllMQOj+/u/v0gAAAgVzYo99uqmWhX2Scq54h2txaXWugII87/7+7+/SAAAAAAMGEzRTjH1ZUqK2lnV5gsegZZpWilXv/v7v79LS0tLS0tLOwLexsaWZgW59Z5KhcHmAdWR3Off+/u/t7+/v7+/v7+/v7+/v7+3o38B8Y2dmea5RcW7F/f7+/v7+/v7+/v7+/v7+/v7+/v7+/fv3u11LlWEmsPv+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v78+fPr8/P8/v4"
+}

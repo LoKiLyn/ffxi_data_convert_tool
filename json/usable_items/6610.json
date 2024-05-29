@@ -1,0 +1,28 @@
+{
+    "id": 6610,
+    "strings": {
+        "name": "Popo. con Que. +1",
+        "article_type": "A",
+        "singular_name": "serving of popotoes con queso +1",
+        "plural_name": "servings of popotoes con queso +1",
+        "description": "The freshest popotoes combined with perfectly seared cheese brings pure joy to the palate.\nSTR+6 MND+6\nAttack+21% (Max. 135)\nRanged Attack+21% (Max. 135)\nEvasion+11% (Max. 55)\nMagic Evasion+11% (Max. 55)"
+    },
+    "flags": [
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjYxMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAICAiAGBgggBggKIAgKCiAKDAwgDAwMIAoMDiAMDhAgDA4QIAwOEiAIDBwgDhASIBAQEiAKDhwgEBIUIAwSFiAOEhQgDBAcIAwOHiAKDiIgDBAcIBQUFCAOEhogDhYUIBIUGCAMECIgCg4oIA4UGiAIECIgEBQaIBQWFiAQFhYgEBQcIAwQJCAOFBwgFhYWIBIWGiAOEiIgDhIiIA4WHiAOFCAgDBIkIAwQKiASFhwgGBgYIBAaGCAOFCQgEBYeIBAUIiASGBwgDhQkIA4cFiAOFCQgChQmIBgYGCASGB4gEBYgIBIYICAQFiIgEBYkIA4UJiAWGB4gEBoeIBAYJCAaGhogDhYmIBQaHiAMFiogChQuIBIYICAaHBwgEBokIBYaICAOFiogGBweIBIaIiAOGCggDBgsIBocHiAUHCIgEBooIAwYLiAUHCQgDhgsIAwYLiAYHCIgFBwkIB4eHiAQHCYgDhoqIBAYLiAaHiAgHh4eIAwaMCAWHCQgFBosIBweICAeHiAgECAiIA4aLiAYHiQgICAgIBIeKCAWIiAgGh4kIBQeKCAOGjAgHCAiICAgICASHiwgGiAmIBAeMCAiIiIgHCAkIBogJiAYICYgFCAqIAweMiAYICggIiIiICAiJCAYHiwgEh4wICIiIiAeIiQgEiAuIA4gMCAUIiogGCQkIBAgLiAcIiggEh4wIA4gMiAeIiYgFCIsIBAgMCAYIiogGiAsICAiJiASIDIgIiQmICQkJCASIi4gFiIsIA4gNCAQIjIgHiQoIBwkKCAiJCYgHCIuICQkJCAWIjAgIiQoIBAiMiAMIjYgIiQoIBYkMCAUIjAgGiQsICYmJiAkJiggECQyIBQkMCAQJDQgIiYqIBAkNCAWKCogGCYuIBQkMiAQJDYgKCgoIBgmMCASJDQgJCYqIBQmMCAYJjAgFCYyICQoKiAoKCggEiY2ICIoLiAkKCwgFCg0IBomMiAqKiogHiosIBgoMiAiKDAgDig2IBQoNCAmKiwgKioqIBIoNiAaKDQgHCoyICoqKiAeKjAgFio0IBAqOCAqKiwgKCosIBIqOCAsLCwgFio2ICgqLiASLDYgKiwuIBwqNiAqLC4gGCw2IB4sNCAsLCwgJio2IBosNiAaLDggLC4wIBYuOCAuLi4gKi4yIBouNiAWLjggLC4wICAsOCAYLjggHC44ICwuMiAeLjggLjAyIBowOCAWMDogHDA4IC4wMiAgMDggKDA0IBowOiAgMDogIDI4IDAyNCAgMjogMDI0ICQyOiAiMjogMjI0ICY0OiAyNDYgKjQ6IDI0NiAqNDogNDQ4IDQ2OCA2NjggNjg6IDo6OiAAAAAANvb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29XVwbq0tLS0usHV1dvb29vb29vb29vb26ysrKysrJh5OA4GBgYNDQkJBg44eZisrKysrKzb29vbrKF9eW5CCgYQQmKWwJ2vs4cxOQsECkJueX2hrNvb29usrHkCAwhMndLjfl0zOUqWyuWaalcSCAMCeays29vb26yhLgUKltKmSi08IiJYTUcfaqbcs3NXEQUuoazb29vboS4GRNKzRFE7kaRoGCR2qZVRTUfA5aZzHQkuodvb29VCCyb2ykQ7YM3TpKSBa552pMeqgViEpvRtPwlC1dvbmApM/XQnJz2yuNPT079r8u7u0+i8qTyVzvudPwmh28UOJvt0Kjo9Qz6Le5lPZZGKzaPu02+RsYGg5fuMGg7Fjwu3lCo2UnZNTkMbRRtPVl8zVnfCkcbu7qk8/c5XCY8XStwoJ0N/kCk7qtaXNBQ2FuTHm6Ob5PXk14FH+n4SJQn0lBF2doOIKYlFYRUPFAwv0x/av6e5qm9SQ0Oa/F0QDe+HEStaiIFvhUsjJw8vIR1x2svtxOHy6rlaO3j6fhEm8XATEytOTmhsrkEoJ0tctRnCL8il7PLu6p87V9J+GF32fhMRE07i8HzD4BlAXGSly9GSgiGx0/XX6q0/5a8kbfpwLRGTk6PwhbVsuY2TqOSCIa41k0uy7N3m8i3pwC1M+3QWQXGq0+jzm8i7gnV18K7C5pM3U3/s5uHqSuOaLW7p/E1Dg1VlzeLow+3taRJGtaMhbFO/g0Ok2uuH77NMmJ39wE1JgCu41/L59+2NLByFm/Pno5vhbww0eLPvt4/FofH9dDGBiTdfw63U4sNVHF/ey77ey+baOjqE5fRuxduhfvv6VE1BMR5lpJ7EfNirnHHmz7CjhqeBoIT+xaHb29Vnlv37ZikdFlu8pJ+4uL9sT4ZWd5u41GCg/tte1dvb25hZlvz6ZjEdFkWkTzB/PDBfPVvT971Ytv7vXqHb29vbrKFIjun4t3BHMj02MDpBMjQ8drZwWJrlokihrNvb29usrHkCUMn49nhocGZUYGZBOn6Emu/x2VACeays29vb26ysfQABB1Df8fTj3M633OPO/f320GMHAQB9rKzb29vbrKx9AAAAAQIgUHrJ3+nv39CiYyACAQAAAH2srNvb29usrH19fX19fXJuZ15eWVleXmdncn19fX19fays29vb26ysrKysrKysrKysrKysrKysrKysrKysrKysrKzb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29s"
+}

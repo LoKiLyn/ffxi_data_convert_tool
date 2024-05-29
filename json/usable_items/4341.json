@@ -1,0 +1,30 @@
+{
+    "id": 4341,
+    "strings": {
+        "name": "Sunset Soup",
+        "article_type": "A",
+        "singular_name": "bowl of sunset soup",
+        "plural_name": "bowls of sunset soup",
+        "description": "The flavor of this tomato soup\nis sublime.\nVIT-1 AGI+3\nRanged Accuracy+9% (Max. 20)\nHP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDM0MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAIDA4gCAwOIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgOECAIDhIgCA4SIAwOEiAKDhIgBA4UIAwOEiAKEBIgChASIAwQEiAGEBYgChAUIAYQGCAOEBQgBhAaIAwSFiAMEhYgDhIUIAYQHCAEEB4gCBIaIA4SGCAOFBYgBhIeIA4UGCAOFBggDhQYIAgSHiAGEiIgCBQcIBAUGCAOFBogEhYYIBAUGiAKFhogEBYYIAgSIiAIFCAgEhYaIBAWGiAKFhogFBYYIBIYGCASFhogEhYaIBAWHCAQFhwgEBYcIBAYHCAWGBogEhgaIAoUJCAIEiogFhgaIBIYHCAKGB4gBBIsIBIYHCAQGB4gBhQqIBQYHCAQGB4gFhgaIAgUKCAUGBwgBhQsIBQYHCASGB4gGBoaIBYaHCAIFiggBhIuIBAYICAGFCwgFhocIAgULiASGh4gChYoIBQaHiAQGCIgBhQuIAgULiAYGhwgFhocIBYaHiASGiAgFhwcIAoWKCAKFiogBhYuIBQaHiAGFDAgFBoeIBQaICAaGhwgEhoiIAoWLCAIFC4gGBwaIAoYKiAGFDAgFhweIBQcHiAaHBwgBhYwIAYUMiAIFjAgGBweIBYcHiAUHCAgDhomIAgWLiAWHCAgFBoiIAYWMCAQGiggCBYwIAoWMiAIFjIgEBomIAgUNCAYHh4gGhweIAgWNCAMGCwgFhwgIAoWMiAIFjQgBhY2IBYcIiAWHCQgDhoqIAwYLiAYHh4gGB4gIA4aLCAKFjQgCBY2IBweICAQHCggDBgwIAgWNiAQHCogGB4iIBYeIiAMGi4gDBgyIAgWNiAYHiIgEhwoIAYYNCAIFjggHh4gIBIcKiAKGDQgGh4iIA4YMiAQHCwgDhowIAgYOCASHiggFiAkIAgYOiAgICAgCho0IAoYOCAYICIgCBg2IA4YNiAWHiYgFB4qIA4aNCAIGDggHiAiIBIeKiAQGjIgChg4IBogJCAMHDQgICAgIBIeLCAMHDAgEh4uIBAeLiAaICQgEBo2IB4gJCAIGjwgDBw0IBIeLCAWICogEBw0IAoaOiASHDQgIiIiIAgcOCAQIDAgCBw6IBQgLCAaIiggICImIAweNiAIGjwgEiAwICIiJCAOIDIgCh44IAgcOiAcIiYgFCIuIBAeNiAKHD4gBhw+IBQgMiASIDIgJCQkIB4kJiAGHD4gFB42IBIeOCAKHjwgFiIyIAgePiAUIDYgECA2IB4kKiAMIDwgCiA8ICYmJiAgJiggJiYmIBYiNiAOIjogCiA+ICgoKCAWIjggICgsIBIiOiAYJDYgKCgoIA4iPiAQJD4gKiwsIC4uLiAuLi4gP////////////////////////////////////////////////////////////////////////////////////////X19fX19fX19fX1uEBAPDw0QEnN9fX19fX19fX/////9e/Nzc3Nza5dHBERFBQUFBQYEREcQM3Nzc3v9f/////19c0ABwUJAwoMDw4ODgsDAwgIDgsIAwQAzfX1//////X1zQcGCgsSEypIO0Fne1lHNyERDAIDCAa+9fX/////9fWjCRINOle8w9vDw9LS0p9NX0cyLCALCBzv9f/////6viESOk2m7Ow5OaZhNDU1Kj2In4g9NjkDFEDv/////+IrI0em9zo1bZDR3NbCwr+ryMk5cVl3MTkaEc3/////XSNZmjl3hNH4/Pv06eTf39/k7vPWcEd7SzYaHP7//vouV5qIX6zr7efn6d7eqp7Q1drQ2tnPSTlxdjwW1//+Xk2MiDab1M7Qsn/L0Maeqoq3xreeqq3Pmz1VaS5Q+oUxZ589jL2yy7JrJjCS5ruUlJ6tqpSBpZ7Ym0dxUCHXIUubd2Gkr6+zs2MfGScw9rCqopiYhmxspbK5eFlfSzQhR4wyjI6ltsrlpx8vIhA+3YuisIqAbGxvodasN5twGDd7eyx7r5eJnbrKJh1CHxfKg56epYB1nYGKx8k3X3A8VZpXJY2pl4mJgIluHygzEHVvnrCehmZ0gX35tDZNZUlwZ0cltKScl39WbH9KJiIfJnVSnIlcifJmfeGaXzJnNzZNVzKmtaiPemw/TEx0dXQVGRcdklK6p3V9wJpnO2csQVlEOHyNwX6Ha1ZsgYqYgycfLSgdumxbc3qgjWdOOxh2N5stTniWjod6enWBpeqLRh4nGR2HQ1Zrh7FnpllBabg9Z0QlfHy/6GJrZHVSXG+BfZypnFFMQ4+WhFWxaCPx/UE3ZSwyak61jm5UVlZbb3NkZFRUVGPgfkF7vIhISf//8TdNOyU7RWpgpMFuVGNua0pRPliOqJZEcZrsSCn6//7+lTcueC4sMWBqRVNafpmomVNTaGp7fHjD8Hgsaf/////vUCk3NzcaMiVZNnGasZ97jJpBN0RZvONOLE/v//////HiRyAxMjkjFCNHZXt7SFdlOzI3ptOfRTpe9fX/////9fWuGyQaLCo3Ljs2VVlNTll2psWISC4TAc319f/////19b7NuIU0Li4uMj07S2dNQWdfOzIrab7NzfX1//////Xx9fX19eLXuJVHQURLVVBydri44u/19fX18fX///////////////////////////////////////////////////////////////////////////////////////8"
+}

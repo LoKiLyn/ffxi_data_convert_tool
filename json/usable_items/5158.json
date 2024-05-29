@@ -1,0 +1,30 @@
+{
+    "id": 5158,
+    "strings": {
+        "name": "Vermillion Jelly",
+        "article_type": "A",
+        "singular_name": "serving of vermillion jelly",
+        "plural_name": "servings of vermillion jelly",
+        "description": "This is about as tasty as you can\nmake the detoxified gelatinous remains\nof a clot.\nMP+12% (Max. 90)\nINT+6\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE1OCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABiAABAYgAAgKIAAAHiAACgggAAAgIAoKCiAKCgogAAAiIAAAJCAAAiIgAAAmIAACJCACAiIgAAAqIAACJiAABCQgAAIoIAAQDCAAAC4gDg4OIAAUCCAABiQgAAIqIA4ODiAABCogAAAyIAIQECAAAi4gAggkIAAELiAABiogABQOIA4OGiAACCggAhQSIAIEMiASEhIgBgomIBISFCAACC4gCBYWIBQUFCAAGBQgAgY2IAQSIiAABD4gCAwsIAgKMiACCjIgFhYWIBISHiAWFhggAhwSIAgIPCAEFiAgGBgYIBASKiAEGh4gGBgaIAocGiAQGhggBhAyIBoYGiACHhogEhQoIAAWKiAYGhogEBwYIBgYICAYHBggGhoaIAIaJiAcGhwgGBgiIBwaHCAWGiAgEBIwICAcGiAaGiIgHBwcIBAcICACED4gHhwcIBwcHiAOHCYgGhweIBgcIiAKFDggHh4eIAIcKiAKIh4gHh4eIB4eHiAeHiAgHBwiIBgYLiAiHh4gHh4gIBweIiAQICQgEhY2ICYaKiAgICAgDiIkICYeJCAeIiAgIB4mICAgIiAYGDYgICAiICIgICAKFj4gGhowICQiICAgICggIiIiICIgJCAkIiQgDBg+ICoiICAkJCAgIiImICAeLiAmJCQgIiImICQiKCAmJCIgKiQiICQkJiAmJCQgCiQwIB4oIiAkIiogJiQmIComJCAmJiYgICIsICAgNiAmJiggEB4+ICwoHiAqJiggJCQqIComKCAaKiYgLCgkIComJiAgHjogKCgoIDAiLiAmJiogJCQwICooJiAsKiQgLCgoICwoKCAsKCogLiomICIqLCAyKiQgLCooIC4qKCAsKiogICY4ICwsKCAcLCwgICouIC4sKiAwLCYgLCwsIB4mOiAwLCogMCosIDYsKCAaJj4gMCwqIC4sLCAoLiwgMi4qIC4uLCAuLC4gNC4sIDAuLCA6LCwgLi4uIDQwKiA6MCYgNC4uIDIuLCAwLi4gMC4wIDYuLCA0Li4gODAqIDYsMCAyLi4gNjAsIDAwMCA0MCwgNDAuIC4sNiAoMjAgNjAsIDwwKiA2MDAgMDAwIDQwMCA6MCwgMDA0IDgwMCA2MiwgODIuIDoyLCA2MjAgMDIyICgyNiA6Mi4gODIwIDYyMCA4MDIgOjIwIDw0LiA4NC4gNjQwIDw2KiA+MjAgKjQ0IDAuPCA6NDAgPDIyIDIwOiA8NC4gPDQwIDg0MiA+NDIgOjYyID40MiA6NjQgPjY0ID42NiA+NjQgNjQ8IDw4NiA0Nj4gPjwyID46NiA+OjggPjg+ID48NiA+PDogPj44ID4+PCA+Pj4gLu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5e7u7u7l5B2dnZ2dnZ2aWReW1tbW1tgaXF2dnZ2dnaQl7u7u7uXl3YAAAAJGixBX3idr6+vknhNNCcJCAAAdpeXu7u7u5eXdgAJJ02dw8eefntxdHSJfpWutXg0Ggh2l5e7u7u7l5d2GlXAxKKJbn6Jnp+bkJCEcWBjgtKSLGCXl7u7u7uXlz2B0qOJm7iQjYB8h3yIiIiIm3ZlVonAS2SXu7u7u5dLssScnrbRxneIf3d/gH98dXWs0apxWF7hcVK7u7u7PcfEpKrJ0eKIVmluRzU1TFFtYZHQxrZxWGXjaZe7u2SbvKeyw8nsqq5tJhULBwUFBQ9Dkd3IyLZxYVLvS7u7XrqVz7/J0eK/jB4xMhULBwcHBQcxxsrIxqNpTnrIcV7Crrji39HiycGWTxkVLiQMDAoMBTiL1aysuadgI+qJUs24uOfcyuLd0+ZPGREKcwwKCgcLMK3VrKziY2BllKBpzcfW0c+y0diH+mccEwxDCgoNCxBUptWyuZlZiGyCuHbg3N7h293Y7pr0M0AbCgwSDA4NEI651rlTV82QhIm8hNTc3+/f3djw9ZoHKCEYHxgMCw0crffZHQLurJ6VlLxxmMXb7fHfytH1mjt9YhMSGCEOExXa5QQBwcmQp4BroFvb79bn7fCsxt236SoqERITGxsTWqhTAWr3spWukMJ7ac3r5+fr7bvK7PtzDg4bHhkgGRMvFxQGzNGuo6OuzXG7aejr6N/57/j8+8tvGQoHBw4gICJqHSXixqrDpLx+u7tpwr3b6+7/9fH4/vaxjnJ5VERCLd0dK76ysqGit2S7u7tFzuDx0vPr79xQSDlKXIU8Nxcd+QNszbaqZrk9u7u7u5dL4f3x7+vfuK5FP0aG2+qEBJDPdt+so7C5RZe7u7u7m5c9s/zO0tzc/vLz+LjN8mw+9cbhj6q4ij2Xl7u7u7uXl3YpX7XS5/n4yurnxr/FiF3Dv6uPtVUpdpeXu7u7u5eXdgAANlWdwOeptOS4x5hok9+1g0EpAAB2l5e7u7u7l5d2AAAAABY6SV+Ds8DApXBVSTYWAAAAAHaXl7u7u7uXl3Z2dnZ2cXZ2cWlbW1teaXZ2dnZ2dnZ2dpeXu7u7u5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5e7u7u3u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7e7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7s"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 5636,
+    "strings": {
+        "name": "Shr. Cracker +1",
+        "article_type": "A",
+        "singular_name": "shrimp cracker +1",
+        "plural_name": "shrimp crackers +1",
+        "description": "If you like shrimp, then you'll love\nthis flavorful shrimp cracker.\nVIT+2 DEF+10\n\"Amorph Killer\"+12\n\"Resist Virus\"+12\nHP recovered while healing +9"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 99,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTYzNiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADA4UIAoOFiAMEBYgCAwcIAwQGCAIDh4gDhAYIA4QGCAKDh4gDhIYIA4SGCAMEBwgDhIaIBASGiAMEB4gEBIaIA4SHiAQFBwgEhQcIA4UHiAKECQgEBIeIAwSIiASFBwgEBQeIBIUHiAOFCIgEBQgIBIWHiAMFCYgEBQiIBIWICAOFCYgEhYiIBQWHiAQFiQgFBYgIA4WJiAMFCggDBQsIBYYHiAWGB4gFBgiIBIWJiAUGCIgDBYqIBYYICAaGh4gFhogIBYYIiAQFiogGBoeIBIYJiAQFiggFBgmIBIYJiAQGCogGhweIA4WLCAYGiIgEhgoIA4WLiAaHB4gFhokIBgaICAQGCwgDhYwIBocICAYGiIgFBomIBIYKiAWGiQgHBweIBgcIiASGCogGBokIA4YLiAaHCAgFhomIBAYLCAaHCIgEBguIBweICAYHCYgFhooIBQaKiASGCwgDBgyIBgcJCAOGC4gGhwkIBYaKCASGiwgHB4gIBQaKiASGiwgGBwmIA4YMCAaHCQgFBosIBAaMCAeHiAgGBwmIBweJCAUGi4gFhouIBIaMCAeICIgGh4oIBQcLiAWHC4gFhwsIBIaMiAgICIgFBwwIBQcMCAcHiYgGB4qIB4gJiAaHiggEhwyIBgcLiAQHDIgFhwuIBQcMCAUHDAgHCAoIBIcMiAgIiIgFBwwIBYeLiAWHjAgIiIiIBYeMCAiIiQgGh4sIBgeMCAUHjIgHiAoIBogKiAcICogIiIkIBgeMCAWHjAgGB4wIBYeMiAcICwgFh4yIBQeNCAYHjAgGB4yICIkJiAWHjIgHiIqIBggMCAUHjQgGCAyIBogMCAWIDQgGCAyIBoiMCAkJCYgHiIsIBggMiAaIDIgGiIwIBggNCAWIDQgGCA0ICQmKCAaIjIgGCA2IBoiMiAaIjIgJCYoIBoiMiAaIjQgJiYoIBwiMiAaIjQgGCI0IB4kMiAaIjQgKCgoICIkLiAaJDQgGCI2IBwkMiAmJiggGiQ0IBokNiAcJDQgGCQ2ICgoKiAgJjAgGiQ2IBwkNCAgJjIgHCQ0ICgoKiAcJDQgGiQ2IB4mNCAcJDYgIiYwIB4mNCAaJjYgHCY2IBomNiAeJjQgHiY2IBwmNiAiKDIgHiY2ICoqLCAcJjYgHCY4ICIoNCAeJjYgHiY2ICAoNCAgKDYgICg2IB4oOCAgKDYgHig4ICAoOCAgKDYgHig4ICIoNiAgKjYgIio2ICIqOCAgKjggIio4ICIqOCAiKjggICo4IC4uLiAkLDggIiw4ICQsOCAiLDogJCw4ICYsOCAmLjggKC44ICQuOiAmLjogKDA6ICYwPCAqMDogKjI8ICwyPCAAAAAAO/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/vyL2vr6+vssLX7+/v7+/v7+/v7+/v77i4uLi4uLi4clMjEw0CBRklI0Rsgbi4uLi4uLjv7+/vuK+FhYWYSTAdFg8JBAwXISwbER0qOo6FhYWvuO/v7++4uIUACgMSFhcJNTUzR5F6Vl0fHBwrAQgAhbi47+/v77i4hQoDGhYhFxsmOVA5S0twb0tuOSIyDgiFuLjv7+/vuLhTCBQMJgknZTluLkdphG9dkKBpOFVZEF64uO/v7+/CgUQaFRtXdJJpbquKmZ+ZhJ1rlVJkrVRMMIfC7+/v77hyKSR0fqSdfUKQ6pyVcU15p2A+UlB8OFxbZrjv7+/vgV4iOGq6sJd+aZ3RwXFDKJXQJkJakquepmdEcu/v7++HMRxWanPFxcDUz7vlqMqoeanH3LedlnyReGhm7+/vwl5IHF+Qra6wksFx2fPz0Yq1qdTr5KVuV3NzbU7I7+/IMVyhrp20nZ15TWLE+v3ut5KgsYrH1r5XYDY3UbLv76ItOMV+ZYC38btYgMT44sq3qb6feZ/PvoRgS2pZr+/volSh0qAuLrH75cHZqfPgv7/c7dSfWqCk6uGXlmGq7++qT5PF+uWSsdjgu9jY5Pjutdz5xICoz6n2+turZ6rv76pAVp7n+NTQ6djU3/bj+PO+oKDUtc/l+eSwxZtIqu/vqlRwhpfHp+ns3+Dr+vTqqX10fbHEt7H2yY+6pWGq7++qYbbPmauw0/Dp7sqo8+2xgorE3Ozw4fDhj56RZ6rv76pbw7Dp0Ozk+e2ZfVKx1uTcpMfr05TH7P6Plpthr+/vr1OaxtvbwLHr/P3EoNDc5OrM3LSdtMfn9vW6RkGv7+/vgVvNy526wMfx/NClye305NDHwLp8s9LO5oNUXu/v7++HU4vasLrW1uHh8em6tOnQusnkx2R8pduPOEpy7+/v76pyUdXrzNDb39vTg7S02/nbreTfyTZvx18taLjv7+/vuJgwf9Xs9fXe99K80+f67NOKzvXec2QhHylsuO/v7++4uFMHmtro7Ozs8OyPzvbTuoKz9/CdcJMvP7i47+/v77i4hQgLjZPm2/HW1Imz8t2zpcve05uMLwOFuLjv7+/vuLiFAAgBY6PV27e6q53T45SQs66IdhgDAIW4uO/v7++4uIWFhUlBNIvDzaGbrcC6kZF2eDwwSYWFhbi47+/v77iyuLi4uLhsd05odW2NoZqLRUFebLi4uLi4srjv7+/v7+/v7+/v7+/voqqijouOjo6yyO/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+8"
+}

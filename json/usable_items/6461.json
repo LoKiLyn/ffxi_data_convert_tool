@@ -1,0 +1,29 @@
+{
+    "id": 6461,
+    "strings": {
+        "name": "Miso Ramen +1",
+        "article_type": "A",
+        "singular_name": "bowl of miso ramen +1",
+        "plural_name": "bowls of miso ramen +1",
+        "description": "Both savory and tart, this bowl of ramen could easily be sold at even a high-class establishment.\nHP+105 STR+6 VIT+6\nDEF+11% (Max. 175)\nMagic Evasion+11% (Max. 55)\n\"Magic Def. Bonus\"+6\n\"Resist Slow\"+15"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjQ2MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAgIgAgIEIAIEBCAAAgogBAQEIAIEBiAEBAYgBAQGIAQGBiAEBgggAAQMIAYGCCAEBgggBgYKIAYGCiAABg4gBggIIAYICiAGCAogBggKIAAGECAGCAogAAYQIAYIDCAECBAgCAoKIAgKDCAICAwgAggSIAAIEiACCBAgCAoMIAQIEiAICg4gBgoQIAIIEiACCBQgAgoSIAAKFCAGChAgBAoSIAQKEiAIDA4gBAoUIAoMDiAKDBAgBAoUIAYKFCAAChYgCgwQIAIKGiAGDBQgDA4QIAQMFiAKDhAgBgwWIAgMEiAGDBQgBAwYIAwOEiAEDBYgCAwWIAwOEiAIDhQgBgwYIAwOEiAGDhYgBAwYIAYOGCACDhggDhAQIA4QEiAIDhggBg4YIA4QEiAOEBQgBBAaIAgOGiAOEBQgChAYIAQOHCAQEhQgChAaIBASFCAKEBogCBAcIAYQHCAKEBogCBAcIAAQICAKEBogBhAeIAISHCAMEhogChIaIAgSHCAEEh4gFBQUIAwSHCAOEhogBhIeIAYSHCAGEiAgEhQWIAgSICAAFCAgDhQaIAgUHiAKEiAgBBQeIBQUGCAKFB4gCBIgIAgSICACFCIgFBYWIBIWGCAMFB4gEBQcIAgUICAEFCAgDBQgIBYWGCAQFB4gDBQeIAgWICAIFCIgEBYeIBYYGCAKFiIgFhgaIBAWHiAIFiIgDBYiIAgWIiAEGCQgEhgeIBIWICAYGBogDBYkIAgYJiAYGhwgDBgkIAQaJCASGCIgFBogIBAYJCAQGiIgChomIBQaIiAUGiIgEhgmIBQaJCAIHCQgHBwcIBQaJCAQGiYgBBwoIAwcJCAaHB4gFBomIBYcIiAMGiggHh4eIBAaJiAWHCQgCBwmIBYaJiAKHCogAB4qIBoeICAYHCIgFBwmIAwcJiAQHCggHh4eIAgeJiAEHiogFhwmIA4cKCAKHiogHh4eIBweIiAaHiQgFhwoIBgcKCAgICAgGB4oIBgeJCASHiogICAgIBogJiAaHiggIiIiIBIgLCAaICogFiAqICIiIiAiIiIgCCIsIAAiLiASIiogHCImICIiIiASIiwgGiAqIAAkMCAeIiggGCIqIBQiLCAMJC4gJCQkIB4iKiASJC4gJCQkICAkKiAmJiYgGCQuIBwkLCAmJiYgFiQwIAwmMCAYJi4gIiYsICgoKCAiJiwgKCgoICgoKCAEKDQgGCgwICgoKCAkKCwgEigyIAoqNCAqKiogJCguICQqLiAmKjAgLCwsICYqMCAULDQgLCwsIAouNiAcLDQgLCwuICIsNCAuLi4gLi4uIB4uNCAgLjYgKi4yICYwNiAAAAAAPr6+vr6+vr6+vr56ebm5ubj5eXm7ff6+vr6+vr6+vr6+vr6+vr6+vr58bIYFREiIiQeFQ8Qne36+vr6+vr6+vr6+uPj4+Pj1r1JGg8LCx4iIhgPBQsLHbjZ4+Pj4+P6+vr64+PJ1qYiIg8QJIW5opB3UU4+FA8PEC+9ycnj4/r6+vrj48kBCgwMOUshJiBPGRkSIEgZTEQVCwQByePj+vr6+uPjuAQQVmYuKaCSaHCpbCB7oA0SBkY5FQi44+P6+vr64843E0RaPReKXDOsSCmsyylfDXt7F15EEUnZ4/r6+vrZQR1OZyMrkxKH0dEzqTFP2C60IDENMYBEFY3b+vr6+rgvND0uZcOvky6wiVngqUzrgLM/yrQNJzg5Gn33+vftIk5YOhtAnqqqtXgnnG4/yjjK7KEpiiAXMadKGuX5+t5OJWmvhn4uS4y1vi7FdWO3Y2j1f5wpEkPAl1ZB2/r0gy82dNCqvJgySzKCKzzg53rV7Efre5JGgasxeTd29OZEHVtpla+ar8bGgisfVzLzkYBP67AxW8+lRydTDzfp5kQUYlnXtaqjqrWoVTqLUlKJ61uhLjjFkUOnjjURNObmSh2ETMbDr6qqtddSmDy/lC6G3X55Eno93LEXIRU05uZKFHxQZVXGwzxFPCjaG+R+IUvuSzZmMtyRJiFdHjfm5k4FW1hMMjKCx5ZhRUWZ95Q88lKkuksreBcxMn8FRObmVgksQ9RDMmLf1N/TXdLSmW3khvK/hmASEhtiNgVK4+1UEAWVOnSOb/boz9NQbc2umeR+mZmUOjx8fCMFCVbj9IMtBQyff8Ay/vzYzF2LzXnk0mDawisbIS44JQUYjfT52VQUBXk6LlP++/bMcqRg7uR58r/qpFk9XkwMC0re+vrxZC0QJH/FiJXc+OF/v/La5O7vi0bin2lHFQw5g/f6+fm4VhQaOWJHwMBrUs39wpTucup4WV61NiQFFCTB+vr6+tlUhSIeRG22bnx8Y5Pi8IJ4n2tzYjYVCw8dfd76+vr648hJrR40SlFXiLaXj4eEcnyAc0saFRUVN2Tb3vr6+vrj47IIojBKTlFOTiIqQjs5MCQtIh4RGDcOvePj+vr6+uPjyQEDonFOSkoeESQwMDAkJCIeGjROBwHJ4+P6+vr64+PJAAACFo1WRBgtLSIaGhURHi80HAIAAMnj4/r6+vrj48nOycnBnXFqcU5WVE1BLU1Ug6bBycnOyePj+vr6+uPe4+Pj4+Pj29bOyMHEyMHE1tne4+Pj4+Pj3uP6+vr3+vr6+vr6+vr6+vr5+fn5+fn6+vr6+vr6+vr6+vf6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vo"
+}

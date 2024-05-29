@@ -1,0 +1,28 @@
+{
+    "id": 4141,
+    "strings": {
+        "name": "Pro-Ether +1",
+        "article_type": "A",
+        "singular_name": "pro-ether +1",
+        "plural_name": "pro-ethers +1",
+        "description": "This potion instantly restores\na lot of MP."
+    },
+    "flags": [
+        "MysteryBox",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 12,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgaXRlbTAwNDUoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAYGBiAGBgYgBgYGIAgICCAICAggCAgIIAoICCAMCgogDAwOIA4ODiAQDg4gEg4QIAwQEiASEBAgDhASIAwQFCAUEBIgEhASIBQSECAQEhQgDhgKIAwWDCASFgwgFBISIBYSFCAUEhQgDhgMIAoYDiAMGAwgEhgKIBYUFCAQGgogEBoMIAwYDiAOGBAgFBoKIAwYECAWFBQgFhQWIBIaDCAOGg4gDBoQIBYUFCAYFBYgFBQWIBQaDCAQGg4gDhoOIBgWFCAWFhYgFBwKIBAaECAOGhAgDBwMIBIYEiASHAwgFBoOIBAaEiAWHA4gGBgUIBYWFiAQHA4gGhYYIBYaECASHA4gDhwQIBQeDCAYGBggEhoSIBgcDiAUHA4gDh4QIA4cEiAYGBggFhgaIBYeDCAUHBAgGhgWIBgcECAWGhYgGhYaIBgeDiAQHhAgFBwSIBgYGCAcGBggFh4OIBoeDiAQIA4gGBgYIBQeECAWHhIgHBoWIBYeECAcGBogEB4SIBoaGiAYHBQgFh4SIBoaFiAaIA4gHhgcIBYeFiAcGhggFB4UIBoaGiASIBIgGCAQIBocGCAYIBIgGiASIBoeFCASIBQgHhocIBYiECAWHhggHBwcIBwgECAWIBQgGhwaIBggFCAYIhIgFiAWICAcGiAcHBwgGh4aIBQiFiAiHBwgGBwgIBoiEiAYIBYgHhwcIB4iFCAcHBwgGiAWIBogGCAWHCIgIB4aIBwiEiAYIhYgFiQUIBogGiAgHB4gHh4eIB4iFiAYHCAgIh4aIBwiGCASJBYgGiIYICIcHiAeHh4gHCIWIBYkGCAaIhogHiQUIB4iGCASJhYgICAeICAeHiAkHiAgHiYUIB4kGCAaJBogFiYYICAgICAaIhwgEigWIBgeJCAeJBggIiAgIBomFiAiIhwgICYUIB4kGiAUJhggHiIeIBgmGiAcJBwgICYYIB4kHCAUKBggFiYaICAgICAaJhwgICYaIBYoGCAkIiAgFCoYICAmHCAcJB4gGigaIBwgJiAgJB4gIiIiIB4oGCAkJCAgJCIiIBwmHiAeJiAgIigYIBgqGiAULBggIiQgIBooHCAiKBwgICYeIBYqGiAkJCQgJCQiICQqGCAeIiggHiggIBQsGiAkJCQgGiwcIBwqHiAkKB4gICggICQoICAmJiYgHCweICYqHCAWLhwgICgiICAqIiAkKCQgJiYmIBYuHCAaLh4gIigkIB4sICAqKCQgICYsICgoKCAoLCAgIiokICgoKCAiLCIgIiYuICYqJiAqLCIgJCwmICIuJCAmLiggLCwsICguKiAsLCwgKjAsIC4uLiAsMC4gMDAwIDI2NCA0ODQgPv7+/v7+/v7+/v7+/vv5aGZmZmZ3vv7+/v7+/v7+/v7+/v7+/v7+/v7+/n3LGuhM2NxQRQbkeX7+/v7+/v7+/v7++zs7Ozs7OzsYktLlZqVq7Wvr9RlYlvs7Ozs7Oz7+/v77OzExMTExCwgiKuImqvKkoaGteDgKD6hxMTs7Pv7+/vs7MQAAAAGUpWamoZwg513PEdZnp7tYAwCxOzs+/v7++zsxAAABlakiIZ6UG2eU1MlJTRZnpLzpwyZ7Oz7+/v77OzEAAMNw8V6XVg6HxZEWDQ0RGaenprzkT7S7Pv7+/vs7MQCBrLQlWQ6Oi8vGDxwR0QvU4yens/zKGvs+/v7++zsxAML5LZoMEI6TkgvOUhIKTxHU4yrsNuhYpH7+/v77OzEBUvydTVCXG96SEQWL3BTLzxfg7W7v89FYvv7+/vs7MQGrPJ1VVV4hG9cIiIiSG1fOSlYo7XFpK5b5fv7++zsawnH5EY7hI2leFUcIjpOX19tSDCasL90zROZ+/v77OxrC72yO0altLR4HBwqP0JCTk57b6Swu4jdLYf7+/vs7D4S048kasjcwDYXIzA/MT8/ThpdsL+gidNSfvv7++zsLBq9eSR84ui0IyM2MTEeIloaVXGXtpc302B++/v77Ow+Gt6gOJz4+rQ7K0MdFyMqMVpaWo6XeDFuZ377+/vs7EUarKA7wPz+4js2QyMdHSMxSVpsjq2NNqxgkfv7++zsRQ2YoCTJ///WfDsmJiYjKzFJVGyOwXg4mCCZ+/v77Ox2C3OgJo/89vXRvqmfn5YrJkphgNazaFGQYuX7+/vs7KEJoqBKzu7jzqnX19fM4ebRuKXo9JthZWtW+/v7++zsxAdioLi4y868lrepzMzm4efp7vbucnWYIFv7+/v77OynCWVXl7O8prGfn5+3zMvZ3+nw9NZ/xmBWx/v7+/vSfiwZT08sID6Jpryfqbe8y9/f9eO0uqKFRYfs+/v7+1sZaX0ZMicUMiAgLEV1nKXL2trAqLrcxi0z2Oz7+/vSRdOUfa7qTw8UGSAaLUBSc6Cga4eFrHMgB7ns7Pv7+2InlAoKCr39vQ89Gn6gx+Lo2MeshXNADAgAxOzs+/v7a0sVExUVDmv3PYuFhZiQkHOQVyATCQcEAADE7Oz7+/trLarV1S4VCpSLGQcJDAwJBwcFBQQBAAAAAMTs7Pv7+2suqtXx8REOlF4yPpG5ucTExMTExMTExMTExOzs+/v70j6CisLrDhWUJ2vs7Ozs7Ozs7Ozs7Ozs7Ozs5ez7+/v7p3ZMgoI+aTLe+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v5uX5+fod+5fv7+/v7+/v7+/v7+/v7+/v7+/v7+/s"
+}

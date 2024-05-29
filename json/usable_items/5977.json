@@ -1,0 +1,30 @@
+{
+    "id": 5977,
+    "strings": {
+        "name": "Ulbuconut Milk +1",
+        "article_type": "A",
+        "singular_name": "bowl of ulbuconut milk +1",
+        "plural_name": "bowls of ulbuconut milk +1",
+        "description": "This milk tastes even creamier than\nusual, despite the only difference\nbeing that the ulbuconut in which it\nis contained was cut cleaner.\nVIT-1 CHR+4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTk3NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQEDCAEBgwgBAYMIAQICiAECAogBAYOIAgIDCAECAwgBggMIAQIDiAGCAwgBggOIAYKDCAECBAgBggOIAgKDiAGCg4gBgoOIAgKDiAGCBIgBgoQIAQKECAIChAgCAoSIAoKDiAIDBAgBgwQIAYKFCAIDBAgCAoSIAgMECAIChIgCAwSIAYMFCAIDBIgCAwSIAgMEiAIDBIgCAwUIAgOEiAGDBYgCAwUIAgMFCAIDBQgCAwWIAgOFCAMDhIgCg4SIAoOFCAKDhQgCA4UIAgMFiAIDhQgDhASIAoOFCAIDhYgCA4WIAoQFCAIDhggChAUIAoOFiAKDhYgCA4WIAoQFiAIDhggDBAUIAoQFiAKEBggBg4aIAoQGCAIEBogDBAYIAoQGCAKEhYgDBAYIBASFCAMEhYgChAaIAgQGiAKEhogDBAaIAoSGiAMEhYgChIaIAoSHCAIEhogDhIaIAwSGiAKEhwgDhQWIAwSGiASFBYgDhQaIA4SGiAMFBogDBIcIAoSHCAQFBggDBQaIAwUHCAMFB4gDBQcIA4UHiAMFBwgFhYYIAwUHiAKFB4gDhYeIAwWHiAOFh4gFhgaIBAWHiASGB4gDhggIBAYICAQGCAgGBoaIBQaHiASGCAgGhwcIBIaIiAYGh4gHBwcIBocHiAUGiIgFBwiIB4eHiAYHiAgGh4iIBQeJCAWHiQgHh4gIBoeJCAcICAgFh4mICAgICAYHiQgFh4mIBggJCAcICQgIiIiIBggJiAaICYgIiIiIB4iJCAiIiIgGiIoICAiJCAcIiYgGCIoICQkJCAgJCQgGiIoIBwiKCAaIiggJCQkICIkJiAcJCogJCQkICYmJiAeJiogHCQsIB4mLCAiKCYgHiYsICgoKCAmKCggHiYsICQoKCAiKCwgKCgoICIoLCAgKC4gJCgqICgoKCAmKiogKioqICQqLiAgKDAgKioqICYqKiAiKjAgJiwqICIqMCAsLCwgLCwsICAqMiAoLCwgJCwwICwsLCAqLiwgJiwwICguLCAiLDQgKCwwICYuMiAuLi4gLC4uICowLiAsMC4gLjAuICwwMCAsMDIgLjAwIC4yMCAmMDYgMDAyICwwNCAuMjQgLjIyICgyNiAwNDIgLjQyIC4yNiAwMjQgKjI4IDAyNiAuNDQgLDI4IDI0NCAuMjggKjQ4IDA0NiAyNDYgNDQ2IDI0OCAuNDggNDY0IDI2NCAuNjogNjY2IDQ2NiAuNjogMDY6IDY4OCA2ODggMjg6IDg6OCA0ODogNDg8IDg6OiA6OjogOjo6IDo8OiA4PDogOjo8IDo8OiA8PDogPDw8IDw+PCA8PjwgPj48ID4+PiAAAAAAMbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGurKwrLCwsrW/xsbGxsbGxsbGxsbGxqenp6enp6egkXlNOzsxKTFDTWqOoaenp6enp6fGxsbGp6GTk5OTfDcpJiIYJBIODAwRGjBqgJOTk5Ohp8bGxsanp5MAAAEcIiQgHhISDhIODA4RERpLBgAAk6enxsbGxqenkwABHCQeIB4SDg4OEhIREg4OFBhUCQCTp6fGxsbGp6eTARMrIic4JBgYGBIUGBgSEgwOGA1DBZOnp8bGxsanp44KQCYfM0EsJywnJB4eHiAYEhAQEA09gKenxsbGxqengDkmIh8mNDQvNC8sKSQgIB8fHxAQBBRdoafGxsbGp6FdIyMZHzM0NCwzNC8vLCcnJS00JRAEAjCOrMbGxsaskSwVIi8nLz80LzQ4OD4vLycmLT4nFgcCGnCgxsbGxqFqDw86RDg+ST44Pj8/RD5BRC0vNCshIgMIW4nGxsbGnTALHz4+QEBEP0Q/RD8/RUlgRUBKQS8mDQRNdsbGxsaYKSIrRElARUxHSUlFQTpKYW5VUE9TQCgPCztjusbGxpgwIytBSUxMTEdTTEdHSlNlb2JWVVVFLh0VGVuyxsbGhzs2OUdRWVNYUlFRUVNnaW1cZ2xiWk88Kh0hXrDGxr99TkpKZFlTU1lZU1VSVWVzc2dnZ2tsV0IuKCherMbGuo1jTEJTWVlcZW1vZWthZW5vbWVIWlc6Ni4uRXKsxr+6kntkU1lZYGd1iKm3rqSjmouEdWJVSjk1RkJljLDGv7uShmRhYWdxmrnZ6+7w6+fUvL6zpopEQEhISHiNtcbGv5WQdGlxdY/F5/Dv8PDy9vbx6uTcuYZcT1VmlIe6v8bGoYeLb36339vl8/r4+fr5/P779vDeuX9oaHqvhb/GxsankZB6g9/0y8rs+/v7+/v8/fz49+PctHFtm6+RxsbGxqehdpt6zPTAuNbm7Pv8/fz9/Prv2ODPfozRhaHGxsbGp6eFgpSb9M2lyM7T5vX4+/rz8t3Q7cOLwZ6Yp8bGxsanp5MBq4/E78u2wrGqx8vJ3dPNzejhrrTRfKenxsbGxqenkwABq4yt4+nWyLi9vcfT1eL02K600QGTp6fGxsbGp6eTAAABloqt0tba2NrSzuPhxJqLpKgBAJOnp8bGxsanp5OTk5OAfZ+il5yXj4iDl5yUm4d8hZOTk6enxsbGxqenp6enp6ehlYmBjJ+Md4GelZGdoKenp6enp6fGxsa/xsbGxsbGxsbGxrWwrLCwuru/xsbGxsbGxsbGxr/GxsbGxsbGxsbGxsbGxsbGxsbGv8bGxsbGxsbGxsbGxsY"
+}

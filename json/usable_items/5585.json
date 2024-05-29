@@ -1,0 +1,30 @@
+{
+    "id": 5585,
+    "strings": {
+        "name": "Ic Pilav +1",
+        "article_type": "A",
+        "singular_name": "plate of ic pilav +1",
+        "plural_name": "plates of ic pilav +1",
+        "description": "Just looking at this delectable plate\nof ic pilav makes your mouth water.\nHP+14% (Max.70) STR+5 VIT-2 INT-2\nAttack+22% (Max.70)\nRanged Attack+22% (Max.70)\nHP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU4NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAIGIAACECAKCgogCgoKIAoKCiAICgwgAAgaIAwMDiAAChggCAwUIAAOGiAMEBIgABgMIAAOHiAADiAgABAcIAAMJCAQEhQgBhIaIAASHCAAEh4gABAgIBIUFCACFBggABAmIAASICAOEhogABoUIAIUICAAFCIgABImIAAWIiACFh4gFhYYIBQYGCAUGBogABQmIAASLiAWGBggAhYkIAAaHiAAHBwgABgmIBgaHCAAGiYgABooIAAcJiAAFjIgBhomIAQYLCAaHBwgGhweIAAYLiAAIB4gACQWIAAcKiAcHB4gAhgyIAAWNiAeHh4gGB4iIAAgJiAEHC4gAB4qIAQeKCAeHh4gACYcIAAcMiAQICQgCh4qICAgICAAHi4gBBwyIAYmHiAeICIgGCAmIAAgLiAAHDYgHiAiICAgICAAJCggACAwIAogLiAeICQgIiIiIAgiLCAAHjYgBB40ICIiIiAAIDQgCiAwIAAiMCAgIiQgJCQkIAImLCAEIDggBiQuIAAiNiAEJDIgJCQkIAImLiAAJjIgJCQkIAgmLiAIJDIgAiooICImJiACKC4gJiYmIAAkNiAmJiYgBiYyIAAoMCAGLCggJiYmIAAsKiAAKDQgCiouIAYoMiAoKCggJiYoIAYqMCAAKDYgACY4IAAqMiAMJDggACg2IAYoNCAAKjQgKCgqIAouKiAmKCogCCoyIAAuMCACKjQgACo4IAQuLiAoKiogJiosIA4qMiAILDAgAiw0ICoqKiAIKjYgBCo4IAguMCAQLDIgACo8IBIsMCAELjQgDi4wICoqLCAALDggKiosIAouMCAAMDQgLCwsIA4wLiAELDggDCw2IA4uNCAILjQgCiw4IAIuNiAqLC4gKCwuIAIsPCAsLC4gADI0IAIwOCAMMDYgEi40IAIwOCAKMjQgCDA4ICwuLiASLjggBDA6IC4uLiAOMDYgADA8IA4wOCAGMjggADA8IBYyNCAEMjogLC4wIBgyMiAMNDYgEjA6IBoyNiAIMjogFjI2IAY0OCAKNDggEDQ4IAY0PCAuMDIgFDQ2IBA0OCAUNDogDDY2IAo2OiAuMjQgEjQ8IA40OiAYNDggEjQ6IBA2OiAwMjQgEjY4IA42OiAMODogHjY4IBY2OiAQODogDDg8IBw2OiAwNDYgIjY6IBo2PCAWODwgDjg8IBo4OiAYODwgEjg8ICQ2OiAYODwgMjY4IBY4PiAaODwgFDo8ICY4PCAeOD4gIjg8IDQ4OiAeOjwgHDo+IBI8PiAYPD4gNjg6IB46PiAiOj4gKjo8ICY6PiAiPD4gODo6ICQ8PiAiPj4gMDw+ICg+PiAuPD4gOjw+IDo8PiAAAAAALOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs3h4eHh4eHh4eHhzbWRkZGdvc3h4eHh4eHh4eHizs7OzeHhZWVlZWVlHOTxLVF1USzMzOVBZWVlZWVl4eLOzs7N4eFkAAAMFEk+EsOz+/v7+7NJUDAYEAAAAWXh4s7Ozs3h4WQAFJ5rS7P7+/v3+/v3+/v7+XSQGBABZeHizs7OzeHheBk/G/v7+/f7s0piY0tLS/v7+5agMBVl4eLOzs7N4eDO7/v7+/ux+IQIwCTgwNToCmNL+0swkPHh4s7Ozs3hCu/7+/p8lIVzFYGk4e1eQHhkPAV3l8dIjWYKzs7OzUF3+/v6fNSpEyUTFo3sdLmMlET8ZCj2Y5cYbZ7OzqI9L2/7+SDK2Ya5JdmFWbjUcOFJcERBIHxuY27sss7Ozbdv+/qdhn3BGU7+VW3cxCxUrUXuRJjstIBul0jyPqIJd/v7N2Su2vSkTrL+Tk1agkDscr1xNH1wZPgm7i1mzVaX+/qf6rKHPcKDR3NCFQbd8f2avfwc4ex8vC6XGPKhV0v716N/e9OPeoNbRoEqFpMWZHlxISCUUKR8VgsZUmF7S/s3z6Lrm4Nrc6t7dg5/AmZlAiE4oFhkOED4axnmPeOz+n+f87/jug0Pn5PXXk8HeQBhili9NByh7KwnGb49k0v6+7vLy8u7m6tTy9Z/Yn8iftHWfzkgoOM4aC8ZUnV7G/vPN/O2yz/L6n8rt5/rhyMnOn4xXHQcrGhpFxlWoj4L6/rH7/NO84OrdxNfh9ceutMKcX19XHl8aL9ulZ7Ozb6j+fuf57uuXufq9w7TX4Il0kpuFtzh7h19M2yyPs7OdWez+oPb5+NbqnptlWnyJdGyXx6uOgTiiTduCQrOzs7NZmP7+zfn1+s7Ujal1fRx94quGUTiOr2jsiyxts7Ozs3hQmP7+tvvdtMutdeEgNjeH1WoNOJaA8bsjXnOzs7OzeHg8mv7+uLHPkOK1lHxxw8PVX3J6WP7GNEJ4eLOzs7N4eFkFT9v+zbi218Sqrp7dw6JiKZ/G2ycEWXh4s7Ozs3h4WQAEIor9/umquGKqX2WkX+n+22sIAwBZeHizs7OzeHhZAAAABBeK9/3+/v7+/v7xpjQIBAAAAFl4eLOzs7N4eFlZWVlZWVBCQl55gnlkRzlCVVlZWVlZWXh4s7Ozs3hzeHh4eHh4eHh4b29kZ21zeHh4eHh4eHh4c3izs7Oos7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs6izs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7M"
+}

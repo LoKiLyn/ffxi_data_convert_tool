@@ -1,0 +1,25 @@
+{
+    "id": 3069,
+    "strings": {
+        "name": "MMM Soup +1",
+        "article_type": "A",
+        "singular_name": "bowl of Maze Monger soup +1",
+        "plural_name": "bowls of Maze Monger soup +1",
+        "description": "Prepared by the finest Moblin chefs\nin Movalpolos, this hearty soup gives\noff a rich aroma of exotic spices."
+    },
+    "flags": [
+        "Ex",
+        "NoSale",
+        "Rare"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgMzA2OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAYIIAIGCCAECAogBAgKIAYIDCAGCAwgBggMIAYIDCAGCAwgBggMIAYIDCAGCAwgBgoMIAYKDCAGCgwgBgoOIAYKDiAICgwgBgoOIAoKDiAGDA4gBgwOIAgMDiAGDA4gCAwOIAoKEiAIChQgCgwOIAoMECAKDA4gCAwQIAwMEiAGBiIgCgoUIAYEIiAIDhIgCgoWIAYKGCAIDhIgBggeIAwMFiAGDBYgCg4SIAwMFCAKChggBgoaIAwOECAKDhIgCgwYIAgIHiAGDhYgCgwYIAwMFiAKEBIgCAYkIAwOFCAMDBggDAwaIA4QEiAKEBQgCA4WIAoKICAKEBQgCAoiIA4OGCAMDBogCgwcIAgMHiAOEBIgDBAUIAwMGiAGDhggDAwcIAoQFCAMDBogCA4cIAwQFCAMDhogDAwcIAwMHCAODhggDg4YIAoKIiAMEhQgDBAUIAgOHiAKDCAgCBIWIAwOHCAICCYgChIWIAoQGiAMDB4gCgomIAwSFiAMEBggCg4cIA4SFCAODhwgDg4cIAgOICAOEBogDg4eIAwMICAMDCIgDAwkIAwSFiAODhwgCA4eIAgMIiAOEhQgDBIWIAwQGiAMEhYgChIWIA4QHCAKEBogDBIWIA4QHCAODiAgEBIUIA4SFiAMEhYgDA4iIAwMJCAKDCQgDBIYIA4OHiAMDCQgEBAaIBAUFiAMEhggDhAeIAoQHCAODiAgDAwmIA4UFiAMDiQgCgwoIA4QHiAQEB4gDBQYIAwQIiAMDiQgEBQYIA4UGCAOEhwgDhAiIA4OIiAQEB4gDBIcIBAQICASFBggEBQYIA4UGiAODiYgDAwoIBAQIiAOFBogEBAgIAwOJiAODiYgEBQYIBASHiAOFBwgDhAkIBAWGCAOFBwgEBQcIBISICAOEh4gDg4mIA4WGiAQEiIgEBAkIA4QJiAQFhogDA4qIBQWGCASFhogDhAmIBAWGiASEiAgEBQeIBAWGiAQEiQgDhImIBYYGCAUFhogDhYcIBAWGiAQFh4gEBYeIBIYHCASFCQgEBIoIBAYHCAUFCIgEhImIBAWICASGBwgGBgaIBQUIiAQGB4gFBgcIBIUKCAYGhogEhoeIBAaHiAYGhwgEhggIBIaHiAWFiQgFBYmIBYaHiAYGhwgFBoeIBIaICAaHBwgFhoeIBYWKCAUHCAgGBgmIBIcIiAYHCAgGhweIBYcICAUHCIgFBwkIBYeIiAYGCogGh4gIBgeIiAUHiIgHh4gIBgeIiAeICAgGiAiIBggJCAaICQgICAgIBoiJiAgIiIgIiIiICIiJCAcJCggJCQkICYmJiAmJiYgKCgoICgoKCAqLCwgLCwuIC4uLiAAAAAAP7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/vr6+vr6+vr6+vr67bOzs7OZs7zz+vr6+vr6+vr+/v7++vn09PT09O3POxwcHh4eHh4vHBw7vPT09PT5+v7+/v76+vQACQoNBQ4QERISBxYFBQcIEg8IBQYB9Pr6/v7+/vr69QkMDg8OE1WOdomxv6OSXzYZEQ4OCAvx+vr+/v7++vrrDRcVe5/e4+zj4Orm6tSap4lfTTAPB0X5+v7+/v778UUXcJLZ8PDp6ezjxXJycrnJ1MJ6YlUEHrP5/v7+/vlvVJLZ9u/p3NfBpZeGdVxcXGByv7G5X3IrGfX+/v7+ykaJ0OnJ3Jt1SExlbW5+bmFhTDMzjpLCem8nRf3+/ftimtC/yalhVn6PpqGdnYGBnJ2Ibm5cKnK/vXkf9f79vZrJwrlgbbvEprWinIhpOjqKsot+Wl5MJpu2s1S9+9hfsdSSYIeUr6+wsKysfVAxgZChi15aIyMuJr+/kUXzO5rRuWurppR0nqaioqyw586VkJB+U0BAISFMPbaap4M2o8lfUa6UnsaNUbWiiJycnJyKipQxLT5XMigqX9G0HmK/v01xjZiuxmbL3bCKipyikIq6KzUxJUk+MjRzrbRvvdCfPKCMmJigmMPHsIqKiop9ldYvOEEaG11EPmuJmZG9uZJKlmxsT2RkoK6VaHyvfGhoeI2Njaq3T1Bk0F+xYm+aiYSkd2SAOmSMgENdQ3h4Z11dSWxklpZkZ4zmdrFNkaOSc6iqWcZLWWNZUElPUF1JUElPdxspSzqAwfCfdi/Sa8xYk7djhWxOS0tPT0lPZKRZS06CIFJOT0K48LaSz+t6uYQ2qIVjMTk5S05jhU5SLEE5NR01UnfVcebjv0b5/KdrrU1bqFI5MTlCR0djdBQgKTEpKUd0y3Ha8syOs/7++XqaiUZ/qGaNlkI5OUc1ICApNWOWxnelyOzwjkb7/v794npUuVRNv5Ok32x3OWZBdKS3haTB0cXj8r5Kz/7+/v74vU1fa2sna0bg5dO4yMjA09rk4MW22e6fSr35/v7+/vn3pzBrX1U2GTafrb7Ajra+hFtf1+jUhHC9+vr+/v7++vrtJD8rTVVrVHZvmqefo6O92eHJjlQYAvT6+v7+/v76+vT07dtFTVRUYnqJkbGaibSnel952PH09Pr6/v7+/vr6+vr6+vf16+KniZK9tLTSyu3t9/j6+vr6+vr+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v4"
+}

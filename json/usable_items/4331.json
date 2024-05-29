@@ -1,0 +1,30 @@
+{
+    "id": 4331,
+    "strings": {
+        "name": "Imperial Omelette",
+        "article_type": "An",
+        "singular_name": "imperial omelette",
+        "plural_name": "imperial omelettes",
+        "description": "This fluffy San d'Orian omelette has\nbeen cooked to perfection. Even the\nking himself would be pleased.\nSTR+5 DEX+2 INT-3 MND+4\nAttack+22% (Max.70)\nRanged Attack+22% (Max.70)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMzMSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAKFA4gChQQIAoWECAMEB4gDBYYIAwSICAOFCAgDhQiIA4YFiAOFh4gDhgcIA4UIiAaGBggEBoWIA4aGiAQFiQgGhgaIBAWIiAQGhwgEBgeIA4WJiASHBggGBoaIBAYICAQFiQgEhgiIA4cGiAUHBggFBggIBoaGiASGCQgFBwaIBgaHCAcGhwgFBoiIA4WKiAcHBwgEhokIBQaJCAcHBwgEBomIBIYKCAUGiQgHBweIBocHiAWHCQgEhooIB4eHiAUHCIgEhgsIBgeHiAUIB4gECAeIBIcJCAWHCYgEBguIBQaKiAeHh4gHB4gIBQcKCAYHCYgEhouIBwgICASICAgICAgIB4gICAcICAgFBwqIBgeJiAWHiggEh4oIBIaLiAeICAgICAgIB4gIiAYICYgFB4oIBwiICAaICYgICAgIBIiIiAUHC4gFiAoIBgeKiAWHiwgHiAiICAiIiAUHC4gHCAoIBIcMiAWHi4gHiIiIBYgKiAcIiQgGB4sICIiIiAeIiQgIiIiIB4iJCAWIiogHiQiIBYeMCAgIiQgGCImIB4iJCAUIiogIiIkICAkJCAcIiYgHCIqIBgiKiAeJCYgFCQoIBYeMiAaJCggGiIsIBYiLCAgJCQgJCQkIB4iKCAgJCYgIiQmIBYmKCAUJC4gICQmICQkJCAYJCwgIiQmIBwkKiAWJiogGiIuICYmJiAeJCwgGCQsIBwkLiAkJiYgIiYoIBwkLCAaJiwgJiYmIBomLCAYJi4gJCYoIBomLCAgJiwgFigsICIoKCAaJi4gKCgoICImKiAcJiwgKCgoICQoKCAYJjAgHigsICQoKCAaJi4gGCYwICgoKCAkKCogIiYuICYoKiAeKCwgGigwICgoKCAmKCogHiguICQqKiAmKiogJCguIBgoMiAcKDAgKioqIBooMCAoKiogHCoyIBoqMiAqKiogJCouIBoqMiAoKiwgICowICgqLCAsLCwgIiowIBoqMiAoLCwgHCoyICosLCAoLC4gGCwyICQsMCAeLDIgHCw0ICosLiAsLCwgKCwuIBosNCAqLC4gIiw0IB4sNCAcLDQgLi4uICYuMCAqLi4gKi4wIBouNiAuLi4gHi42ICwuMCAeLjYgHi42ICwuMCAgLjYgLDAwICowMiAcLjggLDAwIBwwOCAsMDIgHjA4IC4wMiAcMDogLjIyICwyMiAuMjIgHDI6ICwyNCAcMjogLjI0ICIyOCAcMjogMDI0IDA0NCAsNDYgIjQ6IC40NCAwNDQgLjQ2IDA0NiAkNDogMjQ2IC40NiAyNjYgJjY6IDI2NiAqNjogNjY2IDI2OCA0ODggMjg4IDQ4OiA0OjogNjo6IDY8PCA4PDwgM/Pz8/Pz8/Pw6x2g56ksaSkpIN9apest8/Pz8/Pz8/Pz8/Pz8/Pw6yDDCQrPkp5lI55Zko5Jx0Qg7fPz8/Pz8/Pz5SUlHZJEC9gjrzU1tvb39nMxrabm2JWHU+DlJTPz8/PlIs5Lyx4ttvv7+3t8/X17/Ht4eHf0ah4KyuUlM/Pz8+LQCGHvO/x6dnUxsK8tKi0rrquzF3p4daYQlZ2z8/PykArktTl4d2hh3+bf3WYh3lmZmtfX6G62dm8YFa3z899L7zW5duDZmKOvNHW29vd2dHGtpibYkpqvNa2VZ7PpCuu1N/Ca3i22+/5/v3+//VlWXH38/XRqHxWwtS0Sp52g8LGanzU7/v//vz9/Pn4zVdZbff39/H14Y5CusKYiyGovEGY4fv9/P79/frs5dvbxNfl7fHx8fH388xgoaVBeKUvwuj5j6b68u7g17KgkISgoL3E5eno6e/t88ZVrmB/K67x+uyBv+rXuF5TWlFaWlFUVF6EiNnp6enp+ahKdWt86fjt9ePLhjsZGR4PBRgYKTFHNyk7Tqflv3Ci4Y5/Ia746ejLiRkZEQYeRkxMGQUGBRQ4Nz0jLae/j5rotkF/4d/guDU1RYWMdGmMioqFhWMoCwUYMUcuTqfh4eHZYqXl35ZujJOjs7mNjbmzubmtnGmFXAsDKTcplc3l3+GolanNfpyju8jS2NzY0NPe2Lm7dHSKih4HLjFEst3b3bQ2PW1+ubud3OLk8PTw9vTr5tK7u62FjFwDLi2Vxtbbxlg2kImryJmq5+fn4uLi3ubr5N7Q0qOTjCUGD4i22dnMur3foICjr7m5xbCwwdLa3NOBztjc0qOKhQYRfHdXVK6hwta9fF6cs7vB09PV3OK+UBpwkd7cyZx+LRx4WD0qpXauvNt8bzBUc0WvwNDT1T9QNHDJxeTTo3RuCXzRlZuHJHW60ZIyTRIBAQQTEzuC0IG7geLYxbl7hY8XqMK0m0mDSZu60U1gDQIEIhIIJg8PJZzH0t7a0sGZj0uauqVgYbFhW6VyZxsVHwgBF0MKOC4YCxGatdLS07uWY66fYH+xz4NPYGwzjrZNAgAfPC08KB4ZCQYiS6bBwYljh1snlM/Kz185TWKYjhuOZA1CaGhob29vb3xnUqOzY2xKVl/Pys/PlGorHUp1XWSlqBsbTjyIpaGlpZhdS11dSCR9lM/Pz8+UlFYnHSdKTWh4eIcmJpiHdXVrYEo6OiQrT5SUz8/Pz5SUlJSUYTk5ECAsSjo8PjosFhA+QUFqi5SUlJTPz8/Kz8/Pz8/Pz8Oei3ZVaiQ5X1Zqi5fPz8/Pz8/Pz8rPz8/Pz8/Pz8/Kw8/Pz8/Pz8/Pz8/Pz8rPz8/Pz8/Pz88"
+}

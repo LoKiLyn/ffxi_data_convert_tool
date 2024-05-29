@@ -1,0 +1,30 @@
+{
+    "id": 5732,
+    "strings": {
+        "name": "Ratatouille +1",
+        "article_type": "A",
+        "singular_name": "plate of ratatouille +1",
+        "plural_name": "plates of ratatouille +1",
+        "description": "Marvelously stewed, masterfully\nseasoned, perfectly chilled ratatouille.\nAGI+6 Evasion+10\n\"Undead Killer\"+10\nHP recovered while healing +3\nMP recovered while healing +3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTczMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAYGBiAGBgYgAgQMIAYGBiAGBgYgBgYIIAgICCAGCAogBAYOIAYKBiAGCgogAAQYIAYIECAGCg4gCgoMIAIGGCAKDgogCgwMIAYKFCAMDAwgCAoSIAwODiAEBh4gCg4MIAYKGCAIDhQgDBAOIAgMGCAECCAgBgoeIAgOGCACCCYgCAwcIAwQEiAGCiIgDhASIA4UDiAGDB4gDBQQIAYKJCAKEhYgDhQSIAwSFCAGEBwgChAcIA4SGCASFBQgDBIaIAQKKiAQEhYgChIYIAgMJiAEECAgCBIaIAwOICASFBQgCg4kIBIUFCAOFhQgDBYWIBQUFCAGECYgBhAkIBIYECAMFBwgChIgIAwQIiAUFhYgBg4qIAwWGCAMECQgChAmIA4YFCAWFhYgDBIgIAgOLCAMDiogDhQeIAgSJiAEDjAgDBYcIBYWGCAOFCAgCBIoIAgQKiASGhIgDBYgIBIWHCAMGB4gDBgcIBYYGCAKFCQgGBgYIA4YICAMGB4gDBQoIAwQLCAUHBQgDBYiIBAWJCAQHBggFBgcIA4aHCAMGCAgBBA0IA4WJiAMGCQgEBogIAwUKiAUGCIgGhoaIBYYHiAUHhQgDhgkIBgcGiAWGhwgChQuIBoaGiAOGiAgEBoiIBgcHCAYHBwgEhweIBAWKCAWIBYgDBYsIBYcICAQGiQgEhgoIA4aJiAcHBwgFBwgIA4aKCAYIhYgGh4eIB4eHiAQGCwgGh4eIBIcJiAYHCIgEh4kIBQYLiAeHh4gGh4gIBIcKCAWIB4gFB4mIBwgICAYHiQgHiAgIBYaLCAOHiogICAgIBwgIiAYHiggEBwwIBwiIiAYICYgEB4qIA4eLCAWHDAgICIiIBwiIiAWHi4gIiIiIBIgKiAaICggGiYgIBAcNiAcIiQgEiIoIBgiKCAeJCQgJCQkIBwiKCAUIC4gGiAwIB4kJiAkJCQgHiQmIBomJiAiJiYgHiQqICAmJiAYIjIgJCYmIBAePiAUJiwgHiYoIBokMCAeJCwgFiQwICQoJCAgJiggHiYqICAoKCAmKCggHigqIBomLiAoKCggFiYwICAmLiAgKCogIigqICYoKCAcJjAgIigsICImLiAgKC4gICosIBYoMCAmKiogJCosIBgoMiAWKjIgJiosICIqLiAkKiwgKCosIBgqNCAoLC4gJiwuICosLCAqLC4gJiwuIB4sNCAmLDIgKC4wIC4uLiAqLi4gKC4yICouMCAqMDAgKjAyICwwMCAuMDIgLDIyIDAyMiAuMjQgMjIyIDA0NCAyNDYgLDQ4IDQ2NiA0NjggNDg4IDY4OCA4ODogODo6IDg6OiA8PDwgOjw8ID4+PiAAAAAAObm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5snJycnJycnJycnJtKOamqa0ycnJycnJycnJycnm5ubmybumpqampqaJcFM5OTk5MDBLcISmpqampqa7yebm5ubJyaYAAAIFF1y0zsbGzs7Gu7SVRRcFAgAApsnJ5ubm5snJpgEIRbvg7/H29fPy8u/t7OHVtJUlBgKmycnm5ubmyclwJdzx+Pv79fPs7Ozq7Ofq7e3t4dyRE17Jyebm5ubJhHrz+fz27Ny0i4CW0dHL0d/F1dXl5ezVPpDJ5ubm5oSV+f799uCbMy80Qh01YqKPfZyouMPbzeLsXpDm5uamiPn9+u/qlhQRNl94Uh9JSB4ySUiCm77Fzd/sU6/mu17y+vjt2cRUFBgYJ2yBWDVAqrxRHR1xpKurxd/hkOaJ6vn4+Nm4mDEuHx4pYYyOP2qqay03WDFUlp61teuVr3r7/f362qVILG1AVVZJTHMgGA0tbGmGji9UkauuzeKEu/v79unLRiIbmad5ZGtEQyAECkBQZF1uVDhxm6uz34vn9fbz37JWOha9yKCDkpJzCQdbQz9roG4YRG+LnrPitenu8/fighQUCnnKwaHK3TQETN1MUJnUoCdhZY2uteLD3urz9+oMBwcHCoHP1+OtDxrjz2CDNHhYVYqCnqSz28215fL17J+OaCMJDjN1Iw4WJI+FUlpHk3V/pZ+kq67W2Xrr6fDu6M/XvUcMBAcHCQ9zsV88dMKNRuSim6SrrtOjhOLi5evpxJSZp2YmEgsZHHx4Sj1ZIiF2pSmkq6u16YSai+nZ5eXr2oUqJytXcn5XQYdmWmAqQl8bn6urs8fcyeajxdnN3+LiDwcVPhzFPGOTjmlgeFJbUmeuq7PE8pXm5uaE4tbFzM18GxZZU2NjqbqdQyx4bZawqK6zxOmQzubm5smJ3s3MvsNlTWKB0vTgo+TEMyvC9+S+tb7zi5rm5ubmzsl3w9/NxcPQrazY49C34tK/zcbNvrPM+Hqjyebm5ubJyaYFRdnfzcO+zba2vrm5vsTEx8fM5dUXicnJ5ubm5snJpgABA0XF1tbFxL7HvsS+xM3p6a4QAwCmycnm5ubmycmmAAAAAQMQO5fN3t7T39azeyUGBQAAAKbJyebm5ubJyaampqampqaQd1M+MDA+U156hKampqampsnJ5ubm5snJycnJycnJycnJycnJycnJycnJycnJycnJycnm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5uY"
+}

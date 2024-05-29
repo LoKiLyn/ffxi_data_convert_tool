@@ -1,0 +1,30 @@
+{
+    "id": 5610,
+    "strings": {
+        "name": "Hellsteak +1",
+        "article_type": "A",
+        "singular_name": "hellsteak +1",
+        "plural_name": "hellsteaks +1",
+        "description": "This thick steak of cerberus meat\nremains hot and juicy even if left\nalone for a long period of time.\nHP+22 STR+7 INT-3\nAttack+20% (Max. 150)\nRanged Attack+20% (Max. 150)\n\"Dragon Killer\"+5\nHP recovered while healing +2\nMP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTYxMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAIOIAQECiAGBgogBgYKIAgICCAGBgwgCAgIIAgICCAICAggCAgIIAgICCAKCAggBAgOIBIMAiAMDAogCAgQIAQIFCAACBQgCAoSIA4ODCAKDBIgEA4MIAQKGiAIChggFhIEIBAODiAQEA4gFBAMIAYMGiAaEgYgFhIKIBQQDiAMDhYgFhIMIBAQECAKDhggCgwaIAgQGCAEDhogEhISIAoOGiAKDhwgDA4aIBYSDiAUEhAgEBAYIA4QGiAKEBwgFhQSIAwQHCAWFBIgEBIaIAwQICAGDiQgDhIcIAgSICAIEh4gDhAgIBgWECAaGA4gDhQaIA4SHiAaGBAgDhIiIBgWFCAUFBogChQgIBAUHCAIECYgGhgQIB4aDCAeGA4gFhYWIBQWGiAWFhYgDhIgIBoYFCAGFCQgEhQeIBgWGCAcGhAgGBgWIBAUICAOFCIgHBgSIB4aECAWGBogCBYgIAgSKiASFh4gDhQkIBwaFCAQFCIgGBgYIBoaFiAcGhYgGhgYIAQUKiASFiIgGhoaIBAWJCAcHBYgFhggIBAYIiAaGhogFBgkIAwWKiAeHBggEBogIBYYIiASFiggGBgiIBAaJCASFiogGhwaIAYaKCAcHBwgEhgmICIgFCAeHhogEhgoIBQWKiAWHCIgDhgqIB4eGiAWGCogIiAWIBYaKCAgHhogGBomIB4eHiASGiogFhgsIBIcKCAWGiogHiAcIBYcJiAWGiogChwqICIiGCAeIB4gEBwsIBoeJCAiIhwgFhwsIBYaMCAWHiggICAgIBocLCAWGi4gHiIeIB4gIiAYHC4gFiAqICIiIiAWHiwgFh4uICYkGiAeIiIgDiAuICIiIiAgICYgFiIqIBweLiAaHjAgICQiIBgeMCASIiwgHiQmICYmHiAiJCIgGiIsICQkJCAeIDIgICQoIBYiMCAgJiYgGCQqIBoiMCAmJiYgKCggIB4mKiAgJiogKCogICYmJiAiJiogKCgoIBwkNCAkKiYgHCQyICgqJiAkKCogIigqICIoLCAiKiogIigsIBwoLiAiKCwgICgwIBwoMiAiKiwgHiY2ICQqLCAmLCogIiouICAoNiAgLDAgJiwuICAqMiAqLiggKCwsICQsLiAeLDQgLCwsICgsMCAcLDYgIio4IC4uLiAoLjAgIio6ICowLCAqLjIgIjAyICwwLCAqMDIgJCw8ICowMiAsMDQgKC44IDQyMCAmMjQgLjA0ICYuPCAuMjQgKjI2ICoyOCAiMjwgMDQ0IDI0NiAyNDYgMjY4IDQ4OCA2ODogNDg8IDg6OiA0Oj4gODo8IDo8PCA6PD4gPDw8IDw8PiA+PjwgPj4+ID4+PiAAAAAANra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2ru7u7u7u7u7u7u7ubm5ubm5u7u7u7u7u7u7u7va2trau7mhoaGhoZR1XklJUFBQUElQXnWUoaGhoaG5u9ra2tq7u6EAAAgaS0qfvd3d3d29vb2fV0saCAUAobu72tra2ru7oQgjYZjd3Yx3R7j1/NKef57d3ZhSKAihu7va2trau7tkUrHgvx4eHh5Rf7i4f1FRUVFRv+CYUF65u9ra2tq5aVLSqj8/Rt7y+/v7+/v7+/vz41FRRqrMUmG52tra2mlStUY/O+r3/f3+/P38/fz9/v7+++5cRhm/UmTa2tqtUow/O9D3+fnt7e3y8Ork6O/1/P7+/vPTHw6QYZva1mF9PzvL7uzYi1hDHTZZjo5ra46wyOr28/jhQR99YdO0c1ZcwsfYdCQkJBAEAwIDAjZiRWuOjpzh+O7eLB94oXU8bLrUqE4pNVS8zjcCWj4VAxgTHR04kXxr9uHGHx9pMUiBusmgJ4B5isrcpxOcmX46KTUpBgYNEmis7saYDjsgSKm646A4h35yyumKRLN+fpIlW1tAJRANAajV168OLCA8t7fhyW+lhXLK5U+83JaWKhhMnXYTKxMBJtXXxjsiMSK3t9DJhq6kh9mJau3ihSo6nbx5L2eAJxEX29uxXCJhIq+30M+alaSuvkyR4oo6Zb6zYy8kKiVacGjLybFVO6Eir7rA0MVdMIp2TLx2TG+Rgi4rN0w+T0Q5ttDLpjuD1kFsr7HQ0LI4TF2KamWKakQVNFNTN2o0PanQy8t9O8zamzuNsbHj482jcWpPLkIhN2NEcKJnWnDQ38DEwDuN2traZFWbsbHx9+Pj0La2k4mTcXuPttHn+vrewLE7Utra2tq7ZIHmscHb8fHj4+Pj39/f3+vr8fHx8/q/5mG72tra2ru7MWy/scHBydfh39/r6+vr39TJwMDr5oFpu7va2trau7uhCBZsiMHJxMTCwsLCwsnJy8S6ppAtCaG7u9ra2tq7u6EAAAkUTXirw8HDwcHDwKaXeF8WDAAAobu72tra2ru7oQAAAAAHCQ8bM01gYE0zGw8MBwAAAAChu7va2trau7uhAAAAAAAAAAAKCwsLCwoAAAAAAAAAAKG7u9ra2tq7u6GhoaGhoaGhoaGhoaGhoaGhoaGhoaGhobu72tra2ru5u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7ubva2trW2tra2tra2tra2tra2tra2tra2tra2tra2tra2tba2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2to"
+}

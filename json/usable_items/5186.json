@@ -1,0 +1,29 @@
+{
+    "id": 5186,
+    "strings": {
+        "name": "Yahata Sushi",
+        "article_type": "A",
+        "singular_name": "plate of Yahata-style carp sushi",
+        "plural_name": "plates of Yahata-style carp sushi",
+        "description": "This carp sushi's accurate degree\nof fermentation would make any\nzymologist proud.\nDEX+2 Accuracy+11% (Max.56)\nHP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE4NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAYGBiAGBgYgBgYGIAYGBiAGBgggCAgIIAgICCAICAogCAgKIAgKCiAKCgogCgoKIAoKDCAKCgwgCgoMIAoKDCAKCgwgCgoMIAoKDCAKDAwgDAwMIAwMDiAMDA4gDAwOIAwMDiAMDg4gDg4OIA4OECAODhAgDhAQIA4QECAQEBAgEBASIBAQEiASEhIgEBISIBISEiASEhIgEBIUIBQUFCASFBQgEhQWIBQUFCASFBQgFBQWIBQUFiAWFhYgFhYWIBIWGiAUFhYgFhYYIBYWGCAUFhogFhYYIBgYGCAWGBggFBYcIBIWHCAYGBggGBgYIBYYGiAYGBogFBgaIBYYHCAYGBggGBgaIBIYHiAaGBogFBoaIBYYHCAYGhogFhgcIBYaGCAaGhogFhoaIBgaGiAWGhwgGBgeIBgaHCAUGCAgHBoaIBgaHiAYHBwgFhggIBoaHiAWGh4gEB4YIBocHCAWGiAgFhweIBocHiAWHB4gGhwcIBYcHiAcHBwgGBweIBgcICAYHCAgFhoiIBocHiAaHCAgGBwgIBweHiAcHCAgHB4eIBoeHiAaHCAgHB4eIBoeICAWHiAgGBwiIBYcJCAeHh4gHB4gIBwcIiAeHh4gGh4gIBoeIiAcHiIgGB4iIBgeJCAcHiIgGiAeIBwgICAcHiAgHB4iIBggICAgICAgGh4iIBgeJiAcICIgHCAiIB4gICAYICQgGCAiIBwgIiAaHiYgGiIgICAgICAgICIgHiAiIBwgJCAcICYgICIiIBwiJCAeICYgGiAmIBwgJCAeIiIgIiIiIBwgJiAeIiQgGiIkICAiIiAeICYgHCAmICIiIiAcIiQgIiIiICAiJCAeIiYgIiIiICAiJiAiIiQgIiIkIB4kIiAgIiYgHCQmICAiKCAgJCYgICQmIB4kJiAkJCQgICIoIBomIiAeIiggJCQmICIkJCAcIiwgIiQoIB4kKCAgJCogICYmICAkKCAeJCogIiYmICIkKCAgJiggICYoICAkLCAiJiggJiYmICAmKiAgKCYgIiYqICAmLCAmJiggJCgoICAmKiAoKCggICYsICYoKCAiJiwgIigqICAoKiAiJiwgJCgsICgoKCAiKCwgJCgsICIoLiAmKCogIiosICoqKiAmKCwgIiguICYqKiAmKCwgJCosICQqLCAmKiwgJiosICQqLiAqLCwgKCwsICgqMCAmLC4gKCwuICYsMCAmLDAgKC4wICYsMiAuLi4gKCwyICguMiAqLjAgKi4yICguNCAqMDAgKC40IC4wMiAqMDIgLDAyICgwNiAqMjYgLjI0ICoyOCAwNDQgLDQ4IDI2NiAsNjwgLjg8IDA4PCAyPD4gOrq6urq6urq6urq6urq6urq6urq6urq6urq6lkMFCbq6urq6urq6urq6urq6urq6urq6urq6urq6uo4CAYHFBrq6snJycnJycnJycnJycnJycnJycnJycnBMAwGCBYHIerqycmenp6enp6enp6enp6enp6enp6lYCw/BwwmHCI96urJyZ4AAAAAAAAAAAACAwAAAA4ODxAdSSIfPBYpRWDq6snJngAAAAAAAAAAAAUCDg8PEBETUmZQKyYfCD2g4erqycmeAAAAAAAAAAAEFBwlSG1NP09TbkMnNBo9Lurq6urJyZ4AAAAAAAAAAgE5IVnAqHtBTlZNMDAcMCeu6urq6snJngAAAAAAABcTI4ayc76olWZzUDU4Lj1ocsnq6urqycmeAAAAAAAVXt/lzXm1vqJ4blk0MyYsrlnJ0erq6urJyZ4AAAALCSrt4nZfgKm+qKuEQzgpFnUdnsnJ6urq6snJngAACw0RstsrToitqa2keGllNSZLIACeycnq6urqycmeAAAxjKbNSWxswraCd1tdflAzJEsQAJ7Jyerq6urJyZ4AG4zu0juTzMrnvZJ5XUdUNSYpIAAAnsnJ6urq6snJnguM7eBkeqrI5+jNrXlGj5lNPYYVAACeycnq6urqyclgDYzTnZ2vsczd0nmCn1SJYkCnNwoZF6XJyerq6urJyS5Nqtmdqs96mty5Y2JnhMB9RlgKGRgAnsnJ6urq6tGNPIzg2dC5v4fS3baCV1+4qJtMVAoAAACeycnq6urqyTBh4PHvR0ecsb3Es3hAZ3zLhpaoGKMAAJ7Jyerq6upIbYXC2ZA6bqTCyGuPfotfp4YvzR0AAAAAnsnJ6urq1zhzwu66VbmFj2+Ss7tUYVvDojmREQAAAACeycnq6uquodjs0+PQxI/Ybn3LpTNhw7BcQy0AAAAAAJ7Jyerq6j2StpRaj4XEvtCkfpt1PH7Ow6E+GAAAAAAAnsnJ6urXSeeDcURiTjas4tV+WUIrud6rPhUAAAAAAACeycnq6peY1FGUcH94MrXEs2qNK2vEwC0VAAAAAAAAAJ7JyerqSbSKv8xVd6J25O7H1bUimaskFwAAAAAAAAAAnsnJ6uqC8fXpVZXm3/Ds5JvfNy9JmSAAAAAAAAAAAACeycnq6vLr+PrcvuL78Obo3sZqNWVeAAAAAAAAAAAAAJ7Jyerqy//99eRb3vlzKFzm4TxZlmienp6enp6enp6ensnJ6uov2PzoVh4zjlRZoN/01Y5oycnJycnJycnJycnJwcnq6uFZ5/7fQnXG8vfaoejHctHq6urq6urq6urq6urq6urq6uqXPEJZaEhIWWiBdaXq6urq6urq6urq6urq6urq6uo"
+}

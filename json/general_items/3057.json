@@ -1,0 +1,25 @@
+{
+    "id": 3057,
+    "strings": {
+        "name": "MMM Earring +1",
+        "article_type": "A",
+        "singular_name": "Maze Monger earring +1",
+        "plural_name": "Maze Monger earrings +1",
+        "description": "This exquisite earring has been\nfashioned by the most skilled\nMoblin jewelers in Movalpolos.\nIt is engraved with an elaborate\nvariant of the Moblin Maze Mongers\nemblem."
+    },
+    "flags": [
+        "Ex",
+        "NoSale",
+        "Rare"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgMzA1NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAMDAwgDAwMIAwMDCAMDAwgDAwMIAwMDCAMDAwgDAwMIAwMDCAMDAwgDAwMIAwMDCAMDAwgDAwMIAwMDCAMDAwgDAwMIAwMDCAMDAwgDg4OIA4ODiAODg4gDg4OIA4ODiAODg4gDg4OIA4ODiAODg4gDg4QIBAOECAQEBAgEhASIBIQEiASEBIgEhISIBQSFCASEhQgFBISIBIQFiASEBYgFBAWIBIQGCAUEhQgFBIYIBQUFiAUEhYgFhQWIBYUFiAUEhggFBIaIBYUFiAUFBQgFBIaIBYUGCAWFBggFhIaIBgUGCAWFBYgFhQaIBYWGCAWFBggGBYWIBgUGCAWFBogFhQaIBYUHCAYFhggFhQaIBgWGCAYFhggGBQcIBYUHCAYFhogGBYaIBYUHCAYFhggGBYaIBYWHCAaFhogFhYcIBoWGiAYFhwgGBgYIBgWHCAaGBogGhYcIBgWHCAaGBogGhYcIBwYGiAYFhwgGBYeIBoWHiAaGhogHBgaIBoYHCAcGBwgHBgcIBwYHiAaGB4gHBocIBwYHCAeGhwgGhgeIBoaGiAcGB4gGhggIBwYHiAeGhwgHhoeIBwYICAcGhwgHBoeIB4aHiAcGCIgHhoeIBwaICAeGiAgHhoeIBwcHCAeGh4gHBogIBwaIiAeGiAgIBweICAaICAeHCAgHhogIB4eHiAcGiIgHhoiIB4cHiAgHCAgIBwgICAcICAeHh4gIBwgIBwaJCAgHCAgIBwiICIcICAgHCAgHh4eICIcIiAeHCQgHh4eICAcIiAeHiAgIB4gICAcJCAiHiIgIh4gICAgICAgHCQgHhwmICIeIiAgHiQgIB4mICAgICAiHiIgIh4kICIeJCAiHiIgICAgICQgJCAiHiYgIh4oICAeKCAiIiIgIiAkICQgJCAiICYgJCAkICIiIiAkICYgIiIiICIiIiAiICggJiAkICYgJiAiIiIgJCAmICIgKiAiIiIgJiImICQgKCAkJCQgJiImICYiJiAmIiggJCAqICgiKCAoIiggJCQkICgkKCAkIiwgJiYmICgkKCAoJCggJiYmICgkKCAoJCogKCQoICokKiAmJCwgKiQqICgoKCAoJC4gKiYqIComKiAoJC4gKiYsIComLiAsJiwgLCYsICwmLCAsKC4gLiYuICwoLiAqKiogLiguIC4oLiAsKDAgLigwIC4oLiAwKDAgLCwsIDAqMCAwKjAgMCoyIDAqMiAuLi4gMiwyIDIqMiAyLDQgMiw0IDIsNCAyLDQgNCw0IDQsNiA0LjQgNC40IDYuNiA0LjYgNi42IDYuOCA2MDggOjA8IDoyOiA6NDwgPDI+ID48PiAAAAAAOrq6urq6urq6urq6urRxLCwm7Chkerq6urq6urq6urq6urq6urq6urq6ureq5ZdcXVdbEiReurq6urq6urq6urq6tHR0dHR0dHRt3p5oJiEhHVNSlJZVabR0dHR0dHq6urq0cqysrKysrJysZ19fU03NzQ3KkZbNrKysrLK0erq6urR0bIAAAAAJ7mgk1Y6UDo6NC4uKTk4CgAAstHR6urq6tHRsgAAAEWkuYx1RkY9RkNDQy4uKUogCACy0dHq6urq0dGyAAAbr8G0d009TXNzXWpmQzMuM1kLALLR0erq6urR0bIAACfIxqBfWV2BbHN3pKx+Yzk6TR8AstHR6urq6tHRsgAJnsy8hV9mfn6fsdbd4MmXaENGOAGy0dHq6urq0dGyAAKjz7R8VHOfpNft8Oj24sV0W1BPCrLR0erq6urR0bIEL8LVqGZfk7yue0dAjef633ZiUGERstHR6urq6tHRsgFv1tKkVHGcZjUaHhkNXPjvv1tWZBuy0dHq6urq0dGyCZng4ZVJn7grHQAAAAAU3/zJYz9/HLLR0erq6urR0bIIr+fXjmyveQ8AAAAAAAya+dN0VosbstHR6urq6tHRsgin5+aJgMNXBgAAAAAABVru23RbfxGy0dHq6urq0dGyCZ7r2naJtTEAAAAAAAAEIujLgWhpFrLR0erq6urR0bIOnuvco461FgAAAAAAAAQl58JwZEcYstHR6urq6tHRsgx59+N2e6cOAAAAAAAABlzftoCQTgey0dHq6urq0dGyB2H96aNliwcAAAAAAAAHh9yjcK882bLR0erq6urR0bIFPvLndnaBAQAAAAAAAAiN7Y14thDZstHR6urq6tHRsgAf4+7DWGMGAAAAAAAADK/siI2HGwCy0dHq6urq0dGyAAvN88V0UQYAAAAAAAANy85oo07ZALLR0erq6urR0bIABn/vyGxTBgAAAAAABDDxmYCnIwAAstHR6urq6tHRsgAAPt/WdlgIAAAAAAAIQtOOwGESAACy0dHq6urq0dGyAAAjmtt2cBAAAAAAAw6Pr3iHIQAAALLR0erq6urR0bIAAAA+36d4QA8AAAAJV79RkhktAAAAstHR6urq6tHRsgAAFRnWnnCtNRYXJCiBdFNcDgAAAACy0dHq6urq0dGyAAATMtDWpchvGBhn3XRBJh3ZAAAAALLR0erq6urR0bKysmuB6PXOu6Vra7Xg6YhHYbqysrKystHR6urq6tHR0dHRx2Dr/ufLooaW0PT7jpmU0dHR0dHR0dHq6urq6urq6urqvW/T3aKmvXqzvti/aabq6urq6urq6urq6urq6urq6urqxL23t7Lq6qu9yrOK3urq6urq6urq6uo"
+}

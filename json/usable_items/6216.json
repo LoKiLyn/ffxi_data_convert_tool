@@ -1,0 +1,29 @@
+{
+    "id": 6216,
+    "strings": {
+        "name": "Pepp. Slice +1",
+        "article_type": "A",
+        "singular_name": "slice of pepperoni pizza +1",
+        "plural_name": "slices of pepperoni pizza +1",
+        "description": "The width of this pepperoni slice, the consistency of its crust, the proportion of cheese to sauce. It's all here.\nHP+35 STR+2\nAccuracy+9% (Max. 11)\nAttack+10% (Max. 16)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjIxNiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACBAYgBAYQIAQGEiAECBQgBAYWIAYKECAGCBQgBAgWIAYIFiAIChIgBAgYIAQIGCAECBogBgoWIAYKGCAGChogBAoaIAoOEiAIChggCAwYIAQKHCAIChogBgoeIAgOFCAIDhggCAocIAYKHCAIDBogBgogIAYMGiAGDBwgAgokIAYKICAIDhwgBAoiIAYOHCAIDB4gCg4aIAIKJCAGEhYgChAaIAgOHiAKDhwgCBIYIAgOHiAGDCQgDBAcIAoOHiACDCggCg4iIAgQICAKEB4gDBAeIAYOJiAGFBwgDBIcIAoQICAIDiYgChIeIAoSICAKECQgCA4qIAoQJCAMFBwgCBQgIAYWGiAEDiwgDBQeIAoSIiAOFB4gDBImIA4WHiAMFCAgCBYgIAQaGiAKFCYgBhAqIAwUIiAIGB4gEBYgIAwUJCAMFCYgDhYgIAoYICAKEiwgDhYiIAwUKCASFiIgDhYkIAoUKiAMFiYgDhgkIAgULCAKGh4gChQsIBAYIiAQFiggDBYqIBAYJCASGiAgDhYqIAwWLCAOFiogEBoiIBAYJiAQGiQgDhomIA4WLCAQGiYgEBooIBIcJCAMFjAgEBooIA4YKiAOGC4gDhoqIBIcJCAYHCIgDhwmIBIcKCAIHiYgEBguIBAaLiAOGjAgFB4mIBQcKCAQHCogEB4oIBoeIiAQHiggHiAgIBgcKCASHiggEBowIBAeKiAYHiYgICAgIBYgJiAUHiogEBowIA4aMiAWHiggEhwwIBggJiAIJCYgDhwwIAwcNCAOICogEhwwIBIcMCAiIiIgFiAoIBAcMiAWICogFB4uIBoeKiASHi4gIiIiIBQeMCAOHjQgIiIkIBQgLCASHjIgFiIsIBIiLiASHjYgFCAyICAiJiAWIiwgIiQmICAiKCAWIjAgDiA0IBQiMCAkJCYgFiA2IBgkLCAWIjIgFCA0IAoiNiASJiogGCQuICIkKCAYJCwgECI2IBQkMCAgJiogGCQuIAgmMiASIjYgJiYmIBwkMCAYIjQgJiYmICgoKCAYJi4gFCYyIBgkNCAWJjIgFiosIBooLiAWJDYgGigwIBgkNiAYJDYgGiY2IBooMiAYJjggHCgyIBQoOCAcKjAgGCg4IB4qMiAeKjIgHCg2IB4qMiAcKDggHiwyIB4oOCAaKDggEig8IBwuMCAYLjIgICw0IB4qOCAaKjogGi40IBYsOiAuLi4gHiw4ICAuNCAULDwgHiw6ICAuOiAeMDggIC46ICIuOiAYLj4gJDA4ICIwOiAeMDogJDA6ICQyOCAiMDwgIDI8ICgyOiAmMjwgKDQ8IC42OiAsNjwgMDg8IDI4PiAAAAAAOfn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn58XFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXn5+fnxcWgoKCgoKCgoKCgoKCgoKCgoKCgoKCgmYu9uefn5+fFxaAAAAAAAAAAAAAAAAAAAAAAAAABAShwpZSq5+fn58XFoAAAAAAAAAAAAAAAAAAAAAABFCscMGGPX6zn5+fnxcWgAAAAAAAAAAAAAAAAAAECSjIkHh0fV2hpwefn5+fFxaAAAAAAAAAAAAAAAAEUca6lMAkVHidndJ7E5+fn58XFoAAAAAAAAAAAAQJKarTZ0syOHRYuTHa0rcXn5+fnxcWgAAAAAAABARpIgLWvw93W1rV+TlFYidmxxefn5+fFxaAAAAABAkprXlJagcPv9O/oztCln9HdwsHF5+fn58XFoAABGlV3jVQxLTE+dvr69M5+m4ipzuOGxcXn5+fnxcGLSkJSYquoDgcTHS9E0/jOVw8lQGF8w4PFxefn5+exeEtLRj5zwJUNBQ0YIVZN+IgLDB0XXIiRi8XF5+fn52JbUD0RJW62u1QRCg47j7f6fg4VLRlkzp2ZxcXn5+fneG1dNgswbrbm5Ig+OUTs+ffZZywsOHzIY6DFxefn5+eSb202Cxdor+bz8s+10/j98N+WXXyp0Ns3oMXF5+fn572niVMQDTCP1vP2/P774Mrwv2CwmKGhlwGgxcXn5+fnscm8gS8KGWHo7Pb6/Prgk+Hqe1tBTFF5AKDFxefn5+fExsdtNhAXI0+i4+je6+3l9fKbLxsqTEcAoMXF5+fn58W9q289Fg4jKUVyss/S6PLy8aIeCxFZAQCgxcXn5+fnxcSah2w9IB0XJTNFV47Z8u/swDwREkkAAKDFxefn5+fFxZmEmn96Pg8THyUiT37bzuPeiDxFPwAAoMXF5+fn58XFoLPN19icUB0PExcjOGhnfX19bmgDAACgxcXn5+fnxcWgALPp9eK4WyESEw0NBwoNDx00JgEAAKDFxefn5+fFxaAAAIzc4tembFA2LyAOCwcKBBUIAAAAoMXF5+fn58XFoAAAAGa62tjTppykemVLSz0bOgMAAACgxcXn5+fnxcWgAAAAAABmy9Wrvr6rWF56ZWVxAAAAAKDFxefn5+fFxaCgoKCgoKCgmYWDin9iYlhikqOgoKCgoMXF5+fn58XBxcXFxcXFxcXFxcXFxMHBwcTFxcXFxcXFwcXn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+c"
+}

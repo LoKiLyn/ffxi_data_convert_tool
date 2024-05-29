@@ -1,0 +1,29 @@
+{
+    "id": 5722,
+    "strings": {
+        "name": "Crab Sushi +1",
+        "article_type": "A",
+        "singular_name": "plate of crab sushi +1",
+        "plural_name": "plates of crab sushi +1",
+        "description": "A flawless marriage of delectable claw\nmeat and lovingly packed vinegar rice,\nbound together by invigoratingly fresh\nwasabi.\nVIT+2\nAccuracy+14% (Max. 68)\nDEF+15\n\"Resist Sleep\"+2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTcyMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAgICCAICAogCgoKIAoKDiAMDAwgDAwMIAwOECAODhAgDg4QIAgQFiAQEBIgEBISIBAQFiAQEhIgEhIWIBAQHCAQEhogEhQWIBQUFiAUFBogDBIiIBIWHCAYGBggFhgYIBQWHiAWGBwgDBQmIA4SKCAUGBwgEBYiIBQYHiAOFCogDhYmIBAYICAQFCogGhocIAwULCASGCQgGBoiIBwcHCAYGiIgEBgqIA4WMCAWGiYgEhgsIAgSOCAcHCAgFBgqIBIYLCAeHh4gEBgwIBgaKCAWGiogFBosIBYeJCAQGDIgEhouIAoUPCAeHh4gDhY2IB4eICASGjAgChY4IBweJCAWGi4gDBg4IBgeKCAQHC4gEhg0IB4gIiAgICAgHB4oIBQaMCAIFjwgGCAmIBYcLiASGjQgICAgIBQaMiAQGjYgDBg8IA4YOiAWHDIgDho6ICIiIiAYHDAgICIkICIiIiAgICggGh4uIBIeMCAOGDwgFhwyIB4gKiAKGjwgGB4wICIiIiAQHDggFB40ICAiJiAcIiggEhw6IA4aPCAaIC4gGh4yIBYeNCAUHDggChw+IBAcOCAUHjQgJCQkIBwgMiAWHjYgEBw+IBYgNCAWHjggDh48IBQeOiASHDwgIiQqIBwkLCAaIDIgHiIuIBYeOCAUHjogJiYmIBggNiAaIDIgEB4+IBQcPiAYHjwgDCA8IBIePCAkJiogGCA4ICAkLCAeJDAgHCIyICYmJiAQID4gGCI2IBYePCAYIjggFiA6ICgoKCAiJiogGiI2IB4iNCAYIDwgIiYuIBwkNiAaJDYgKCgoICYmLCAiJiwgHiI4IBgiOiAYIDwgEiI+IBYiPCAcJDYgFiI8ICAkNCAaJDggHiQ2IBwkOiAaJDwgGCI+ICoqKiAkJjIgJCgwIB4kOCAcJDwgGCY8ICAmOCAcJjogJCowICooMCAcJjwgIig0IBokPiAeJjogKCouICYqMCAeJjwgIig4IBwoPCAeJj4gKCowIB4oOiAcJjwgICY8ICQqNiAaKDwgICg6IB4oPCAiKjggICg8ICAoPiAqLDAgJio4ICQoPCAiKD4gHio8IC4uLiAoKjYgICo8ICosNCAiKjwgHio+ICIqOiAgKjwgJCw6ICguNiAkLDwgIio+ICgsOCAmLDogJiw8ICwuNCAqLjYgJCw+ICouOiAuMjIgJi48ICowNiAmLjogJi48ICgwOiAmLj4gLjI4ICgwPCAwMjYgKDA+IDIwOiAsMDwgKjI6ICgwPiAsMjogMDQ4IC4yPCAsMj4gMjQ4ICw0PCAwNDwgNjY4IDQ2PCAuNj4gMjY+IDY4OiAuNj4gMDg+IDY4PCAAAAAAM7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OzpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpLOzs7OkoxZWVlZWVlZWVlZWVlZWVlZWVlZWVlZSDySks7Ozs6SklkAAAAAAAAAAAABAgwMEwgNAAAAAQYRKZKSzs7OzpKSWQAAAAAAAAICChg+uIdmOEwICwkWISEXf5LOzs7OkpJZAAAAAAoPGUGz7JNlyZO5ZkQmKzJOMhxiks7Ozs6SklkAAAAGHpPh0UyJI924uYl7NDpkjqVrJFaSzs7OzpKSWQABB86yyeG4svT7rKxbOjpedNbGsWsuT5LOzs7OkpJZAw/O96y4iffh6rmrPzdXmZ7F5ee8ii5Pks7Ozs6SjCV5+/H+17LoepyJaUpUmcbGx9Dn1L+wJ0iSqpLOzpI83eP39/HX1+hpizo3i7/Y8Mfz2a/VxLE1SFkoWM7Of0fo3ave+/hpojQua5np9e/17/3VhcPpayAfIjcnzs4z0fN60ZuLUF5KVH3T3+Lp+fn555GF1ZQsHDdpgR+MfzCXi1xFTUZea7/H2bbf8/P968WgdpGIUU5vdKZKHygdOjcxSjlGdYTB0rahtuv189mpbWChUz1kjoCilDQfJD9NVKfBzL2DlqipyNnl69PAjW1SUkA5ULumjo5uQiumi7rB38vi4tzStMji5cW2ho1gS1JnTl67v9C/cm4uM6ym3O3+/vr6+u3i39jN2a+NaDtoYz97kH2esY53bDFwqqKkrczb7fL28uK90qGGaF1okZ5bpMZ1Q6VRY55yR6rOmpXKz7W/0MXEx4+GgnNdc6iLouSnpZ6QUXWncjWqzs7OcF+n2sbExMTHuq7Ij3VqsNvUxsTVt0BVd3JCMM7Ozs6SYik2cbutt5iVmKa13sS3xtjQ0KNAL2dsajCSzs7OzpKSWQoQFXnW5u7k1LuRkZ6ovK92O2dnfXslkprOzs7OkpJZAAAAEknL5PD87uTHnndVhHhnd61JCFmSks7Ozs6SklkAAAAAElqnwLediHZ+eFN4n7dpGwQAWZKSzs7OzpKSWQAAAAAAAxSiraietK6WhI58KgoAAABZkpLOzs7OkpJZAAAAAAAAAAUOSWF7Vy0aEgQAAAAAAFmSks7Ozs6SkllZWVlZWVlZWVkzMykzPFlZWVlZWVlZWZKSzs7OzpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpLOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs4"
+}

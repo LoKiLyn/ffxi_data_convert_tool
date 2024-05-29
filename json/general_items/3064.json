@@ -1,0 +1,25 @@
+{
+    "id": 3064,
+    "strings": {
+        "name": "MMM Ether +1",
+        "article_type": "A",
+        "singular_name": "Maze Monger ether +1",
+        "plural_name": "Maze Monger ethers +1",
+        "description": "An ether in an ornate bottle.\nThe gaudy label features a stately\nportrait of Goldagrik alongside the\nfamiliar Moblin Maze Mongers emblem."
+    },
+    "flags": [
+        "Ex",
+        "NoSale",
+        "Rare"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgMzA2NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAYGBiAGBgYgCAYGIAgGCCAICAggCAgIIAgICCAKCgggDAoKIAoKCiAMDg4gDg4OIBAODiASEBAgDBAUIBQQECAOEBIgFBASIBISEiAUEhAgDhIUIA4YCiAMFgwgEhYMIBQSEiAWEhQgFBIUIA4YDCAMGAwgDhgMIAoYDiASGgogFhQWIBAaDCAOGA4gDhgQIBAaCiAMGBAgGBQUIBIaDCAWFBQgFBwKIAwaECAYFBYgDhoOIBQUFiAUHAwgEhoOIA4aDiAQGhAgGBYUIBQcCiAWFhYgDhoQIBQaDiAMHgwgEhgSIBIcDCAWHA4gEBwOIBgYFCAQGhIgGhYYIBYWFiAWGhAgEhwOIBYeDCAUHA4gDhwQIBgYGCASHBIgGBwOIBYcDiAOHBIgFhgaIBYeDCAQHhAgGhgWIBQcECAYHBIgFhoWIBwWGiAYHg4gFBwSIBgYGCAcGBggFh4QIBQeECAaHg4gEiAOIBYeEiAcGhggGhoaIBwYGiAQHhIgGBwUIBoaGiAYHhAgFh4SIBocFiAaIA4gHhgcIBYeFiAeGhggEiASIBQeFCAYHBggGhoaIBggEiAQIBQgFiIQIBogEiAYHhQgIBocIBgeGCASIBQgHCIQIBggFCAaHBogHBwcIBYgFiAYIBIgIBwaIBoeGiAcHBwgIhwcIBgcICAYIBYgFCIWICAcHCAaIhIgHiIUIBwcHCAcIBggGCAaIBYcIiAYIhYgIB4aIB4iEiAWJBQgHCAaIB4eHiAeIhQgIhweIBgeIiAiHhogHCIYIBImFiAaIhggIhweIBwiFiAWJBggGiIaIB4eHiAeJBQgIB4eIB4iGCASJhYgHiQYICIeICAeJhQgICAgIBQmGCAaJBogGiQcIB4kGCASKBYgGh4mIBomGCAUKBggIiIeICIgICAgJhQgHiQaICQgICAcJBwgHiIeIBgmGiAgJhggHiQcICAgICAUKBggFiYaIBokHCAgJhogFigYIBomHCAkIiAgFCoYIBwkHiAaKBogHCAmICAkHiAiIiIgHigYICQkICAkIiIgHCYeIB4mICAiKBggGCoaIBQsGCAiJh4gGigcICAmHiAiKBwgFiocICQkIiAkJCQgJCoYIB4iKiAeKCAgFCwaICQkJCAaLBwgHCoeICQoHiAkKCAgICggICYmJiAYLhwgHCweICYsHCAgKCIgICoiICQoJCAWLhwgJiYmICIqJCAaLh4gHiwgICooJCAgJiwgKCgoICgsICAiKiQgKCgoICIsIiAiJi4gJiomICosIiAkLCYgIi4kICYuKCAsLCwgKC4qICwsLCAuLi4gKjAsICwwLiAwMDAgMjY0IDQ4NCAAAAAAPn5+fn5+fn5+fn5+fnu5Z2bm5ub3fn5+fn5+fn5+fn5+fn5+fn5+fn5+fj2Km2dNmFyQhUcj+X5+fn5+fn5+fn5+evr6+vr6+vrYkdHlJiUp7SurtNlYl7r6+vr6+v5+fn56+vDw8PDwyoih6eHkKfJkIWFtODgIkGdw8Pr6/n5+fnr68MAAAAHU5SYmIVxhJx2PElanp7sXw4Cw+vr+fn5+evrwwAABFagh4V7UGOeVFQrITVanpDyow6b6+v5+fn56+vDAAMPwsR7XFg4IRdEWDU1RGaenpjyj0HS6/n5+fnr68MCB7LOlGQ4ODAwGTxxSUQwWoyens/yLW3r+fn5+evrwwMN47VoMUU4UEowO0pKKTBJVIynr9qdYo/5+fn56+vDBEfxdDNDUG53SkQXMHFUMDxYhLS6us9HYvn5+fnr68MHrfF0VVV3gW5ZIyMjSnBYPClYorTEoKxe5fn5+evrbQvG40g/gYGld1UdIzhFWGNuRTGYr7pwzBSb+fn56+ttDb2yOkilsbF3HR0uPUNQWVB7bqCvuoHbLYb5+fnr60ET0Y4la8fcvzcYJC49PT09UJ5cr7qeh9FTfvn5+evrKhu9fSV64ea5JCQ3Mi4fLiOeVXKWtZY50V9++fn56+tBG92eOpr3+rE/LEYeGCQuMjlOW42WdzJsZ375+fnr60cbsJ4/v/v94T83PyQeHiQyTltqjaqKN6Ffj/n5+evrRw+XniXV/v7Vej8sICAnLDdGYGqNwHo6lyKb+fn56+t5DXOeJYj79fTQvqifn5UsJ0ZggtWzaFKRYuX5+fnr650LoZ5Lze3izajW1tbL3uTQuKXm85lgbGJW+fn5+evrwwdinri8ys27lbeoy8vk3ufo7fXtb3SXIl75+fn56+ujC2VXlrO7pKuflZ+3y8rY3+jv89V9xV9Wxvn5+fnSfioaT08qIkGIpLufqLe7yt/f9OK5vKGDR4/r+fn5+V4aaXwaNCgVNCIiKkd0mqXK2dm/prncxS021+v5+fnSR9GTfKzpTxEaGiKeLUBTc56ebYaDrXMiCLbr6/n5+WIokwwMDL38vRE+nnmexuHm18awg3NADgkAw+vr+fn5bUcWFBYWEG32PouDeZeRkXORVyIUCggFAADD6+v5+fltLanU1C8WDJOLGggKDg4KCAgGBgUBAAAAAMPr6/n5+W0vqdTw8BYQk100QY+2tsPDw8PDw8PDw8PDw+vr+fn50kGAicHqEBaTKG3r6+vr6+vr6+vr6+vr6+vr5ev5+fn5o3lMgIBBaTTd+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn4tn5+foZ+5fn5+fn5+fn5+fn5+fn5+fn5+fn5+fk"
+}

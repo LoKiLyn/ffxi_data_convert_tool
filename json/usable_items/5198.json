@@ -1,0 +1,29 @@
+{
+    "id": 5198,
+    "strings": {
+        "name": "Vongole Rosso +1",
+        "article_type": "A",
+        "singular_name": "dish of spag. vongole rosso +1",
+        "plural_name": "dishes of spaghetti vongole rosso +1",
+        "description": "In a recent survey, 87% of all vongola\nclams replied spaghetti vongole +1 is\nthe way they'd like to go.\nHP+20% (Max. 95)\nVIT+2 MND-1\nDEF+25% (Max. 35)\n\"Store TP\"+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE5OCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAIMIAACDiACBAwgAgYMIAAGECAGCAwgBAYQIAoKCiAKCgogBAgQIAYKDiACCBQgCgoMIAgMDiAGChIgAgoUIAIIHCAIDBAgCAwUIAYMFCAAChogAgwWIAoOEiAECh4gDA4QIA4ODiAGDBogAAoiIAQMHiAMEBIgBAogIAwOFiAADCAgEBAQIAIOHCAIEBggAhAeIAAOICAEDCQgBBAeIAAQICAUFBQgAA4mIAwSGiAKEhwgAhAkIAAOJiAGEiAgCBQeIAQQJiAMFB4gABAmIBQWFiAWFhYgBBAqIA4UHCAEFCQgABQmIBQWGiAAEiogBhAsIAQUKiAYGBogCBQqIAIUKiAAFiogDBYkIAgULCAKFiggABQuIAQULCAaGhogBhYoIAIWLCAaHBggChgkIAAWLiAGFi4gABgsIAQWLCAcHBwgBhQwIBYaHiAYGiAgAhguIAYYLiAcHBwgGhweIA4aKCAcHBwgBBgwIAYWMiAGGC4gFBwkIAAaMCAEGi4gCBgwIB4eHiAIHCwgHh4gIBoeIiACGjIgBhoyIAYcLiAWICQgHB4kICAgICAIHDIgBBwyIAgeMCAOICogAhw0ICAgIiAIHDQgGCAoIAoeMiAUIiggBh42ICIiIiAIIDIgHCImIA4eNCAiIiQgEiAwIAogMiAUJCogCCA2IAQgNiAGIDYgJCQkIAwkMCAGIDggJCQmIB4kKiAkJCYgCiI2IAggOiAmJiYgCCI4IBwkMCAMJDYgHiQuIAwiOCAIIjogJCYqIBYmMiAIJDggKCgoICImKiAaKC4gJigqIBwkMiAQJjYgHiYuICooJiAoKCggKCgqICYoKiAKJjogJiguICIoLCAMJjogICgwICQoLiAoKiwgCiY8IBwqMCAqKiogCig8ICIoMiAgKDQgJiowIA4oPCAkKjAgKiosICwsKiAOKDwgKCouIBQoOiAoKjAgIio0ICQqMCAiKjIgLCwsICgqMCAeKjQgECo8ICgsMCAsLCwgJCwyIBgqOiAoLDIgKiwwICYsMiAaLDYgKCwyICQsNiAULDwgLi4uIC4uLiAsLjAgIiw2ICouMiAaLDogKi40ICYuNCAWLjwgLi4yICouNCAwMDAgIjA2IDAwMCAqMDQgKjA2ICguOCAeMDogLDA0IDAyMiAsMDYgHjA8IDIyMiAuMjYgLjA2IC4yOCAsMDogJDI6IDI0NCAsNDYgMDI4ICY0OiAuMjggNDQ2IDA0OCAoNDwgMDY4IDA0OiAyNjogMjY4ICw2PCAwNjwgNDg6IDQ4OCAwODwgODg6IDQ4PCA0OjogODo6IDY6OiA2Oj4gODo8IDY6PCA8PDwgODw8IDg8PiA8PDwgMfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx5SUlJSUlJSUlIJxYlpXV1pia4KUlJSUlJSUlJTHx8fHlIp3d3d3a1dIUWuHpa+vnoJrV1Faa3d3d3eKlMfHx8eUlHcACSJkkcDZ2dXW29/l6ens26BkKgkAd5SUx8fHx5SUcSJkssTExM28ubS0tMDW5+nx+PjLZCJxlJTHx8fHlHtIoLzAwcCuubS0ubm5vKzAzeDe7vj2oFeClMfHx8d7WrS5tLmkobbO07+zj4CZ2Obk1dvR3vb84Gt7x8e9qFfEtLmsocTbzmMrPCZJjTk0ZnjM89vC1fz87muovcdiwby5rKy6yoNnRCtHJTACIVDGs42Nuue+0fL85XHHlHvAuayhun4oChUcPEZJWTR2iF1VSmg8uuzC0fz8sJRi3sCslZVpHjgjBRYpcFAdMmxNLy9QaEJop9e+3vr8d3HnxKGGeTUtbikXHg+AfxgRVotmQT4jGSQxxKrE7vyHpd/blaNeEx05BRQXEoStPh9AZ1uBPBsLHhkOU7Te+MfU29nAjnMbAgEDBgsWdtyEPidQZoEwDBAPLR4NU9X66dTe7OejdUwuFQUEDEKfre9yN1VAxiwoaC3c3jsZ1fzlsN7t8b7CbyZfZmFnT4GA3OpAbUTGFzBBQ+b/qobe/Mec3+z74ODDY2Btk3R4gYmtz3R0Z60TFDpF4vWYru78qJzQ3/vt7OzDRkGNXE6Txs+pn11yuy0HKDP2xYy8+PqcqJ7e8f75+fCNTXq7bXhWYWy7X4G7YyAHZeyYodX8sL3HnNDg+vv5+eaQdrGmclxcUouLsYuZczv2q47E+PKcx729e9Dn/fv9/eRvMBR8i5B/dFu7f+rz4bWavvb8e7C9x8eKgsHn//37/gYKDBNJVnKIeoDG4NGYo8L394qKx8fHx5yKa53n+v/+NQsLDhR8on2Sw8qrmrfe/N1xipTHx8fHlJR3NoXL5/r6vJXB7eHXxbW6us7k9/SbP3eUlMfHx8eUlHcACD+Fst/y+Pj4/v7+9uvy8t2bSwgAd5SUx8fHx5SUdwAAAAgaP2qXyNLj6NrIuIVUGggAAAB3lJTHx8fHlJR3AAAAAAAACAgJCQkJCQkICAAAAAAAAHeUlMfHx8eUlHd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d5SUx8fHx5SUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJTHx8e9x8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx73Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8c"
+}

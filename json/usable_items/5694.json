@@ -1,0 +1,29 @@
+{
+    "id": 5694,
+    "strings": {
+        "name": "Octopus Sushi +1",
+        "article_type": "A",
+        "singular_name": "plate of octopus sushi +1",
+        "plural_name": "plates of octopus sushi +1",
+        "description": "The rice is packed to just the right consistency and the suckers on the tentacle still show signs of life. So fresh!\nSTR+2\nAccuracy+15% (Max. 72)\nRanged Accuracy+15% (Max. 72)\n\"Resist Sleep\"+2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY5NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAQGIAQGBiAEBgggBgYIIAQGCiAGCAggBggKIAYICiAEBhIgCAoMIAgKDCAECBYgBAYYIAoMDiAECBYgBAgYIAgKFCAKDBIgBAgaIAoMECAKDBAgBggcIAwOECAMDhIgCAwYIAwOEiAIDBggDA4WIA4OEiAIDBwgCgwgIBAQFiAMEBggEBIWIBASFiAOEhYgDhIYIAoOIiAKDiAgCg4kIBAUFiAQEhggEhQYIBASGiASFBggDBAiIAoQJCAOEiAgEBYYIBIUGCASFBogFBYYIBAWGiAOEiQgEBQgIA4SIiAKECggDBImIBIWHCAOEiQgFhYaIBYYGiASFiAgDhQmIBAUJiAWGBwgEBQmIBAWJCAQFiQgEBYoIBgaHCAUGCIgEhYmIBocHCAQFiogFhogIBIYKCAYHB4gEhgoIBYcICAYHCIgHBweIBocICAUGiogFhwoIBQaLCAWGiogHB4gIBwgICAWHCwgICAgIBQgJCAYHCogICAiIBggJCAWHiggFB4sIBwgJCAYHCwgICAiIBgcLiAYHiwgGiImIBYiKCAiIiIgHCAoIBYiKCAYICwgIiIkIB4gKiAcIiggICImIBogLiAgJCggJCQkIB4iLCAcIi4gGiAyIBokLCAcJCogHiIsIBoiMCAmJiYgHiQqIBomKiAcJCwgGiIwIB4iMCAcJiwgHiQuICAmKiAmJiYgHiQwIBomLiAiJiogKCgoICQmKiAgJi4gHiYuIBwmMCAoKCggICYwICImLiAeKDAgIiguICgqKiAiKDAgHCgwIBwmNCAgKDIgHiowICIoMCAkKDAgJCouICIqLiAgKjAgICg0ICYoMiAkKjIgJioyICAqNCAiLDAgKiwsICgqMCAgLDIgIiwwICYqMiAgKjQgJCwwICIsNCAmKjQgLCwsICYsMiAkLDYgKCwyICgsNCAiLjQgLi4uICYuMiAoLDQgKC4wICgsNiAqLjIgJiw2ICguMiAqLjIgJi40ICguNCAmMDQgKC42ICYwMiAoMDQgKi40ICouNiAkLjYgKi42ICowNCAmMDQgKjA0ICowNiAwMDIgKDA2ICwwNCAsMDYgKDA6ICwwNiAqMDggLjI0IC4yNiAsMjYgKjA4IC4yNiAuMjggLjI4IDA0NiAuMjogLjQ4IDI0NiAwNDggMDQ4IDI2OCAwNDogMjY4IDA0OiAyNjogNDY4IDI2PCAyNjogMjY8IDQ4OiA0ODwgNjg6IDQ4PCA2ODogNDg8IDg6PCA2ODwgNjo8IDY6PiA4OjwgNjo+IDg6PCA4Oj4gODw8IDo8PCA4PD4gOjw+IDo8PiA6PD4gOj4+IDo+PiA8Pj4gPD4+IDw+PiAAAAAALKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysoiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiysrKyiHtpaWlpaWlpaWlpaWlkW1JHNFJtaWlpaWl7iLKysrKIiGkAAAAAAAAICAgaPk6Hb2hcfHgOBQUEZIiIsrKysoiIaQAAAAAAFS0xUG6efXfUl7l9GQ8NEAwdc4iysrKyiIhpAAAAAAo1utqha4GL0MDApC4vdksWMBYrc7KysrKIiGkAAAAUh5yzuaai3N2csWAuOWWCeUUnOBFzsrKysoiIaQALIofaoaWU3bm6uYxaNjpWnrynk1VFHHOysrKyiIhpKl/J0eS9pcqXomCGon5DQ0TO1szIr2A9c7KysrKIiFKaxt3dz8O9x5xhNl2TZleVzeXMzMitaj0rIHuysoiIU7y8qMPX0qKmbDY2QU9UdeXh5d7OxcV5GxMTCbKyiIiD09DQtamQel1AVJ1DPIDV2dXe3sjIj3QWKE0bsrKIe2e7wa9+QzY2NoDr3L6W3ufh2dLOxbyZRB9mgRyysoh7cH53m01BVk1GqPDz+fn49u/e2c6vk0lPVJC3PbKybT0bJldUTVSdnXHY+Pz6+fjz7eTcrZldV3qCk8E9smQRHi5ARkB107jP3vj8/P7+9/Lr4dKvgoKuzsXLpEpzHERFf0k8Xdjl7e32+/39/fv4+fCktIWOqM7MyMhqhF43VYrYn8Lg6/f2+fj8/f79+vTntmZ1u77b1s7IyEySkiuDr+Tr6+3r8vb4+fz9/f7p1aufvMjg7uji29S0P5KyjT2R0dnn5+vt8fH4+/vz5KvE1tzh5/Ly7ujXt2perKyybVNykbTS1cu30evCgK7h6efn5/L09PLs6tGDU6OysrKIc1ItM111Y3GWf1qr2On3+fn7+fTy7uatalhzsrKysoiIaQECIUlWZXHI0+Px+/z7/Pz49vLsuj9Ke4iysrKyiIhpAAADJEiKsOXh+Pr7/f38/fz05pE7BWmIiLKysrKIiGkAAAAGB0h50ef6/Pz9/vz13YlCKhgAaYiIsrKysoiIaQAAAAAIEiFMYtvq9Ozqo1kyIwMBAABpiIiysrKyiIhpAAAAAAAABhUOLVE7LCUOBgEXAAAAAGmIiLKysrKIiGlpaWlpaWlpaWlkW1tbZGlpaWlpaWlpaYiIsrKysoiEiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIhIiysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrI"
+}

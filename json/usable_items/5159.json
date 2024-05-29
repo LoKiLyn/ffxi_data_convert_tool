@@ -1,0 +1,30 @@
+{
+    "id": 5159,
+    "strings": {
+        "name": "Friture Misareaux",
+        "article_type": "A",
+        "singular_name": "plate of friture de la Misareaux",
+        "plural_name": "plates of friture de la Misareaux",
+        "description": "Named after the \"Tragedy of\nMisareaux\" where five died of\nbliss after eating a terribly\nscrumptious basket of fish and chips.\nDEX+3 VIT+3 MND-3\nRanged Accuracy+7% (Max.15)\nDEF+5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE1OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgIIIAAADiAABgQgAAAUIAAAHiAKCgogCgoKIAgKDiAABCAgBgoSIAAALCAKDBAgAAoYIAASCCAIChQgDA4OIAAIHiAABiIgAAQmIAACLCAACCIgABQKIAAKICAOEBIgAA4cIAoOFiAKDhggAAomIAIKIiAMEBYgAAgqIBAQFCAIDhwgAA4eIAAUEiAOEBYgAAwmIBASFiAAGBAgAAoqIAIIMCAAGBQgAAouIAAaECACDCogAAwsIBQUFiACEiIgEBQaIAgQJiAQFBwgAA4uIAISJiAAHBIgAA4sIAAMNCASFhogChIkIBIWHCAAECwgBhIoIAASKiAYGBggABAuIAIQLiAUFh4gAhIsIAgSLCAAEjAgAB4YIAISLiAMFCggGBgaIAQWKiASGCAgAhIyIAIUMCAWGB4gABQyIBoaHCAKFCwgEhgkIAIUMCAEFi4gBCAaIAIWMCAWGiAgDCAaIBocHCAMGiYgABYwIBgaHiAMFjAgAhYyIBgcICASIBwgAhYyIBwcHiAAFjQgCBgwIAwiHCAYHCIgHh4eIBweICACGDQgHB4gIBYaLCAAGDYgGh4kIAweJiAeHh4gAho0IBgcJiACGjYgICAgIBweJCAGHDIgAho2IA4eLCACHDQgBBw2ICAgICAcICQgAhw2IBYeLCASICogBhw2IAIcOCAYJCIgBB42ICIiIiAgIiQgAh42IB4gKCAKJCogBiA0ICIiIiAEIDYgACA4ICAiJiAeIiggHCYkIAQgOCAIIDYgICIoIBogLiAkJCQgICQqICAkKCACIjggGiYoIAQiOCAmJiYgJCQoICIkKiAgJCwgBiQ2IBIkNCAAJDwgIiYsICgoKCAkJiogJCYsICImLCAIJjggFCQ2ICgoKCAIJjogJCgsICQoLiAqKiogJiguIAgoOiASKDogJiouICQoMCAGKDwgIiY0IAwqOCAmKi4gEiw0IAgqOiAGKjwgJiowIBQqOCAOKjwgKCowICQsMCAmKjIgHiw0ICwsLCASLDYgKCwwICosMCAoLDIgDCo+IBYuNiAoLDAgECw8IAosPCAqLDIgHiw4IC4uLiAsLjAgKCw0IBgsOCAILD4gIjAuIA4sPCAqLjIgHC44ICwuMiAYLjwgKC40ICwuNCAOMD4gCjA+IBgwPCAsMDQgEDA+IB4wOiAuMDQgLjA0IAwyPiAWMD4gMDI0IBwyPCAuMjYgLDQyIDAyNiAYMj4gMjQ2IDA0NiAcND4gMjQ4ICY0PCAyNjggNDY4IBo4PiAuNjwgIjg+IDg4OCA0ODogNjg6ICg4PiAsOD4gMjo+ICw8PiA4Oj4gMD4+IDw8PiA2Pj4gPD4+IDw+PiA4Pj4gMvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy6GhoaGhoaGhoZmTiYmJiZOTmaGhoaGhoaGhoaHLy8vLoZmDg4ODg2cvIB4eHh4kHiQmL1B6g4ODg4OZocvLy8uhoYMAABAMGkKNpKmjpKmjoJV7Qg8IBgAAg6Ghy8vLy6GhiQYMM6T567uprJuRlJWblaDC1IwzCAeJoaHLy8vLoaE/GpHk36yv18avr6ScnKSqwcG03/mMD0mhocvLy8uhSU67u6y7u8bBtLjDvcPNvaCqsNLBu/TXO1Chy8vLy0lfrKOjrLTBwcHB39fDuKCgoJSUuNLSycbmZlDLy8uZS6Obqam41NLk+evSqpJrPT0yEhsmbbvG0snoO5nLyzujm6yvxsLS5KyGa0QuLkAuQGNsT0AlOqm70tLeO8uTbZubrMHJ28mGhl0oRTdNcHmPeXJTTGNKfaqs0uaRiU6bm6PBxtvJazdeQEFTYWmAj09PT3J2gGMlS5TG0vlXV5uirMHk3ms8TVNpdnxygGNFU3+uXkcXHRcKlJTS+ZFmqanS0ptIY3J2hYV2eYA3N6bj+Pw6Ag0wNQExldfrwm20uMlxLkV5eZZ2coBpLkA07P//01p+3RkRBB6s9PPSe7u7ySFPU2l5cnJeTEFyxLpD+v+5+vrTCSsLBPT75LR01NLmSBMoXkdBQR8tirGldTyl4fqe424+OEUFUmCBomjCwuSqPC4fKRwcYZiCPhFwqGNjW3j6+IgLFLIjDtCEoZvU644WKiJ1da3ZVlZKFVtDJVQ+VsrHUQUV5fvm7nPLaObe7lgWNhZYl3dNgiV14NmxVFRpNK0VcM75++ajq8unjfP09GAsVScWA4d1peCCRY+IeKiFn5+53d3u6HPLv8tiqe75+WUsLEa11bbPf0WKfC2daWTv2uPq7PR0v8vLy6FiovT09NC1wMWdrZgcQZZ8R1Z/us/c8PPzdJPLy8vLoaFZjPL+/f32wLnhrZ2QeYpwmLe36v394lmZocvLy8uhoYMGOenz/v782seFi8ix0djR4f398owYeqGhy8vLy6GhgwAAEGrM8v7+/vfHxOfq9fH06WoYBwCDoaHLy8vLoaGDAAAAAAcYXJq81r7t6cyaXDkQBwAAAIOhocvLy8uhoYODg4ODg4ODenNvb2dvb3N6g4ODg4ODg6Ghy8vLy6GhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaHLy8u/y8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy7/Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8s"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 5700,
+    "strings": {
+        "name": "Anch. Pizza +1",
+        "article_type": "An",
+        "singular_name": "anchovy pizza +1",
+        "plural_name": "anchovy pizzas +1",
+        "description": "Only the choicest of anchovies are given the privilege of topping this transcendental pizza.\nHP+35 DEX+2\nAccuracy+9% (Max. 16)\nAttack+10% (Max. 21)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTcwMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAggSIAwMDCAMDAwgAAIoIAwMDiAGCBwgBgwUIAYGICAKDhAgAAIsIAgKGiAIDBYgCAocIA4QEiAGDhggBgwcIAQGJiAICiAgCg4aIAgIJCAGBiogEBASIAgKIiAMEBggAggsIAIMIiAOEBYgCg4gIAYKKiAGDCYgDhIWIAoOIiACDCggEhQUIAwQHiAIEhogCgoqIA4SGiAIDiYgDhIcIBQUFiAQFBggBgwuIAQMLiASFhggEBQaIAoSIiAUFhggCA4qIBQWGCAMECYgBg4wIA4UHiASFhogGBgYIAoQLCAQGBwgChIoIAgQLCAYGBggDhQkIA4WICAMFiAgChQmIBASKiAGEDAgEhgcIAgSKiAMFiYgFhgaIBgaGiAIEi4gEhgeIAQSMCAOGCAgDhQoIAIULiAYGhogChYoIAwWJiAMEi4gFBYkIA4aIiAQFiYgEBQuIAgULiASGiAgDhYqIAYUMiAMGiQgChYsIBocHCAOGCggFBoiIBwcHCASFiwgChYwIBYcHiAMGCwgFhoiIA4WLiASGiYgDhQyIBIcIiAeHh4gFhwkIAoaLCAYHiAgEh4kIBQaKCAOGi4gCBowIAoYMiAYHCQgFBwmIBAcKCASGiwgDBowIB4eHiAMICYgFBwqIBQaMCAUHiYgDhwuIAgeKiAaICIgGB4kIBYcKCAOGjAgChoyICAgICAQHiogEBo0IAgcMiAQHi4gCh4uIB4gIiASICggGBwsIAwaNiAWICYgECAqIAggKiAQHDAgDhwyIBAgLiAIHjIgIiIiIBAiKiAWHjAgGCIoIBYgLCAUIiogEh4yIAwgMiASIi4gJCQkIBoiKCAcJCQgGiAsIBQiLCAOIjAgFCYoIBAgNCAYJCogEiAyIBoeMiASIjAgECIyICYmJiAOJDAgFCQuIAwkNCAcJCwgGCYsIBgiMiASJDIgFCI0IAwiNiAcJiwgDCYyIBYmLiAWJjIgKCgoIBwmLiAUJjAgGiQ0IBooLCAOJjggKCgoICAoLiAYJjQgGCgwIBImNiAaKi4gHCgwIBAmOCAkKiwgFiY2IBYoNCAaKi4gICgyIBgqMiAaKDQgDiw0IB4sLiAOKDogHCg2ICoqKiAcKjQgIioyIBoqMiAWKDogHCwwIBoqNiAUKjggHio0IBgsOCAULjYgHiw0IBQsOCAuLi4gKC4wIBQwNCAmLjIgHi42IBwuOCAWMDggKjAyICAwNiAcMDYgHi46IBgyOCAgMjYgIjA4IB4wPCAoMjYgIDQ4IB4yOiAgMjogIDQ6ICQ0OiAgND4gKjQ6ICI2PCAsNDogKDY6ICY4PCAqODwgLjg8ICg4PiAuODwgMjo+IDY8PiAAAAAAN7e3t7e3t7e3t7e3t7e3t7e3t7e3t7eqp3e3t7e3t7e3t7e3t7e3t7e3t7e0dG+vr6+0dHe3qo2KjJf3t7e3t7e3ri4uLi4uLi4TjAbGyYmJiYbKkZ3KqFmKBgiR7je3t7euKqUlJRcNzZJXn+el42XpXM1IygYnLd7SxgON97e3t64uJQAAy1qe67h7fr63PnSwbpTIAzi+vKNl3IfPN7e3ri4XAVqrr/twLGHfG9WW4d8a1AgmhlZdvrqjWQfPN7euHcprrTtzIdjTzMdFQgIERkKFw300DQrO9nqnnIw3t53Irnc18FjY0UvM1E4HlhvWFEUYO2pgGZCYebqe4Pe3k6/68RrW0Q7ODSFRE+k1YKILxfi2exQmpGMu35p3t6dbPLMfFYsZbFhSoUxGk2ThrMcC9nalYTCRHYTE2neqjDi+W9bmpqyinS9x4FwcMXPTA2A/qEP6JsnEEwgRp2Uo+uHRXGwkNqcB4Tsx8epxdLT0/mlD0uYEA0nL3NJg07i5l0hkNC70Ox7B4qmqePwuRJ51yZLxBA6JyWwxDVin+q6TyewwNebk91zBxBE5PLKoK7vVyOgoqREEXXKbmLf53xPddn09siT3fNzBwGEc4AvdCOgynxwxYJCefScf+Hiki+g0/T+5vr63fO6JFokIFI9Urnihr2ta0JntNRk4eKHHqDSlY6KbUs1WujB0g89VJzo68Kt2vSxUSulyyjG5ltlbnSPhHg1Xpms2tj8t6i6nIRTU3tzL1BRLKHUconwZVVAirbB4ub3++RahOzYNQ8PJG2ZoZyI6GUs3GaJg7R1p12wqNe15/j1qwfBfZvMBz/v48KoqMeBHUK8SWneqstMi13A+Onx7uA/pe4v2/XBJNyrq7dvpnEsgY2U3t641mszoNL3/fjNeCTy+9T89eeVtuv88q07GUi8Q2ne3t5OtnmAyuv07rpto+719P3v29bB9fDwqCBErx+U3t7e3pQpzpI9mMCxjmjq9/L9/On8rI61sUIEZZUuX7je3t7euHcpw7ZPYLBmy+Lr4vL529ucOm8EBF2sPke4vt7e3t64uFwFw8OleTOLYGCggIuWelVBFDWXvDkDlLi43t7e3ri4lAADOcPJr5h5PRIGBhwcTEyKpV4JAwCUuLje3t7euLiUAAADBS2uyc7Drp6XmZWsmTkJAgMAAJS4uN7e3t64uJSUlJSUTkcWIjI2V0MuJiopN0eUlJSUlLi43t7e3ri4uLi4uLi4uLiDaUYpQ1xcg7i4uLi4uLi4uLje3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t4"
+}

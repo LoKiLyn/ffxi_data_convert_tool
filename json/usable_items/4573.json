@@ -1,0 +1,29 @@
+{
+    "id": 4573,
+    "strings": {
+        "name": "Steel Bread",
+        "article_type": "A",
+        "singular_name": "loaf of steel bread",
+        "plural_name": "loaves of steel bread",
+        "description": "Deliciously baked iron bread.\nHP+6 VIT+1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDU3MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAIMIAYGCiAGBA4gBgYOIAgICCAGBhAgCAgQIAgIEiAGCBAgCAoSIAgKEiAIChIgCAgUIAgKEiAIChAgCgwSIAoKFCAIDBIgCgoWIAgMFCAKChYgDA4QIAoMFCAKChYgCgwUIAoMFCAMDBYgCgwWIAwOEiAKDhQgCg4WIAwMGCAIDhQgDA4WIAwOFCAKDhQgDAwYIAoOFiAMDhggDAwYIAwOGCAMDBogDBAWIAoQGCAMDhogDhAUIAwOGCAOEBggDg4aIAwQGCAODhwgDhAaIA4QGCAOEBggDhIYIBASGCAMEhogChIaIA4QHiAOEBwgDhIaIA4SHCAMEhogEBIaIBAQHiAQEhogDhIaIA4SHCAMEhwgDhQaIA4SHCAQEh4gEhQYIBQUGCAOEh4gDhQcIAwUHCAQEh4gEBQeIA4UHiAQFBwgEBQgIBAUHiAWFhggDhYeIBQWHCASFCIgEhYeIBAUICAQFCAgEBYeIA4WHiAOFiAgEBYgIBAUIiAWGBwgEBYiIA4WICASFiAgGBgaIBIWIiAQGCAgEhgiIBIWJCAYGhogEBggIBAYIiASGCIgGBoeIBIYJCAUGCIgEBgiIBQYJCASGiIgGhwcIBQYJiAQGiQgFBokIBQYJiASHCIgHBweIBQaJCAcHB4gGhwgIBgaIiAcHB4gFBomIBIaJiASHCQgFBwkIBIaKCAUHCQgEhwmIBYcJiAWGiggEhwmIBQeJCAYHCggFBwoIBYcJiAWHCggFBwmIB4eICAeHiIgGBwmIBQeJiAWHCggFBwqICAgICAWHCogFh4oIBYeJiAWHCogFh4oIBoeJiAYHiggGB4oIBQeKCAWHiogHiAiIBwgJCAYICYgGh4oIBwgJiAWICggGB4qIBggKCAYICwgFiAqIBgiKCAiIiIgGiAqIBYiKiAaICogGiAsIBgiKCAYIiogGCAuIBwiKiAWIiwgGCAsIBoiKiAkJCQgGCIsIBggLiAcIiwgGiIuIBgiLiAaJCogHCIsIBgkLCAaIi4gIiQoIBgkLiAcJCwgIiQoIBwkLCAaJC4gHCQsIBgkMCAaJC4gICQuIBwkLiAaJDAgGiYuIB4mLiAcJDAgKCgoIBwmMCAoKCggIiYsIBwmMiAcJjAgHiYwIBooMCAoKCogHiguIB4mMiAiKC4gICgwIB4oMiAmKDAgHCgyIB4oMiAeKDQgKiosICQqMCAiKjIgHio0ICwsLCAgKjIgHio0ICIsMiAgKjQgLCwsICAsNCAgLDQgIiw0ICIsNiAgLDggJi4yICAuNiAiLDggIi44IDAwMCAiLjogJDA4IDAwMCAwMDAgMDAwIDIyMiAmMDggJjA6ICgyOiAqND4gPr6+vr6+vv6+vr6+/r6+vr6+/r7+/r6+vr6+vr6+/r6+vv6+vr6+vr7+vr6+vr64kIrGhISCgptoPr7+/r7+vr6+vn5+fn5+fn5+fn5+RoKEBAQMhwsHgkJElb5+fn6+vv6+fn4+Pj4+Pj4+JAKCQcgCwEEBiwpRjlYHxn5+fr6+vr5+fgAAAAAAAAMCgsIJikLBgQIEycgL0NbRCT5+/v6+vn5+AAAAAAAHRovDSAxEwYRFQ0YPC0vNFs5Ilb6+vr6+fn4AAAAAEoQNBsbJ080FSgzKEhIJS0vPjQ2QPr6+vr5+fgAAw8jJi8XGycgE09xSF5ncS0tJUFBYT49OPr6+/n5+AIOFCZVWz4wIA0tUpGchktLUihXaJN2djYu2Pr6+flkChEyTCxRTFMbGEEqPK5hei9ZX1podmyjY2Z++vr5ewkHLUc5P1U/ZzQqOzEoo8N6hkVhh250nYJsT3z6+rcaBxQ+OSE/XVVQSzM0O09etrq+l153r6a1d2dPffriIiYLMT4hOWt1jnJbRzyGcVeueta+mlqa3a+LdFFY+kIUJylSMiFrcKKBZnI8R3FxbsWcmN3PxoufmW5ldn3YChcLPkgsP4BdvbCEcj5SbJ123b6Bkprf4caUX26NfUkUKQsoUyFicKeqZmpyOU9SWlqsrIW9sbX284uywKbKKxRPBzBsIXVdiFBqaqdjR3FOf9bcuOq2yej2uYOflMo1HDQeTGxNeHBrVYKsv85hZ4Jl3Nzq6MnaqPDwqXeaoSIUKUxMWT2JeHCCx6W4v4JSdmjv6u/gzMa8tfbIpqh5GhwmKTpnTHiYgXWAkojNsZ1ok5/+99fo38zR/dSU3o9CHhwRKV5sRomFhaWXrcXtrpqopv7vzOz01fb0n8B5620aHDQwNoJVhKelx7jW6ezntqbPk/T//Ozd9t+WoGn6qyMmNxxHbGpmsJ6n2cfJ8u3qqLXFxd3v6ffzu31U6/r1ODUeW0NjgltMiJ6Fxd3y8te0y5ajrs/n6suKVND7+vqVIzdRTDqCZ1ylp4WOwuDon8nuk8vRr5+dfVbm+fX6+vUuI0ZnMmenoqeSa5K0xqnG5c2uo67FpYoW0vn5+vr7+tAjK0dFZ4SRcnpiks28vLzl6ePOkZKkFgX4+fn7+vr6+bcrNVBjYZxVcICev+et1+DxvdzTZAIAAPj5+fv6+vr5+Uo4K1BTl6V1Zpex2dXNyb3c20pk+Pj4+Pn5+vr6+vn5+bdJQkJPY4yBhIG4tK29s8F7e/n5+fn5+fn6+vr6+/r6+ut+WFhYY2evuMObxI+Vlev6+vr6+vr6+vr6+/r7+vr1+vrrq35+c3l+eXN+2PX6+vX6+vv6+vr7+vo"
+}

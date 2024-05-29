@@ -1,0 +1,29 @@
+{
+    "id": 4269,
+    "strings": {
+        "name": "Bijou Glace",
+        "article_type": "A",
+        "singular_name": "bijou glace",
+        "plural_name": "bijoux glaces",
+        "description": "This marron glace has the luster of\na rare gem.\nMP+13% (Max.90)\nMP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI2OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgoOIAQKECAGDBAgBgwSIAYOEiAKDBIgBg4SIAYOEiAGDhIgCAwWIAYOEiAIDhIgCA4SIAgOEiAKDBYgCg4WIAoMFiAIEBQgDA4WIAgQFCAKDhYgChAUIAwQFCAMEBQgCg4aIAwQFCAIEBYgDA4YIAoQFiAKEBYgChAYIAoSFiAOEhYgDBIWIAwQGiAKDh4gDBIYIAoSGCAKEBwgDhIWIAwSGCAMEhogDBAeIBASHCAIECAgChIcIA4UGCAMFBogDBAiIA4SHiAOFBogDhQaIAoSICAQFBwgDhAiIBAWGCAOFhogDhIgIAoSIiAOFhogEBQcIBAWHCAOFhwgDhQiIBAWGiASFhwgEBYcIBAYGiAUGBogDBQkIBIWICAOFCYgDhgeIA4WICAQGBwgEhYeIBAYHiAQFCQgFhgaIBIYHCASFiIgEBYiIBAYHiASGCAgDhgeIBIWJCAQGB4gDBQqIBYaHCAUGh4gEBogIBQYIiASGh4gEBYoIAwaICAOFiogEhogIBIWJiAYGhwgFhoeIBIaHiAUGh4gEhgkIBIaICAWGCIgEBYoIBocHCASGiAgFBogIBQaICASGiAgEhoiIBIYKCAQFiogFhwgIBgcHiAUGCYgEhwiIBQcICAUGiQgEhwiIBIcIiASGiYgFBwiIBIYKCAWHCAgFBwiIBocICAWGiYgDhYwIBAYLiAWHCIgFBwiIBIcJCAWGiggFBoqIBgeIiAWHiIgFB4kIBIeJCASGC4gHB4gIBgeIiAUHiQgFh4kIBgeIiAYHCYgFB4kIBYcKCAcHiIgFh4kIB4eICAUHiYgFh4kIBYeJiASGi4gGB4kICAgICAWICYgFh4mIBggJCAWICYgICAiIBggJiAUHDAgGCAmIBggJiAeICIgGBwuIBgeLCAYICYgFiAmIBoeKiAcICQgGiAmIBYcMCAWICggHiIkIBoiJiASHDQgGh4sIBwiJiAiIiIgFiIoIBoiKCAUHDQgGiIoIBYeMiAYIiggGh4uIBoiKCAiJCQgEhw4IBIeNCAYIiogHCAuIBgeNCAUHDggHCQoIB4iLCAYHjIgHCQqIBokKiAaIiwgJCQmIBokKiAaIDIgGiIuIBYeNiAcJCogHCIwIBokLCAcJCogGCA2ICYmJiAaJiwgICYqIB4mKiAcIDQgHiIwIB4kLiAmJiggGiYsIB4mLCAoKCggHigsICgoKCAiJjAgICguICAoLiAgJjIgICY2ICAqMCAaJjogJCg0ICYqLiAgKjAgIiowICAmOCAqLCwgJCoyICIsMCAmLDAgJCwyIC4uLiAiKjggJio2ICQsMiAuLi4gKC4yICIqPCAoMDYgLDA6IDAwOCA4OjwgPn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+eHh4eHh4eHh4eHho09PT09FT1m34eHh4eHh4eH5+fn54de3t7e3t55jKBcXFxcXFxchFhcoT7e3t7fX4fn5+fnh4bcACQcLDA4UGhgYEg4DAwQEEhIEDAUAt+Hh+fn5+eHhtwkIDg0eHU2LeYSmu6GKZkEbFAIMBAij4eH5+fn54eGYCyAeepri5fLm5e3p7dWhnYlsWz4SBCjX4fn5+fnjoy8gepHg+Pj09PLlv3p6eqHK2r+Pc20DF0/X+fn5+c04QYra/PT0u3xlU0tBQTw8PDltr6avc20pFrf5+fn5dESd1fTKpDkwPEtLREE8ODAiGyIwkZe7knQwKPX59eNQmtK5v0sqOV1laHl5d0EwMDA/OSkpQ3qztoAmwPn1fp3Ku50mP3CLd6y4sXY0Kj0VTBUVBik8PJqsqFpk445modWaKUmGaIu4w8vOQzQREUIcExUjJVQ8P7mzljjNOJLSs0tTdnaUw73Y339bPRAjVBw2IzInPUx+l6GhkkVBncpsOYZhYbi9ztTUbDoZLFZAHJMcMoFSLpFQfNSuIVqzuVdof1uQvaKFb3+sUiQ6dVKB/TaVsC01m4SRpK50ktKfSYxvVz9DKTkpMEt7QDGtgYHIyN19TjugkYqXpHSPr3xVlGE0VxcVJRApOZU7zGDccnFqhzo7vJWinWymZmaKmmyieR8lCiwcDxwfXKpYg6X/58lqasVnyqSkd6ZXfp+aaHlwJyMjRw8cNiwr3efRus9iiLD3UpuborN2fyF+bs5fVS6HOixpLCyHK05Y6O/qwvb224eKopmiyoZma7Jupnk/UnFWzCxpZ747YEhAq+bx3dCQfIuUaKzloEPe8Fpun1N4YF7Eff7kXmLbRlGg1cvOkIthrG954L2LWfn53lqRhUOciLDrtWLTz4Jgv7m5oHaLi6J/U8rujEvj+fX1jnddq6fWtJxiz+/GpcmtmoWUrKCFU4ra+rhVa/n5+fnXZFNmhLWIwcbv+7xn1MuxuJBvW1uE2fOUVWPX+fn5+eHNZj5ud3p4h4eni392eWF2f2hs2ezShnpr4eH5+fn54eGeM005bm2ReZGhioR8l5q2x9m/i10dAbfh4fn5+fnh4be3o45aZklsZYR5iqaXiaahfF1Fa6O3t+Hh+fn5+eHe4eHh4c3AqJZ3d3d0ZGSAgKOWzdfh4eHh3uH5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fk"
+}

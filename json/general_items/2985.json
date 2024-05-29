@@ -1,0 +1,25 @@
+{
+    "id": 2985,
+    "strings": {
+        "name": "MMM Ham +1",
+        "article_type": "A",
+        "singular_name": "Maze Monger ham +1",
+        "plural_name": "Maze Monger hams +1",
+        "description": "A mouthwatering ham cured by the finest Moblin chefs in Movalpolos. It is stamped with a highly stylized variant of the Moblin Maze Mongers emblem."
+    },
+    "flags": [
+        "Ex",
+        "NoSale",
+        "Rare"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgMjk4NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQKIAAGCCAABAwgBAYKIAAGDCAACA4gAggMIAAIECACCA4gBAgMIAYIDCAICgogAggOIAIIECAKCgogCgoKIAQIDiACCA4gCgoKIAYKDiAICgwgBgoOIAIKECACChAgCgoMIAoMDCACChIgBAoQIAYMECACChIgBAwQIAgMDiAIDBAgBgwQIAoMDiAIDA4gAgwSIAQMEiAIDBAgCAwQIAQMEiAEChYgDA4OIAQMFCAIDBIgCA4QIAQMFCAGDBIgBAwUIAoOECAGDhIgBgwUIAYOEiAIDhIgCA4SIAYOFCAEDhYgCg4SIAYOFCAIDhQgBg4WIAQOFiAOEBIgCBAUIAYOFiAIEBQgCBAUIAgOFiAGEBYgAhAYIAoQFCAGDhggChAUIAoQFCAKEBYgChAWIAYQGCAKEBYgCBAYIAoQFiAKEhYgChAYIAgQGCAKEhYgDhIUIAoSFiAKEhYgCBIYIAgSGCAKEhggCBIaIAwSFiAMEhggDBIYIAoSGCAMEhggDBQYIAoUGiAKEhogEhQWIA4UGCAMFBogChQaIAoUHCAUFBYgDBQaIAwUHCAQFBggDhQaIA4UGiAKFBwgDBYaIA4UGiAKFhogFBYYIBIUGCAQFhogDhQaIBAUGiAMFBwgFBYYIAwWHCAOFhogDBYcIBIWGiAOFhwgDBYeIBAWGiAOFhwgDhYcIA4WHCAOFh4gFBgaIBAYHCAOFh4gEhgcIA4YHiAOGB4gDhgeIA4WICAOGB4gFBgcIBIYHCAQGB4gEBgeIBgYGiAQGB4gDhgeIBAYICAWGhwgEhgeIA4aHiAUGhwgEBogIBAYICAYGhwgFhocIBAYICAQGh4gEhogIBAaICAUGh4gEhogIBQaHiAQGiIgFBogIBgaHCAQGiIgDhokIBIaICAaHBwgEhoiIBIaIiASHCAgEhoiIBwcHCAYHCAgEhwiIBIcIiAWHCAgGBwgIBIcJCAUHCIgFBwiIBgcICAUHCIgHh4eIBYeIiAUHiQgFBwkIBweICAWHiQgEh4mIB4eHiAUHiQgHB4gIBYeJCAaHiIgFh4mICAgICAYICQgGiAiICAgICAcICIgFiAmIBogJCAWICggICAgIBwgJCAgICIgGCAmIBggJCAeICQgICIiIBggKCAYIiYgGiImICIiIiAeIiQgGiImICIiJCAcIiYgGiIoICIiJCAaIiggHiQmICQkJCAeJCggICQmIB4kKCAcJCogJCQmICAkJiAcJCogJiYmIBwmKiAmJiYgICYqICgoKCAgKCwgJCgqICgoKCAiKCwgJCgsICoqKiAoKi4gJCwuICwsLCAsLCwgLi4uIC4uLiAqMDIgLjI0IDI2OCAAAAAAPv7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7++/v7+/v7+/v7+/v2qe/3e3v7+/v7+/v7+/v7+/7+/v77+3a2tra2tra2tB5QDRJZMLa2tra2tra2trt7/v7+/vv79oAAAAADxkgIW0iHUUeHBQQAAAAAAAA2u/v+/v7++/v2gAADxpcZ1k4UAcCRTEeFxELDw8AAADa7+/7+/v77+/aABNHV3CYX0p+BxImLB4bLA0EdxAAANrv7/v7+/vv79oaUY16Wns7hrcKEhceHhsbEgGbLQwA2u/v+/v7++/vsFeBuGdmcEq4kS43GxgbGx4qCE1/DRXd7+/7+/v778hymnyJgoZeeqOVXV6KOR4lORISPb49QZzr7/v7+/vQXoahi4GNsoaJmpVmN98sMTElGxdf1z1SW4Xj+/v69V5UlJSYi5qyqs3njTcwupNBLw4XEkTPPVh4a334+/mnXp+JjZiJrdz33L3FQDisk4o0CQ4FUqUxSEhISOj7+GQurpSLi4m39+fhzcVUZqyhrJo0EgZmqgYsPkFBnfnybCg8xa6Uje7w5+zTqlSjw5OJpU8JBsObBhspPT5P+NaANiLA3rzc9+Hn3JqNYrjDtopjLxsX538bMSUeJTHv0o82WkmP1Pfu4eHFf3xhw7iaUjQ0NFjzUiU+LDEpMcrjBzciWoLh6uHYr8Wag424ky5MUGpm4tdFSGhraGhPgvIoKBY8wM7czc3FzYdKWlpqr4R8Upf9kF+vkb2EjGO1+Gx6oGVWTm6jpr3AHR04YqilwVS8/sNPRVNbvb2bb/L76Ih+ZpFtcUoikG5mqN/fz39/1fy4w09BY3igupXG+vv71oitcWa407qjk8XNx7N/f+L8iufTY4yDjYNYnPj7+/vv45aek2Z+fm5mkMe2uM70vEZb56Bqm3xFRZzr+/v7++3EliE1O0NhX0xAesO0++WAYjuRUnp8amGA6O/7+/v769vmp4h7UEwzPDQDMzLuyqLUfl8uYopqYMjv7/v7+/vv246x6fHRj3K3fn1s8/ZlInruxkNff0IZ2u/v+/v7++/v2is/mczx5NHU8/PepLnGl4BMSzojEADa7+/7+/v77+/aAAAPK2lzdFUkHyZPaqatOycTDwAAANrv7/v7+/vv79ra2tra2tra2trQyLurjmyS0Nra2tra2u/v+/v7++/v7+/v7+/v7+/v7+/v7+/t6+/v7+/v7+/v7+/7+/v6+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/r7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/s"
+}

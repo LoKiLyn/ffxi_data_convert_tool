@@ -1,0 +1,29 @@
+{
+    "id": 4283,
+    "strings": {
+        "name": "Choco-delight",
+        "article_type": "A",
+        "singular_name": "cup of choco-delight",
+        "plural_name": "cups of choco-delight",
+        "description": "The smooth, rich, and creamy flavor of\nthis beverage puts regular chocomilk\nto shame.\nMP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI4MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAoOIA4KDiAKDBAgCgwQIAwMDiAODg4gDg4OIA4ODiAODg4gDg4OIAwMDiAKDBAgDg4OIA4ODiAODg4gDg4OIA4ODiAODg4gDg4OIAwMECAODg4gCgwSIA4ODiAMDg4gDg4OIA4ODiAMDhAgDA4QIA4ODiAODg4gDA4QIAwOEiAMDhIgDg4OIAwOECAKDhIgDg4QIA4OECAODhAgDg4QIAwOEiAODhAgDg4QIA4QECAOEBAgDhAQIA4OEiAOEBIgEBAQIA4QEiAMEBIgDhASIA4QEiAQEBIgDhASIA4QFCAOEBIgDhAUIBAQEiAOEBQgDhAUIBAQEiAQEBQgDhAWIBISEiAOEBQgDhAUIBASFCAQEhIgEBIUIA4SFCAQEhQgEhIUIA4SFiASEhQgEBIUIBASFiAQEhYgEhIUIBASFiAQEhYgDhIWIBASFiAUFBQgEBIWIBASFiAOEhggEhQUIBIUFiASFBYgEBIYIBIUFiAQFBYgFBQUIBAUFiAQEhggEhQWIBIUFiASFBYgEBQYIBQUFCAQFBggEhQWIBQUFiASFBYgEBQYIBAUGiAQFBggEhQYIBQUFiAUFhYgFBQWIBAUGiAUFBggEhQYIBQWFiASFhggEhQaIBYWFiAUFhggFBYYIBIUGCAWFhYgEhYYIBIUGiAUFhggFBYYIBIWGCASFhogFBYYIBYWGCASFhggFBYYIBIWGiAUFhggFBYYIBQWGCASFhogGBYYIBQWGiASFhwgFBYaIBYYGCAUFhggEhYaIBIWHCAUGBggFhYaIBIWHCAUFhwgFhgYIBYYGiAYGBggFhgaIBYYGiAWGBogFBgaIBIWHCAWGBogFhgaIBgYGCAUGBwgFhgaIBYYGiAWGBwgFhgcIBgYGCAYGBogFhgaIBgYGiAWGBwgGhoaIBQYHiAYGhwgFhgcIBQYHiAYGhogGBocIBQYHiAYGhwgGhoaIBgaHCAWGh4gGBocIBgaHCAYGhwgGBoeIBYaICAWGiAgGBweIBwcHCAaHB4gGBweIBocHiAYHCAgFhogIBwcHCAYHB4gGhweIBwcHCAaHB4gHBwcIBYcIiAaHB4gHBwcIBocICAaHCAgGBwiIBoeHiAeHh4gGhwgIB4eHiAaHiAgHB4gIBoeICAeHh4gHB4gIBweICAcHiAgICAgIBweIiAcHiIgICAgIB4gICAcICIgHCAiICAgICAiIiIgHiAiIB4iJCAiIiIgHiIkICIiIiAiIiIgICIkICIiIiAgIiQgICQmICQkJCAiJCYgJCQkICImKCAmJiYgJiYmICQmKCAkJiggJiYmICQmKCAoKCggJCgoICQoKiAqKiogJiosICwsLCAuLi4gP////////////////////////////////////////////////////////////////////////////////////////n5+fn5+fPn2NLIyMrN5PP5+fn5+fn5+fn5+fn/////+fTp6eTFXkVLT1kwNDAxXr/k6enp6enp6en0+f/////5+ekPIkliTFBVOzI3NERiWCIPAAAAAAAA6fn5//////n54yxMaWNQTEg+NDs0Y2NZWAsGAAAAAADp+fn/////+fnNWHJtcE5+eT43NDJMY05pLRAAAAAAAOn5+f/////5+bVwcp9yWaBwSDs+N3yTTkw0EgAAAAAA6fn5//////n5rJOYn3KJtG1PREQ+gqldTl0TDQAAAADp+fn/////+fehk5O0pMLOeVo/RD9wqYdOVQsGAAAAAOn5+f/////59HeTq9mr296IYktIRHm6m05VJQcAAAAA6fn5//////nvT5jW9t3l3pRoT1BEbb6TXF0tExEOAADp+fn/////+eRapNn13ebdlGhQUFx+x7hyUUZOOSUJCOf5+f/////52H605fXb7dWqaG50dJTCuIJRFDdCVWc2j/P5//////TIoKvt+t3w2aqDdH6knMzJf2MbKx8fNVVtZe//////+cWg0ev92+7au5uDpKWuzLupXBwVCiUoHERnXv7////3taPR8P3b7tPJmJSco7K7wslZGxkNDh4YHD4n9P////Sho9Hm/dvw076roKSgnMnCwmkUGg8AAAhBSCu/////8W+p0fL73eji1aWmpq7GvsbGfz8mCAAAAKFLKzH////sRZzZ++a7jmZXW1dSU2SMu8Z/TC0JAAAAp4srKv///+RMqeuiV2BqcWZ2gXZmZkpNgKlpNS0TCA9liysx////zWm+W2t2dn2BhoaBgZaWkYZ6ZIVEMDcmJSt7aMX////IpG0kQGZxhpKSjYaSsLzE0IZTZHgwMDg3ed6u7P///8iHAwwzQGqRlZ6evL3LvLPDhiE8pC94pOH4vlT8////yGkzFilDW2xKOjw6Vmx6s8OKFk2oAod8mrmP6v/////cODMbAUNzgFM8PDxRbI7Dz4pNX5AFFx0e1PP5//////mgRCApQolzUThDOlFzo87Vu4CaCg0NDQ3p+fn/////+fmTOT1OiZBcRz1HUYS+2uK6mgkAAAAAAOn5+f/////5+enSj2h4qalpaXV1o9a5l5nU6enp6enp6fn5//////n5+fn56t/IyMjIyMjKzdzs+fn5+fn5+fn5+fn///////////////////////////////////////////////////////////////////////////////////////8"
+}

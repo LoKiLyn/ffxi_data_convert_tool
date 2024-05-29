@@ -1,0 +1,29 @@
+{
+    "id": 5200,
+    "strings": {
+        "name": "Pescatora +1",
+        "article_type": "A",
+        "singular_name": "dish of spaghetti pescatora +1",
+        "plural_name": "dishes of spaghetti pescatora +1",
+        "description": "3 1/2 times better than the spaghetti\npescatora your mom used to make.\nHP+15% (Max. 160)\nVIT+3 MND-1\nDEF+22% (Max. 70)\n\"Store TP\"+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTIwMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgIcIAoKCiAKCgogAAYcIAAGICAADhIgBAgcIAQKHCAACCIgDg4OIAIKICAEDB4gEBAQIAAGLCAEDCAgAg4gIAAKKiAECiggBgwmIAAMKCAUFBQgAAouIAAOJiAACjIgAgwsIAYSICAEECYgABAoIAwUHiAAEiggAAwyIBYWFiAEECogBBImIAAQLCAIFiAgDBAqIAQcFiAGFiIgBhIqIAIUKCAGEiwgABQsIAoUJCAKFiIgChQoIBgaGiAIFCwgBhQqIAgeGCAEEjIgGhoaIAAULiAMGCIgABYsIAASNCAKFiggBhQuIAAWMCAcHBwgGBoeIAYaJiAGFiwgBBQyIBwcHCAaHB4gBhwmIAYYLiACGC4gBBY0IBwcHCAEFjIgBhouIAgYMCAKGDIgHh4eIAYcKiAGICQgHh4gIAwaLiACGjIgDiIeIAYaMCAQICQgEhwqIAYaMiACGjYgEhowIBweJCAgICAgCiAoIAQcMiAEGjggDiImIAwcMiAGGjQgCB4wIAgcMiAOJCAgDB4uIAQcNCAIGjggICAgIAgeMiAIHjQgAh42IBQiKCAiIiIgDiAuIA4eNCAKIDIgIiIkIAgeOCAOHjIgAh44IBQiLCAIIjAgBiA2IA4eNiAkJCQgFiQsIBQeNCAaJCogDiQwICQkJiAIIDggHiQqICQkJiAaIjAgDCI2IAggOiAKJDQgJiYmIBYmKiAWKiIgECQwIAgiOCAeJCwgDCI4IAgiOiAkJiogIiYqIBYmMiAoKCggGCYuIBAmNCASJDYgHCYuICYmKiAqKCYgHCYyIAwkOiAoKCogJigqICgoKCAkKCwgICguICYoLiAKJjogJCguIBgoMiAQKDYgFiY2ICAoMCAqKiogJCouIBwoMiAiKi4gHCwuICAoMiAOKDwgJiowIAooPCAqKiwgICg0ICwsKiAkKjAgECo2IBIoOiAoKi4gJiowICAqMiAQKjwgKCwuICwsLCAeKjQgKCowIBgqOCAoLDAgJCoyIBAqPCAsLCwgGCw2ICgsMiAqLDAgJiwyICQqNiAUKjwgKCwyIC4uLiAYLDwgLi4uICwuMCAqLjIgIiw2IBIsPCAqLjQgJi40IB4uOCAsLjIgFi48ICouNCAgMDYgMDAwIDAwMCAaLjwgKjA2ICguOCAeMDogLDA0ICwwNCAsMDYgGjI8IDAyMiAuMjYgLjA2ICowOiAuMjggMjI0IC4yNiAsNDYgJjQ4IC4yOCA0NDYgMDQ4ICg0PCAwNDogMDY4IDI2OCAyNjogMDY8IDA4OiA0ODggNjg6IDQ4PCA0OjogODo6IDY4PCA2OjogODo8IDY6PCA8PDwgODw8IDg8PCA8PDwgMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyJCQkJCQkJCQkHhnTEdBQUdMWniQkJCQkJCQkJDIyMjIkIVsbGxsWkE0PFqAmq6umnhaQTxHWmxsbGyFkMjIyMiQkGwAAw1PjcLd3dzc3uLm6+vu3p5PFQMAbJCQyMjIyJCQZw1PtMfHx8e9u7W1tcLc6evz+fnMTw1nkJDIyMjIkHA0nr29w8Oxu7W1tbi4uKy9z+nh7/n2nkF4kMjIyMhwR7W7u7WgnLHQ1byzi3aS2+jn1NnU4fX85FpwyMjApUHHtbumnMfe0E0XK2WYq1MrUWjJ8t7E3Pz871qbwMhMw7u1pqi6zXxWMBc6HBwrNVfJs2I7oenE1PP85mfIkHDCu6ycupExBAwLFDUeDytqgkRFSiUSZOvE1Pz8sJBM4bisjpSRGgUfXYIfOD8MG2I3FxxQOhMBLtq+4fr8bGfpx5x/lHkJaIJqQCgpSAgHRIlRN1AZGCpt6arH7/yApeLejp17HRZuckgshXRiKAsxUUh2KzkfYFUrjrjh+cjX3t3CinsIOGZdJCQtMnp+KBM/XHZlXDNfFCMmh9T669fh7emdax5zcUY2ThEOWPFpIUUxyWVWUEpkYYio1PzhsOHw8r7EkqJ3QCiTN0ZX3+wxZTDJaGgMJ9DRwajh/Mib4uv75OTR1bx2dG9Db4Kr02hoVquCUwZShqN7qO/8pZvS4vvw7e3RX6O6ShpNxtOtn0lps2E/ZG3uxYG7+fqQpZrh8v74+PGEN26/XFA/SmK/UW+hpKljlNmkndT8sMDIm9Lk+vn4+OiJarefJCdIGyI+DCx5VFuniKfP+febyMDAcNLp/fv9/eeLn6JedYxJMQsEEOO2fIiRvvb8cLDAyMiFeMPp//37/vbfzreJYGKCbnbG5NSXnc/394CFyMjIyJuAWpnp+v/9/v7yvITYq2+Pwc2vlLbh/OBnhZDIyMjIkJBsIH3M6fn9/f798uPaxa+vxdDn9/SWL2yQkMjIyMiQkGwAAi99tOLz+fn5/v7+9u7z8+CWLwIAbJCQyMjIyJCQbAAAAAIKL1mVytbl6uDKuX09CgIAAABskJDIyMjIkJBsAAAAAAAAAgIDAwMDAwMCAgAAAAAAAGyQkMjIyMiQkGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbJCQyMjIyJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJDIyMjAyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMg"
+}

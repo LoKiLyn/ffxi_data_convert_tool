@@ -1,0 +1,29 @@
+{
+    "id": 4287,
+    "strings": {
+        "name": "Opo-opo Tart",
+        "article_type": "An",
+        "singular_name": "Opo-opo tart",
+        "plural_name": "Opo-opo tarts",
+        "description": "Even Opo-opos cannot resist the\ndelightful aroma of this titillating\npamama tart.\nHP+12 MP+12 INT+4\nMP recovered while healing +3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI4NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAICAggCgoKIAwMDCAMDg4gFBQWIBQWFiAUFhggFhYYIBIWGiASFhogFhgYIBQYGiAQFhwgEhgcIBYYGiAWGBogFBgcIBIYHCAUGBwgGBoaIBIYHCAOGCIgGBoaIBYYHiAWGhwgEhggIBoaGiAYGhwgDhgkIBQaHiASGh4gEhgiIBYaHiAaGhogGBocIBYaHiAQGiAgEBgiIBgaHCAUGh4gFBoiIBIYIiAaGhwgGBoeIBQaICASGiIgGhwcIBQaICAUGiAgFBoiIBgcHiAYHB4gEhokIBwcHCAaHB4gFBokIBQcICAWHCAgEhoiIBocHiASGiYgFhwiIBQcIiAaHCAgHBwcIBQcJCASGiYgGhweIBQcIiAQHCQgGBwgIBAcJiAeHh4gFBwkIBQcJiAYHCAgFhwiIBYcIiAUHCQgEhwmIBweICAUHCQgHh4eIBQeJCASHCYgGB4iIBIeJiAUHiIgEh4kIBYcJCAQHiYgHh4eIBgeIiAcHiAgFBwoIBgeJCAWHCYgEh4mIB4gICAUHiYgFB4mIBAeKCAWHiQgEh4mIBwgIiAaHiQgFh4mIBYeJiASHiYgFhwqICAgICAcICIgGh4mIBQeKiAeICIgGh4oIBQgKCAUHiggGiAmIBogJCAWICYgHiAiIBQgKCAgICAgFh4oIBQgKCAWICYgHiIiIBYgKCAiIiIgFh4qIBYgKCAeIiQgFCAqIBoiJiAYICggFiAoICIiIiAWICogIiIiIB4iJCAaICggFCIqIBoiKCAWIiogICIkIBwiKCAYIiggJCQkICAkJCAaIiggFiIqIBIiLCAaIiogGCAuIB4iKCAYIiogICQmIBwiKiAkJCQgFiIuIBgkKCAYIiwgIiQmIB4kKiAcJCwgJCQkICIkJiAaJCogGiQsICYmJiAYJC4gIiYoIBwkLCAYJiwgGCQwICAkLCAeJCogIiYqIBwmLCAmJiYgGCQuICQmKCAmJiYgHCQuICQmKCAcJiwgGiYuIBwkMCAoKCggGCYwICQoKCAkJiogHCYuICgoKCAiJDAgGiguIBomLiAmKCogICYwIBgmMCAmKCogKCgoICYoKiAiJi4gHiYuIBwoLiAaKDAgIiguIB4oMCAmKCogGigyICoqKiAcKjAgHigyICgqLCAaKDIgKioqICgqLiAoKiwgHioyICIqMiAqLCwgHio0IBwqMiAsLCwgKiwuICYqNCAcLDQgICw0ICosLiAsLCwgIiw0ICosLiAaLDYgIiw0ICAsNiAuLi4gLC4wICgsNCAeLjYgLC4wIC4uMCAeLjYgLjAwICQuOCAuMDAgJi44IB4wOCAqLjYgIDA4IDAwMiAiMDggMDI0IDI0NCA0NDYgO3t7e3t7e3t7e3t7e3t7e3n5+3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7eGmppSfn5+Ui4mBtMrn7e3t7e3t7e3t7b29vb29t25ASAUGCg8PDwYGBQU1KkCUvb29vb3t7e3tvb2JiVsaDgUGEy4iLjs2JhsPDw8GBSoabom9ve3t7e29vXsABAYTFjZDeYSRp7ajhGhQLi4OBgcCW7297e3t7b29GgoTImiVrMvi8v39///+////kVA2Jgcagcrt7e3ttG4POwS5297e1+Le5u7p6e7y9Pvpv5VdNhNIe+3t7e1iDkOn//bb18mGj3hOOjo6hpLa8enm18tyNhtA1O3twjVdxtLX18A6NC03KB8tKSkxMSktdu7029e2UBOL7cqBItfu0sBfQS08Y9ivSnFeQmM6KRUlJbDx29K2UIHCtBO//tKGNDxtmnFHl5daZchUl5e4fEocLVny29KdNpSBXd7XhmCCvIJWqX1hbKvq882QWqLg7LhKHDT00styi4mdy8lWkOz3tavw2KBn3Pf545xnfNav34p8JVH0y6c7aMvSjU+Q6Lt1xfz13GxFWmyQYU9UVmGXbLuKJdriuV2VxqReY1Z6nHRh6PeQVMjkq2dhw9/ThWd9ZYI0m/K5jKO/ZN/vumOc6Kl0gGN9/Pr6olbH5PjIZ4XIxU9R8saMp7+lup7Ma8Hl3LVrg87g3ODRWHSvvtFY0ejrdCX2v6OVrDpTU0FrnNHdiGR4ma7FhZB4ZH1PU05TuplOKfu2p3+EatCSJCQkeHyIdFhWk4Nrqc2QiMTPdElfSVE38aOVeXeDsR44k7E4Pmaok1NTk9XVsyilxK6HZD6TrXPilWhdeXc4TVeZloZEnsTOqHCcs56hGVmTaigZSUmzsNJyQwddkZtNOHZ+TDCeqJmHHk1mg1c+LB4+KB4sRB6ynV0PqiJ5oxEsDAwnJ0x2VR5NRC8REUSWVScePVx3MLloG4nZezZdM2k5DD1LJx49TI+PTAxMd2kwJx4ndydcaDaJ2e23aDt/bxcdVYZVLxFMaXBcER0nPS8dCRAXeXk7O7ft7e2LUBZDMyMQIx0NCS9LVTkQFA0JEhQgEHlQG0iJ7e3t7bSLNQouXVAjCQ0XFx0LFCNcEggSM0MrDg4hpr3t7e3tvb2BAAEHExsmMks/FxALIysjQzsiCgYDAIm9ve3t7e29vYmJiVIhEwUFBwoTDw8PBgUGGyI1UoGJib297e3t7b29vb29vb20i3tubmJbW1t7gZ+qvb29vb29vb3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e0"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 5979,
+    "strings": {
+        "name": "Dulcet Panettones",
+        "article_type": "A",
+        "singular_name": "plate of dulcet panettones",
+        "plural_name": "plates of dulcet panettones",
+        "description": "A felicifruit fashioned into one of the\nmost succulent desserts Adoulin has\nto offer, thanks to the expert hands\nof local patissiers.\nMP+6% (Max. 105) INT+8\nMP recovered while healing +4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTk3OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAgIgBAQEIAQEBCAICAggCAgKIAwMDCAMDAwgDg4OIAYGJCAQEBAgEBAQIAgKIiAGCCggDg4aIAIKJCAGCCogCAwiIBISEiASEhIgBBQWIAIQHiACDCYgCAosIAgWFCACDiggFBQUIAgKLCAUFBQgDAwoIAIOKCAGECYgFhQWIBYUFiAKCi4gCBAmIA4QJiAWFhYgDA4sIAQQKCAMDC4gFhYWIAocEiAOECggGBgYIAoSKCAGEiogDA4wIBgYGCAGFiYgDA4yIBgYGiAQECwgDBQoIA4QMCASEiogBhQsIBoaGiAQEDAgGhgcIA4QNCAaGhwgFBIuIBwaHCAUFiggCBYuIBASMiAWGiAgFhgkIBAWLCAKFiwgDhI2IBwcHCAaHB4gGhoiIBISNCASIBogFhYsIBwcICAeHh4gDhguIBISNiAUGCogGh4eIBQeICAUFDQgGBomIBYWMCAgHh4gHh4gIBQaLCAcHCIgHh4eIBYWNCAKGi4gIh4eIBgaLCAUFjYgHB4iIBAgJCAgICAgFBosIBAaLiAYGDIgICAgIBoYMiAeIiAgJh4kIBQYOCAmGiogGBg2ICIgICAgHiQgGBowIBYcLiAWGDggIiIiICYiICAcHDAgIiAkICIiIiAaGjYgHBo2ICgkICAkIiIgIiImIBQeMCAYGjggJCIoIBoeMCAeHDYgJiQkIBocOCAWIDAgJiQiIB4cNiAqJiIgFiAyICYmJCAeHjggKCQmICAeNCAsJiQgHCIyICYmJiAeHjggHB46IC4qHiAoJiggIB46IComJiAqKCQgKCgoIC4oJCAgIDggMCIuICQmLCAaJDQgICI0ICooKCAgIjYgLCokICwoJiAiJDQgIiI6ICooKiAmJjIgJCQ4ICIqLCAyKiYgLiooICwqKCAuKiogJiY2ICQkOiAgKi4gMCwmIC4sKiAsKiwgICg2ICYmOiAwLCogNiwoIDAsKiAuLC4gKioyICQoNiAmJjogKC4sIDIsKiAuLCwgKCo2IDQuKiAsLC4gKiwwIDAuLCAiLDggNC4sIC4uLiAoKDogNDAqIDwwJiAyMCwgODAqIDYuLCAwMC4gMC4wIDQwLCAuLjQgLCo8IDQyKiA2MCwgNjAwIDQyLiA8MCwgODAwICwuOCAwMDQgNjAwIDYyLCA6MiwgODIuICwuOiA0MjAgODQsIDYyMCA4MDIgOjIwIDY0MCA2MjIgPjQuID4yMCA4NDAgOjQyIDw0MCA4NjAgOjQyID40MiA0NDYgOjYyIDI0PCA+NjQgNjY4IDg4NiA8ODIgPjg0ID46NCA+OjYgPDo4ID48NiA+PDggPj46ID4+PiAAAAAAMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyJqampqampqampqampqampqampqampqampqamprIyMjImpJ6enp6enpeQTUuJycnJycuO1Fmenp6enqSmsjIyMiamnoAAAEEBw0jO2qYrq6tjmo1FQkFAwAAepqayMjIyJqaegAFCTKYzs6kiH5xdneIiJm3uWoeBwJ6mprIyMjImppRBzLHzauOeXZ+jqGhlo6Idl5hiN6MDSuamsjIyMihcRR33qyMob+Yempkf4KCgnJ5fnFkS4jfJyKayMjIyGoct82jpMXctFtBPzU9PT0/PVBQeadxS1rqWhTIyMiaFM7NrLPR3OFyWGJPQDY2OUJGTFtbtMBxVWToSkHIyByOyrK5zNHng3xfTTwxKioqKjxwoIJ/wMBxXUvxHJqSNceY1szR4aCNe19NODEkJB0dPFd7pp60z61qRX3AHBTHt8Lm5dzBjZOBVzQkJB0ZGR0kTWONpp7Ixa1qEOhaHNXHwuzs0KmThm40JB0PCwsPEhkxY4aTosO6oXZkm4pB1dHV7u7br4ZuST4+TXBwfGkfEiRNgZOcu8WnkmyIo1ro3+Xx9tu2dXWGl5yXiYScsMm2cD51k6K7z9ehiJCycdnf6/f58L18jZyTiVktLTlZfKbTvYGUtsPj16SZmbJKnc7i8/v1r4SJhDwODhMmNzcmNpOwyZzB5ua5s4JtfSLi7N/p+/qve4k2ISEhISEpQ2BUH4ampsTt6qS3ls07HNXs6ev3+9J7hFQvGBgYMFJogItCQHyP5u3jrK231RySQevr6+X99XNzZyERGClHg5Gfn6B4a6jq5szOrMpaksgcx8vi7O7+0nN0KREbMFxnkcbavKB44+bXuaqruhzIyJYczeLz2Pf4u5E3ICkwUmeHvPLgpdDd17+zZcUUmsjAyGYi5v3z7+nxxGgpFzM6aIC14MHj1N20rbjFHHHIwMjImmYUs/zY3t/f9J5WGhYzkcbEt8/UlbLHfhR2msjIyMihmlEIQbje6/z50OjPLE7DtLPFwrKVuTIHUZqayMjIyJqaegACCjKQ7uuxvsdO0Z1vvtW/eSMIAgB6mprIyMjImpp6AAAAAQYMHj95tMjAoVsyHgoFAQAAAHqamsjIyMiamnp6enp6enpeQTsrJycuO1Fmenp6enp6epqayMjIyJqWmpqampqampqampqampqampqampqampqalprIyMjAyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMg"
+}

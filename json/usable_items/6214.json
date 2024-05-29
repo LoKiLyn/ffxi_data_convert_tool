@@ -1,0 +1,29 @@
+{
+    "id": 6214,
+    "strings": {
+        "name": "Marg. Slice +1",
+        "article_type": "A",
+        "singular_name": "slice of margherita pizza +1",
+        "plural_name": "slices of margherita pizza +1",
+        "description": "The perfect harmony of basil and tomato adorns this slice of margherita among margheritas.\nHP+35\nAccuracy+10% (Max. 9)\nAttack+10% (Max. 11)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjIxNCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAgUIAIIFiAECBYgBAgYIAQKFiAGChogBAoaIAgOFCAGDBogBhIOIAYSEiAIDhggCAoeIAgMGiAGDBwgBhQQIAYOHCAGDh4gCBQQIAgMICAIDhwgCBYSIAgWFCAIECAgCg4iIAgOJCAKEB4gCBgSIA4SGiAIECIgBhAiIAgSIiAIECIgChIeIAwOKCAMEiAgDBQeIAgSJCAKGhQgChgYIAgSIiAMECYgCBImIAwUICAMGhYgDBgaIAgUJCAIEiYgBhImIAwUIiAKFCYgEBoYIAwUJCAIFCggBhQoIBAWIiAKEiogDhoaIAwcGCAOFiIgCBQoIA4WJCAOFiYgCBQqIA4WKCAKFCwgFBoaIAweGiAOGCQgDBQqIBAaIiAKFC4gEBwcIA4cHiAOGCQgChYsIA4ULiAQGCQgDhwgIA4cHiASFiggEhYsIA4gGiAKGCogDh4eIBIaJCAOGiYgEBwgIA4gGiAQGiYgEBooIBIYKiAMGC4gEhomIBQcJiAQHiIgEhgsIBIYLiAOIh4gEhwoIAwaLiAQICAgECAgIA4cKiAUHiYgEhosIBQYMCAQJB4gChoyIBAcLiAUHCwgEh4qIBYaMCASHiggEB4qIBoeJiASHiggEhwuIAgaNCAQJh4gEiAoIBYcMCAgIiIgHCAkIBQgKCAWICogFBwwIBYgKiAUICogEB4wICIiIiASJiAgGiAoIBggKiAiIiIgFiIqIBwiKCAWICwgFiAsIBYgLCASIi4gGCIqIBQgMiAWIiwgGCIsIBYgMiASIDQgFigmIBYkLCAQIDggECI0ICIkKCAaJC4gJCYmIBokMCAUJDAgGigmIBgkLiAYIjIgFCI2ICYmKCAiJiogHCQwIBomLiAYJDQgKCgoIBwkMiAWJjIgFCYyIBwmLiAcJjAgHCoqIBYmMiAiKCwgHCguIBwmNCAYJDggGigwICQoLCAWJjQgHCY0IBwmNiAcKDIgHCg0IB4qMiAeKjIgHCo0IBgoOCAeLiwgGiwwIB4qNiAcKjQgHC4wICAsMiAaLDYgHiw0ICIqNiAgLDQgHiw0IB4sNiAuLi4gICw2IBwuNCAaLDogGi44ICIsOCAiLjYgIC42IBQwOCAiLjYgHDA4ICAwNiAkMDYgIi44ICIwNCAkLjggHjA4IBoyOiAgMjogJjI4IB4yOiAeNDggIjI6ICQyOiAiNDggHDY6ICQ0OiAoNDggJjQ6IBw2OiAgNjogKDQ6ICY2OiAqNjogHDg8ICQ4OiAmNjwgLDY6ICo2PCAmODogKjg8ICI6PCAoODwgLjg8ICA8OiAoOjwgMDg8ICw6PCAwODwgNDo8IC46PCAwOjwgNDo+IDg8PiAAAAAAMnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJyaampqampqampqampqampqampqampqampqampqbJycnJppqDg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ezmMnJycmmpoMAAAAAAAAAAAAAAAAAAAAAAAAAY2ZgT3KuycnJyaamgwAAAAAAAAAAAAAAAAAAAAAASlVQKBwTLpjJycnJpqaDAAAAAAAAAAAAAAAAAAAAo4xYJxcLEBMumsnJycmmpoMAAAAAAAAAAAAAAACVqpuymUQnFgoQFzSaycnJyaamgwAAAAAAAAAAAACRiKjPyI9YRFMnExAKNJrJycnJpqaDAAAAAAAAAK+Kq9XU0/Thv2d4hFktEwpDpsnJycmmpoMAAAAAAJGkz8bo4Pjo+erVlHh4bDsnOnuhycnJyaamgwAAcIF1Tl6/3dnj4Pnv6uqdHCc7LUl0pqbJycnJpqaDeUdWX15cOLTazNbx8fTq4b07J2e+xXympsnJycmahzwsLEU/dqVRk8vh3+nz5+zX5KzB4+N/g6amycnJyUk+PCIFGkaw3tNtl8r4+u359+zi8O7l2GuDpqbJycnJdFc/GAMqTX/D0YJldtz9+f348Ozp6enWcYOmpsnJycmJZFcbAxgmRl13lo+48fT8/vz33ebZv7Z6g6amycnJya6NczUFEiZMQDdtl8rv6en8/Prt7e/gkgCDpqbJycnJoa2caBsFHjAgIB9Uv+jz7dv86+vbw8hrAIOmpsnJycmmsqlXIAkVICkzHzGxzuXz4Ljn9c20yGIAg6amycnJyaaukFoiEQYYKS8zSF1/n8XWvLjg07i1AACDpqbJycnJpqaOclYiEQkSKTM9N0I9QWqgsbanb1IAAIOmpsnJycmmpod1fWlkJAQHIDAmMSs9L1RuYUEqIwAAg6amycnJyaamg8CyubqAMg8EBxIfHiYpICAkFDkZAACDpqbJycnJpqaDAMDS3MaZPg8JBAQCAwYJDxUNIQAAAIOmpsnJycmmpoMAAK/QxrmLTjIbFQ4FAQEBAQ4IAAAAg6amycnJyaamgwAAAJW7wrq3i4CLZEsyMiIMJR0AAACDpqbJycnJpqaDAAAAAACvx8SQnp6QPD5kTkuBAAAAAIOmpsnJycmmpoODg4ODg4ODg3t8hYZWTkVahYeDg4ODg6amycnJyaahpqampqampqampqampqampqampqampqamoabJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJycnJyck"
+}

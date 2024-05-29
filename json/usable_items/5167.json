@@ -1,0 +1,29 @@
+{
+    "id": 5167,
+    "strings": {
+        "name": "Coeurl Sub +1",
+        "article_type": "A",
+        "singular_name": "coeurl sub +1",
+        "plural_name": "coeurl subs +1",
+        "description": "Coeurl on bread doesn't get any better\nthan this.\nMP+15 STR+5 AGI+1 INT-2\nAttack+22% (Max. 80)\nRanged Attack+22% (Max. 80)\n\"Resist Sleep\"+1\n\"Resist Stun\"+4\nHP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE2NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAQKIAACECAICAYgAAIaIAYGDiACAhYgBgoIIAoKCiACBBogCgoKIAgKECAEBhYgCAgUIAoMDiAIDgwgDA4MIAYGGiAMDA4gCAoSIAgKFiAIEAggCA4OIAgQDCAKDhAgDA4OIAwOECAGCCAgBgoaIAQGJiAGBiIgCBAQIAoUDCAEBiggBgoiIAoKHiAIFA4gEBIUIAgOHCAEBiwgCAokIAgUECAKEhggCAooIAwUFCAIDCQgCAoqIAgSGiAOFhIgCBgQIAwOIiAIDCggChQcIAoYEiAQFBggCAg0IAgYFCAOECYgDBYYIAgMLiAKGhIgDhIkIAoQKCAIGhYgEhgYIAocFCAMEiYgDhYeIBAUIiAOGhggDAw0IBIYHCAKHBYgChwYIA4WJCAKHhYgDBwaIBQWIiAOGCAgEBAwIAoeGiAWGhwgEBgkIA4SMiAQFCogEhoiIAwgGCAOGiQgEBQuIAoeHCAWGCYgFhwgIBQeHiASHCIgEhomIBIcJCAUHCIgGBwgIAoiHCAeHh4gEh4gIBAcJCASFjAgECIaIBgeHiAUGDAgGh4iIBQeJiAcHiAgHBwmICAgICAUHiYgFCIeIBYYNCASJBwgEh4qIBgaMCAUICggICAgIBYgJiASGDggGBwsIBAmHiAQHiwgFCAoICAiIiAeIiQgHBo0IBYkIiAWICogFBwyICIiIiAeJCIgEiYgIBgiJiAYICogFiAqIBgaNiAUICwgIiQkIBgiKiAcJiIgHCQmIBwaOCAWKCIgFCIwIBYiLCAYHjQgGiIsIBYiLiAkJCQgGCQsIBokKiAUIjAgFiogICAgMiAcJCwgJiYmIBgkLiAmJiYgFiQwIBIsIiAcJiwgICYqICYmJiAYJi4gGiA6IBgkMCAYJDIgKCgoIBYuIiAcJi4gFiQyIBomMCAYLCYgHiomIB4oLiAaJjIgHiYwICgqKCAYJjQgJCosIBwoMiAgKDAgGig0ICIiPCAqKiogHCg0ICAqMCAmLCwgKioqICAqNCAsLCwgHDAoIBoqNiAiKjIgJCowIB4qNCAYKjYgHCo4ICwsLCAiLDIgHio2ICwsLCAgLjAgHiw4ICYsNCAuLi4gICw2IBwuNiAcLDogIi42ICowMCAkMDIgHi44ICYuNiAeMDggJjA2ICAwOiAkMjYgKDA2ICIyNiAgMD4gLjI0ICYyOCAiNDggKDQ4ICo0NCAsNDggIjQ6ICg0OCAwMD4gMjQ0IC42OCAqNDogJDY6ICg2OCAuNjggMDY4ICw2OiAmODogMDY4IC44OiAyNjogNjg4IDQ4NiAwODogNDg6IDA4OiA0OjogNjo6IDQ6PiA2Oj4gODw+IDw+PiA+Pj4gM/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8jAvrq6ur7Ly8/Pz8/Pz8/Pz8/Pz8/Pz6mpqampqZ+DYWBdXV5XVVVbbJapqampqampqanPz8/PqamDg31jYW91iJelpZ6VlZV7TlFug4ODg4Opqc/Pz8+pqYMINneMl4GMl6WlpbbF1tbCmXMlAAAAg6mpz8/Pz6mpgzZ3q5eXfIyXnqWxv6yxzdre0qg2CACDqanPz8/PqaljX4GUknxvfIyeu6CtoLGszc3e3tJHCIOpqc/Pz8+plmpva5eBZWV1gYiemaCglbTC0tba6t1Hg6mpz8/Pz6l2ol80dW9Xb298iJWZmZmRrLvG1trh7MxuqanPz8/Plo5qRR8fZHVrb2V1ipWZmaystLTY2+Hw64Sfqc/Pz8+Dw2RLKRALXpdra4yKlaCgp6y0wtHY4evs7YOpz8/Pz32wmIYsFwwEQ7CisrLFxaensbjK2Njg5uzylp/Pz8/IfrDDtTgXFChYh8Tk17atra24u9DN2ODm6u/Vi8/Py8h+osOoKRcOGyhpdJzDt5ylsbjFzdPc8eby6uqLz8/Ly36it1wxJBANGy1meXXOsrG/v9PX6unm4urt8qPIz8/PfcOYRSQxEBQdFHSPPVK3t8PX5Nnk8+Lx6e/4vcDLz8+LvLJFMTwgBScGC3h0RFKU3O7u5OTp4vHb7/fUvs/Pz5ajooBBNTUpLiEBNKaJMlLO8/Pz6enx5urt+N+6y8/PqX3Dr0EPEhVKNwkDQqaJI17z9+7k8uLg6u/3vcvPz8+pi7zkMQ8QChhTKwMbU2ZpPZT29vv9/PHy9veLz8/Pz6mkbOTkLBgQEG25DQI3U1RxXuP////8+f369YvPz8/PqaluteRRBxAQH5t/ChE3Pjk9Wt///vzx/f2ppM/Pz8+pqYMlzI5IFylISEYTDkY7HD1mOYfu8fn+6Iupz8/Pz6mpgwAltVxLSzU1Ii4QVOc5BUCCOUTM/fRuqanPz8/PqamDAAhwVktBPDUpMw0YuXQJGF2TMibMJYOpqc/Pz8+pqYMACExySzhQSTg4LwccTzMcMFJCmCUAg6mpz8/Pz6mpgwAIOmdWUGJ6eklZPwseLigqH1+dGgCDqanPz8/PqamDABpwqpChoVZiYj/VsxMrOy0WGQgAAIOpqc/Pz8+pqYODdlyaenqFha6FaGx9bnZqTWODg4ODg6mpz8/Pz6mkqamphI1WSYXBkGyfqaSkqaSfqampqamppKnPz8/Pz8/Pz8/Ps4Ryha+ky8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8vPy8C6vs/Pz8/Pz8/Pz8/Pz8/Pz8/Pz88"
+}

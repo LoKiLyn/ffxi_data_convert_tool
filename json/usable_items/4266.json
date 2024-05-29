@@ -1,0 +1,29 @@
+{
+    "id": 4266,
+    "strings": {
+        "name": "Fulm-long Sub",
+        "article_type": "A",
+        "singular_name": "fulm-long salmon sub",
+        "plural_name": "fulm-long salmon subs",
+        "description": "The toppings on this delicious salmon\nsub are piled a malm high.\nDEX+2 VIT+1 AGI+1 INT+2 MND-2\nRanged Accuracy+3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI2NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgoOIAgKECAIDBAgCAwQIAgMECAIDBIgCAwSIAgOECAKDBAgCgwQIAoMEiAIEA4gCgwSIAoMEiAKDhIgCAwSIAwOEiAIDBQgBhAOIAwOEiAGEBAgCg4SIAoOEiAMDhIgDA4SIAoOFCAMDhIgDA4SIAoQECAMDhIgCg4UIAYSDiAMDhIgCg4UIAgSDiAMDhIgDA4UIAwOFCAKDhYgChASIAwOFCAKDhQgDBASIAwOFCAKDhQgDBAUIAwQFCAMEBQgCg4WIA4QFCAKEBYgDhAUIAwQFiAKEBYgBgweIAoSECAGFBAgCBISIAwQFCAMEBYgCgwcIAwQFiAOEBQgCA4cIA4QFiAKFBAgEBAUIAwQFiAOEBYgCBYQIAoSFCAKEhYgCg4cIAgUECAMEBggCA4gIAwUECAQEhYgDhIWIAwQGCAKEhYgDBAaIAoWEiAQEhYgDBIYIA4SGCAMEBogCBYQIA4SGCAMFBYgDBIYIAwSGiAIEB4gCBQYIA4SGCAMEB4gDBQWIAwSGiAKEhwgDBYUIAoYECAOEhggDhIaIAwSGiAMEhwgEBQYIAoYFCAQFBggChAiIAoWFiAOFBogDBQaIA4SGiAKECQgChgSIAoYFCASFBggDBYUIAoUHCAOEh4gEBQaIAwUGiAKECIgEhQYIA4UHCAMFBwgChYYIAoaEiAQFBogDBIgIBIUGiAQFBogDhQcIAwSICAOFB4gDBIiIAwQJCAQGBQgDBoUIBQWGCASFhogEhQaIBAUHCAMGBYgEBQcIAwWGiAOEiIgEhgWIAwQJiAQFBwgDBQgIBQWGiAMFCIgFBYaIA4SJCAQFhwgDBImIAoaFiAOFh4gDBoWIAoaGCASFhwgDBwUIBYWGiAOGBogDBYgIAwSKCAOGhggEBYeIAwaFiASFh4gFBYcIA4SKCAOHBYgDBoYIBIWHiAUFh4gEBYgIBAUJCAWGBogEBQkIA4UJiAMGhogDhocIBIYICAMGCAgDhQoIBAYICAQFiQgEBYmIBgaHCAOFCggFBgeIAweFiAYGhwgEBoeIBIYICAQGCIgDB4YIA4YJCAQHBogFBggIBAWKCAWGiAgDiAWIAweHCASGiIgGhoeIBQaIiAQFiogDh4cIBQcICAWGiIgEhoiIBAYKCAaHBwgEhokIBAYKiAWGiIgEh4eIBIaJCAQIBogFhoiIBIcIiASGiQgHBweIBIYKiAWHCQgFhwkIBQcJiASGiogFBwmIBIcJiAcHiAgFBwoIB4eICAYHiYgHiAgIBoiHiAUHiggICAiICAiIiAiIiIgIiIkICQkJCAkJiYgJiYmICYmKCAoKCggJigoICgqKiAqKiogLCwsICwsLCAuLi4gP///////////////////////////////////////////////////////////////I1UdWyO9P3+//////////////n5+fn5+fn5+fn5+fIvX+XlmoOEeY6/8vb5+fn/////+ffz8/Pz8/Pz8/O0KUVfudXf5JrVmoFsatDx+v/////5+fMAAAAAAAAAKx5BO3mxysHBscqx246DgU/5//////n58wAAAAAAACQmQUUvgYGisavl28zMgXlfUPT/////+fnzAAAAAAAkHDtPLy9WPFZ5VmaEsauaeWdx8v/////5+fMAAAAALg8vO0UvO0VWWnbIp3twI0p5emLQ//////n58wAAADQPL0FPdnZuuNOhiHK7u4ljZKN/Z5j/////+fnzAAA0Dx4pE2t2kM6Ge4mZu8u7wJWZdkZzjf/////5+fMAJQkeQQw4dEq3gp+lxMmv2uPn17W+zYA4//////n58yUJGRgoHThTklefsuHExNygkKCl0q24x65l////+fnYCQ8pZGsgf7VJcYHP2dvV1Obgr4uoV5O23q7////59xgmHjJ0OWGzYFczVbnr6LHZjqLZue3bq0SB//////l8LB4Yl6a+m1ePKj5xuebw0bDR5cWwq5ywVln/////0AUpCF1ts5lpaT4+cYWf1uHd68WRooSRkVlmVv////98ChQTN5uTgnFnfVJxsql9xubG3d3Kz6smXzxQ/////zIKi11McEiPVTExXH6fspZnfanoz5bZvCaFhW/////1GEeehlFHjzEnEEuHXFt+fWJEVVs1sunr1p9Wav//ipQ6XmFCKlsxIjFbcWdbSzVnNi1ES1VxVX5cZzvs//9NUxU9SDU1JyIScVtcH0Q+Ii0xMz4+VVxicZZFtPn//3NHQCp9NhIiJ0tEMFUfMDUtKio1PkRSYmdiJmr3+f//ZXRIWxISBjEtMBczIiIaDgcOFzA1RFBnViYr8fn5///vBFAxAxASLR8tDhIQBwMFBwcXHyo1UF8mIU7z+fn///8BGgQzFy0zHw4QIgcEAgMDBw4XLDwmHC5OAPP5+f///5gfPEQ1EhcOGhcaDgYFAgYHDRYpJhs0AAAA8/n5////+hgsMycSBwsaDgQGCw42Fw4YHhskPwAAAADz+fn///7/7DsWGhAzLTMfHwstRB8NGRwhNAAAAAAAAPP5+f/////58VQfFyoOFiofHx8WKTKM2O7z8/Pz8/Pz8/n5//////n59eqkKUUpFhgYGMPi9Pn5+fn5+fn5+fn5+Pn////+//////37+/z4+Pr6//////////////////////7//////////v/////////+//////////////////////8"
+}

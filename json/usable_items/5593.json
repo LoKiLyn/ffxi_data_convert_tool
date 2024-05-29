@@ -1,0 +1,30 @@
+{
+    "id": 5593,
+    "strings": {
+        "name": "Imperial Coffee +1",
+        "article_type": "A",
+        "singular_name": "cup of Imperial coffee +1",
+        "plural_name": "cups of Imperial coffee +1",
+        "description": "A rich aroma wafts from this\ncup of Imperial coffee.\nHP recovered while healing +5\nMP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU5MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAQMIAgIDCAIBg4gCAgOIAoKCiAKCgogCgoKIAoKECAODAwgDAwQIAoMEiAODhAgDA4SIA4OECAQEBAgIgwUIBASFCAqDBIgLgwQICgOEiAQEhYgEhQWIBQUFCAUFBQgEBQYIBIUGCASFBggHBAeIBIUGiAsEhQgFBYYICoSGiAoFBYgMBQSICYWFiAiFhggLhQWIBYYGiAuFBYgKBYYICoYFiAWGhwgLBYaIBoaGiAcGhogHBggIBYaHiAkGBogGhocIBQaICAcHBwgJhwYIBgcICAWGiIgMBgYICgaHCAcHBwgHBgmICIaICAYHCAgHh4eIB4cHiAaHCIgLBocICoaHiAiHh4gGh4gIBgeIiAeHh4gHh4eICIeHiAcHiAgGh4iICYcIiAaHCYgLhweICAgICAgHiAgICAgIB4eJCAaICQgGB4oICAgICAsHiAgIiAgIB4iIiAUHiogIiIiIBwgJCAuICAgJCAmICogICAYICggFCAsIB4iJCAaIiYgIiIiICIgJiAqIiAgKCAmIB4iJiAYICogLCAkIBIgLiAcICogLiIeIBgiKCAsIiIgJCIkIB4kJCAeIiYgGiIoICAiKCAWIC4gHiAsIBoiKiA0IiAgFCIuIBwkKCAWIiwgHiQmIC4kIiAkJCQgJCAsIBoiLCAyJCAgKiIoIBYiLiAkJCYgKiQkICgkJiAgJCogFiIuIDIiJCAmIiogMiQiICAmJiAYJC4gLiQkICYmJiAaJC4gJiQoIBwkLCAmJiYgHiYqIDAmJCAmJiYgJiYoICAmKiAiJC4gGiYuIBYkMCAqJiYgKiYoICQkLiAaJDAgKCgoIDImJiAuJiYgJCYsICgoKCAaJjAgKCgqICgoLCA0KCQgKCgoICQoLiAyKCYgHigwIBooMiAuKCggKioqICAoLiAkKiwgLigqICoqKiA0KiYgKigsICoqLCAqKiogJigwIBwoMiAyKiggKioqICgqLiA0KiYgLCouIDAqKiAkKi4gIioyICwsLCAqKi4gKCoyICwsLCA0LCogLCwsICIsMiAuLC4gKCwwIC4uLiA0LiogJCwyIC4uLiA0LiogLCwyICguMiAyLi4gLi4wIDYuLiAwLjIgMDAwIC4uMiA2MC4gNDAwICwwNCAwMDIgJDA4IDIwMiA4Mi4gKjA2IDQyMiAuMjQgNjIyIDIyMiA0MjIgMDI0ICoyOCAyMjQgLjI2IDY0MiAsNDggNDQ0IDg0NCAwNDYgNjQ2ICw2OCAyNjggNjY2IDQ2OCA4NjYgNjY2IDg4OCA2ODggODg4IDo4NiA4ODggODo6IDo6OCA4OjogOjo6IDw6OiA6OjogPDo6IDw8OiAAAAAAMvLy8vLy8vLy8vLy8vLy8udoaGhoaGdy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8i/YUd7bW1te0d7y8vLy8vLy8vLy52dnZ2dnZ2dnZ2dWEJsWqiS1eaSq4xTkJ2dnZ3Ly8vLnZ1hYWFhYWFhbSwwQVyS2698m9aoJ5JTTWGdncvLy8udnWEAAAAAAAAJI0A7LmPJeo6br7E3Hog+VZ2dy8vLy52dYQAAAAAABiQhTEqfYyl+2zcTK343frw9nZ3Ly8vLnZ1tBQUAAAAPTCgSJ7EnFCfVEyDa1aWe1U2QncvLy8udnT1FRQcGDE56OBAnWhw6O7dMJeZaZJ6Gg4Ody8vLy4xG0PLrxLDS2HpaOEE0YnOCh7t1iMN/ep6CYZ3Ly8vIU/DTPjGz4IG8XEBUW6vQc83rwODmkrrM31pNncvLy3vr0zMFBQ4XB4JUeq+ko6Bpuc2WUsHGydF1Ilydy8vCbfptWAAAAAAMglyUNnFLoN3AueDAlpagr5rDmXvLy6yh/IxYAAAAGC1tPzZx1t3w9fj7+Pjr5NSWUrnLbcvLrLL80z0ABRjgzz9Qz/X88eTl3Nzl7fP8/vLNp4RGy8umjvT8vzlF2PnfmvD85cp0ZoCFhYCKnLbc8/74xyzCyMhT2Pr6+fn89On44o9yco2Pa0RERGBwfXa24/f7VqzIy4yO5PT6/Ojd++pdMmaNfVk8HQQNFS9EYF6q2ffae8vIy1VVkJNPD8TvqamiqZVveXlZLx0BDRVEXVei2fdty8vLnYxNBQUP9L5yoqmVeZWRb2VlNTUdDRVEXV6Y56y/y8udnWEABU7zjVeNiW55WUMvGxsbGzwdCBUqV2i+4azLy52dYQAGsOd9jZFfSEgbGx0LCwsNGTwdDSprhcXwpsvLnZ1hAAaw7JePiUMqBAsNCwMDAwMDDRkNKl2AyvGmy8udnWEABk78yn2VLwMDCAQIBAMDAwQDGQ0qa4re9KbLy52dYQAFFvbzrZFWCgQDBAQIAwMNCxoaGlF4vvjarMvLnZ1hAAAHk/7trokmCgQEBAQNGhoqKiovdL7v+23Iy8udnWEAAAAP6PztvW8mCgINGio8PDw1SY/K8/2hocvLy52dYQAAAAUW4Pr53q5lLx8qL1FRUZHO6vb8oVPLy8vLnZ1hAAAAAAURxPr97d7HzsfHztfl7/r+7lVYncvLy8udnWFhYWFhYWE9Rsj2/P7++vz8/f356HszU52dy8vLy52QnZ2dnZ2dnZ2QYUZto8vT2NDClFVNe52dkJ3Ly8vLy8vLy8vLy8vLy8vLy7+spqamprS4wsvLy8vLy8vLy8vLy8vLy8vLy8vLy8vIyMvLy8vLy8vLy8vLy8vLy8s"
+}

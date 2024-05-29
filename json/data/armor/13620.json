@@ -1,0 +1,22 @@
+{
+    "ID": 13620,
+    "name": "Jester's Cape +1",
+    "item_type": "Armor",
+    "description": "DEF:6 CHR+10",
+    "flags": "Inscribable, CanEquip",
+    "stack_size": 1,
+    "equipment": {
+        "level": 54,
+        "ilevel": 0,
+        "jobs": "WHM, BLM, RDM, BRD, SMN, BLU, PUP, SCH, GEO",
+        "races": "All",
+        "slots": "Back",
+        "superior_level": 0,
+        "shield_size": 0,
+        "max_charges": 0,
+        "casting_time": 0,
+        "use_delay": 0,
+        "reuse_delay": 0
+    },
+    "icon_bytes": "kWFybW9yICAgMTM2MjAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADAwOIAwMECAODhAgDg4SIA4OEiAOEBIgDhAUIBAQEiAQEhIgEBIUIBASEiAODhogEBIUIBASFCASEhQgEhIUIBASGCAQEBggEBQUIBISFCASEhYgCAooIAwMJCASFBQgEhQUIAwOIiAICiwgEhQWIAoMLCAUFBYgCAouIBQWFiAWFhYgFBYWIAoMLCAOECYgDA4qIBQWGCAUFhggEhYYIAoMMCAMDiwgFBYYIBQWGCAUFhogFhYYIBQWGCAQEiQgCgwwIBQWGCAUFhggDhAoIBASJCAWGBggFhgYIBQYGCAUGBggFhgYIBIUIiAWGBogFhgaIBYYGiAKDjIgFhgYIBQYGiAWGBogDg4wIBYYGiAWGBogDhAuIA4QMCAYGBogFhgaIBYYGiAYGBogFhgcIBASKiAWGhogFhocIBIUJiAOEDAgEhQoIBgaGiAYGhwgEBIsIBYYICAWGhwgGBocIBgaHCAaHBwgGBoeIBocHCAUGCYgFBYqIBgcHiAUFiogGBweIBYYJiAWGCggGhweIBIWLiAYHB4gGhweIBocHiAYHB4gGh4eIBoeICAUFjAgGBwiIBQWMCAaHiAgGh4gIBgcJiAcHh4gGh4gIBweICAeHiAgHCAgIBgcKiAcICIgGBosIBgcKCAYGi4gHCAiIBoeJiAcICIgHCAiIBwgJCAcICIgHiAiIB4gIiAcICIgICAiIB4iJCAeIiQgHCAmIB4iJCAaHDAgHiIkIB4gKCAeIiQgHiIkIB4iJCAeIiQgHiImIB4iJiAgJCQgHiQmICAiKCAiJCQgHiQmIB4iKiAgJCQgIiQkIB4kJiAgJCYgICQmICAkJiAiJCYgICQmICAiLCAgJCggICQqICImJiAgJiggICYoICAmKCAmJiYgIiYoICImKCAkJiggIiYoICQmKCAiJiggIiYoICImKCAiJiggIigqICIoKiAiKCogJCgqICIoKiAkKCogJCgqICQoKiAkKCogKCgoICYoKiAkKCogJCgqICQoKiAkJjAgKCoqICgqKiAmKiogJioqICYqKiAmKiogJiosICYqKiAmKiwgJiosICYqLCAmKiwgJiosICYoLiAmKiwgKCosICYqLCAmKiwgJiosICoqLCAoKiwgKiosICYoMiAoLC4gKiwsICgsLiAoLC4gKCwuICgsLiAoKjQgLCwuICosLiAqLC4gLCwuICosLiAqLDAgKi4uICwuLiAqLjAgKi4wIC4uLiAoLDQgKi4wICwuMCAsLjAgLi4uIC4uLiAqLjAgMDAwIDAwMCAsMDAgLjAyICwwMiAwMDAgLjAyIC4wMiAwMDAgMDAwIDAwMCAyMjIgMjIyIC4yNCAwNDQgPv7+/vy7rsySdb7+/v7+/37+/v9xoFnMlTW5vv7+/v7+/37+/KoMlhfMtby/fv9+/v7+/KNhW9vPkDm+/v9/fv7+/r8WjJZf1k86fH6+uni8fqaMiYZWWZ8a6vp+vr9+/37+vpkaGFxGiYQEBAOXMFIEw5OgWscRXx/L9/6+vv9+/v6+oVrbU1tJwkYGBkQDh4ODU6QZjhYIo5nSPr6+/v7+/r6el07gHw5Cx4gLhgYIhkcan5mYXhmOIKL+vr9+/v7+vxgfnCHc1kOHCZCGRwrHiCNcE9whIRKgoL6+vv7/fv6+rSAb4d8XxgmOjogICsiPZd/SnCSkmFzg/r6/fv9+/r8vI50gXh4HCxCNyIiLCtYjXRZc5SHayzQ+vr7+/v7+vzFonZ/fokoMzpCKyY5K418c2F/oI1/nfnx+vv7/fv6+sWffHaGhCwuOkUrLDMrrHZwcJunhoal+fr6+/v7+/r60KZ/do+BMzc6Tjk4NzmsdHN+nqaGm6n5+vr7+/37+vrZqo10kn84LDpKMzg9V62Xa4annI6gAPn8+vv7+/v6/Nm2l3iSklksM0REODdqoI10nLCXj6wA+fr6+/v9+/r69rGnfo6UYSgzRT05JomNjpCzw5yUqgD5+vr7+/37+vr2pLOBkKCGOSxOQkIrn5COp9Owl6fHAPn6+vv9+/36+vmvt5ycsI5XPUVOSjOtrJSw3KaSv8kA+fz6+/v7+/r8+bK2s46wok5PTEpBKKLPnuDSnqC6vgD5/Pr7+/v7+vr5zLnNnLC6cEJFREFPos+368OUrNHVAPn6+vv7+/36/PmusdyzrNKQNjUtCmrbw+vTs6LP3QAA+fr6+/v7/fr6+ZG18M24655TJC0GcOTS/tucs8rhAAD5+vz7+/v7+vr5y8To68/z02gwEgaIzuDgyKDN1OMAAPn8+vv7+/v6+vkA2tP42+TzTFINDXre29eZidvnAAAA+fr8/fv7+/r6+QDjvf/r4PMDUCdpd+qjRnKfyOwAAAD5+vr9/fv9+vr5AOPY9a1kwwonCptDfTRec5Xo9AAAAPn6+vv7+/38/PkAAN/Snwl1GAwHVh8WKVt7jO0AAAAA+fz6+/v7+/z6+QAAS7lvIAgDBXJlGx0pYx+h9wAAAAD5+vr9+/v7/Pr5AAAAEEoUCAEKFRI/KSobVWz0AAAAAPn6+v37+/v6/Pn5+flIBQUhAwRhZGIqFhZHbvn5+fn5+fz6+/v7/fr6/Pr6+sIIAgMNRFM3ZJglKkfA+vr6+vr6/Pr9+/v7+/v7+/vy+5YQBgh8LjdOk3kbivvy+/v7+/v7+/v7/fv9+/37+/v7+5YQMn6XppBWF0fm+/v7+/v7+/v7+/s"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 4281,
+    "strings": {
+        "name": "Red Hot Cracker",
+        "article_type": "A",
+        "singular_name": "red hot cracker",
+        "plural_name": "red hot crackers",
+        "description": "Before eating one of these spicy\ncrackers, be sure to find a bottle\nof distilled water to put out the\nfire in your mouth.\n\"Beast Killer\"+12\n\"Resist Sleep\"+12\nHP recovered while healing +9"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 99,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI4MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAogBAYMIAYICiAIChAgCAoQIAYIFCAKChIgBgoYIAgKFCAIDBYgCgwUIAgMFiAIChogDA4UIAgMGCAIChwgDA4UIAoMGiAKDBogCA4aIAgMHiAKDhggCA4aIAoOGiAIDB4gCAwgIA4QFCAODhggDA4aIAgMICAOEBYgCA4cIAgMICAMDhwgCAwgIAgMIiAKEBwgCAwiIAgMIiAIDCAgDBAaIAoOHiAIDiAgCAwiIAgMIiAQEhYgCAwkIAoOIiAKDCIgDhAaIBASGCAKDiQgCAwkIAoOIiAKDiQgCgwmIAoQHiAKECAgEBIaIAoOJCAKDiYgCgwmIBIUFiAKDiQgCg4kIAoOJiAOEhwgDBAgIAoOJCAKDiYgCg4mIAoOKCAMEh4gChAgIAoQJCAKDiQgCg4mIAoOJiAUFBggEhQaIAoOKCAKECIgChAmIAoOKCAKDiogCg4oIBQUGiASFBwgChAoIAoOKCAMECYgCg4qIAoQKCAMECYgChAoIBQWGiAKEiIgCg4qIAwSJCAMECggFhYYIAwQKCAKECogChAqIAoQLCAUFhwgDBAoIAwQKCAMECogFhYaIAwSJiAMECwgDBQkIAwQKiAMECwgDBQmIAwSKiAMECogDBAsIAwQLCAMEiggDBAsIBQWHCAMECwgDBAuIBQWICAMFCYgDBQoIBYYHCAMEiogDBIsIAwSLiAMEC4gFhgeIAwSLCAMEi4gDBAwIAwSLCAMEi4gDBIuIAwSLiAMEDAgGBocIAwSLCAMEi4gDBIuIBYYHiAMEi4gDBIwIBgYHiAMEi4gGhocIA4UKiAOEi4gDBIwIAwSMCAMFC4gDBIwIA4UMCAMEjAgDhIwIAwSMCAMFC4gDhQwIA4UMCAOFDIgGhoeIA4ULiAOFDAgDhQwIBoaICAcHBwgDhQyIA4UMiAOEjQgDhQwIA4WMCAOFDIgDhQyIA4UMiAOFDQgGhwgIA4WMCAOFi4gDhQ0IBwcHiAOFDIgDhQ0IA4UNCAcHB4gGhwiIA4WMCAOFjIgDhYyIA4UNCAOFDQgEBgwIA4WMiAQFjQgDhQ2IA4UNiAeHh4gDhY2IB4eHiAeHiAgEBgyIBAWNiAQGDIgEBY0IBAWNiAQFjggEBY2IB4gICAQFjYgEBgyIBAYNCAeHiIgEBY4IBAYNiAgICAgEBoyIBAYOCAQGjQgEBY6IBAYOCAQGjYgICAiIBAYOiASGDogIiIiICIiIiAiIiQgIiImICIiJCAkJCQgJCQmICYmJiAmJiYgJiYqICYmJiAoKCggJigqICgoKCAoKCogKCgsICoqKiAqKiogKiosICoqLCAqLCwgLCwsICwsLCAsLCwgLi4uIC4uLiAuLi4gP//////////////+uKmpqaXl+X2+/3/////////////////////////9swyHBcSEQsIDS1t4vX7//////////////Dw8PDw8JcbETVrgo+eqI9qOSkLGo7r8PDw8PD/////8PDm5ssaEkp0h5mjnqnCwru7smJJBj7U5ubw8P/////w8OYBCXGYXXR7iVLEo56kdNDV3cE4FgMC5vDw//////DwtR9uSk1QZnl5v5yZk4ues87T4+BzFgTU8PD/////8uJIXVJNUyd2i5aQeZSBzaSpoLHHj9NzJGTt8P/////pSFJAIzQ9XrCTioN5kbKvqaWxuLjD2cVwFczw////+VZSQCA2U0dMZ3toTI/Wr52asdrHx87O1adwEOn///7rIDtBNj9ZRz1ccoOKk4ybdpSpwrjHx6+T2X8Tl////ao7Myw8RVBZWWNye4uRkYxszayxuMbesrLHsEgQ+//7MSIULDMwHUc/Y3J2h5mekb+oqa3C3t7ArbPRcyjo//oXICM8LjNYRVWPYXmZxJ+enp/crbvG0LuUtNLESU7/2BgzLCY0PEFMVWZhnJOKm4NymZqxu5/h0NfD2ddRT/8eFCUmJSUzJSdZVGFoYWF8Xm9vhKWzws68xtPV5HMK/2kPJSUdGTY2UFs/W5Fvb3afm3d8fKzGwpl0wNHfhgr/kg8rLh0nNj9NXIl8oIx8fJGMkYeDjbK6r9apzt94Cv+VDx0wMywsHVBcZlt8h4Nnv5aKns+xrZubssLG1W4K/9gPMDAnFCxFRTZBR2Z8h5CQr5ufrLGyoKGswMbObhr/9VcqIxheO0VQP0FNdVV5kZ7Em3ybqa+KqdfFu9Jabf/+tSAiKz9BNDRQRVBjZqJ5nr+ejJ/Bnnmj1q+t0iDp//3nEiAlLjdBN0CGZWZydXuCmZudn5uUnaS2z7utDvb///M6Kis2WEZcWF5YO4JmdXR7XpqapZ+bpKzC00t6/P///ckcIiU2QVxYO0tYXmVsbInNm5Z0xXuerbyoOOX/////7F85LypBUEYgbF5YS4ODi5uem7rNkanDyFJp8P/////w4jE5eE1cRkZQWFhlt5CDg3uWpI2foLhxFezv//////DvvQczRkA/RlBYXGt1QHuieYeWlJuRcR/U8PD/////8PDmAQUvY0xQWFhNY2NydYeDkbaas3EMAObw8P/////w8Obm24AhS2dQGCc/Y2h2b4ygm4tDheXm5vDw//////Dv8PDw7+qSOUtlY1l7kXyEoZBifefw8PDw7/D///////////////746EIiTUtaXjAovvH8///////////////////////////++vj39PTx7vL///////////////8"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 5698,
+    "strings": {
+        "name": "Pepp. Pizza +1",
+        "article_type": "A",
+        "singular_name": "pepperoni pizza +1",
+        "plural_name": "pepperoni pizzas +1",
+        "description": "The width of the pepperoni slices, the consistency of the crust, the proportion of cheese to sauce. It's all here.\nHP+35 STR+2\nAccuracy+9% (Max. 11)\nAttack+10% (Max. 16)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY5OCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADAwMIAwMDCAMDA4gBggcIAgKGCACBiAgBAQiIAoOECAIChogBAgiIAYGJCAMDhYgCAwcIAgMHiAGCiQgCg4cIAYIKCAEDCQgCAokIAoOICAICiogDhAaIAgMJCAKDiIgCAwmIAIKLCAMDiAgEhQWIAgOJiAOEhogDhIcIAQSICAKDCggCAwqIBQUFiAGECQgEBQaIBIUGCAKDiogCAwuIBIWGCASFhggBhIkIAoQKiAWFhYgEBYcIBASIiAMECYgFBYaIBAUHiAKDi4gDBgcIAoQLCAKEiggDBQiIBYWGiAGDjAgCBQmIAoQLCAOEiYgEhgcIBAWHiAOFiAgEhIqIAgQLiAKFCYgGBgaIBASLCAMEiwgCBAyIBAUJiAOEiogDhggIAgWKCAaGhogCBQsIAwSLiASGCAgChIwIBgaHCAMFiYgAhQyIBIYJCAQGiIgDBQuIAoWKiAUGiAgChQuIAgUMiAaHBwgFhweIAoUMCASGiIgChYuIBAYKCAQFDAgChQyIBwcHCAIGC4gFhwiIAwYLCASGCogDhoqIBweHiAaHCAgFhwkIAoWNCAOGC4gGBwkIBQYLiAOFjIgEBwoIA4aLCAUFjAgFBwoIAwYMiAeHiAgFBosIAoYNiASGi4gEBoyIBIeJiAKGjIgICAgIA4eKiAOGjIgCBg4IBoeJiAgICAgEhwwIBAeLiAOHDIgFhwsIBgeKCASHDIgIiIiIBQgKiAWIiQgDB4yIA4cNCAWICggEB4yIAgeNiAiIiIgFhwyIBAgLCAWICwgFBw2IBIeMiAQHDYgEB40IBoiKCAkJCQgFh4yIBAgMiAWIC4gFB42IAweOCAYIiogECA0IBAiLiAWIDIgIiQmIA4iMiAcJCogFhw6IAoePCAWJCwgFiIuIBokKiAWIDQgHiQqIBQkLiAmJiYgECI0IBgmLCAUIDggECA4IBgiMiAcIjIgFCI2IBAiNiAYIjYgHCYsIBAgPCAWJiwgHiYsIBYkMiAoKCggHCI0IBwkMCAUJjIgJCgoIBQkOCAcKCwgFiY0ICAmLiAkKCogGiouIBgoMiAWJjggECQ8IBgmNiAqKiogGCg0IBQkPCAcKi4gGioyICAmNiAiKjIgIig2IBwsMiAgKDggGio2IBgqOiAeKjggGig8ICAsNCAaLDggHio6IC4uLiAgLDYgGCo+IBgsOiAeLjQgHiw6IB4uOCAULD4gGi48ICAuOiAeMDYgIjA6ICYwNiAmMDogIDA8ICYyOCAeMD4gIjI6ICQ0OiAmMjwgKjI6ICAyPiAkND4gKjQ8ICY2PiAuNjwgKDY+IC44OiAsODwgJjg+IDI4PCAsOD4gNjw+IDQ+PiAAAAAAN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3drpnd3d3d3d3d3d3d3d3d3d3d3d3dzL2ZiIiIvb3d3ZkxKmiZ3d3d3d3d3b29vb29vb29mXU4JS4uLi4eMTFLFl1UMiVLdb3d3d3dva6QkJCQS1BXZICYqqqqn3NwNx8Mq8R6SRYcYt3d3d29vZAAAiZqhrja6fj42/nQyMCtUQnY+O+NjW0jgd3d3b29kAJqrMXpxI5xNjYsLDZIbDcQYJRchPjnhmQjgd3dvb1apbjszYNleIJPMw8TLCIhGwX03J1voHPnn4Bo3d29Yqza1shlszoXQU85E19ILCwOSOOrt9OHlqnnrJnd3XW76c1xVlblTwsZKGtgs6IsGAmVwtVFNUWXmoWZ3d2uW/HQg0yOl+u2FQsVXMKry7cUUdybbyEsIVUQH4Hd3Wjh+YNjIk3c/O3OKzp5136aUxCa6s6dEw8dDUcvMZm9iuySUVJYJN61h4LJxLWLGYXS0vnw5rZIDQ0XN3M+gZna72caWK82IgcPGU1+fhkTkw1mndiyvwkTbGeOvzJDgefIUXJlOisZCw8PNcvxJ3bFhuaxVRCFOquzbF6zcyrB54NC05WCNGc7RRIsstxvcRCasxQ30Y68NSc7X96cPsbhgoXx9mzX+u2esdfEvHBxGx8bZpPY9E0KBhl+idRXweFxbvTl18rf5eX17uZjSticZg8PCsvLDxMdITOo0FCj51Vy3M5eTUFPd8njg6SboWwRFQcZRdFVEwsRjK3QW3zueb7V4tE7IDtrsuak2+PIhDVNIix+e8LJhKA54V11WsPQeOnz6ztYa1nj+eK1ldb82XmX5sCPr4t0XFy6XZmZquFItOPgd7GM2Nu2e1VPnuvyycv+/OPb25Q50Hpp3d181Gc808h97uz06G90lnu5ntmgoej3lVjCplmwVIHd3ZBbun1z0er7/fWv2J2nf8p0jMLg+qthTRhKsDE43d3d3Yg9z5JHtPH08Nz3/vLk/LGMlrX32LcHY5I+Yr3d3d3dvXUjx7pWboWCkavw/PnVb09PWJtgJ2atP0O9vd3d3d29vVoDx8eodjB2SES/htO0RERADzKYwz4CkL293d3d3b29kAACW8fPsJN2PA4EBBQUPHCJql0IAgCQvb3d3d3dvb2QAAACAymsz8/Hw8O7sKitqE4IAQIAAJC9vd3d3d29vZCQkJCQUEMtIzExVz0uHiojLWKQkJCQkL293d3d3b29vb29vb29vb18aEtDPVpafL29vb29vb29vb3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0"
+}

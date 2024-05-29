@@ -1,0 +1,29 @@
+{
+    "id": 5692,
+    "strings": {
+        "name": "Shrimp Sushi +1",
+        "article_type": "A",
+        "singular_name": "plate of shrimp sushi +1",
+        "plural_name": "plates of shrimp sushi +1",
+        "description": "The rice is packed to just the right consistency and the shrimp is still twitching. It is perfect.\nVIT+2\nAccuracy+15% (Max. 72)\nRanged Accuracy+15% (Max. 72)\nDEF+10\n\"Resist Sleep\"+2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY5MiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAgIIAgICCAICAggCgoKIAoKCiAMDAwgBAgcIA4OECAODhAgCAwYIAIIJCAMEBIgBgwiIBAQGCACCiggCg4iIAoOJCASFBQgEBIcIAYOKCAUFBYgBAwsIAYOKiAOEiIgCA4uIBQWGCAGECwgEBYcIAAOMCAMECYgFhgWIBIUHiAIEC4gCBIuIAYONCAOEiogEBQmIBgaGiAIEDAgChIuIAQQNCAAEDYgChQuIBoaGiAWGhwgFhgiIBoaHiACEjQgGBogIAoUMCASFiggDBQuIBIYJiAcHBwgCBQ0IAwWMCAUHCIgEhooIAoSOCAUGiQgGhwgIAoWNCAGFDggHBwgIAgUNiAaHCQgEhoqIAwYMCAEFjggHh4eIBIYMCAKFjYgEBouIBYcJiAUHCwgDhg0ICAgICAeICAgHiAiIBggJCAcHiYgDBg2IBAaNCAeICQgCBg6IBQcLiAYHiggICAgIBIcMiAYHiogIiIiIAgaPCAMGD4gGCAsICIiIiAKGjogHiImIBggLCAeICggGiAqIBAcOCAWHjIgDhw6IBIeNCAIGj4gGiAuICQkJCAcIiwgDBw6ICIkJiAMHjggEh42IBYeNCAaIDAgEhw8ICIkJiAeJCggHCIuIBAeOiAkJCYgEh44IBYgNiAcIi4gFiA2IAoePiAiJCggJCQoIB4kLCAQHjogDiA8ICYmJiAUIDggJiYmIBAgPCAWIDogEiI4ICgoKCAUIjogICQuICQmKiAaIjYgDiA+IBAiPCAiJiwgICYwIBQiPCAOIj4gKCgoIBYiOiAaJDggGCQ4ICImMCAYJDogFiQ8IBIiPiAmKCwgHCQ4IB4mNCAUJD4gGCQ8ICoqKiASJD4gKiosICQoMCAaJjogKigwICQoMiAWJD4gFCQ+IBwmOCAeJDwgKCouICgqMCAYJjwgJiowICwsLCAWJj4gICg2IBwoOiAaJj4gJioyICgsMCAsLCwgHCg6IBwoPCAYKD4gICo4IC4uLiAaKD4gKCw0ICouMCAgKjwgJiw2IC4uLiAuLi4gHCo+ICosNCAaKj4gJCw4ICIqPCAcKj4gKi40ICQsPCAuLjQgHCw+IC4wMiAgLD4gLC42ICIsPiAkLjwgLjIyICowNCAiLj4gKC44IB4uPiAuMDQgJi48IC4wNiAwMjQgJi48ICAwPiAyMDggJDA+ICYwPiAwMjYgLDI6ICgwPiA2MjggMDI4ICoyPCAmMD4gKjI+IDI0OCAsMjwgJjI+IDY0NiAuNDogLDQ+IDQ2OCAoNDwgLDQ+IC40PiA2NjggLjQ+IDQ2OiAwNj4gMDg+IDg4OiA0OD4gNjo8IDQ6PiA2Oj4gODw+ID4+PiAAAAAAMLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCsLe8wsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwqEYQm6wvMLCwomJiYmJiYmJiYmJiYmJiYmJiYmJiYmFIA8NHk+wvMLCiYlfX19fX19fX19fX19fW1hGNlhfX0YrGxY7Ly5/wsKJiV8AAAAAAAAAAAAILE7Oo3VQrQkGCkw0PxQRD0/CwomJXwAAAAAACBomVKbejHT6kO9/Ywk1WXAjCxkNocLCiYlfAAAAAAYt7PjFYYw579ja5MqkUVaWcw8jGTG3wsKJiV8AAAAIw6y/06ys9fjM4cXp2qdKeaspKV0RT7zCwomJXwAGFcPspLaQ9czh5fjQi3uRWkNIUh1dGwckf8LCiYlfGn7z4fXMr9qv7Mzp2It7npePikwPPzcOCx5KwsKJiVjO1O/v4b61keXMmHKy4MafscbNQTdVGBMhEBjCwomJWOHQvsrh0IuRp7XH6tW6zcnGooYpomUlECgUFMLCiXi26qe1mJG+wdLn9vrwk5PdhlVpQY+TaoAUKBsbwsKDX5yLyuXt4PL5+dHR/PbXsYapiCk/sVJKbBQyIijCoWFsp+LR6Pnf1fn934Lr/d2OYJ+SMFVcVpFsFjIoKJS28uDE7vao4/y6tP3Vm6j366K9YEWbgkhiYkk0OCIrlPT78ajE/amS/d995vG9XG/51ZpVoqlTSUkiWY1MTDOF6ffJxrr3xFzZ8bFty8+xRZbqoLqxSDRmfJ24ej56brCJ+c3NornugWf26IKE5tWBKrjfoDgrRLLuxIFlejqhwpTb3H2Oj+rZb7jmuYHZ7q60sVUnR56qeaC0cHyST7fCvF/3oIKx0uaud+DgmprAlpJIMmhxy+O4lWVwhHGUwsLCa7butLTI0uOVksjIxIZIHTLi0oa037lljbNnW7zCwsKJX3jgsZ+ElZptVUhIU42qoPHy36iHhITZlUp4wsLCwomJTT12y6tngXeHnZeW7v7rn8TVl3CllWVka4nCwsLCiYlfAgEf7/zn39/r992TtOOghJ2drrOlV0aJicLCwsKJiV8AAAMS2Pf21Yq4y7SKmZ243Nmqdj0DX4mJwsLCwomJXwAAAAIFPOr0y7OdqsjPyLiXNRwBAgBfiYnCwsLCiYlfAAAAAAADDH7F4ta7u3ZePAUDBAAAAF+JicLCwsKJiV9fX19fX19bTU9PRkBARk1YX19fX19fX4mJwsLCwomJiYmJiYmJiYmJhYODg4OFiYmJiYmJiYmJiYnCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsI"
+}

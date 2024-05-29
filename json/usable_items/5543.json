@@ -1,0 +1,30 @@
+{
+    "id": 5543,
+    "strings": {
+        "name": "Midwinter Dream",
+        "article_type": "A",
+        "singular_name": "midwinter dream",
+        "plural_name": "midwinter dreams",
+        "description": "Made by a master patissier,\nthis gleaming gateau aux fraises is\nlikely to show up in your best dreams.\nHP+10 MP+8% (Max.60) INT+2\nHP recovered while healing +2\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU0MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAMIAAADiAAABQgAgIOIAAAFiAEBAwgAAAYIAAAFiACAhIgCAYMIAAAGiAABBIgAAAcIAAAGiAGBBIgCAYMIAQEFiACAB4gAgYSIAoKCiAKCgogBgYSIAAEGCAEBBogAAAiIAICICAKCgwgAgAkIAQCHiACAiAgAgQeIAYIFCACCBggBAIiIAICJiACAiggBggaIAQCJiAIChYgAgQmIAYGHiAGBiIgBAQmIAQIICAEBiQgBAQoIAIEJiACAiwgBAQmIAYMGiACBiggDAwWIAgMGCACCh4gBAQsIAQGJiAKDhogBgYqIAgIJiAGCCggDBAaIAYILCAKDCIgBAguIAwMJCACDiQgDBAeIAgILiAIDCYgDBAcIAoSHCAGCi4gDhIeIAoSICAMFBwgEhIcIAwQJCAIDDAgCBImIAYKMiAMECYgEBQeIAYMMiAGDDQgEBYeIAQMOCAYFB4gEBAqIAgONCASFiAgEBggIA4SLCASGCIgCg42IBAUKiAKEDQgChoiIBQWJiAUGCQgFBYqIBIULiAKEDggFhomIBweHiAYHB4gGBwiIBQcJiAWHiIgFBoqIBgcJiAeHh4gGB4iIBoeIiAaHiIgFh4mIBwgICAcICAgFiAkIBQYMiAgICAgICAgICAgICAeICIgGiAkICIiIiAaIiQgGh4sIBwgKCAaICogFhw0ICIiIiAgIiQgGiImICAiJCAcIiYgIiIkIBwkJiAeICwgJCQkIB4kJiAcJCYgFhw6ICIkJCAaJCggJCQkIB4kKCAcJCggJCQmICYmJiAkJiYgHiQqICImKCAeJiogHiIwICYmJiAcJiwgICYqIB4kLiAmJiggICYqICgoKCAeJiwgHCYuICgoKCAiKCwgEigyICQoKiAgJDIgKCgoICIoLCAgKCwgIiYwIB4mMiAeJDYgIiguICQoLiAmKiogKioqICgqLCAiKi4gICouICoqKiAmKi4gKCosICQqLiAkKjAgJCowICwsLCAmLCwgIiwwICQsMCAsLCwgKCwuIBwsMCAmLDAgKioyICooNiAkLDAgKiwuICYsMCAuLi4gIi4yICguMCAuLi4gJi4yICQuMiAqLjAgLi4uICYuMiAoLDYgJjAyICowMiAoMDQgKjA0ICgwNiAsMDggKjI0ICoyNCAuMjYgKjI2IC4yNiAyNDIgMDI4ICw0NiAqNDYgMDQ2IDI0NCAuNDYgKjQ6IDA0OCAsNDggLjY2ICo2OCAwNjggMDg4IDI2OiA0NjggNjg4IC44OiA0ODggMjo6IDI6PCA2OjogNDo6IDo6OiA4OjogNDw8IDw8PCA2PDwgOjw6IDg8PCA+PjwgPj4+ID4+PiAAAAAAMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMycm2srK2ycnMzMzMzMzMzMzMzMzMzKGhoaGhoaGbi4uWuM/R0bixloiLm6GhoaGhoaHMzMzMoaGDg4N9b5Td3dzZ1bu0t7Cvvs6Gb32Dg4OhoczMzMyhoYMAFY/o3eTUzc3NzrmgoJ2dnLXKcRUAg6GhzMzMzKGhiBXH5uLi6u3ZyMa/u5eTl5eTk52QjBWIoaHMzMzMoaF9s+3m7eLVzbCvpZ2gko1+iX6HiYWFdXihoczMzMyhoXjt29XLwbelpZeSl5KXoIl8cnJ8fH6FaKGhzMzMzKGVvO3bwbewt7+5iY2NjYWTl7SgfHxyfHx0kaHMzMzMpIvj1LDL1tnWjY2ZtauNdnZ+iY2imY18cHyLpMzMzMyki8+3y9rZ07DTv6ujo8bGiXZ2nYV2iX5+bHihzMzMzJuUucPWv9Xh7+vh4fv8/NXV19XgxpmFr51waJvMzMzMi7iqoL7x+ffr6/fv5PH8/Pvx2uDa6K+rjWxpi8zMzMmRsdPDv+/6/Pz85KpdP4HDw4Gg+Pj4+NTZjXx9yczMtp/o6Nr36W2aqJ5uAw0aGiYmLClrnIrq+PbRfoayzMypvff58PzOLSYuHgUFBzcuIh4HKys7Jk3r9uqTr6nMzJvj9/n+nkErKygoDms2KCRCYQ0eHDsrRZ729uB8lsy8lPP5/PCeQzsvLyNR2datpsK6bTowM0BSUoDo4ImEvLaU5/z8rC0tPFNWQ2pSSUldgKyHElBUHQoEZ/j0yIa2tqfp5p4xTl48CyE1NTU5JxMgJ0ecHx0GDypB+PTnlrbAm/z5rT5ISDoLAwETY0ZHVVtaNUcyGwQYO0Xo9vSbwMyk7vziTkhOXj40ExYQCic9Wj05S1EYGBgqf/ng46TMycl999Z3TlNmLRdrgFpMV0xjsHNKZBc7HVjh/eR9ycnMzJGV7dJQji8MDIHx8/X18+/sgUMPCgZY1/3ziJHMzMzMpIP67tiCGQMDA1Kl7uXl4sQpAQEIEOD98uiDoczMzMykkZj2+vomEhkNGgERJRFiUQcSCDEf/fbymJGkzMzMzKGhb3vQ+k46HhoSIhIFAgHEOyYeImT9x3tvoaHMzMzMoaGDFBV5rkBEOmVERDgaGvjFN0RY0nkVFIOhoczMzMyhoYODg3p9YmB/41w+UDdf4966U2eDeIODg6GhzMzMzKGboaGhoZuRiJGLeFNQWH2RkZGIkZuhoaGhm6HMzMzJzMzMzMzMzMzMzMzMlG6kzMzMzMzMzMzMzMzMzMnMzMzMzMzMzMzMzMzMzMzMwMzMzMzMzMzMzMzMzMzMzMw"
+}

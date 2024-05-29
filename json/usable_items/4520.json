@@ -1,0 +1,29 @@
+{
+    "id": 4520,
+    "strings": {
+        "name": "Coin Cookie",
+        "article_type": "A",
+        "singular_name": "coin cookie",
+        "plural_name": "coin cookies",
+        "description": "One of the best cinnamon cookies\nyou'll ever eat.\n\"Vermin Killer\"+12\n\"Resist Poison\"+12\nMP recovered while healing +6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 99,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDUyMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgwQIAYMEiAIDBIgCg4SIAwOEiAKDhQgCg4SIAgOFCAKEBQgDhAUIA4SFiAKEhggCBIaIAoSGiAIEhogEBIWIAwSGiAKEhwgDBQaIAgSHiAMEhwgChQcIBIUGCAIFBwgDBQcIAoUHCAOFBogCBQeIBIWGCAKFB4gDhQeIAwUHiAQFhwgCBQgIAwWHiAMFiAgCBYgIAoWICAMFh4gFBgaIBAWHiAOFiAgDBYgIAoWICAMFiAgChYgIA4YICAQGCAgDBggIAwYIiAKGCIgCBgiIBAYICAKGCQgDhgiIBAYICAMGCIgDBgiIA4YIiAOGiAgDBgiIA4YIiAOGiIgChoiIBAYIiAOGiQgEhoiIAgaJiAMGiQgDBokIBoaHCAQGiIgDhokIBIaIiAMGiQgDBokIBIaIiAOGiQgFBoiIAwaJiAQGiQgDBwkIAoaKCAQHCQgFhwiIBAcJCAOHCQgEBwkIA4cJiAMHCggEhwmIA4cJiAWHCQgEBwmIAocKCAMHiYgEBwmIBIcJiAQHiYgEBwoIBAeJiASHCYgDh4oIBAeJiASHiYgDhwoIBAeKCAQHiggHiAgIBAeJiAOHiggEh4oIBQeJiAQHiggFCAmIBQeKCASICggEB4qIBAgKiAUICggICAiIBQgKCAQICogFiAmIBAgKiAUICggFCAoIBQgKCAWICggEiAqIBIgKiAQICogHiAkIBQgKiAgIiIgFiAoIBQgKCAYICYgECAqIBQgKiAcIiYgEiIqIBAgLCAiIiIgICIkIBgiKCAWIiggFCAqIBgiKCAWIiogFCAqIBIiLCAWIiogFiIoIBoiKCASIiwgFCIqIBIiLCAYIiggGCIoIBgiKiAWIiogFCIsIBgiKiAWIiogFCIsIBIiLCAUIiwgGiIqIBgiKiAWJCogHCQoIBQiLCASIi4gIiQmIBokKCAUIiwgHCQoIBgkKiAWIiwgFCIsIBokKiAWJCwgHiQoIBokKiAQJC4gHCQqIBokKiAkJCQgGCQqIBYkLCAUJC4gEiQuIBgkLCAYJCwgFiQsIBQkLiAUJC4gFCQuIBokKiAcJCwgFiQuIBAkLiAWJC4gFCQuIB4kKiAUJDAgFiQuIBomLCAYJiwgEiYwICAmKiAYJC4gFiQuIBgmLiAkJiggHCYsIBomLiAUJjAgFiYuICImKiAaJiwgGCYuIBomLiAoKCggGCYwIBYmMCAkKCogGiYuIBgmMCAoKCggHCYuIBYoMCAeKC4gGCgwIBooMCAYKDIgHCgwIBYoMiAoKiogGigyIBwqMiAkKi4gKiosIBoqNCAcKjIgHioyIB4qMiAmLC4gHCw0ICwsLCAeLDQgLi4sICwsLiAuLi4gP///////////////////////////////////////////////////////////////////////////////////////+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eH/////4diQkJCQkG0oHQoKBQUEBwcLEAsXbZCQkJDY4f/////h4ZAAAAIIDwwgLiY6QUgRGSZKGw4NAwEGkOHh/////+HhkAAIGissTEIuLipeW0gvKioVJSU3IAlH4eH/////4eF5GCwxEk5JWGI7O0k+VD41IyAeKz4tHA5t5//////nhxM4cFY7eFxnP3E0OSYuP1ZCMRVDNSsvIxKv/////5EbOHShP16TVmtmdE5OLjJART0yHyo3NTU8JBPY////HSRmdMlpO1ZFYXdcOVkZNjIZORQUIx5BPhFUFhv//5ESYW9oopZmdqNnU1lqalAzJhkyJiZJMT1UJF01Kf//OFSTVrd+YExfg8HH+MvTusCuV6h7RjkzIjI7SFgw//+NjHWUViBy0O367fHp4/H6/Pjp+PHj4pxaUD9NYjj//3qAYU5p3/LttY+uwcHBx6ennp6uxsDf7PbpnU5iSv//aYBwmZ3vz57F49y1nNvHx+nFwc/Fv8WPtfHtzC5V//+TgVacy4+LzeLc1sfGxs/W1qbGxYOtmFmcj/HpcE///85x2u21reLQ1uLWtXbW4szW7vetpq13mPFyhNvVhf//s7Prg6bM9czi9+K/scbm7OLixrXXrcB9ppyLrtn0//+p19yDxNbr17Gjysa/yr/QtK3N8fXQppTcppiE3vv+/5vmj6a0ytDEv7TExMqxtNDsdr/Q1sqji6amd8DZ////+eCLo7TK5cSoqHVonYy3wpSco520qOionZSP2vD///7z6ph2qMLCt6udgp2Xt6ujl5eUnZ2OjJd+Z8zZ5/////7IwmyMnY6rq7ednaKr3qWXjoKOjo6CfWycvufh/////93Ig1xlgn6lpZZ+mquWpZaXlomGhnVZfZWv2OH/////4djIiGhXY2mBiZaamomWk4mAdXBXTHqftpDh4f/////h4ZC7fIhlY1d0gYF/f2h0Y25MQF6S1P0AkOHh/////+HhkACwrIi8cGlXS0xSUl5Sc3zDuLIAAACQ4eH/////4eGQAAAAAOS70aR8iKCVw7lzigAAAAAAAJDh4f/////h4ZCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkOHh/////+HY4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh2OH///////////////////////////////////////////////////////////////////////////////////////8"
+}

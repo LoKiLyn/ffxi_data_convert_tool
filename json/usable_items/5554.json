@@ -1,0 +1,29 @@
+{
+    "id": 5554,
+    "strings": {
+        "name": "Squirrel's Delight",
+        "article_type": "A",
+        "singular_name": "serving of squirrel's delight",
+        "plural_name": "servings of squirrel's delight",
+        "description": "Made by a master patissier,\nthis gleaming marron glace is sure\nto delight anyone who takes a bite.\nMP+13% (Max.95)\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU1NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAggKIAIIDCAECgwgBAoMIAQKDCAECg4gBAoOIAQKDiAECg4gBggOIAQKDiAGCg4gBAoOIAYIECAGCg4gCAwOIAgKEiAGDA4gCAoQIAgMDiAGDBAgDA4MIAoMDiAIDBAgBgwQIAoKEiAIDBAgCAwUIAYMEiAMDg4gCA4SIAYOEiAIDBYgCAoYIAgOEiAIDBYgCA4SIAgOFCAOEBAgCA4UIAwOFiAIDBggChASIAgMHCAQEBAgChAUIAgOGCAKDhogEhIOIAwQEiAKEBYgCgwcIAwOGCAIDhwgFhQMIBISECAKEBYgChAYIAwSFCAKDhogCA4eIBASEiAKEhYgFBQQIAoSFiAKDhwgDhIWIAoSFiAKEhYgDBAYIAwSGCAYFA4gFhQQIAwUFiAUFBIgDBIYIA4QGiAKDiAgEhQUIBAUFiAKEhggChIaIAwUGCAMECAgFhYQIA4SGiAMEhggFBQSIA4SHCAYFhAgDBIeIAwUGCAOFBggChQaIBIUFiAOEh4gCg4mIAwUGiAQEhwgDBAiIBoWEiAQFBggDBQaIBYWFCAcGBAgDBQaIA4UGiAKECQgCBYcIA4SICAeGA4gGhgSIBwWEiAQFhogDBYcIBQWGCAOFhogDhQeIBAUHiAMEiQgHBgUIA4WHCAMFhwgHhgQIBQYGCAQFhogDBYeIAwSJiAQFCIgIhoMIB4YEiAOFhwgDhYcIA4WHiAOEiQgEhYaIA4WHCAOFhwgDhQiICAaECAQFhwgDhQkIA4WHiAkHAwgEhgaICIaECAOGB4gChIqIBAYHCAOGB4gEhQiIA4UJiAMEiogDhgeIBIYHCAkHBAgEBgeIBIYHiAOGB4gKB4OIBIYHiAUGCIgEBogIBIWJCASGh4gEBogIBYaHiAOFiogKh4OIBIaICAUGiAgEhoiICogDiAQGiIgFBogIBIaICAQFiwgFBoiIBAcIiASHCIgGhweIBQcICAUGCYgEhwiIBIYKiAYHCAgFBwiIBYcIiAOFjAgFBooIBIcJCAYHCAgFBwiIBAYMCAUHCQgEhguIBQeIiAWGiogEh4kIBQeJCAUGDAgDhY2IBgcJiAWGiogDhgyIBIeJiAQGDQgGB4kIBQaLiAWHiQgFB4mIBgcKCAUHC4gEhoyIBYgJCAYHCwgFh4qIBQgJiAWICYgEho0IBQgKCAaICYgGh4qIBgcMCAYICYgGB4sIBogKiAWIiggGCIoIBoiKCAeIiwgGCQqIBogMCAaJCogFiA4IBomLCAeJDAgHiYsIBoiNiAiJiogGiYuICAkMCAeKC4gHiguICIoLCAgKC4gHiY2ICImNCAgKjAgIiowIB4mOiAiLjQgKiw2IDY4PCAAAAAAK2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2trZycnJycnJycnJycaTExMTEtMTF8oJycnJycnJytra2poJKDg4ODjHFJHhQUFxcXFxQXFBQeOHyDg4OSoKmtramckoMABgcNDA8YFxgSEg8MDAsSEhgLDAUAg5Kcqa2tqaCSgwYJDxIdIF6djZW2xbCedUUbEAIMCwhxkqCpra2pnJxlDR8diarm6vPq6PHs8duvq5t6YkcSCx6SnKmtramcaScfiaHl+fnu9PTsyMjDqrDS4cibfnoDFDGSqa2toIwnPp7h/PbmxZN1XFNFRUFBQT+dw7a8coUlEHytra2tSUOq2+7StD8uRVxTSkpBOy4rGyMuoaXFnoguHqmtqZJQqtfBxVMoTGd1c4qPhD8uOTlFPygoTLTBwJElb6CpWKXSw7AlRH+diri/v4o5JjoTVhMTCiVBQaq4tWtAglpyq9uqKFGWip2/zsfaTDkREUYaGhMaJlZBRcPBpyd8MqHatFNRinOjzsfd5JNqRhEmYxo1ITAvOlaRobavni1Dq9J1P5Ziar/H2traezwcKWBCGqIaMJdbKqFdjdq6F13Bw2Jqj2qfx7OahJO4UiI8gWCi/TWkuSo2rJWhtLpffdeqUZ97akRMKD8oLlOLQiy3l5fL1N+HVD2soaGdtHR9u5Neo2I5YhsTIxMoP6Q91GzigId4lzw9xKyzq3W2cmabqoSzihwmDikaExocYLdhmbH+6dF4eMl20rS0jbZiX7Cde4p/JCEhTREaNSkq4+nWwtVumLn4UqystMGKjxZVftJtXi+XPCl3KSmXKlRh6e/rzff34Jeds6au0qF1N3Byto9EUodg1Cl3dsZCbE5Cu+ry49mfjZ2je7jmpTuCoD5yqlyGbGTMjv3nZG7gTlmy29PTn5NquHuP5cifMa2tglCemkyomLntvm7Y1ZRsyLjDroqfk7OPXNLzo0yQrampWnRntLLcvahu1e/PsdG4tJOmuK6aXJ3h+r9eSK2pra2SS1xylb6Yys/v+8R22tO/x6OEamqV3vWjXkmSra2tqZKMX0eEjbCGl5eynY+KinOKk3t13vDXlolLnJypra2pnJxxM1c5enqhjaGvnZWTparA0N7Qn2sgAYOcoKmtramgkoODeWhma1F1a5WVnralm7avjWc+SXGDg5Kcqa2tqZyckpycnIx8cGVPcn5YS0tVVWlpjJKcnJySnKCpra2tqa2tra2tra2tra2tra2tra2tra2tra2tra2tqa2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra0"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 4604,
+    "strings": {
+        "name": "Rogue Rice Ball",
+        "article_type": "A",
+        "singular_name": "rogue rice ball",
+        "plural_name": "rogue rice balls",
+        "description": "This rice ball has been made\nto perfection.\nHP+12 VIT+3\nHP recovered while healing +2\nEffect: DEF+50\n\"Beast Killer\"+4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDYwNCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIBgYgCAgGIAoICCAKCAggCggIIAoKCiAKCgogCgoKIAwKCiAMCgogDAwMIAwMDCAMDAwgDAwMIAwMDCAODAwgDgwMIA4MDCAODg4gDg4OIA4ODiAODg4gEA4OIBAODiAODhAgDBAQIBAQECAQEBAgEBAQIBAQECASEBAgEBASIBISECASEhIgEhISIBASEiAQEhQgEhISIBASFCASEhIgFBISIBQSEiASFBQgFBQSIBQUFCAUFBQgFhYUIBQWFiAUFhYgFhYWIBQWGCAYFhYgFhYYIBgWFiAWGBggGBgYIBYYGCAUGBogFBgaIBgYGCAaGBggFhgaIBoaGiAYGhogGBoaIBYaHCAaGhogHBoaIBYaHCAWGhwgGhwcIBgcHCAYHB4gHBwcIBocHCAYHB4gHhwcIBwcHCAaHB4gGBweIB4cHCAcHBwgGBweIBwcHiAaHB4gFhwgIBweHiAaHh4gGB4gIB4eHiAaHiAgGh4gIB4eHiAcHiAgHh4eIBoeICAgHh4gHB4gIB4eICAaHiAgICAeIBogIiAgICAgGiAiIBggIiAcICIgGiAiICAgICAeICIgHCAiICIgICAeICIgICAgIBwgIiAiIiAgHCAkICAiIiAeIiIgHCIkIBwiJCAiIiIgHCIkICAiIiAeIiQgIiIiICQiIiAcIiQgHiIkICIiJCAeIiQgHiQmICQkIiAeIiYgJCQkIB4kJiAiJCQgHiQmICQkJCAgJCYgJCQkICIkJiAgJCYgJiQkIB4mKCAmJiYgICYoICQmJiAeJiggIiYoICYmJiAgJiggIiYoICAmKiAoJiYgIiYoICAmKiAoKCggICgqICAoKiAiKCogKCgoICAoKiAkKCogIigqICAoKiAoKCggIigqICAoLCAmKCogIigsICgqKiAkKiwgIiosICQqLCAiKiwgKioqICgqLCAkKiwgIiouICgqLCAmKiwgJCouICwsLCAkLC4gIiwuICQsLiAsLCwgJCwwICwsLCAmLDAgJiwwICQuMCAoLDAgKi4wICYuMCAkLjAgLi4uICYuMCAuLi4gKC4wICYuMiAmLjIgKC4yICowMiAoMDIgJjAyICYwMiAoMDIgKDA0ICYwNCAqMDQgLjAyICYwNCAqMDQgKDI0ICoyNCAoMjQgLDI0ICoyNiAsMjQgLjI0ICoyNiAqMjYgLjI2ICwyNiAqNDYgKDQ4ICw0NiAqNDggLjQ2ICw0OCAsNDggKjQ4ICw0OCAsNDggKjY4IC42OCAuNjggLjY4ICo2OiAwNjogLjY6ICw2OiAwNjogMDY6IDA2OiAuODogMjg6IC44PCAwODwgNDg6IDA4PCAyOjwgMjg8IDQ6PCA0PD4gMbGxsbGxsbGxsbGvMaggFk+NUKFoLbExsbGxsbGxsbGxsbGxsbGxsa2gFxRSR4WCwsRDRccdLa8xsbGxsbGxsbGxpycnJyccCdEMBALAgQJBAMHCgsqMHCcnJycnJzGxsbGnJx8hU5FZUQBAQcLKwQFAggOI35lPzhRfHycnMbGxsacnF0ZN5NVGAAECQ0GCQIHDBVLREtzVCwkeJycxsbGxpUxY0BeZzoKAgQIDwU8AQgQT19SZ2dKP2E/TpzGxsbGi1qPZ6mCFAIEBQURBQYJGCyNbYhSS3NUWEFadMbGxsRKRV9YUmMCBxMHCwgPAw4ML2NFgktIlmVtjUFixsa8r0BajWqxOgEKJRASBAkADgxYRZZxpnlxaqGIYUbGxsSVZal5hrcOEAoTEAkEBgsSLGGNrnaBloaBfoKENsbGxG+ko5ObZQETBgEDAwUHGhsnrbWsfpuIo8JabVNXxsaAV5bJlnadAAIEDxAIDQYYFDKTpKyhlq3Ht5a1hGmgvLOEo6mbiGoDBA0TERIaDx8RT7mewr2+xb6mvW2NpmbGipefroa3PQcJHAsDESAJMBhSvrXPq6vbz73fodytgMaSlIiespY6BQQWGgEgKQY2DoLgxbXdvrnQt72so1OqxotAp8qYljAHBgoWHDtDAi8VgsXL0uHMydepuLt/bZzGdXOfpsOeLwklIgsXboMeJiORz+Dn5NbV6b/Nrl+deMaMucCRobI0BzU1Ey4WM242J5vp88LF5/T37NjSn5+Mxox+lq3LyEcJKTccPgt9ZEI0nefy9s7i0b+/0Mi1nZLGh4aB0qe/YwctMVA+MSAKhR122Lnv3tDW59HR2MpxicacYrLDzdtzBBopYGALGghcMkXr69759t333tjY42yVxqV4ho/DmGgJBAseIg8GC0YfP+vk0c72/vH07rvMV5XGxpKBq36/qywCExoPPjcIHyEvyPL47+3x5PrwxXFGpcbGr2xNtcm+cQYWOxcemY44H0fJ6/n97drp7ObVpnXGxMTGXm+avpGREAkSHBQpUDAjMqPn7dnt++701ZdteMbGxsaShLfluYgqF24NKDEuWSMVZcfp4/z/9eeiTnqcxsbGxpVWip+tsWETCwgcKClyWRsvo93q9/vZ5ltrnJzGxsbGnItKd+bHjRoPBRELCxcTKjCr29XjwYeROXycnMbGxsacnHRee6OIPwMHEgINCgcSHzTH17SiQGZ8fJycxsbGxpyVnJyQXnVWHQIICiUaLkwAH1SwTXCLnJyclZzGxsa8xsbGxsbGlXBKMSIFBRIRCBYbXJzGxsbGxsbGxrzGxsbGxsbGxsbGxsbGoItRNy1CZpzGxrzGxsbGxsbGxsY"
+}

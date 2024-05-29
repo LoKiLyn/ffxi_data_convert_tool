@@ -1,0 +1,29 @@
+{
+    "id": 4332,
+    "strings": {
+        "name": "Orange Kuchen +1",
+        "article_type": "An",
+        "singular_name": "orange kuchen +1",
+        "plural_name": "orange kuchens +1",
+        "description": "One of the most delicious orange\nkuchens you have ever tasted.\nMP+13% (Max.80)\nMP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMzMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAwWIAYOGCAEDhggBg4YIAYQGCAIEBogCBAaIAgQGiAKEhogBhAcIAYSHCAIEhwgCBIcIAYSHiAOEhogCBIeIAoUHiAKFB4gCBQgIA4UHiAKFB4gEBYcIAwWICAUGBwgDBYiIBAYICAUGB4gGBocIAwaJCAQGiQgFhwgIA4aJiAUGiQgEhokIBocICAOHCYgFhwkIBweICAOHCggGB4iIBYeJiAaHiIgDh4oIBYeKCAcICIgEh4qIAweLiAQHiwgEiAoIBIeLCAgICIgGiAmIA4gLCAcICYgFiAoIBIeLCAcICYgECAsIAwgLiAgIiQgHiAmIBQgKiAUICwgIiIiIBggKCAQIC4gGiIoIBAiLiAOIi4gIiIkIBoiKiAUIiwgJCQkIAwiMCAOIjAgECIwIBQiLiAMIjAgICQoIBgiLCASIi4gDiIwIBQkLCAiJCYgECIwIBgkLCAWIi4gEiQwIBYkLiAQJDAgJCYmIBgkLCAkJiggFCQuIBAkMiAOJDIgJiYmICAmKiAQJjAgFCQyIA4kMiAWJDAgECYwICQmKCAeJiwgEiYyIBAmMiAOJjIgKCgoIBQmMCAWJjAgFCYyIBImMiASJjIgDigyIBAmMiAUJjIgJigqIBgmMiAWJjIgHCgwIBQoMiAOKDQgGCgwIBIoMiAoKCogFCg0IBomMiAWKDIgFCgyIBAoNiAYKDIgEig0IBYoMiAUKDQgDig0IBQoNCASKDQgKCosIBooMiAqKiogGCoyIBgoNCAWKjQgFig2IBAqNiAUKjQgGioyIBYqNCAQKjYgHCoyIBgqNCAUKjQgGCo0IBQqNCASKjYgFCo2IA4sNiAYKjQgFio0IBIqNiAeKjIgHCo0IBYsNiAaKjYgLCwsICgsLiAYLDYgFiw2IBAsNiAaLDQgFCw2IBgsNiAcLDQgFiw2IBQsNiAULDggLCwsIBgsNiAYLDYgHCw0IB4sNiAWLDYgGCw2IBQsOCAcLjQgFi44IBosNiAYLjggLi4uICAsNiAaLjYgFi44IBguOCAiLjYgGi42IBwuOCAeLjYgGC44IBYwOCAoLjIgGi44IB4uNiAgLjYgHi44IBQuOiAkMDQgHjA2IBYwOiAcMDggGjA4ICIwOCAUMDwgEjA+IB4wOCAcMDggGDA6ICIwOCAcMjggHjA6IBoyOiAmMDggFDI8ICAyOCAcMjogGDA+ICIyOCAiMjogGjI6ICQyOCAiMjogGjI+IBYyPCAgMjwgHDA+ICQ0OCAgNDogHjI8IB4yPiAkNDogIDQ8ICI0OiAqNDggJjQ6IBw0PiAiNjwgGjY+ICg2OiAqNjwgKDg8IB46PiAsODwgKDo8IDA4PiAcPj4gL6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vrJPKCgoNna+vr6+vr6+vr6+vr6+vm1tbW1tbW1tRiMbBQYICQcMBQIWLVRUbW1tbW2+vr6+bW1AQEBJHw8JEA0NDAwTDAwIBwYFBRtAQEBtbb6+vr5tbUAABAMLDhMRDRAQFQ0NEBkNDAgQBQEKQG1tvr6+vm1tQAQOCxIJHSc1WdvH2febZzokFQ0IEgMjbW2+vr6+bW0YCwgeeVhXgZnm5/q9x5mcud1uUxEMCwZGbb6+vr5tJgwXSHrkwqFLOI7t+NJrYGups/3QmCsRCAZtvr6+vmEHFEWpbq6TkvJqWPKhy9T9rMLAhS9CkF4eESO+vr6+HBGFyFGwY5vHpf1N0pPN/dvL/XPB0Imf+l4XDLK+vqYPOpOz88+EtdTwwZf8ofSZTpPN2px/mpjT4ToVSb6yQBOj9NWU3vnx17rCdf7nO9NjP5/HZUqD8sKI0SQasrIaMOa5++Sk/uBlrYY4dfLvoHfSx6md4bDY/cq4jg1+ph1SokSw4rHW0tCHUaMwWu/dqYhzVdHIiH2HZ9DjF1tbKzuXzXSu7bSGfM9LL+xSMmR/QlKf/tL5iMF7ma9FMzZFcOjY7tHS7fbTsM23r5Nw/niZsOXpoeB7nKG9fTsqJVOgmLh1/s1LRJz0veSRvJ9SneC0as6WdGuwu9OFTh8hhOd1m2eavYmb8MqWpLjK0p3KvaHQe7fM7NzhiplaLTlFseuck7evQpv+nNCQhrv0r+PjtHSpZVpllalsnsinXUSQv7e90HjJWs2YqKpjneH/hej7dKqwQnKwk4VzrKaNJ4JgcmWAj1pS4e6ThdDDtN2bvXSw0ZN1idWocX1ujbIlmnBMk9fvtnqK99qHtdiBuN3IsNm8dYJv3/e412myvn5Tb4aVoMCbh3KcsMfC4Mxfs7iJhZbGhpCrX1o/i76+vjSQlWeZvceJVX+dqYZLcnpVmanKuH2gh7paWWK+sr6+YSzLn8bA3JpVtOHu2JtfpLfxwsr1tbyCrm4xW76+vr5oPSBSaomATGrC3IKp07TqxZ96gkKfn6teIlt2vr6+vm1tMz6/toGHcpqggofGWKCzlWdwbz9XP4wzbW2+vr6+bW1APEOMn9S2Tb+akHh4ZK+amMwwZi5BPEBtbb6+vr5tbUBAQDM0UKOBo4nFX61rdVhnfDFcRkBAQG1tvr6+vm1hbW1tbW1tPSE3SFZQSEcpKTlobW1tbW1tYW2+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr4"
+}

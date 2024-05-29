@@ -1,0 +1,30 @@
+{
+    "id": 5630,
+    "strings": {
+        "name": "Silken Squeeze",
+        "article_type": "A",
+        "singular_name": "silken squeeze",
+        "plural_name": "silken squeezes",
+        "description": "This orange cake is as smooth as silk.\nHP recovered while healing +4\nMP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTYzMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAKCgogBhQaIBQUFCAAEiIgDhYaIBYWFiAKFCAgEBYcIBYWGCACFiAgABYiIAIWIiACFiIgABQmIAYYICAKFiIgABYkIAQWJCAOFh4gBBggIAQUKCAAFiYgFBgcIAYWIiACGCIgDBgeIBgYGiAGGCAgABoiIAwWIiAQGCAgChYkIAgWJiAAFiggFBgeIAgWJiAOGiAgDhgiIAYaIiAKFiYgAhgoIBgaGiAAGCggDhogIAwYJCAMGiAgEhoeIAoYJiAWGh4gBBgmIA4YJCAKFiggEhgkIAoYJiAKGCYgBBgqIAYYKCAMGiIgGBogIAIaKCAKGCggEhogIBAYJiAQGiQgCBomIAAaKiAEGiYgBhooIBYaICAKGCggHBwcIAwaKCAIGCogAhoqIAIcKCAMGiogGhweIAwaKCAKGiogABosIAQaKiAcHB4gDhwkIBgcIiACGiwgHB4eIAwcKCAGGiwgChosIBIcJCAOGiggBhwqIB4eHiAcHiAgDBwqIBYcJCAOHCogAhwsIA4cKiAMGiwgBBwsIBweICAYHCQgHh4eIAocLCAOHCogDBouIA4cKiAcHiIgEBwsIAgcLCASHCogEBwsIAwcLiAgICAgEB4oIBAcLiAIHi4gDhwuIAQeLiAGHi4gEBwsIBIcLCAQHCwgBB4wIAgeLiAOHC4gICAgIBIeLiAEIC4gDCAsIA4eLiAUHiwgCCAuICIiIiASICggEh4uIAggMCAWICogFCAsICIiIiAIIjAgGiIoIBQgLiAGIjAgECIsIBYiKiAGIjIgCiIwIBYiKiASIi4gJCQkICQkJCAMIjAgCCQyIAoiMiAWIi4gCCQ0ICYmJiAOJDIgBCYyIBQkMCAMJDQgJiYmIBAmMiAMJDQgKCgoIA4mNCAIJjYgDCY2IAYmNiAMJjYgDCY2ICgoKCAOJjYgECg2IBAmOCAKKDggDCg2IA4oNiAOKDYgDig2IAooOCAOKDggKioqIA4oOCAKKDggECg4IBIqNiAOKDggECg4IA4oOiAQKjggKioqIA4qOCAQKDogDCo6IBAqOCASKjggEio2IBQqNiAOKjogFio2IBAqOCAMKjogECo4IBAqOiASKjggLCwsIBQsOCASKjogEio6IA4sOiAWLDYgECw6IBIsOiASLDogECw6IBYsOCAuLi4gGCw4IBQsOiASLDogFCw4IBIsOiAuLi4gFiw4IBQsOiAQLDwgFi46IBQuOiAYLjogFi46IBQuPCAYLjogFi46IBouOCAWLjwgGC46IBowOiAYMDwgHDA6IBowPCAcMDwgHjA8IB4yPCAaMj4gIDQ8ICQ0PCAkNjwgKDY8ICw4PiAwODwgMDo8IDI6PiAAAAAAOHh4eHh4eHh4eGml4Z/clxccn+Gl6bh4eHh4eHh4eHh4eHh4eHh4dvBhhoaRGZTZmZTREQpGobB2+Hh4eHh4eHh4aampqaXXAUwWVlEPz4+LB0dOjBdRAhcl6ampqbh4eHhpqOMZwVMkpKKioSAeU01LCwfHQYSXUQFZ4yjpuHh4eGmplwCjpVvYmlee3BLYIiIb1pHHR80Ml8CXKam4eHh4aaYGoeHc3mPgGlgWlZNTVZgWlZwYDUsHzQImKbh4eHhpilSoZaci4B5YDU1VlppNkc2TScfWjY1YCUao+Hh4eGMLpGRloCAeWlgVnB7cGJwa0c8SzY1LyNrHweX4eHh4X8OkZZNeXRta2JtbXR7bWteXkU8NicjLyBgBn/h4eHhcguRiHtxcWNjY3FxcXFxaGt2TkVOMyMgIGsPcuHh4eFRQ4JYY1hoaGhbdZSfoqJ3ols4SDgzFCAgayNR4eHh2xaDfZ93SXWn8vXq+vTo6+3r2qRbUBEUFBQ8TRbb4du4K4mNmp3H/v778u7n4+rd49/Pvrzdp25QEUNrHrjb4aNAqb7S+frvwtXc6vHn5efl4+jr3MjK5adKhU0yo+Hhnle3z/bgsbLc1dza8u7x59/m7vPi39HHxsaFUDWe4eGYZK7wxMTC1tHR0dHn7vPnzObu6ubm2t/Py8eZQJjh4WWJ2rS3ucDL0dHl3+Xu8fTv6+vMzODj69jNvrxKZeHQLpnwtdO9vsbGvtHf7vr3+/z93+bM3uDgzNbS15Qu0LgrtMbPz8vAwMC9xcafiXh9mafl9dre4NnZ1s7UhRm4rRnjz83L1r7AvcuiUA0hQXhUT0+09Obg4OjXzrnAGa2jGcbFwrO9vb2+tDEDFSE7N3WJVHzm7N3X19bJwscOo6YZtd7CtbO1ubmuMQMNIShJV1c7fNbf3dfSzcS1kRmm4WxC1K+zs7W5ub2lOxUhKkFPVHyz9PTSzcDCuapSbOHhpi2Zu7CusrW93unFnXxhVHyU9ffgzcDAvbWskD2m4eHhVQvLqKyus7Ozy8vr7eX5+fTW2eDNy8C5upkrVeHh4eGmTBistqyus7m9wMDL1t7X1t7SzcW5wuSJLUym4eHh4a2mRgl3urO1ub3AwMDLy8vLxcXCv8SgQiRGpq3h4eHhpqaMAAEMSpSuvcDAy8vLy8DFvbKTSRMEAIympuHh4eGmpoyMjFEuFxBJgZmurK6snXxhHBswUYyMjKam4eHh4aampqampqaMVT05JhgKChgmOT1VjKampqampqbh4eHh4eHh4eHh4eHh4cG4ra2trbjB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHb2+Hh4eHh4dvb4eHh4eHh4eHh4eE"
+}

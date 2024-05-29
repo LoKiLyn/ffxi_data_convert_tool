@@ -1,0 +1,29 @@
+{
+    "id": 5765,
+    "strings": {
+        "name": "R. Curry Bun +1",
+        "article_type": "A",
+        "singular_name": "red curry bun +1",
+        "plural_name": "red curry buns +1",
+        "description": "With a generous portion of red curry bursting from its crust, this piping hot bun is a treat to all five senses.\nHP+35 STR+7 AGI+3\nAttack+25% (Max. 150)\nRanged Attack+25% (Max. 150)\n\"Demon Killer\"+6\n\"Resist Sleep\"+5\nHP recovered while healing +6\nMP recovered while healing +3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTc2NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAwMDCASFBQgBg4mIBQWFiAUFhYgCBIiIBYWFiAUGBggFBYYIAgSJiAWGBggChIqIBgYGCAUGBogChYkIAYSLiAYGhogChYmIAoYIiAYGhogGBoaIBYaHCAYGhogGhoaIAgULCAKFDAgDBQuIBgaHCAIFDIgGhwcIBgaHCAaHBwgHBwcIBgcHiAMGiQgHBwcIBgcHiAMHCYgHBwcIAwcKCAeHh4gHB4eIBYeIiAMGi4gFh4iIBAYMCAOHiggHh4eIBweICAYHiQgHCAgIBwgICAYHiQgICAgIBogICAcICAgDh4qICAgICAcIiAgDiAqIB4gIiAUICYgECAqIA4eMCAgICIgDiAqIAwgLCAeIiIgGCAmICIiIiAOICwgIiIiICAiIiAYICggFiIoIBAgMCAiIiIgGiIoIBAiLCAOIC4gDiIuICAkJCAaIiYgCiAyIAwiMCAkJCQgICQkIBQkKiAaJCggEiIuIBAgNCASIiwgCiIyICAkJCAWJCogJCQkIBAiLiAaJCogICQmIBIkLiAQIjQgDCIyICAmJiAkJCQgGCQsIBAkMCAOJDIgIiYmIAokNCAgJiYgGiYqIBgmLCAgJiggECQyIA4kNCAiJiYgFiQuICYmJiAaJiwgIiYmIBwmKiAQJDQgCiQ2IBQkMCAmJiYgHiYqICQmKCAMJDYgIigoIBImMiAoKCggGCYuIBYmMCAkKCggIigoIAwmNiAiKCggFCYyIBAmNCAeKCwgGiguICQoKCAQJjQgHCguIA4mNiAMJjYgGCgwIBgoMCAUJjQgEig0ICQqKiAOKDYgGigwIBYoNCAQKDYgJCoqIBgoMCAiKiogHCgwIA4oNiAWKDQgJCoqIA4oNiAUKDYgKioqICQsKiAQKDggJiosIBwqMCAWKjQgGCoyIBAqOCAmLCwgJCwsIBYqNiAkLCwgHioyIBgqNCAmLCwgGio0IBIqOCAkLCwgHCo0ICYsLCAeLDIgEio4IBosNCAULDggJCwuICYuLiAeLDQgGCw2IBosNCAULDggJi4uIBgsNiAoLi4gJC4wIBwsNCAWLDggHi40IBYuOCAuLi4gKC4wICYuMCAcLjYgKDAuIBwuNiAWLjggHC42IB4uNiAaLjggKjAwICowMCAYMDogHjA2ICAwNiAqMDAgGjA6ICoyMiAeMDYgHjA4ICIwNiAsMjIgHjI4ICwyMiAcMjogLDIyICIyOCAgMjggHjI6ICwyNCAuNDQgHjI6ICA0OiAiNDggLjQ0ICA0OiAkNDogMDQ2ICI0PCAkNjogMDY2ICI2PCAyNjYgJjY8IDI2OCAmODwgJjg8ICY4PiAoOj4gNDo6IDg6PCAAAAAAMzMzIR+V0dCKhkOEh8qMTdCTmnMzMzMzMzMzMzMzMzMzMymWEo0QjsyND5FKCUYIQwGBRIxSXfMzMzMzMzMzMzMzE5hWD4yJSUhCBUdISEgJiYjISsMBhkxhISEhITMzMzMN0U0KxgIBQUXRk9jY2NaRjMsFx0yPhgOGUl3hMzMzIQySjIVCApqlaysvMLC0dHRxXhgLCMhRVMDGUKEzMzMToptSitUeLXCz9Tf2dTt7fDn6OLTWiwgHUptJSrMzMxCmG0yerqgyMjU7fDz9/r7/Pvs6OvfkUs2BRVkBnfMfoB5RVSgoLrU4Obt8PP3+fr6+vnv6+/ijksuHYgOR8xhmF80cZGqyNrZ097s1ejr7+vy7PLv7+zAaktUikUxzGGYaFqFmrLIz8HL39zJydjY5Nzr6O/158rAjc2CdSVXSbl/eoWgvNXRy8PSw8vSrbvSybvc6+Ln5465xph1K0IquXp4hZ6rwcOtraikqKitraSkrb29vdXRcM3ExoIyOyLdeniVhq2kqKGhmYmBfHx8gZmTrba7tsXHxsTEgjk3H91/WYWLl5mBbl6BiYGXgYGXiXx8oZmSztbEv7m0MjQl3a5gdoNsZ25WJ0GSiYyQpZuijGd0VsflxL+/ubmIRSXdtGBlZVF0sHRDZmacpaXTq4OWbJae7tfGxr+5t3k7KvTGsWpEVnOXl1EeZruXq1FRc3Nznu7b0MbGxMaPgjsx483NsV1EYlaLexsvLxODomW1uJTl3dvQzca/n4+COzfQzbGpsURSfVLBUhEbHA0ts7OG1vTp29DGt7eniG1TSbmpsbGxnWpdUlK4TRwRCwQQq5T06eXh1sa5p288OYRhqampqaOdnY1dSDpIoCkkFAcU4f3h4dvW0K9vPCthzH6Kj4+HnZiPf4dwQzAwOjo9MGr99vTX19fdPDkrN8zMzEePj4eHh4eHiId5cmBMQD9Avv727uXj26M4IkeEzMzMYa6Pj4eAgICAeWhoX2hkZHLu6eXu7u7EAgFJhITMzMzMKo+PiIB5dXVoX19oaGRk/d3l6erquQIAAEmEhMzMzMx3MYeAeXltaF9kaGRkZND23eXl1mgBAAAASYSEzMzMzISEH4CAeW1oZGRkaIe0+Orp4+M1AQAAAABJhITMzMzMhIRJAQIJNYBkZGRktOXl3d3GFgEAAAAAAEmEhMzMzMyEhElJSUkoHxKHbWSu1+rXrhklSUlJSUlJSYSEzMzMzISEhISEhISEhCqYZNbb42gxhISEhISEhISEhITMzMzMzMzMzMzMzMzMzE5128ROd8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzH5OaczMzMzMzMzMzMzMzMzMzMw"
+}

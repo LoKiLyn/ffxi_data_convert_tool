@@ -1,0 +1,30 @@
+{
+    "id": 4330,
+    "strings": {
+        "name": "Witch Risotto",
+        "article_type": "A",
+        "singular_name": "plate of witch risotto",
+        "plural_name": "plates of witch risotto",
+        "description": "This mushroom risotto has been\nbewitched.\nMP+35 STR-1 VIT+3 MND+3 Enmity-4\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMzMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAICg4gBAoQIAYMDiAIDA4gCAoQIAgMDiAIDBAgCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgOECAKDhIgCg4SIAoOFCAMDhIgCg4SIAgOEiAIDBYgCg4SIAwQEiAKEBIgChIOIAoQFCAMEBIgChAUIAwQFCAOEBIgDBQOIBASFCAMEBggDBIUIAoQGiAOEhQgDhIWIAwSFiAMEhYgDBIWIAwUEiAQEhQgDBIYIAwSGCAOFBYgEBQWIA4SGCAOFBggDhIaIAoSHCAOFBggDBAgIBAUGCAOFBggDBIeIBAUGCAOFBogDhgSIA4WFiAOFBwgEBQaIBAUGCAQFhggFBgSIBIWGCAOFBogEBgUIBAUGiAQFhggDBYaIBIWGiAOFhogEBQcIBAWGiAQFhogFBYYIBIWGiASFhogEBYcIBAWHiASFhwgFBYaIBAWHCAQFhwgEhYaIBIWHCAWGBogEBYcIBIYHCAQGhYgEhYgIBQYGCASGBwgFhgaIBIYHCAQGB4gEhgaIBQcFiAUGBwgEhgcIBAYHiASGBwgEBwYIBYYGiAUGBwgEhgeIBIYHiAQGCAgGBoaIBIYHiAQFiIgFBgcIBIYHiAUHBggFhocIBIaHiASGCAgFBoeIBQYICAYGhwgFhoeIBIYIiAWGhwgFBoeIBIaHiAMEjAgGB4WIBQaHiASHhogEhogIBoaHCAUGiIgEBgkIBgaHiAWHhogFhogIBQaICAQFiogDBYuIBgcHiAUGiAgGBweIBYaICAWHCAgFhwgIBIYKCAQFiwgGhweIBYcICAYHhwgFhwiIBYcJCAWHh4gFhwkIBYcIiAiHh4gHCAcIBgeICASHCggHB4gIBgcIiAWHiIgFhwmIBgeIiAYHiIgFh4kIB4eICAaHiIgFBwoIBgeJCAWHiggGB4mIB4gIiAcIh4gICAgIBoeJCAYICQgHiAiIBogJCAYHiggFh4qIBwgJCAgICAgGCAkIBogJiAaICYgHCAkIBggKCAWHiogGCAmIBwkICAWHiwgHCAmIBYcMiAiIiIgHCImIBwkIiAaIiggGiAqIBwiJiAaIiggICImICIiJCAcIiYgGiIqICAkJiAcJCggHCIoIBYgMiAkJCQgJiQmIBwiKiAeJCggHiQqIBwkKiAeJC4gJiYmICAmKCAaJC4gJiYmICQoJiAgJiwgKCgoICQmKiAeJi4gICgsICgoKCAeJjAgICYwICYqKCAkKiwgHigyICAqMCAoKiwgICgyICYqLCAqLCwgICo0ICYsLiAkKjQgLi4uICIsNiAuLi4gJi4yICouMCAmLjQgLDIyICwyNCAsMjogKjI8ICgyPiAuNjwgPb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29uLi4uLi4uLi4uLitWFaWlpPYWvG4uLi4uLi4uL29vb24tzGxsbGxrJ7JxoaHh4aHhohGhonYcbGxsbc4vb29vbi4sYADA0ODxATFhUVFREGBgULFRELDwgAxuLi9vb29uLizgwKEBEZF05oXGKDk3lpUTAUEgIPCwm64uL29vb24uKqDhsZV3e2vc+9u8zJzKhzfGZNRy4RCy3c4vb29vbmui0bV3Gt2dlWVuG9mlZWVoueqJhmUE4GGmHc9vb29tU7OGmt5VZWmGliWU1ISCgwMCtWi4OLSlYlGs729vb2ezh5p1aefzNAK3qdXFJ9LwQHFB4ld3GTbFUqLfT29OZIbKeemDgdKrypdEwmNTWHKjI0ICooM1aTkVofzvb0fnOek3kfR4V3y3mvh4i3yTwUL0yeY0VgMHl+hkd25pdKg6hxKni0r7h6vfe/wK7ov6KIb8+rMhQzMJOTZjHOMXOlgzhcr+TAloHxylOHP3Jj3sOVs4sxYFktaYxza08weZ5NQHfSnuvUjnhH6NoDHpQDGL+HGiA4Lyc4XKmJIVCTk0JSxFD3/bx8vPFb/kw2Y26Hs00UVJRHMzhnjIlVc6d3NoywI8fTmuHzrPP1vy+dm9ebdJrPUSpBSmBzf2GJg2lFmsSfsG3QbvHk2vnJ0Lfu09fTZ6ZIjE1Bp02DUFFzd2dt4dbj//zb8bs+ZUZl3ail7OFBKn8kTWm2WYNFZnFxaGipR27H88WdhGpdIkOCRkt6VDFsd20zdNl0WSOPUaVJW5ro5KmbjR9fdcjCsRw9LBgmKL5bWVya2IVihrVYjGg2XMGSkCu8d4rp+vvv4IoioZtjUpQzaZ69jDjf8GBRf0JFhdnhktl3LKDt7+r4qmSvOjdjM0CYy6VoYfb231FgZzhZmsx6s2CcX9Ht45lfz5R9Y0xNdL3SbTjm9vT0q1lIjEJHVJRA2PLhoUpaRKR0hU1jd5C23ZA8hvb29vbca0BZWUglMzhntmekfJFmMDA4MFyDudF0PHDc9vb29t/VZi5RUU4wHjAwKzgzWU0rNkBNq82oY1d+4uL29vb24uKyKTkrQU5ZQlk4OEFBR1lSi76haEgXAcbi4vb29vbi4rrGtZdQQTZITWJQWINzZomDXE1EhrrGxuLi9vb29uLf4uLi4tXOsKNmYmJsdmuPj7W11dzi4uLi3+L29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vY"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 4280,
+    "strings": {
+        "name": "G. Cracker +1",
+        "article_type": "A",
+        "singular_name": "garlic cracker +1",
+        "plural_name": "garlic crackers +1",
+        "description": "Now with 32% more garlic! Do not eat\nthese potent crackers before a date.\n\"Undead Killer\"+12 \"Resist Blind\"+12\nHP recovered while healing +8"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 99,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI4MCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQgAAAIIAACCiAABAwgAgQOIAIGDCAABBAgBAYOIAIGEiAECA4gAgYUIAQIECAECBIgBgoQIAIIFCAACBYgBAoSIAIIFiAEChQgCAoQIAIIGCAGChQgBgoUIAIIGiAEChYgBAoWIAIKGCAKDBIgBgwUIAQKGCACChogBAoYIAYMFiAGChggDAwSIAYMGCAKDBQgBAoaIAYMGCAEDBogBgwaIAgOFiAEDBogBAwcIAYOGiAEDBwgDA4WIAYMGiAKDhggCA4YIAYMHiACDh4gBg4cIAYOHCAEDCAgCg4aIAQOHCAIDhwgCA4cIAYOHiAMEBggCA4cIAYQHCAEDh4gCBAaIAYOHiAGDiAgEBAWIAYOHiAGDiAgCA4eIAgQHCAIEB4gBhAeIA4SGCAKEBwgCBAgIBISFiAIEB4gEBIYIAgQHiAGECAgChIcIAoQHiAIECAgCBAgIAYQJCAKEh4gChAgIBISGiAIECIgFBQWIAwSHiAIECIgCBIgIAoSICAGECQgChIgIAwSHiAIEiIgCBAkIBQUGCAIEiIgDhIgIAoUICAKEiIgCBAoIA4UICAKFCAgCBIiIBQWGiAIEiQgDBIiIAoSIiAKFCIgDBQgIAwUIiAKEiYgCBIkIBQWGiASFhwgChQiIAoUJCAMFCIgChQkIAoUJCAKFCYgEBQiIAoUJCAMFCQgChQkIAgUJiAOFiIgDBQkIAoUJiAYGBogChIqIAoUJiAOFiIgEBYgIAwWJiAMFiQgChQoIA4WJCAWGB4gDBYmIA4WJiAMFiYgDhYkIBoaHCAOFiYgDBYmIAwWKCAKFCogEhgiIA4YJCAQGCYgDBYoIA4YJiAOGCggDBYqIBIYJCAQGCYgGhocIAwWKiAOGCggDhgoIAwWLCASGCQgEBgmIBoaHiAQGCYgDhgoIAwYLCAOGCogEBgqIBwcHCAUGiYgEBooIBIaJiAQGiggDhgqIBAaKCAOGCwgEBgqIBIaKCAQGiogFBwmIBIaKiAQGiwgDhguIB4eHiASGiogHB4gIBAaLCASHCogEhwsIA4aLiAeHiAgHh4iIBQcKiASHCwgEhwsIBgeKCAgICAgEBwuIBYeKiAUHCwgHiAiIBIcLiAQHDAgGB4qICAgIiAWHiwgFB4uICAgIiAUHi4gGiAqIBQeLiAUHi4gIiIiIBIeMCAWICwgFB4wICIiJCAYIC4gIiIkIBQeMiAWIDAgFiAwIBIeNCAkJCQgFCAyICQkJCAcIi4gFiIyICQmJiAmJiYgHCQuICYmJiAaIjIgKCgoICAmLiAoKCggKCgqICgoKiAiKDAgICgyICoqKiAiKDIgKiwsICQoNCAsLCwgLCwsIC4uLiAuLi4gP///////////////////vrz4sej4Pj8/////////////////////////fzzv1sEBggEAwQTG5X1/v////////////Hx8fHx59xbCAYDGk5UMh8UHSMSEhOj6fHx8fH/////8e/czKNlCxEZSFMfTL3CwpgtKDkvDgsbxtzv8f/////x8dwAASEtMyo1RG9xtbWgZnWgkSdfHAwHv/Hx//////HxsBVHGlRdyDUjJTVpvZ2RpLeuNXRULAwb3PT/////8e1NGB9jUV1pSBknurSXw2xhn0ZpkptwGgll6f/////vhxkaNGlJToVGJXqFjJe8koF6GV+mlDQsHA3Q/////uITLygtKi22pTtGY4WMkYmynn1YXzo6n0c5C036/f/91AoPRB4tUdW5TFFmcZ+MWp6Rda+sMYnfpoEODen+/fqHDygnJVF8tmljZlQ7kXJBQom+3c2fhq/NgiwQ3P//+hYsSGd/gqa8jY1RHkVdbYZvmNLrzavJ26ZQMRaV/f/sGQ5IoopOS7alq1UXRbfSVYCu4+i6jM/K3cSSEi74/5AZOVB0cjpzS6U0fExktc1yaXJ7336MTKbb35IoIO//LiaBnoCJkpNAKSyTnomAwN5seXtvVnEyoLqshVgw6f8wLHupk4yMaTRTV5aMUWbDVyqUM4OndY7FnYZxOSTi/xwhYZSKXztebVV6soFBfKyFlrY/0ua+mb211nooJOn/HCMtYVBQNY18UY2NenqMXWDR2/e4mIiIaq33zzQi7P8pJidEWHuUTnxjR1WftYCpjIa937jTpL6ndeqydC7s/3gsU3OEirt7RYk0Y5GupMiWcMTRq3TR5d1+cc+ESvX/9A4vYoSas10rKzKEtp12s5yfe0ePm+TkplqRtD13/f/8CCEjL19ffHoyq7PAuloeXay6UI3Yz7SAjJeXMcz///5DDldHXo95bXKNm2yrcYW2npZ6w9qeutvKcWw87f///r8gPYGisaiUe3lsPqubuc65cGbJtnDEvblOXHf8////708sa6iKaTVpYSpJ2bnOi7PPyeHan9j2uz43v//////x1BxSc3tXL2yPaKm7qLGh06Lq+e667tk0KG7t//////HxlQc0eXkpRzp7s1xSzpqx4dX77tqmTgxD5+//////8fHcABhHUkdiLGiisVyK0/Lh8MjVfUUYAsbx8f/////x8dzUsBIhOj00KGy7i8uUqbZjjWwUCmXM3PHx//////Hx8fHv5y4cICYhES1SS1OicYGEGVnB7fHx8fH////////////+/fPHqiAcIxwWBQ4KT9fv+v//////////////////////////+ODHwcfQ7P////////////////8"
+}

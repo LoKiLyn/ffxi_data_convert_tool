@@ -1,0 +1,30 @@
+{
+    "id": 4284,
+    "strings": {
+        "name": "Tender Navarin",
+        "article_type": "A",
+        "singular_name": "bowl of tender navarin",
+        "plural_name": "bowls of tender navarin",
+        "description": "The slow-cooked mutton in this\nnavarin will simply melt in your mouth.\nHP+3% (Max.130) STR+3\nVIT+1 AGI+1 INT-1\nAttack+27% (Max.35)\nRanged Attack+27% (Max.35)\nEvasion+5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI4NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAGDA4gCAwOIAgKEiAIDA4gCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgMECAKChQgCA4QIAgOEiAIDhIgCgwUIAgMFiAMDhIgCg4SIAoOEiAKEBIgDBASIAoQEiAKDhQgDA4WIAgOFiAMEBIgDA4WIA4MGCAKEBQgDhAUIAwOGiAOEBggDg4aIAoQGiAMEhYgDBIWIA4QGCAQEBYgDhIUIAwQGiAOEhYgDhIWIA4QGiAMEhYgDBIYIAwQHCAOEB4gDhIaIBAUFiAOEhwgDhQYIAwUGCAMEB4gDhQYIA4SGiAQFBggDhQYIA4QHiAOFBogDhIeIAwSHiAQFBwgEBQYIA4SHiAOFBogDhQaIBASHCASFBggDBIgIBAWGCAQFBwgEBQaIA4UHCAOFB4gChYaIBAUHiAQFhogEBQcIBISHiAQFB4gEBYaIBAWGiAQFB4gDhQeIBASICAMFCAgFBYYIA4SIiASFhogEBQeIBIWGiASFB4gEBYcIBAWHCAQFCAgEBYcIBAWHiAOFCIgEBYcIBAWHiASGBwgEhQgIBAUICAWGBogFBgaIA4WICAQFCIgEhgcIBIYHCAQFh4gEhYgIBAWICASFiIgDhQiIBYYGiASGBwgEBgcIBIWICAUGBwgFBYeIBAWIiASFiIgFBgcIBIYHCASFiAgFhgcIBQYHCASGB4gEBgeIBIWIiAYGhogFBgeIBQYICASGCAgEBYmIBIYICAWGhwgEhYiIBIaHiAUGCAgEhgiIBAWJCAUGh4gGBocIBgYICAQGCQgFhoeIBQYIiASGCIgFBgkIBQaHiAaGhwgFBogIBIYIiAQFiYgFBoeIBQaICASGCQgGBwcIBYaICAUGCQgEBgmIBQcICAYHB4gEhgoIBQaIiASGiQgGhweIBQcICAWHCAgFBokIBgcICAWGiIgEhokIBQaJCAUGiYgGhweIBYcICAYGiQgFhwkIBIaJiAUHCIgFBwmIBgcIiAWHCIgGBwkIBYcJCAUHCYgEhoqIBweICAYHiIgFh4iIBIcKCAWHCggFhwmIBYeIiAYHiQgFBwoIB4eICAYHiIgFhwqIBweIiAaHiQgFh4mIBgeJiAUHCogICAgIBggJCAeICIgFh4oIBQeKiAgICIgGiAkIBYeKCAaHiYgFB4qICAgICAcICQgGiAmIBogKCAcICYgGCAqIBogKCAiIiIgHCImIBoiKCAaICwgHiImIBgiKiAeIiggIiIkIBwiKCAcIiYgHCQoICQkJCAgJCYgHCIuIB4kKCAgJCogGCQwICYmJiAgJiogJiYmIB4kLiAoKCggICgsICgoKCAiKCwgKiwsIC4uLiAuLi4gP////////////////////////////////////////////////////////////////////////////////////////n5+fn5+fn5+fn52HdsbGxbd4Lk+fn5+fn5+fn/////+fXk5OTk5NOUKxkZHh4ZHhkiGRkrd+Tk5OT1+f/////5+eQACgcNCA4RFhUVFRAEBAMJFRAJCAYA5Pn5//////n56woMDhAXGEZ5aXGgrpOAVTAbEQIIAwvd+fn/////+fnLDRoXZI/Z3+3f3+bm5siIl3tWRS4QCSv1+f/////73SsaZIjM8vLu7uXltmJiYqe8zLZ/XWIEGXf1/////+88PIDM+u7urnlnUWE6RS0tSlFip5enbWIoGeT/////lDyTyO68mzg/cmiSZs12HaKMaGhCaI+ug1soK/7//vtKgMOurjpNFCkjDyAlalSeu6rbS0s7OmKnqGwh6//+l4i9tqd0tIa0WEEfBWupfWi46p0kHBM0MI+Xo1GN+7VVoMiIns2Oxue5llofVMBOijFTL1BlfTtCN66uezXrNYjEoFHNq2p+4tbxpjl02qqxiVR1a7TK6Yylk6B/f1s1k71WmKKGPkRzxqvXllrx+MpUdY7Syoy5VJpMacioIl2urkWlY0QyUGpjTqvA9EHHs0t9ubJzyYwsZZiEm6NbjcObOJlEMhMptLJ0otJjHbRNQnOM4MfnV1RqeoSIm3egoIBFjkAca1il6bmrljkyjl6RirjPaDRlNnWQw1agX12Ij2eMVIGOZn7WwdzFbkkzesnHbk1YVxRAapDlaZtFe4CAZ9B8en6Ln0lmmauiWiyK6WWKsTY2MkBzsPKEXyKsX71PmKpHpdHxwW8sNuK5Qewq0ZBL0VRHfpDE8qFxnNVpp3kwz56vL1fJvzsfKX1YZSyQ4GiRR7eQtt/frTr3/XFfm0NM2dtzNopgt4o2euDQjKrj22DJc6rI9r15d///91+IYTphhLa+uIzHQi9CfOzzv5n8iXDIvNnyhUP7//7+wmlKp0pDj3ihuNuYnbe+ib5ycsTZvKTo9q0/nP/////1l0VpX18oX4B4gHiTj1Lqq9TDm72h3vCERYf1//////fvfy5fX2I6HjePj5utTPahrXlWzujMcmSX+fn/////+fnTJz0tXUZfSmldiIh/ro/O4d68eVEYAeT5+f/////5+d3k2LVbQ0pVX2l7f5ewe7CXaVFInN3k5Pn5//////n3+fn5+e/r1cJ7aXh/l5eXrNjY7/X5+fn59/n///////////////////////////////////////////////////////////////////////////////////////8"
+}

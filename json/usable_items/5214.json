@@ -1,0 +1,29 @@
+{
+    "id": 5214,
+    "strings": {
+        "name": "Melanzane +1",
+        "article_type": "A",
+        "singular_name": "dish of spaghetti melanzane +1",
+        "plural_name": "dishes of spaghetti melanzane +1",
+        "description": "Made from the most exceptional\neggplants in all of Vana'diel.\nHP+25% (Max. 105) VIT+2\n\"Store TP\"+6\n\"Resist Sleep\"+10"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTIxNCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYOIAoKCiAEBhYgCAoSIAoMDiAECBYgDAoWIAYKFiAKDBIgAAocIAoMFiAIDBwgCA4aIAgOHiAKEBogEhISIAgSHCAUFBQgBg4kIBAOIiAQFBogDBIcIAISJCAQECQgDBQeIAgQKCAYFhYgBhIqIA4UIiAQECggCBQkIBYSJCAQFiAgDBQoIAwYIiAYFiIgEBQqIAoWKCAKFCogEBYmIAgULiAIFDAgCBgmIBIULCAaHBogDBYuIAoWLCAIFi4gGhgkIAgaKCAQFiwgGhoiIAwYLCAOGCggFBomIBIYLCAeHh4gDBguIBAYLiAMHCggEBoqIBweHiAQGC4gHh4eIBwaJiAQGiwgDBouIBAaMCAOGDIgICAgIB4eICAMHCogFBwqICAgHCAQGi4gDhowIBweJCAgICAgEhwsIAoeLiAQGjAgDBo0IBweJiAQHC4gDhwyICAgICASHDIgEh4sICIiIiAaICggEBwyIAwgLiAgIiQgIiIiICAeKCAUICogHiImIBQeLiAUHDQgFB4yIBIeMiAYIiwgEB40ICQkJCAcIiogFiAwIA4iLiAWIDIgFiIuIBIiMCASIDQgHiIqICQkJiASJC4gECIwIBIgNCAmJiYgGiIuIBYiMiAUIjYgDCQ0ICQmKCASJDIgHiQuICYmJiAeJDAgFCI4ICAmKiAkJiggFiQ0IBomLCAQJjIgKCgoIB4mLiAaJDQgFCI4IBwkMiAkJiwgKCYsICgoKiAmKCogIigsIBYoMiAoKCogICguIBYmOCAmKCwgFCQ6ICQoLiAoKiogGiY2ICoqKiAiKC4gICY0IBYmOCAmKC4gICgyIBoqMiAqKiogICg0IBYmPCAsLCggKiosICYqMCAYJjogJiouICQqMCAiKDQgHio0ICwsLCAoKi4gFiw2ICgqMCAUKjogKCwuICQqNCAkKjIgKCwwICwsLCAoLDIgICo2IBgoPCAmLDIgKiwwIC4uLiAeKjogKCwyICQsNiAuLi4gLi4uICouMiAsLjAgJCw2IBgsPiAuLjAgHiw6ICYuNCAWLjogKi40ICYuNCAsLjIgMDAwIBowOCAqLjQgKi42ICAuOiAwMDAgKjA0IDAwMiAoLjggJC46ICwwNCAiMDogMDIyICwwNiAmMDogIC4+ICwwNiAuMjYgKjA4IDIyMiAyMjQgJjA+IC4yNiAqMDogMjI0IC4yOCAuMjogKjI8IDA0OCA0NDQgHjQ8IDA0OCAwNjggMDQ8IDA0OiAoND4gMjY4IDA2OiA0ODggMjY6IDA2PiA0ODogODg4IDQ4PCA0OjogODo6IDY6OiA2OjwgODo6IDY6PCA6OjogODw8IDg8PCA6PDwgL29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vYWFhYWFhYWFhXVoXllWVlleaHWFhYWFhYWFhYW9vb29hX1eXl5eVkY5QF56lqOjjXFeRkBGVl5eXl59hb29vb2FhV4AAhJHirTU1NDQ19rg5unq15xdGwIAXoWFvb29vYWFWRJdr7u7uLuyraamprTQ4+bw+Pi/XRtZhYW9vb29hWg5nLKyuLSksqampqurq6Syx+Pb7vj2nE5xhb29vb1xVqutq62VjqfFiR0oYj1qqcjX0M3H2/P84Ghxvb25qk67pqakjrvNfjcHCR9sYkIcNUKp9de30Pz87miqub1ouK2tpJWpfjTeUwkIIiInMFLEtXdq3OO3x/D85n29mHG0raaOqWZBi94JCRMlGC5ngktLS2ov3OS3zPz8ypho27KmgIZmMV+LCQkDVT8YJWQ6HBxkd0N43NKx2/r8hXHju45wgySLMQQFDSoadBQUP39MOkMvVyZY9Z277vyNo9rXgJFaQaYVBAYnLn+hMxg4UUR0KSlVDCH/zafb+MrR1NS0fHCLFQENVUVvb9l4Mx47THRMWx8Ll/DNmcz66tHb7OORYCAME1tRRVGSofJkLEQ4tmVMBnDl97CRzPzeqtvv8bC3e0lMVVFRO29v2e04ZDjEZUMW5dX/mpnb/MCf2ub74OCXL0tbiGx0eH+hwmxsV6V0HaDT1fOJme78n5/J2vvv6eSXKTU9rnkXCh9ulFFlm2pJzrrzvHax+PqYqpbb7//5+etsOk9ty2tcXGtuc1CET7Xf7OmJkcz8ubO9n8Dg+vn1+diIZ2IhI0g8SDIrMnKHwfL5mny3+POfvb25ccnj/fv9/emXlJImERYjEQ8ZNvHy4aiGt/b8cbO9vb19dbjj//77/vPOwraCY2OHKD3E3MWJkbf39319vb29vYV9WZDj+v/9/v7wy67oxo+ezsGghqfb/N1efYW9vb29hYVoLYG/4/j9/f797+HStamdsMjg9/SiPl6Fhb29vb2FhV4AAj6Br9rw+Pj4/v7+9urw8N2iSgIAXoWFvb29vYWFXgAAAAIQPmGTw8/i59bDvoxNEAIAAABehYW9vb29hYVeAAAAAAAAAgICAgICAgICAgAAAAAAAF6Fhb29vb2FhV5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXoWFvb29vYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYW9vb25vb29vb29vb29vb29vb29vb29vb29vb29vb29vbm9vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb0"
+}

@@ -1,0 +1,23 @@
+{
+    "id": 4052,
+    "strings": {
+        "name": "Alloy Tonic +1",
+        "article_type": "A",
+        "singular_name": "phial of alloy tonic +1",
+        "plural_name": "phials of alloy tonic +1",
+        "description": "This mystical solution is inexplicably absorbed by myriad metals, which seems to be how it draws out the immense powers that lay dormant within certain pieces of equipment."
+    },
+    "flags": [
+        "MysteryBox"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 1,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDA1MiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCgoMIAwMDCAMDAwgDgwMIAwMDCAODgwgDg4MIA4OECAODhAgEhAMIBAQECAUEgwgDhASIBAQECAUEg4gEhIQIBISEiAWEg4gEBIUIBISEiAWFA4gGBQQIBASFiAUFBIgGBYQIBgWECASFBYgGBYQIBYUFCAYFhIgGhYSIBQWFiAWFhYgGhgSIBoYFCAWFhYgFBYYIBwYEiAYGBYgFhYWIBgWGCAaGBQgGBgYIBQYGiAYGBggHBoUIBoYFiAcGhQgGhoWIBoYGCAeGhQgGBgaIBgaGCAeGhQgHBoYIB4aFiAcGhYgGhoaICAcFCAaGhogIBwUIB4cFiAcHBggGhoaIBocGiAcGhogHhwWIB4cGCAiHhQgHBwcICAcGCAaGh4gGhwaICAeFiAeHhggHhwaIBgcHiAaHhwgHBwcICAeGCAaHB4gGBwgICIgFiAgHhggHh4aIBweHCAiHhggHhwcIB4eHCAiIBggIB4aICAeHCAcHh4gIB4aIBgcICAcHhwgHh4eICQgFiAiHhogIB4cIBoeICAkIBogHh4eICAgHCAmIBggHiAeICAgHCAgHh4gIiAcIB4gHiAaHiIgJCIaICIgHCAgIB4gICAeICAgICAeICAgICAeICIgHCAgICAgJCIcICIgHiAoIhggICIgICAgICAaICQgJiIcICYiHCAkIh4gJCIeICgkGiAkIh4gIiIgIB4iICAcICQgIiIgICIiICAgIiAgJCQcICYiHiAiIiIgIiIiICokGiAkJCAgJCIgIBwiJiAmJB4gJCQgICgkHCAeIiYgJiQgICIkIiAkJCIgICQiICIkJCAoJh4gKCYgICYkICAmJCIgJCQiIB4iKCAoJiAgJCQkICQkJCAoJiAgJCYiICAkKCAoJiIgKCYiICYmJCAqKB4gKCYkICQmJCAoJiIgKCYkICYmJCAeJCogKigiICgoJCAmJiYgKigiICYmJiAuKh4gKCgmICwoIiAqKCIgKigkICAmLCAoKCggJigmICwqICAsKCQgICYsICooJiAoKCYgKigmICwqJCAoKiggMCwgICwsJCAsKiYgKCooICwqKCAsKiggKioqIDIsIiAsLCYgLCwoIDQuICAuLCYgLCwqICwsLCAuLCogMC4mIC4uKiA0MCQgMC4oIDIuKCAuLiogMjAmIDYyIiAwLiwgLi4sIDIwKCAwMCogLi4uIDIwLCA8NCAgMDAwIDY0KCAwMiwgOjYoIDg0KiA2NDAgODYuID44KCA4NjAgOjYwIDQ4NCA8ODIgPDowIDw6MiA+PDQgPj48ID4+PiAAAAAAOvr6+vr6+vr662BaqyGcJaSlqE2T313v+vr6+vr6+vr6+vr6+vr6+jdTyp36PjBfraktseFuUNm6+vr6+vr6+vr68bGxsbGxkUx6GapPipzdz5pj2bP00mBxsbGxsbr6+vrxr+Xl5eBKoakMY9XHUVzV0o+Sn6hOzuSl5e/xuvr6+vGxpcAAAkHMcx3Sl82SlJXX1J+hb1JDQAAl8bG6+vr68bGlwAEBiY206GFhbmpk/Czk2bToSYFCQCXxsbr6+vrxsahAQZDobnPrX+pkZqOvH+WuaHMuXwXBKHGxuvr6+vGxn0Nl7bPvbnL95l/f9h7e3GRf6+8kX9JMcbG6+vr68eBNoHT6Myv4Jnyu0A4SE2mXnF7dItle5pJSb/r6+vrl1hYz63BmurYVJR2VSzvOpw6QGfvZ3SLvNU7cOvr6+tqQ63ojpp7g1UzTGPAeTknTGAntDmlVIDS87hY6+vr61hJ56mOdNHp8eYYEyIrGy9TL4wnJSdM36fk7Emt6+vrT5bnbV7RgkJ5HlxGPxMY2lMoPDcfK8BIpuPcO8br6+tPf9xCipw5JyNHI2MlFRhyPyhrcu0fmEKA4687rOvr60uOzVmCyCsnYGRCQmBEGzc3a4QfmE4l9bG3qDu26+vrS2GZgF312m++ldKJyCslRIw8LyJGHyuV9KvZNqzr6+tSS8vfZEE5npXZ/quCOUzQPEQvN0SYXZWyy6hPx+vr631P7Pqcb/FTieLydl3h74mlXVAznkFviae4Yn3r6OvrtjvL/JxQTMCJpsmulO/ldmyKoONspWyu0t47gevr6+vGcDvs26XXR66Njau+zt6Ny3W3bUjRydLZWE/G6+vr68e/Km2rXk12Z6uL6su7gKDL59S81IrJoHUxxsfr6+vrxsZmB15zmot6ek2DYkUwOjhijp24zZ21EHDGxuvr6+vGxpcFIYOxnWVl30Awse46QE1VSLjV3i0Dl8bG6+vr68bGlwEMOIODZSwoHx4bDxsTHk2gVac0BQCXxsbr6+vrxsaXAAEQWfBBG1TV/OSzwbUsHopNbAUBAJfGxuvr6+vGxpcAAAgNpb7b6vv+/fn39/T24skZAgAAl8bG6+vr68bGlwAAAAkZtMOZHSkkJCAaXo3OGQMAAACXxsbr6+vrxsaXAAAADg2uHRocICAgHBIWEbUMAAAAAJfGxuvr6+vGxpeXl5eXRSoLHCmQqp+HNRQKO1iXl5eXl8bG6+vr68bGxsbGxsakQxRRn7C6xcqqURFFxsbGxsbGxsbr6+vo6+vr6+vr6+tqPVF4eJCbqnhWSaTr6+vr6+vr6+jr6+vr6+vr6+vr69ZqMlZbaGhoWz1q6+vr6+vr6+vr6+s"
+}

@@ -1,0 +1,22 @@
+{
+    "ID": 13394,
+    "name": "Vigor Earring",
+    "item_type": "Armor",
+    "description": "${icon: earth}+8 ${icon: lightning}+8",
+    "flags": "Inscribable, CanEquip",
+    "stack_size": 1,
+    "equipment": {
+        "level": 49,
+        "ilevel": 0,
+        "jobs": "All",
+        "races": "All",
+        "slots": "Ears",
+        "superior_level": 0,
+        "shield_size": 0,
+        "max_charges": 0,
+        "casting_time": 0,
+        "use_delay": 0,
+        "reuse_delay": 0
+    },
+    "icon_bytes": "kWFybW9yICAgMTMzOTQgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAQgBgYGIAIGCCAKCgogCgoKIAoKCiAGCgwgBgwOIAYMDiAGDBAgDg4OIAgOECAOEBAgChASIBAQECAKEBQgEhISIAgQFiASEhIgDBIWIBISEiAKEhYgDBIWIAoSFiAKEhggChIYIA4UGCAKFBggChQaIBQUFiASFBYgEBQWIA4UGCAMFhogEBYaIAwWGiAMFhogDhYYIBIWGCAQFhogDBYcIAoYGiAOFhogGhYYIBQYGiAMGBwgDhgcIAwYHiAYGBggFBgaIAwaHCAMGB4gGBgaIBAYHCAMGB4gEBoaIA4aHiAOGB4gDhocIBYaHCAQGh4gDBwcIA4aHiAOGh4gFhoaIBoaGiAOGiAgEBwcIA4aICAQGh4gDhogIBAcHCAcHBwgGhwcIBYaHiAOHCAgEBweIA4cICAcHBwgGBwcIBAcIiAQHh4gEhwiIBwcHCAQHCIgFBwgIAweICAOHiAgHh4eIB4eHiAQHCIgEh4iIBAeIiAQICAgEB4kIB4eHiAWHiAgFB4iIBAeIiAUICAgECAiIA4eJiAQHiQgFB4iIB4eICAQICQgEB4mIBIgIiAaICIgEiAkIBggICASIiIgICAgIBQgJCASICYgFiIiIBQiIiAaIiIgEiIiIBIgJiAQICggIiIiIBoiIiAWIiYgEiImIBQiJCAcIiAgEiIoIBIiKCAaJCIgFiQkIBQiJiAaIiQgFCQkIBQiKCAYJiIgFCIoICIiJCAWJCYgFCQoIBQkKiAYJiQgECYoIBQkKCAYJiYgGCQoIBQmJiASJCwgGCYmICQkJCAYJiYgFiYoIBQmKiAaKCYgEigoIBgoKCAYJiogGCgoIBQmLCAaKCggGCgqIBwoJiAWJi4gGigoIBQoKiAoKCggGCooIBgoLCAcKiggFioqIBIqLCAaKiogFiguIBooLCAeKiggGioqIBYoMCAYKi4gHCoqIBYqLCAWKjAgFiowIBQqMiAeLCogJCwqIBwsLCAYLCwgKioqIBosLiAWLC4gHCwsICAsLCAaLC4gGiwwICwsLCAcLiwgIi4sIB4uLCAgLiwgGi4uICwsLCAkLi4gIDAsIBYsNCAkLi4gIjAsIC4uLiAcMC4gHDAwIBwwMCAiMC4gFi42IBQuOiAcMjIgIjAwIBgyMiAkMi4gGjA2ICAyMiAwMDAgJjIwICQyMCAiMjAgMDAwIDAwMCAwMDAgKDIyICI0MiAyMjIgMjIyICY0MCAmNDIgIjQ0IBw0NCAoNDIgJDQ2ICQ2NCAgNjYgGjY4ICg2NCAeNjggKDY2ICw2NCAuODYgJjg6ICA6OiAqOjggLjo4ICw6OiAwPDogOfn5+fn5+fn5+fn5+fn5+vn5+fr5+fn5+fn5+fn5+fn5+vn5+fn5+fn5+dfZV9lZWVlZV9lzufn6+fn5+fr6+fn5+bq6ubm5uaPNhUZSGx9mWBrMzJH6ubm5ubm5ubr5+vn5ubl5eXlfxQgGRciKkyFhp6MYDAj5eXl5eXm5ufr5+fm5uUAAAUDJhUqUyIXH1ZWeHiSeC0DAAAA5ebm5+fn5+bm5QABAyQgjG9gU1EpHycnKkhRbDcDAADl5ubr5+fn5urlBQQgHmB+b2BFEygfJylERWSFaGENuuXm5ufn6+fmNhAEJhuifW9gKxYFETw8RSkqTDwzU3MR5ebm6+fr5zEqLiohgpV9YCsUAQk+kXAnVru737uepIEU5ubn5+erW0QhMzlTSD87Gg8AHYVkNVbZai8vaoh6wmde5ufn66tRpEQh36iOcGESAA1WZDVa2ThFV115g65px1Tm5+fnq1BTHilKTERTHBgIPC4pP984kFdXoKqu9nGainbn5+vORzsqiVhoUyUGCmcnLkTfOPOwgy+LY5bQrKOATufn5+d2chtTiW9oQgILd0UitmOQsN2Lr9vv9NBqkMU25+fr59RuKSKCno6CAweJbEXRqphqap2ujWmck7il90fn5+vn5o87GzmglZVLCIliRd+gQ0Nc+5BFSY2T08T3Nufr5+vm4TowIla3rYkTjmxa0ZRDanXbjU09kJ/Tv/E25+fn5+bqTzQ5KX19aFiBZFq8oF2xfNuNaXmsnNDE8Tbn5+fn5uYsLWk5Lj9MTHdoWra5fLWD266NrtWf2MvuNufn5+vm6iMtWjM5Wkg/gmRFqM18sXrk0K6016fjy+A25+fn6+bmI0JIYJJwWlaObEWk24vgeunj5NXXve3M1jbn5+fn5uYsO3OeSqB+Vo54RbLzlqlx9fDzybjM/MzVR+fn5+fm5iNCbX3Z2reFhYI5suSQg0Dt/f7ezNPe08NH6+fn5+bmmwR3c4aoc2JzWCq3sZBxfMn9/+3P4r2/xjbr6+fr5ublAiyinoJLHQNbRIGdrvO4pfLz+PncxPq+R+fn5+vq6uUBAh0OAgMCARFbYrfe7MupqaGjlsXy4E7B5+fn5+rm5QAAAAAAAAAABgxtjNyurszLrqOYndKEj+br5+fn6ublAAAAAAAAAAAABQ2XscXe7MzNwKqvRjrm5uvn5+fm6uXl5eXl5eXl5eXlfyxnZnR7h4eAe1VP5erm5+fn6+bm6ubm5ubm5ubq6ubm4W5OWVRUWVlObubm6ubr5+fn5+fn5+fn5+fn5+fn5+vn5+fn5+fn5+fn5+fn5+fn6+fr5+vn5+fn5+fn5+fn5+fr5+fn5+fn5+fn5+fn5+c"
+}

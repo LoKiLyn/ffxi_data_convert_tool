@@ -1,0 +1,30 @@
+{
+    "id": 5761,
+    "strings": {
+        "name": "Kohlrouladen +1",
+        "article_type": "A",
+        "singular_name": "kohlrouladen +1",
+        "plural_name": "kohlrouladens +1",
+        "description": "A veritable Kaiser among kohlrouladen,\ncontaining only the finest hand-picked\ningredients and simmered to savory\nperfection.\nSTR+4 AGI+4 INT-4\nRanged Accuracy+10% (Max. 65)\nRanged Attack+16% (Max. 70)\nEnmity-5 \"Subtle Blow\"+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTc2MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAYGBiACDgwgDAwMIAQIGCAGChggBhAQIAgOFCAECh4gEBAQIAYKHiAGDhggCBISIAYMHiAECiAgBhIUIAoSECAIEBggBAoiIAwSFCASEhIgBg4eIAgOICAKFBQgBg4iIAQMJiAIEB4gDBYUIBQUFCAOFBggCBAkIAoWFiAIEiAgBBIiIAgQJiAKFhwgBBIkIAoUICAQFhogBhAoIAoSJiAMFCIgBhQmIAISKCAIFiIgDBAqIBIYGCAMGBwgEhgcIAYWJCAKECwgDBIoIAIULCAYGBggBhYmIAoSLCAYGBogBhgkIAYUKiASGhogDBoeIAoWJiAMEiwgAhQsIBQcGCAaGhogDBgkIAoSMCASHBogAhQuIAwULCAMFC4gChoiIAYWLCAaGhogChIyIAocIiAGGiYgChgoIBIWKCAOFiogDhQuIBwcHCAMGiYgDBgoIA4WLiAGGiogDhYwIAwUMiAcHBwgEhgqIBAWLiAIGiggGhwgIAocJiAcHB4gBhosIAYcKCAeHh4gDhYyIBAYMCAcHh4gEhwmIBQaKiAKHiggDBosIAgcKCAQGDIgHh4eIBggHCASGC4gEBgwIBgcKCAKICYgCB4oIA4YNCAQICQgFBouICAgICAaHCggDCAoIA4eKiAIHi4gICAgIBIaMCASGjIgFhwuIA4eKiAUGjIgICAiIAogLiAcHiggFhwuICIiIiAQICogICIiIAwiKiAWHDAgGh4sIA4gLCAiIiIgEhw0IBQgLCAKIC4gIiIiIBAiKiAiIiQgDiIqIBweLCAeICogICIoIA4iLiAiIiYgIiIkIAwkKiAKIi4gJCQkICIiJiAgIiogHiAuIA4mKiAMJC4gCiQwICQkJiAOJCwgDiQuIBoiLiAkJCYgIiQqIA4mLCAgKCIgJiYmIBYmKiAkJCggICQuICYmJiAOKCwgFiA4ICYmKCAmJiogDigwICgoKCAgJDAgEiguICgmKCAYKC4gDiguICQmLiAQKDAgECouICgoKiAiJjAgDiowICgoKiAQKDQgEiwuICoqKiASKjIgKCgsIBQqMiAmKDAgKiosIBQqNiAULDAgEiwyICoqLCAWLDAgLCwsIBYuMCAsLCwgFi4yICwsLiAoKjIgDjAyIBYsOCAsLC4gGi4yIC4sLiAQMDQgLi4uIBowMiAuLi4gLi4uICwuMiAaMDIgLi4wIBwwNCAWMjIgFDI0IC4wMCAaMDggMDAwIBoyNiAwMDIgMDA0IB4yNCAcMDogMDIyIB40NiAyMjQgMjI0IDQ0NCA0NDQgJDY4IDQ0NiA2NjYgLjg4IDY2OCAwODggODg4IDQ6OiA6OjogPDw8ID4+PiAAAAAAN7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3ra2tra2tra2d21jY21gYFNaYGOCtra2tra2trbe3t7etrCRkZGaWktgpKyzub+/v8K5pFpCWpqRkZGwtt7e3t62tpEAAh2Iv87O0NTf2tTKxdDQxb+THQIAkba23t7e3ra2mgRmytTm6uba39zU0NLc4uLaxcq/iASatrbe3t7etrZLqNjw8OjYysK5tLSpn5+uv9Lc2MrFs1q2tt7e3t65bcLO7tK5v6lxUVZWWEhIVnaVn7POztjcwny/3t7e3nfC3Oaok14HHjw8TERZdHRsdoF9i5moxdzo8G3e3t6kk9rqpJkqCBEcQS8pOEREZGxwfn1lf5adv9j9qI3e3prK6uiXJ0UgEQ0vDCUiHy4jOExwjo5wdp+axebzbd6kqNrx2C+rbhgDECQmSjUsHxY3SDNSso5/f5Os1Oq5pJq/6PO8JjEUEiAHJHlhRjUbMldiXVYzWIpvlp3C1NyNjdTy84saBRsqMBg9lGFKK12DYmJia1cuZX2Ek7DO4nyR2vjyaA8GKlSmlHl7mDctXZCDa2JicytlZYWXqMragp3m+PJQCQ5nQ12AiVctX6KctZCckHNpTzRcZWipxdSNk+r28lAPDz4mIWlJTXKlyKKmyKbDoms6T1ZbaJew0o2G5vr1cRMPGSZDSXW4saHMu7W908PDpolfKVFblrnYgnzq/PifDgkTVFSSrePEzOHEvr7dzc3BiWk+UVCZudyCd9Dw/McWCRM+gIeSrdns7NPZzM/h09uhc10/hJPK4nd8gub+8ioLCxd6h5KHzOHk+f377+nb1pS7g1CkrMWojd6C3/z97iYOCw5qgHqA1+f3+fTp0+WxvqMpnp6/s43e3qRg4vj160MXFxkfalWMy+3p0czd3b7Bj66ksMqCjd7U3mB30u718KlxeDQ/R0eYpbG7z+PZqrq5s525rGDe3t7etmNt6u7y9vXmvIVvXFJSjLGltafOv7OdrJ1att7e3t6/tks56Obx8fHw4NXJwLegr8fQxbmsrKxmS7a/3t7e3ra2kQIKs+7a3+ji2NLU0tDKwsK/s6yzHQGRtrbe3t7etraRAAABFaTc5uLY0tDQzsrCwrmsHQIAAJG2tt7e3t62tpGRkZGRQjY2Y42os7OonXdCNkKRkZGRkba23t7e3raztra2tra2toZgU0tLQktTWoa2tra2tra2s7be3t7Y3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3tje3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t4"
+}

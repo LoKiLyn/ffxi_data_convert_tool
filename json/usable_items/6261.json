@@ -1,0 +1,29 @@
+{
+    "id": 6261,
+    "strings": {
+        "name": "Akamochi +1",
+        "article_type": "A",
+        "singular_name": "piece of akamochi +1",
+        "plural_name": "pieces of akamochi +1",
+        "description": "A shiromochi with a layer of red bean paste.\nHP+30 VIT+4\nAccuracy+11% (Max. 54)\nAttack+17% (Max. 54)\nRanged Accuracy+11% (Max. 54)\nRanged Attack+17% (Max. 54)\nPet: HP+30 VIT+4\nAccuracy+11% (Max. 81)\nAttack+17% (Max. 82)\nRanged Accuracy+11% (Max. 81)\nRanged Attack+17% (Max. 82)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjI2MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQGIAYGBiAGBgYgBAgKIAYICiAICAwgCAoMIAoKDCAKCgwgCgoOIAoKECAMDAwgCgwOIAoMDiAMChAgDAwQIAwKEiAMDBIgDAwQIAwMEiAMDhAgDgwSIAwMFCAMDhAgDgwUIA4OEiAODBQgDhAQIA4OFCAODhQgDhAQIA4OFCAQDhIgDg4UIA4OFiAOEBIgEA4UIA4OFiAOEBQgEBAWIBAOFiAQEhIgEBASIA4QFCAQDhggChAWIBIQFiAQEBggEhIUIBIQFiAQEBggFBAWIBASFiASEhQgEhAYIBQQGCAQEhggEhIUIBIQGCASEhggFBQWIBISGiASFBYgFBIYIBISGiAUEhogEhIaIBQUFiAQFBggEhQWIBQUGiAWFBggFBQYIBQSHCAUFhYgFBQaIBQSHCASFBogFBYYIBYUGiAUFBwgFhYWIBQWGCASFBogFBYYIBQUHCAOFhwgEhQcIBQWGiAUFBwgFhYYIBgUHCAUFhwgFhQeIBYUHCAUFhogFhQeIBYYGCAWFB4gFBYeIBYYGiAWGBogGBYcIBYYGiAUGBwgFhYeIBgWHiAWFiAgGBgaIBgYHCAaGhogGBgeIBgWICAWGBwgGBYeIBAYHiAYGhwgGBYgIBoYHiAWGB4gHBgeIBIaHiAWGh4gGBggIBgYICAYGhwgFhggIBoaGiAUGh4gGBoeIBIaICAYGCIgGBoeIBgaHiAcHBwgGhgiIBgaHiAcHBwgGhgiIBocHiAYHCAgHhoiIBocICAaGiQgHBwcIBwcHiAcGiQgGhwgIBYcIiAeHh4gHBokIBweICAeHCIgGh4iIBweICAeHiAgHB4iIBYeIiAcHCYgHh4eIBoeIiAcHCYgHhwkIB4cJiAcHiIgGh4kICAgICAeICIgHCAiIB4cJiAaICQgHhwoIBwgIiAgICAgICAgIB4gJCAgHiggICAkIB4gJCAiIiIgIB4oICAgJCAeIiQgHiAkIBwiJiAgHiogIiIiICAiJCAeIiYgHCImICIiJCAcIiggICImICQkJCAiJCYgICQoICIkJiAkJCQgICQoICIkKCAiJCggJiYmICQkJiAgJCggIiYoICQmKCAeJiogJiYmICImKCAiJiogICYqICYmJiAmJiYgIiYqICgoKCAkJiogJCYqICAoLCAkKCogJigqICIoLCAkKCogJioqICYoLCAiKiwgKioqICYqLCAmKCwgJiosICQqLiAmKiwgICouICYqLiAmKi4gLCwsICYsLiAsLCwgKiwuICYsLiAoLC4gLCwsIC4uLiAoLDAgLi4uIC4uLiAqLjAgLC4wICwuMCAAAAAAPv7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v69+ja0Nbd9/r7+/v7+/v7+93d3d3d3d3d3d3d3d3dzLVYJSIqJSJRpszb3d37+/v73d3BwcHBwcHBwcHByJcwFCoxKkBAN0MxMJDW3fv7+/vd3cEAAAAAAAAAAAADCxs3TE9FW257e3uEIo3W+/v7+93dwQAAAAAAAAAAAxMyRV9VbmyLe5qannuLYZD4+/v73d3BAAAAAAAAAAINMkVPe4+hq669rqB4iISLaMX4+/vd3cEAAAAAAAACBzs8iJqrtsLCvMKriCguOFqSc+j7+93dwQAAAAAAAQpLS3izo8PJy8/Px4w7FRYuS0uEwfv73d3BAAEFBgYERVqBocnKx8rP1N7DeBUQKC5Wf4+t+/vd3cECCRI3PEpfgaPDzs7O19jcyqAtFRURJlaUY6b7+93MUR5AQExKWZOTvsrT3Nzf4t65VBUREREuK21jpvv6tTBRQ2xmbFVVoLnKztjm5uLpyn4cGBAjI0gcSGWm+tBAWVuBjHiPbGajw9jc7fLr69yvHxEVGBorSFY1babxQ1l4laO9trOMh8rK1+Hr9u3nsTMVFyEYFRg1RkZCrdtDbqO+ztPc0rldztfh5vny9b9EGh8pOSwsESg1Pka6yISSws3S3OTS0nrY3OPr8OzEVB0jJCMpHy8dGkZSfdDIor3X1+bj6+vgpNLf5uvsm0ksKR0dQR0XMyQrRn9O6Mi6w9Ph6e/t8NVEaoCshV5BRDMvPS8zRx8kHyFIlLT6yMfP6fbv7+3hpxhpUFRBSTNQIyw5JBdBQRVgHS9i3fvanNHp/fzy5MSHIYN8XFxHRHAzLDZXLB05FSkvdqL7++icy+35/vbGiTQad5aZkVczXFdBXFAvGFNBQp+Y3fv795yu3u3qxHopFhYhg7CWnXdHfERkaTMsJFOpdd3d+/vzQHA2Pz82RFApNhw4kbe3qkmlQVdkUFx3awLB3d37+/NFaXBwSUGZfFeKJhEocJG3V3E5U3eCUggBAMHd3fv7+9aKpYOKaXd3mUl8QRkZLVdxfGU+DAUBAAAAwd3d+/v4+pC3naiDfIrAmVMmIyYcIA4CBQEBAAAAAADB3d37+/v725e7qrKDjo63ikdJQS8PBQAAAAAAAAAAAMHd3fv7+/vd3ZdDgnFgineZOE1zjbTByMHFxcXFxcXBwd3d+/v7+93d3dbBQyc3QIa0wczd3d3d3d3d3d3d3d3d3d37+/v7+/v7+/v48ff3+Pr7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/j7+/v6+/v7+/v7+/v7+/v7+/v7+/v7+/s"
+}

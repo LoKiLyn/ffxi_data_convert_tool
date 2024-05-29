@@ -1,0 +1,24 @@
+{
+    "id": 8959,
+    "strings": {
+        "name": "Snoworb Stone +2",
+        "article_type": "A",
+        "singular_name": "snoworb stone +2",
+        "plural_name": "snoworb stones +2",
+        "description": "Cold to the touch, this stone reflects light off its snow-colored surface equally in all directions due to its perfectly rounded edges."
+    },
+    "flags": [
+        "MysteryBox",
+        "NoSale"
+    ],
+    "stack_size": 99,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 1,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgODk1OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGIAYGBiAICAggCgoKIAwKCiAMCgogDgwKIA4MDCAQDAogDAwKIAwMDCAODAogDAwMIA4MDCAQDgwgDg4MIA4ODCAQDgogEg4KIA4ODCAODg4gFBAIIBAODCAQDgwgEA4OIBAODiAQDg4gEA4OIBAODiAUEAogEA4OIBAODiAQEA4gFhAKIBAQDiAUEAwgEBAOIBAQECAQEA4gEBAOIBYSCiASEA4gEBAQIBIQDiAQEBAgFhIKIBIQDiASEBAgEhAQIBAQECASEBAgFhIMIBIQECASEBAgEhIQIBIQECAWEgwgFhIOIBISECAYFAogEhIQIBoUCiASEhAgEhIQIBISEiASEhIgFBISIBISEiAaFAwgFBISIBQSEiAUEhIgFBISIBQSEiAUEhIgFBISIBwUDCAYFA4gFBISIBQUEiAUFBIgFBQSIBQUEiAcFgwgGhQQIBQUEiAUFBQgFBQUIBYUEiAgFgogFhQUIBYUFCAgGAogHBYMICAYCiAWFBQgFhQUIBYUFCAgGAogFhQUIBYWFCAeGA4gHBYQICIYCiAWFhQgFhYWICIYCiAWFhQgFhYUIBwWEiAWFhQgFhYWIBgWFiAiGgogIBgOIBgWFiAWFhYgGBYWIBYWFiAkGgogGBYWIBYWFiAkGgogIBoOIBgWFiAgGg4gGBgWIBgYFiAkGgwgHhgSIBgYFiAYGBYgGBgWIBgYFiAYGBYgGBgYIBoYFiAmHAwgGBgYICIaECAYGBggGhgYIBgYGCAkHBAgGhgYIBgYGCAmHAwgGhoYIBoYGCAYGhggJBwQIBoaGCAkHBAgGhoYIBoaGCAaGhggKB4MIBoaGCAaGhogGhoaIBoaGCAoHgwgGhoaIBwaGCAaGhogGhoaICgeDCAaGhogHBoaIBwaGiAcGhogKh4MIBocGiAqHg4gHBwaIBwcGiAcHBogGhwaICogDiAcHBogHBwcIBwcHCAcHBwgHBwcIBwcHCAcHBwgHBwcIB4cHCAcHBwgHB4cIB4cHCAeHhwgHBwcIBweHCAcHhwgHh4cICAeHCAeHh4gHh4cIB4eHiAeHh4gHh4eIB4eHiAeHh4gIB4eIB4eHiAeHh4gICAeICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgICIgIiIgICIiIiAiIiIgIiIiICIiIiAiIiIgIiIiICIiIiAiIiIgIiIkICIiJCAkJCIgJCQkICQkJCAkJCQgIiQkICQkJCAkJCQgJCQkICQkJCAkJCYgJCYmICQmJiAmJiYgJiYmICYmJiAmJiYgJiYmICYoKCAAAAAALm5ubm5ubm5ubm5raitsrK0ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5mWMvHCRERGBpfq20ubm5ubm5ubm5ubm5sp+fn5+olksNNTUjTGY9NjIbGVOdo5+fn5+fn5+yubmyn52IknQYPUGUTDUpRTJHUEFQUhVbiIiIiIidn7K5ubSflogCCF8yNS1MPVE9PSArTDJZXBEEAAAAiJafrbm5rZ+fbQpNTDtnqTFMLicuJis+FB4iLiMFAACIlp+0ubm0n5YqLTA9PLU5PDJiMRsaKyIhMiIaHxMGAIiWn7K5ubKfeRdYXjJOLCNhly1wLiFrIiYwKxAiHw4DiJaftLm5spJCQEaYUbBXVz5zJyxGUFlROWtSVkUtGwd0lp+yubm5eRJFg4CbXFxYYWZmVlZWWY1fSUFWGyInIUCfn7S5ubRLNmqcf4NYYmaPf6dfdY+2c1ZRVjYbIyMiEpKfsrm5qB1FT2KbrlZMfGuFj6Keq4WUc4VhSVwmQR8UZJ2yubmHIUddk6yJf418pb262KKvkXpyWIxvc1AyJipakq25uXlDVnZ7irG3fGe8YmLDq8S1rpFyooxybzY3Kiidrbm0ZWZBdneKz7COeuPU4+m8danGuo2Uf39vYmY5C2y5ubluQ2F2Z8rZ1+Lc4/H29uCXyOju05qXinJZX0cjS7m5uWNiant90rzJydbC4Pr799qX1ujizsuadY9RPTAPqLm5eDlRe5jSv8a37d/j7vDu6cHd6dnXxKyqikk5NzN5ubmjHUxci7G7ysze5vfv88LRp+Tq1L/KpJyiXE4uT2m5ubRCX1mFvLPBzOX58ub1sNaa09B/vtfQqX1oVz48brm5tFN3opS/vc/W5Pjz+PTy27HNtWvA2MyzkYNSMxt+ubm5ZE2klbbRzszk/Pr+9Prwzbyrk6bgt4uGb0dXH4e5ubmdJHOXpb/KzNrt7v32+uvezOGUjOrFlYBeUUE0srm5rZKEKYqhpLrCzNP46uLv79uwyrjavoyRfWZeGnm5ubmyn59bOJWMqavGz/Tl4tvb1cjD0vCupKCTXBdan7m5ubKfn4gDDI2utcPV6env4NbV19Xgtr2blW8lMISdsrm5sp+WiAADPJSkq8zX0+DX1tbVzdLMvo2MSgRtn5+tubmyn5aIAAAGXZekrLW1us3Mw7bVzMOVakgJAYiSn7S5ubSfloiIiIhFNrClpau3xcO8vLWJi11RFW2IiJafsrm5sp+flp+fn5+CUzo9VYqRk5WhoXJvOR5snZ+WnZ+0ubm5srm5ubm5ubm5tJCBYD+TdkZeRi9lkLS5ubm5srm5ubm5ubm5ubm5ubm5rbm5qG5xh36HsrS5ubm5ubm5ubk"
+}

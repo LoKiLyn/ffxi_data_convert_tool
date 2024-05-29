@@ -1,0 +1,29 @@
+{
+    "id": 5162,
+    "strings": {
+        "name": "Squid Sushi +1",
+        "article_type": "A",
+        "singular_name": "plate of squid sushi +1",
+        "plural_name": "plates of squid sushi +1",
+        "description": "This divine squid sushi would bring\ntears to any mother's eyes.\nHP+30 DEX+6 AGI+5\nAccuracy+16% (Max. 76)\nRanged Accuracy+16% (Max. 76)\n\"Resist Sleep\"+2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE2MiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAMDAwgDAwMIA4ODiAODg4gEBAQIA4QEiAQEBIgEhISIBQUFCAIEh4gFBQUIBQUFiAUFhYgFhYWIBYWGCAWFhogGBgYIBYYGiAYGBggEBYkIBAUJiAYGhogEhggIBYYHCAUGB4gEhYiIBAYIiAOFiQgGhoaIBQYIiAYGh4gGhoaIBAaICAaGhwgEBgkIA4WKCAaHBwgEBgmIBQaIiAOGCggFBgmIBQcIiAcHBwgFBokIBQaJiAcGiYgFBwkIA4cJiASGiggGBomIBQcKCAWGiogEhoqIBQcJiAWHCYgHh4gIBIeJCAWHCYgGh4kIBYcKiAYHiYgDB4sIBggJCAcHiYgFhwqICAgICAgICAgGB4oIB4gJCAeICQgICAiIBgeKiAiIiIgFh4qIBIeLCAaHiggIiIiIBYgKiAaHiogICIkIBwgKCAaICggIiIiIB4gKCAYICogHCImIBwgKiAkIiIgGh4uIBwgKiAeICwgIiIkIBwiKiAWIC4gHCAsIB4iLCAkJCQgHiQoIBwiKiAWIjAgIiQmICAiLCAcIiwgFCIwICQkJCAgIiwgJiYmIBwkLCAiJCggJiYmIB4iMCAgJCogHiQsICQkKiAgJC4gJiYmICImLCAeJiwgJCQuIBwkLiAiJCwgKCgoICAmLiAmJiogJCYsICgmLCAiKCogJCQuICImLiAcKC4gIiYsICAmMCAiJjAgJiYuICYoLCAqKiogKCguICAoMiAqKiogKioqICgoLiAoKiwgJCguICYoMCAsKC4gKiguIC4qKiAqKi4gJigyICYqLiAqKDAgKioqICYqMCAmKjAgKCouICQoMiAuKjAgKiowICgqMiAuLCogLCouICwsLCAoLDAgKCwwICwqMiAuLi4gKCwyICosMCAsLDIgLi4uIC4uLiAuLjAgMiwyICwsMiAwLDQgLC4wICgsNCAsLjIgMC4yICouNCAwLjAgMDAwIC4uMiAsLjQgMC4yIC4wMCAwMDIgNC40ICowNCAyMDIgLDA2IC4wNCA0MDIgMDA0IC4wNiAyMDQgMjA4IDQyNCAwMjYgNjI2IDQyNCAsMjwgNDQ2IDY0NCA6MjYgNjQ0IDg0NiA2NDYgOjY0IDY2NCA0NDogODQ2IDQ2NiA6NjYgPDY2IDo2NCA2NjggOjY2IDw2NiA6NjYgNDY6IDw4NCA6NjggOjg2IDo4NiA8ODYgODg6IDw6NCA6ODggPjg2IDw6NiA4ODogPDg4IDw4OCA6OjogPDo2ID46OCA8ODogPDo4IDw6OCA8OjogOjo8ID48OCA+OjogPDo8ID48OCA+PjogPjw6ID48PCA+PDwgPj48ID4+PiA+Pj4gK2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2trXx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHytra2tfHBVVVVVVVVVVVVVVVVVVVVLVVVVVVVVRFVwfK2tra18fFUAAAAAAAAAAAAAARUNDwgKAAAAAAMSJ3x8ra2trXx8VQAAAAAAAQEBByJFuJBkQZsJAAIJQi4hcHytra2tfHxVAAAAAAURGEeUx35n9IXVclYJGkYpMBxjfK2tra18fFUAAAADGtDqs1h3LNfCxMpxJT84MSkdIGOKra2trXx8VQAABqyYsr2Ypd/qkcVoNi48MS4xPDEZa3ytra2tfHxaBA6s0pGYf+K5xcG6UDk0NS8vLzUrLxtwfK2tra18didv28nftJzFhca0e1A3WTxGMS8rLy8vFHZ8mqitrXxLtL/X18m6tsVpiGBzZGVOSlc+OTU1UBYtfHY6Uq2tcFLJwJe239V1h2FqjHtuYkZKUVtGRkoxFyR8Whs9ra1JqsxzsImHV2mImZeLdHNlaVlXW1ddPCMcDEQ6LkiopESFdVA7WICwqZKSi4V7c3JsZWVibFE2FigqPVNUSXaKir2Pbnucvb25pqaYpZ2Bi3d1g2xiSjMoKD9sXGJEY+zZ9vLr69K9vcawqrS0nZ2noJGDdV83KjNfZVxTeV6K4uPo5t3T4dHc0c3KxsbHu6uxp4OWTkAyhIJOXGiLcKSk7+zp8+vb59zc5+Hcy8a7tbC7r3pNZnp9e2hlcn6NrWvy8vj76+vo7+Pi7OPz8ufcz754ZoahoJKBcnKfY62tqFry9vjr5Ozs8fr2/f39+vLGcmaesqugkp1/i16kra2ta0ve7P7r6/7////8+/rtyL26xcq1tbClp6B+Va2tra18cC2OwOLY5+LO0NDQ5+Xq6dzOxMTNrrW1k0R8ra2trXx8VQQLE23Y8+/8/vzu4OLU2NbL0tLDy8AnfIqtra2tfHxVAAAAAm3i/fz7+vLn8OfY49TS1sttBlV8fK2tra18fFUAAAAABW3j+Pv+/v7+7+Pj7+y4DgIAVXx8ra2trXx8VQAAAAAAAh+45+/6+Pv+/NqiEwQAAABVfHytra2tfHxVAAAAAAAAAAUQRY6VTx8NBQIAAAAAAFV8fK2tra18fFVVVVVVVVVVVVVLRERLVVVVVVVVVVVVVXx8ra2trXx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHytra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra0"
+}

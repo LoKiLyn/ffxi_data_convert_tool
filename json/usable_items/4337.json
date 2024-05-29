@@ -1,0 +1,30 @@
+{
+    "id": 4337,
+    "strings": {
+        "name": "Stamina Soup",
+        "article_type": "A",
+        "singular_name": "bowl of stamina soup",
+        "plural_name": "bowls of stamina soup",
+        "description": "This turtle soup puts most others\nto shame.\nHP+12% (Max. 200)\nDEX+4 VIT+6 MND-3\nHP recovered while healing +10"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMzNyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAIDA4gCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCA4QIAgOEiAMDhIgCg4SIAoOEiAMDhQgCg4SIAwQEiAKEBIgDBASIAwOFiAKEBQgDA4YIA4QFiAKEBQgDhAUIA4QGCAMDhogBgomIAwSFiAIDhwgCAgoIAwSFiAOEBogDg4cIAgQHCAKDCQgDhIUIA4SFiAIDiAgEBAYIA4QHCAMEB4gDBIYIA4UFiAOEBwgChIcIAwMJCAOEB4gEBIcIA4UGCAQEhogDhAgIA4OIiAKDCogDBIcIBAQHiAMDCYgEBQYIA4UGCAOECAgDA4mIBISHCAOECIgChAkIA4UGCAOFBogEBIeIBASICAKEh4gDhAgIAoSICASFBggDhQaIBASICAQFhggEBAiIBIUHCAQEiAgDg4oIAoWGiASEh4gEBIgIAoOLCASFhogEBQeIAwSIiAOECQgDhAmIBAWGiAMFB4gEBIiIAwUIiAQEiQgDA4qIBQWGCAQFhogEhIgIAwSJiAQFhwgEBAoIBIWGiASFCAgEBQgIBISIiAQEiYgEBAmIAwSJiAUFhogEhYaIBASJCAMEiQgEBYcIBIUIiAQFhwgDhgcIA4WICAUGBogEhgcIBIUICASFCIgEBIoIBIUIiAQEiggDhIoIBYYGiASEiYgEBImIA4SKiASGBwgFBYgIBYYGiAOFiIgEhQmIBAYHiAOECwgEBIqIBQYHCASGBwgEhQkIBISKCAQEiwgFBQiIBYYGiAUGBwgEBgeIA4UJiAUGBwgFBYiIBASKiAQFiIgEhQoIBIYHiASGCAgFBQkIBIUJiAWGhwgEBIsIBQWJCAWGh4gFBoeIBIUKiASFCggEhgiIBQWJiAQEiwgEBQsIBgaHCASGCAgFhYkIBIUKiAYGhwgFBoeIBQaHiAWFiQgEhgkIBQaICAWFiYgGhocIBQaHiAUFiogEhQqIBQaICAWGCYgEBQuIBgaHiAUGiIgEhQsIBgcHiAWHCAgFhgkIBYWKCAYHB4gFhwgIBQcICASFiogFhwgIBYaIiAWGiQgGhweIBYcIiAWGCggFBgsIBQcIiAWHCQgGBomIBYYKiAWHiIgFhwiIBweICAYGiggGB4iIBgYLCAWHCQgFh4iIBgeIiAaHCggHh4gIBoeIiAaGiogGB4kICAgICAaICIgHiAiICAgIiAaICQgICAgIBggJiAaHC4gHB4qIB4gJCAaICYgGCAmICIiIiAaIiYgICImICIiJCAaIiggHh4uIBwiJiAeJCggJCQkICAkJiAeJCogJiYmICAmKiAmJiYgKCgoICAoLCAoKCggKiwsIC4uLiAuLi4gP////////////////////////////////////////////////////////////////////////////////////////r6+vr6+vr6+vr644aAgIBihpLs+vr6+vr6+vr/////+vfs7Ozs7OCqKBQUFhYUFhQcFBQohuzs7Oz3+v/////6+uwACgcLCQwOEQ8PDw0DAwQEDw0ECQgA7Pr6//////r67woGDA0MEz6JeYS2x6+MYy8UDgIJBAXl+vr/////+vrcCxUQdaPk6vLq5vDt8NqWooxcTC4NBCj3+v/////85SgVdZbd9vbz8/Lqy3Nzc8DS2st5aHMDFIb3//////Q9V43d+/Pz4d3IppmHd11dXVhzx6/AeHMgFO//////qj2v2vPS4Zx3SEplh26Df19fSjExm5bHk28gKP7//vxOm9bH0rNfWX+VpamgoH+LpKiQbmVdJnPAw4Ab7//+rpbTx8BmcsbNpb6tmGdtNzeYu5CDVmFKIZyutVef/MpXttqWZoiet8K4uK2kfk8si4+okGFWIiIqIcfEhi/vL5PZwHCypZ56nqWlrbi48dd+mIuDUjxAJx9KOrmWk2IvltJcWLSIntB6ULiYi6SkmKSLj54wLVpbQCcmXNm8FmPEx0x6kZ200GnV57iLmJiki3zCKTQeHkJAMipmsLxiotajNaGRnZ2nnczRt4+Pj3yPmt4oNkEXGWA4QHCWsIa8r41FoY50T3trp7SabI+3gmxsjpGRl7G6T1qO1ly2Y2iWo4msdGt7P2uOgUJaQmyBbHFgT3SRl5drXo7tebZMhJaNdquxVdU/VWReN0lPYF5JSU9VfR4kTTd7yfabeRy/cNNTnMFpoXRNR01kVU1VXqxHR1GFHVRNa0e99rl2teJwtok1q5FpMDs7R1VkfVFUK0E7JBpQVH3bfe3qwDX5/YRjsERMq1Q7MDM7Rk1kehIrKywkNEF61Wrf+NOJhv//+WOWcER2q2mRlzMzO0Y0Fx0kMGSh0H2sz/L2lET8//7+1HBOxE5Ex6zB6HR9O2lBeqzBfaHJ2c7q+MVFtf/////3k0VwcFwgcETm69i9z8/I2N/r5s655PWbRZL3//////n0jC5XV3M1FjWjsMW5lKPFiVxc3e7aiXWu+vr/////+vrgIz4pRD5jTnBooqOjo6PD3enSjU4TAez6+v/////6+uXs48piTjVOY3iEk7aijLaveVdLteXs7Pr6//////r5+vr6+vTv4tSMeYyTn5+/w+Pj9Pf6+vr6+fr///////////////////////////////////////////////////////////////////////////////////////8"
+}

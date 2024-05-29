@@ -1,0 +1,30 @@
+{
+    "id": 5677,
+    "strings": {
+        "name": "Patriarch Saute",
+        "article_type": "A",
+        "singular_name": "serving of patriarch saute",
+        "plural_name": "servings of patriarch saute",
+        "description": "A mouthwatering blend of fungi\nsauteed in rich, creamy butter.\nOften served at cotillions held\nby Windurst's Patriarch Protectors.\nMP+65 MND+7\nMP recovered while healing +7"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY3NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAYGBiAGBgYgBgYIIAYGCCAEBgogBggKIAQKCCAICAwgCAgMIAAKDCAICgwgBgoMIAAGFCAKCgogCAoMIAQGFCAKCgwgBgwKIAQKECAIChAgCgoOIAQMDiAIDA4gCgwOIAoKDiACChQgCgwOIAAODiAEDBIgCgwQIAAMEiAIDBAgCgwQIAwMECACDhIgCgwQIAwMECAGDBQgBAgcIAwOECAMDBIgBg4UIAAQECAODhAgDA4SIAgQECAGDBggAgwYIA4OEiAMDhIgAhASIAIMHCAOEBIgBBISIAwQFCAGEBQgDhAUIAYOGiAKEBQgBBAWIAQMHCAOEBQgBhIUIBAQEiAQEBQgDhAWIAYSGCAIEBogDBAYIAQQGiAQEhQgEBIWIAQOIiAIEhYgDhIYIAYQHCAOFBQgEBIWIAYWFCAIEhogCBAeIBISFiAOEhogCBQWIAwUFCAMFBggCBIcIBIUGCAKEhogBhYYIAoUGiAIFBwgDBIeIBQUFiAMEhwgCBQeIBQUGCACFhwgEhQYIAgWGCAMEiIgFBYWIBQUGCAEFhogChIiIAgOKiAWFhggEhYaIAwUICAUFhogDBgaIA4WHiAKFiAgFhYaIAoSKCAUFhwgCBgeIA4aGCAMGB4gFhgcIA4WICAWGBwgGBgaIA4aHCASGB4gDBgeIAwUKCAKFiYgDBgiIBgaGiAYGBwgCBogIAwSLCAQGCAgCBYmIBIWIiAWGB4gEBYkIBoaGiAYGhwgDhYqIBgaHiAWGiAgGhoeIBAYKCAQHhogEB4cIBIcICAaHBwgGhweIBAaJCAKHiIgEBgoIBAcICAOGCogHBwgIA4WMCAcHB4gEhgqIA4aKCAcHCAgFB4eIBQcJiAeHh4gHB4gIBocIiAQHCQgDhwmIBIeIiAQGiogEBosIBweICAUHCggHh4eIBYgIiASHCwgHh4iIB4gICAUICIgFCAkIBQeKCAgICIgHCAgICAgICAUHC4gDiAoIBYgKCAUGjIgFiIiICIiIiAWHiwgGCAqIBAgLCAWJCQgIiIiICIiJCAWJiAgGiIqIBYeMiAiIiQgFiIqIBYmIiAaIiwgJCQkIBokJiAQJCogJCQmIBwkKCAYIi4gGCAyIBgkLCAkJCYgHCQsIBQmLCAYIDQgGiYqIBoiMiASJDAgGCI0IB4kLiAYJDIgKCgoIBokNCAeJDQgFiI+ICgoKiAeKDAgGDAkICAmNiAiKDIgHiY8ICIsNCAiKjggIC4wIBwsOCAeKD4gLi4uICIqOiAaLDwgJC4yIC4uMCAoMDIgIjA8IDIyMiAmLj4gKDI4IDQ0NCAsNDYgJjI8ICY2PiAwNjwgOjo4IDo+PiAAAAAAO7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7t/f39/f39/f39/f39/f39/f39/f39/f39/f39/u7u7u39/ExMTExMTJlmxBQUhISEFffJ/JxMTExMTf3+7u7u7f38QAAAADDzZibHmEkZ2inaaXNgwFAAAAxN/f7u7u7t/fxAACKUloc4R5kZ2moqKmrbK3snkJBQDE39/u7u7u39/EDCpTb3l5hI2Rl52mpqatsrfF0NBiBcTf3+7u7u7f318fWWhvc3NkTzhMRkZUZHuNs8XJ0NWRg9/f7u7u7t98H1lkZGQyFgYUOw47WoJyJzh1st/y/fWNlt/u7u7ufCpJT1lTMicrR4LHeg4eO2AerichQ8Xu9fidg+7u7r86QklJLhYUbq6CRXrpDh1Ym6PnxzsbFJHQ1eNoye7ugy46QkIlBnI7EW6ubjCoL5vLtPzHYE1YWqaistCf7s0aMjo6I1dbYeaSKGqrwD5lsMNY6dZyqfGkTHmirUnFsx8uOi4YZVC207GAXufdh1G1f4fkmD281n4KZISte7ODGi0tJR5LN5ng6tyr9/euRVpdqNRaPnTBEZOQe6ePnYMaLSYfIDQXOajZ9N76/tFSRCTKqEV0dGsOcDxtio+RgxktJhpEcH1xK1Dp+6Tnrg5cvHg0jtq6gChAK3mEioSDGSYtQ6rK1JVmUrvwatOASiRVdmOB6qC9mpRteXuEhJ8fIyYjVIjP8efAmMLI4YBrOwuFaWGSoLHZ0W11dW2WzT8qJiUVeKnX/ObStdj+6HQ+HSyFXBMIL3cvT211aLnugyomIyohWpjm79qrgejtnk1/PUSqtHA5PB9DWVmN7u65SS0mHxZ7J+T+9sihsbCVsH4OBExqi4kWLkNPSbLu7u58HxkZJhYV6+vs3KzO+dlxjoaett2kT0M4Qzhnze7u7q9IFhoWEgpBFeujvvPGk5z04qyudR84Pz8/JZ/u7u7u368yOAoKEhYSGCdOVuWTvMx+FiYuODM/MxWf3+7u7u7j34wiaBkSEgoWCiNnuBYKFhoqKjMzMy4NjN/f7u7u7t/fxAMMg5YKCgoSGUEWFhYWGiUqLiolBwPE39/u7u7u39/EAAADHNWMCgoWFgoSFhoaJR8iEAIBAMTf3+7u7u7f38TExMTElmyESTMaGhofHyUybIPExMTExN/f7u7u7t/f39/f39/f37+vpaWlpaWlr7nf39/f39/f39/u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u4"
+}

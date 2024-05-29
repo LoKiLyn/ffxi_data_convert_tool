@@ -1,0 +1,29 @@
+{
+    "id": 5666,
+    "strings": {
+        "name": "Fin Sushi +1",
+        "article_type": "A",
+        "singular_name": "plate of fin sushi +1",
+        "plural_name": "plates of fin sushi +1",
+        "description": "When the fins taste this good,\nwho needs the rest of the fish?\nINT+6\nAccuracy+17% (Max. 80)\nRanged Accuracy+17% (Max. 80)\n\"Resist Sleep\"+2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY2NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAKCgogDAwMIAwMDCAODg4gDg4OIBAQECAOEBIgDhASIBISEiAUFBQgFBQUIBASHCAUFBYgFBYWIBASHCAWFhYgEhQeIBYYFiAYFhogFBYeIBgYGCAUFiAgGBgYIBYYHiAWGCAgGBoaIBQWICAaGhogFhgiIBYYJCAcGhogFhgiIBYYICAYHBwgGhwcIBYaIiAaGiAgHBweIBYaJCAWHCIgHBweIBocIiAYHCQgHh4eIBgcJCAeHh4gGhwmIBweIiAeHiAgFBwsIBocJiAeICAgECAmIBoeJiAgICAgICAgIB4gJCAaICQgICAiIBoeKiAcHiggICAiICIiIiAaHiogJCIgIBwgKCAgIiQgICIkICIiIiAcICggFiAqIB4gKiAiIiYgHiAoIBwgKiAcIiQgHiIoICQiIiAYICogHCIqICAgKiAYIC4gJCQkIB4iKiAcIiwgICIsIBwiLCAkJCYgHiQoICAkKiAcIi4gJiQmICAiLCAiJCogJiQmICIkKCAcJCwgJiYmICIkLCAkJiggIiQqICAkLiAoJiYgJiYmICIkLCAiJC4gICYuICgoKCAkJiwgJiQuICImLCAiJC4gIiYsICYmKiAiJi4gJCgqICYmLCAoJiwgIigsICYmLiAkJi4gICYwICQmLiAkJjAgKioqICAoLiAmKC4gKCgsICQoLiAoKC4gJigwICIoMiAoKiwgJiguICoqKiAqKiwgKiguICgqLiAmKDAgKioqICoqLiAoKi4gJCowICYqMCAmKi4gKCowICgqMCAoKjAgKCwuICoqLiAoKjAgLCwsICwqMiAoKjIgLCwsICosMCAmKjIgLCwuICgsMCAoKjQgKiwwICosMiAgLDQgLi4uICgsMiAqLDAgKiwwICouLiAsLDIgLi4uICosMiAuLi4gLC4wICQsNCAsLDIgKiwyIC4sNCAoLDYgLC4yIC4uMiAqLjQgKiw2IDIsMiAuLjIgLC4yICwuNCAsLjIgLDAyICwuNCAsMDIgLi40ICouNiAsMDQgLjAyICwuNiAwMDAgLjA0IDIwMiAuMjAgKjA0IDAwMiAsMDQgLjA0ICwwNiAwMDIgLjA0ICwwNiAwMDQgMDA2ICwyNiAuMjQgMDI0IC4yNiAyMjQgLjI2IDAyNiAyMDggLjI2IDAyNiAwMjQgMjI0IDAyOCA2MjQgMjI2IDIyNiAwMjYgNjI2IDAyNiA0NDYgMjI2IDI0NiAuMjwgNDQ2IDI0NiA2NDQgNDQ4IDY0NiA2NDggMjQ4IDY2NiA0NDogNDY4IDY2OCAyNjogNjY4IDY2OCA6NjggNDY4IDg4OiA4ODogODg8IDo6PCAAAAAAKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrG5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm6srKysbm5HR0dHR0dHR0dHR0dHR0dBR0dHR0dHOkdubqysrKxubkcAAAAAAAAAAAAAARkNEgoLAAAAAAUVKG5urKysrG5uRwAAAAAAAQEBCCE5xopbPJUJAAIJDhMnZG6srKysbm5HAAAAAAYUHECP23Ra/oHzYEwJGx84Hx1VbqysrKxubkcAAAAFJO38tU5vKvLL0uVoJh84ExMfIlV/rKysrG5uRwAAB66TqsuXl/r8jNlYMS0xSjUvL0QjXm6srKysbm5HBBCu74iXefvA2dHBVDE/cnFSVlNEXCdkbqysrKxuaiVm+OP6u5LXedi7dUI4lLVlX1hTUlN1J2pujp2srHRBu8r09OLDvNdjg1RdkJRygWt9YFxvqy8obmQwRqysZEbgw43C+PNofFdjaIN7qIiBjZl7lISeESVuUBo7rKw9r+pttoJ+UVlZp7V+e5Coo8OfmaSxlCYTFjMuKTKdmj13bEk3T3h7zc2Irb3So7Hf1pmyp7FCESItLCkxNl5eXoyEcYHNw7u1wN2/p6Tpu9b3x5GZfh0fJh0dGDEzVaGQjLHYz5mpvdfs9cPS2OvH0vfQtcs0IjEvHz41SlV/d4iBmIGW5M3cp7fi8N3c+d/V987fci81bF9TTWBwZJpegZ7W6ei7/b+/v7/4zN3Y9ebj44VEWGxtX1ZTYEuJrF6Cut/+9/Lc9tfc0cXm2df47OSAVmWcm4V7X3BnVayspj3BmMT99Ob23NS8xfjg5OTit4a3xLObi4tzejOarKysXja9x8Tu7u713dHTzuTxw6W34OXEtqujuZg7R6ysrKxuaihFfnOtstP1ws7OwrDV1czW3+HQr+GodzpurKysrG5uRwQMF0DA4+OiuLyitOjvzN747dLE4Yclbn+srKysbm5HAAAAA0DAv5G01Ne36N3M4vjtoc85B0dubqysrKxubkcAAAAABkC6zb/i0dDd3evQ++diEAIAR25urKysrG5uRwAAAAAAAx6gqb7ju8e2xKBpFwQAAABHbm6srKysbm5HAAAAAAAAAAYPK2FhQx4NBgIAAAAAAEdubqysrKxubkdHR0dHR0dHR0dBOjpBR0dHR0dHR0dHR25urKysrG5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm6srKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKw"
+}

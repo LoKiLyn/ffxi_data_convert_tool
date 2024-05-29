@@ -1,0 +1,29 @@
+{
+    "id": 5182,
+    "strings": {
+        "name": "Salty Bretzel",
+        "article_type": "A",
+        "singular_name": "salty bretzel",
+        "plural_name": "salty bretzels",
+        "description": "This ridiculously salted bretzel\nis frowned upon by physicians\neverywhere.\nMP+8% (Max.60) VIT+2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 99,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE4MiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgYMIAIGDCACBgwgAgYOIAIGDiACBg4gAgYOIAIGDiACCBAgAggQIAYIDiAEBhAgAggQIAQIECAECBAgBggQIAYIECAECBIgBAgSIAQIEiAECBIgBAgSIAQIEiAIChAgBgoQIAYIEiAGCBIgBAgSIAQIEiAECBIgBAgSIAQIEiAGCBIgCAgSIAYKEiAGChIgBAgSIAQKEiAGChIgBgoSIAYKEiAGChIgBgoSIAYKEiAEChQgBgoSIAYKEiAGChQgBAoUIAYKFCAGChQgBgoUIAgKEiAGChQgBgoUIAYKFCAGChQgBgoUIAgKFCAIChQgBgoWIAgMFCAGChYgCgwSIAgMFCAKDBQgCAwUIAgMFiAIChYgBgwUIAgMFiAIDBYgCAwWIAgMFiAIDBYgCgwUIAgMFiAIDBYgCAwWIAgMFiAIDBggDA4UIAgMGCAIDBggCAwYIAgMGCAKDBggCAwYIAwOFCAKDhYgCAwaIAoMGCAIDhggCAwYIAgMGiAKDhggCA4YIAgMGiAMEBYgCg4YIAoOGiAIDBwgCg4aIAgOGiAIDhogCg4aIAgOGiAOEBYgCg4aIAwQGCAKDhogCg4aIAoOHCAKDhwgCg4aIAoOHCAIDh4gDhAYIAoQHCAMEBwgChAcIAoOHCAKDh4gEBIUIAwQHCAKDh4gDBAaIAoQHCAKEB4gEBIWIAwQGiAMEBwgChAeIAoQHiAKECAgDBAeIA4SHCAMEBwgDBAcIAwQHiAKECAgDBAeIBASGCAOEhwgDBAgIAwSHiAMECAgDBIgIAwSHiAKEiAgChAiIA4SHiAMEiAgDBIeIA4SICAMEiIgEhQaIA4UHiAQFBwgDBIgIAoSIiAMEiIgFBYaIAwSIiAQFBwgDBIiIBQWGiAQFB4gDhQiIAwSJCAOFCIgFBYaIA4UIiAOFCQgDhQiIBAUJCAOFCQgEBYiIBAUIiAMFCQgEhYgIBYYGiAQFiIgDhYkIBIYICASFiIgDBYmIBAWJCAQGCQgEBYkIA4YJCAUGCIgGBoeIBIYJCAUGCQgEBgmIBAYJiAQGCggGBoeIBQYJCASGCYgGBogIBQaJCAOGCggEhgoIBgaIiAUGiYgFBooIBIaKCAcHB4gGhwiIBQaKCAUGiggFhwkIBYaJiASGiogFBoqIBQcKCASGiggGhwkIBYcJiAUGiogFhwmIBgcKCAUHCogGh4kIBQcKiAYHiggEhwsIBQeLCAaHiggGB4sIBoeKiAgICQgHCAoICIiIiAaICogGB4uICIiJCAWIC4gHiIoIBwgLCAgIiggIiQoICAiLCAaIi4gJCYoICAkLCAoKCggIiYuIBwmMiAmKCggHiYyICoqLCAuLi4gP////////////////////////////////////////////////////////////////////////////////////////n5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn/////+ffs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Oz3+f/////5+ewAAAAAAAAAAAIDBAQTEhIWEyAfAAAA7Pn5//////n57AAAAAAAAAYECAgNDiUlFRUOFhYUHgDs+fn/////+fnsAAAAAQUXFiYVVGGofXNzalgWFhYWM9L5+f/////5+ewAAEYKFhU5PXeYsrfPy+vAd2plajAVN/n5//////n57AAJEiUxWFyp2dnNxq6x8rjErZWLi0Q9Q/n/////+fnsIAg3njptvrp5aaLt0JmO283lzLitjm05nf/////5+bYOMWFh5FRzR1Fl6frdrdDj29r75ujQ3YRH//////nvDTYwRZ5/iF5YYl9bXTh1t76OOoTeqq7pvGqJ////+UM5NEiSZnVmW1U0FQ4/SjMyMGptm8WHhpevsGX0///BLTlIcnWHaT5FDwYHcXEoMhsbZYvEpS5pVV6wc8r//htUUX6NdURBAAAAAAAANREbLD5qnwAAHS4iUISSc/+POlim2JFDKQAAAAAApxkbQ5RXTWMAAAAAHSwiXNeY/0w6jvb2xqJeSzg3LBgYDIzejm8AAAAAAAAALhBQ9bL+N16g0NTJqYBtVVguEBBYxLiOKgAAAAAAAAAuEEfguuo3SNXGiniQx6wAAIJ8THOvVIwqAAAAAAAAHBssasjI0zdp7n9wAAAAAAAAAABZLlFL4YMnAAAAAABCEVCpt/HKMKbhhFMAAAAAAAAAAHYsNKD9vlorSgCnUiVDgde3//cw8tl/VAAAAAAAAAAALzZLmfDJk6BlPjA4UYXCuvP//xtirZhzTwAAAAAAKCE6Nl6Nt6h9iIxyVnmzt6vi////TEiIrec+RDwjJBobMEV+a4pkMhoyTmVlc5SR+fn////8MHmtw2U2LDIsNl2GnJZ7AABJOy8yMk5PZ+z5+f////9sRXugqVQ3UWia5Lu/dAAAAAAAAABJAKSk7Pn5//////lCVIWOm729mq2533oAAAAAAAAAAAAAAADs+fn/////9/lSIVVr1rGW5Pi1AAAAAAAAAAAAAAAAAOz5+f/////5+ezSo25cd8Dc7Ozs7Ozs7Ozs7Ozs7Ozs7Pn5//////n5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn///////////////////////////////////////////////////////////////////////////////////////8"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 6286,
+    "strings": {
+        "name": "Ym. Gr. Coffer",
+        "article_type": "An",
+        "singular_name": "Ymmr-Ulvid's grand coffer",
+        "plural_name": "Ymmr-Ulvid's grand coffers",
+        "description": "A large metal receptacle containing Ymmr-Ulvid Gloomlight's most prized personal effects."
+    },
+    "flags": [
+        "Ex",
+        "CanSendPOL",
+        "CanUse",
+        "CanTradeNPC",
+        "NoSale"
+    ],
+    "stack_size": 99,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 2,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjI4NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABggMIAgIDCAKCgogCgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCgoKIAoKCiAGCgwgCAoMIAYKDiAKCgogCgoKIAoKCiAKCgogBgoOIAgKDCAKCgwgCAoMIAYKDiAGCg4gBgoOIAYKDiAGCg4gCgoMIAgKDiAICg4gCAoOIAoMDCAICg4gCAoOIAoMDCAICg4gCgoOIAYKECAKDA4gCAoQIAgMDiAKDA4gCgwQIAgMECAIDBAgCAwQIAgMECAMDA4gCAwQIAgMECAKDA4gCAwQIAgMEiAIDBAgCAwSIAgMECAMDg4gCgwQIAgMEiAIDBIgCAwSIAoOECAMDhAgCg4SIAoMEiAMDg4gCg4QIAgOEiAIDhIgCgwSIAwMFCAIDhIgCg4SIAoOEiAKDhIgCA4SIAwOECAKDhIgCg4SIAoMFCAMDhIgCA4UIAwOEiAKDhQgCg4UIAwQEiAKDhQgDA4WIA4QECAKDhQgCg4UIAoOFCAKDhQgChAUIAoQFCAMDhQgCg4WIAoQFCAKEBQgDBAUIAwOFiAQEBIgDBAUIAwQFCAKEBYgDBAUIAwOGCAKDhggDBAWIAwQFiAKEBYgChAWIAwQFCAOEhQgDBAWIAwQFiAKEhYgDBAYIAwQGCAMEhYgEhISIA4SFiAMEhYgDBAaIAwSFiAMEhggDhIWIAwSFiAKEBogDhIWIAwSFiAMEhggDBIYIAwSGCAMEBogEBIYIAwSGCAMEhogDhIYIAwSGiAOEhggDBIYIBIUFiAOFBggDBIcIAwSHCAOEhogDhQYIBQUFCAOFBogDBIcIA4UGCAOFBogDhQaIBAUGCAOFBogDhQaIAwSHiAOFBogEBQaIBAUGCAOFBogDBIeIA4UGiAMFBogDBQaIA4UGiAMEh4gFhYWIBAWGCAOFBwgDBQcIAwUICASFhogEBYaIBAWHCAWFhYgDBQiIBAWHCAOFhwgEhYaIBgYGCAQFhwgDBYeIBAWHiAYGBggEhYcIA4WHiASFhwgDhgcIBAWHiASGBwgDhgeIBIYHiAOGB4gEhgeIA4YHiAaGhogEhgeIBIaHiASGB4gGhoaIBQaHiASGiAgFBogIBoaGiAWGh4gFBogIBQaICASGiAgFhogIBQaICAcHBwgFBogIBQcIiAcHBwgFhwiIBgcIiAWHCIgFBwiIB4eHiAWHCIgHh4eIBYeJCAWHiQgGB4kICAgICAYHiYgICAgIBgeJiAgICAgFiAmICIiIiAWICggIiIiIBoiKiAkJCQgJCQkIBwiKiAmJiYgJiYmICYmJiAoKCggKCgoICoqKiAsLCwgLCwsICwsLCAsLCwgLi4uIC4uLiAAAAAAP7+/v7+/v7+/v7+/v7+/v7+/vfi+v3+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7gpJPY/P3+/v7+/v7+/v7+/vb29vb29vb29vb29vb3zYGtvyrm9vb29vb29vb+/v7+9vbu7u7u7u7u7u7qyaxWgb+/K0Xi7u7u7u729v7+/v729u4AAAAAAAAFDR9yXiuBxL8rnxgHAAAA7vb2/v7+/vb27gAAAAAHDiNyYj4bAZ3IrkgZnxcKAADu9vb+/v7+9vbmAwMJFFBzQ0gbOj4dn8uXSDkcjBANAO729v7+/v7225IUJmVzT0pkNTldcS6Oy5dXGSkpcywO7vb2/v7+/uabkDRyRx0RaHpOa1EuD8KyiCtHPi8eeEGs9fb+/v7+0YyQOSIyOmaabkMuWnFrr6pxIUcvLy8efk2Y7P7+/v7Ri6U3TmZyO5poD2yDcUyFVHARMkc3Pi8beCo89/7+/cmgpSVrZzs7mmg/g04WMVTj43ghPkc5UjccYi30/v77rJ3CNSIvV2JuWyUbMYO77bayK6gnOUc5UikyNvP+/Ph8vMIdYmxxWjEbSb/Enz+Cz9yITpEnWFE5UjRG8f7+93W8vDpnTjUiib+3Y0REY2Pc67oCTpE7YFEnND3w/v7zaqd7FkQ/gcipZHMwZmOGgKPr1ysgTXhRUVEZUez+/u5wS2dLqamBOlOKijCGhnFfUtzriDsgMng/OjRD6v7+6HSI1caJQGJaaHqKZF0/V4yTwOfMAmMZMngvNTro/v70uOGoYCtabYOdjatoMHGQlpBx3t40O2AyMngWKOb+/vmYosyHEXuMgHtatY9Jp6KIbV3T4boCTGA4GlUa6P7+/tHX67Y/UkRddp2apnlxTmuik6fWzhk3TGA0O2n6/v7+8Xzk2WM0e52WjHawlECnooyQe9DQoyFMK3BZ6v7+/v72yd/XiCmAnIhrXbWhgYB7e3tgmdbpuiWOVNj2/v7+/vbordTUY0xmXWt5hLCKUmZ2iMXO5+/ysiSx9vb+/v7+9/WY1MWiJVJxe3ttsI+BnsXKtmp02cMzC+729v7+/v729snHz753XV1fbWuUqczKo0ITCgkSCAUA7vb2/v7+/vb25kLUuoU6YVGFls7FfSYMBgAAAAAAAADu9vb+/v7+9vbuDsrMvjBhsqNwUBMIBAAAAAAAAAAAAO729v7+/v729u7bddTaszFwXLTg7O7u7u7u7u7u7u7u7vb2/v7+/vb29va93e/l1nzw9vb29vb29vb29vb29vb29vb+/v78/v7+/vys0rG9+v7+/v7+/v7+/v7+/v7+/v7+/vz+/v7+/v79/vzm8P3+/v7+/v7+/v7+/v7+/v7+/v7+/v4"
+}

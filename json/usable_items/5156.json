@@ -1,0 +1,30 @@
+{
+    "id": 5156,
+    "strings": {
+        "name": "Porcupine Pie",
+        "article_type": "A",
+        "singular_name": "porcupine pie",
+        "plural_name": "porcupine pies",
+        "description": "Serve this mouthwatering hedgehog pie\nat any family gathering and it will be\ngone faster than you can say \"sonic.\"\nHP+55 STR+6 VIT+2 INT-3 MND+3\nAccuracy+5\nAttack+18% (Max. 95)\nRanged Attack+18% (Max. 95)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE1NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAWIAQCEiAIAhAgBgAWIAIAGiAIBA4gAAAcIAQIDiAKAhggCgoKIAoKCiAEAhwgBgAeIAoGFCACACAgBgYWIAwEGCAIAhwgBgIgIAgKECAGBB4gBAIkIAwMDiAMChQgDgYaIAoMEiAMBCIgDA4QIA4IGCAOBiAgBgQkIAgMFiAQCBwgDAYiIA4MFiAGDBogCg4WIAwKGiAIBiQgDg4SIAoGKCAMDhQgDAYmIBAOFiAEDCAgEgoeIAoOFiASDBwgCgogIAoGKCAMCCQgCggmIA4OGCAOEBYgCgYoIBIMGiAMEBggCgYsIBASFiAMCiggDAgqIBAMIiAMDCYgDAgsIBQKKCASFBYgDgwoIBIQHCAQEhogFg4gIAQMKCAWEB4gEg4mIBAKKiAOCi4gFBYYIA4OKiASDCogFBQcIBASHiASECQgEAwuIBYMLCAYECQgEBQeIBYWGCASDiogEgwuIBQUHiAQDiwgFBIkIBAOMCASFh4gGBIkIBIQLCAUDDAgGBAqIBoQLCAUDi4gEg4yIBoUIiAUFiIgFBgeIBYUJiAUEiwgEhAuIBoQKiAWEDAgEg4yIBYYHiAaGhwgFA42IBwWJiAaGCIgFhAyIBoYICAWGiAgHBIuIBYWJiAWEjAgHBQqIBQQMiAUEjIgGhQuIBgaICAYEjIgHBgkIBoYJiAcHB4gFhI0IBwQNiAeFDAgHBwiIBoSMiAaGCogFhI2IBgUMiAaHiAgGBwiICAWLCAYFDQgHh4eIBYYLiAeFjAgGBY0IBoeJCAeGiggHBguIB4UNiAgHiAgGhwmIBgWNCAcFDggGhosIBoWNiAcICQgICAgIBoYNCAgHiYgIhY2IBoWOCAcICQgHh4oIB4aMCAcHiggHBY4ICAYNiAcGDYgIiAkIB4gJiAiIiIgIB4qIBwYOiAcGjYgJBo0ICIiIiAgGjYgHBwyICIaNCAiHjAgHho4ICAiKCAiGDogIBo4IB4aPCAmHjAgJCQkICAiKiAgJCggIBo8ICAkKiAmHjQgJiYmICAcOCAgHjQgIiQqICAkLCAmJiYgIB48ICgoKCAiJiwgICA4ICQmLCAiJi4gICI2ICQmLCAkIDogKCA6ICgoKCAcJDYgJCgsICQgPCAmKCwgKiI4ICYoLiAmJjQgJiI+ICgkOiAqKiogJiouICwiPCAoKjIgKCowICgkPiAsLCwgKCwwICosMCAqLDIgKCY8IC4uLiAqLjIgLC4yICwqPiAsMDQgMiw6IC4wNCAuLD4gLDQyIDAyNCAuLjwgMDI2IDAwOiAyLj4gMjQ2IC42NCAyNDggNDY2IDQ2OCA2ND4gNDg6IDQ4OiA4ODogODo+IDw8PiA8Pj4gObm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5sjIyMjIyMjIwbCrq6urq6uwu8HIyMjIyMjIyMjm5ubmyMarq6urlm8oGiUlJS8vJS8vO1aOq6urq6vGyObm5ubIyKsACxwqOVW2ztPLztPLyb2iXSAUCgAAq8jI5ubm5sjIsAogVc799N/V1cS8vL3Evcnj6LZdFAqwyMjm5ubmyMhCObzv7NXX6OTX18y/v8zT4uLc7P29IEzIyObm5ubITHXf39Xf3+S/qm5ni4t9dW591efi3/vqVVbG5ubm5m991cvL19W/Z311ZSNEWR1ERTZFZs7k5OTxi2/m5ubGZ8vJy8m/qop/LFlISCM4IyMIEFEfMb+93OP0Wcbm5mfLxNXT3LxRLBgwMEQwAx0GBl4fJww6JKrT4ufsT+a7ksTEztWkgESTcQ5x6x0DcQ5GXgVKtTItX5fV5/G8sG7ExNXczJdfGQO6MF66IUbAayEQEK8yE2A/UKXk5/11dcTJ09eaMTHWXi5eHQMRGZAeCaR5PjTZTgwzfbzn/b2L09Xn3L88pIRrCV66IQQEGxt86WkSPIioXAJFtur045Lc3OTTalppYh4uVFSEdoRBIoa4Q0kVS2NsZJrV+/rnot/f5N5He698r4wRCWvQ3UENSisNV7V7kbFLP/v+8d+c6OfvaktY0JCvdoSgU6/5t4OVElhzqInUgkA99v/xzorj4+/FgmC3kCsip/N8AaSgK4aZvjcpXMeCjc329vWqxsTo9PHMsta4mytOz9Z4TgUBQ0o9Dw8PFjJN7v/2/J3miu/s8s3zwycnagcfyrVaM19DBQFakWqJ1Mr9//vT0ebRtvry8MNfS1IfJ0CJEwe15XpaP1eRpsfN0vz7+J3m4eaB0/jqv57ZUj1zmGkFH1JAXOCYFQdYwo/q+/qc4ebm5siBxOePuLgPbXpKPUtcXEBcjXCYJ4nl8N74nLvm5ubm0chvlKHUXzLHZBbPQ1htNzoyeumtYLT/94G7yObm5ubIyJZho9hNrbk9eloHvnoym1x71O3Ps6wcqcjI5ubm5sjIqwsLJrmzoUuNTjy5XBa+x57K2NpbFwCryMjm5ubmyMirAAA1h1uzYXqbjaEpIFjad64mNaMLAKvIyObm5ubIyKurq6mdjn+AfrGGYylmk6Zob4Wrnamrq8jI5ubm5sjIyMjIyMjIxqtyhXJ0a52dbGi7yMjIyMjIyMjm5ubh5ubm5ubm5ubm5uHm5ua75uGfqebm5ubm5ubm5uHm5ubm5ubm5ubm5ubm5ubm5ubm5tvm5ubm5ubm5ubm5uY"
+}

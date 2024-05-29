@@ -1,0 +1,29 @@
+{
+    "id": 6397,
+    "strings": {
+        "name": "Cutlet Sandwich +1",
+        "article_type": "A",
+        "singular_name": "cutlet sandwich +1",
+        "plural_name": "cutlet sandwiches +1",
+        "description": "A cutlet sandwich made with excellent\ngarnishes and crispy, freshly baked\nbread.\nHP+45 STR+8 INT-8 ${icon: fire}+21\nAttack+21% (Max. 125)\nRanged Attack+21% (Max. 125)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjM5NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgICIAICAiACAgQgBAYGIAIGBCACBAogAgQMIAIEDiAGBgggBAYMIAIGDiAGCAggBAYOIAIGECACBg4gAgYQIAIGEiAGCAogBAgOIAIGECAGCgwgCAoMIAYIECAECBIgAgYUIAQIEiACCBQgBgoQIAQKEiAGCBQgBgoSIAYKEiAECBQgCgwOIAQKFCAEChYgBgoUIAYKFiAGChggCg4QIAwOECAIDBIgBgwWIAYMGCAIDBYgBgwaIAgOFiAGDBggBgwaIAoOGCAMEBQgDhASIAYOGiAGDhwgDBAUIAoQGCAIDhogCBAaIA4SFCAKDhwgChAYIAYQGiAIDhwgEBIUIAoQHCAOEhYgDBIYIAoQHCAOEhYgDBAeIAoQICAKEhwgCBAeIA4UGCAOEhogChIgIA4UGCAMEhwgChIiIBIUFiAOFBogChIeIBAUGiAOFBwgChIiIBAWGiAKFCIgDBQgIAwUICAUFhogEBYcIBAWHCAMEiQgDBQiIBIYHCAMFiIgEBgeIBAWICAOFiQgGBoaIBIYHiAMFiQgDhYmIBYaGiAYGhwgDhgkIBQaHiASGCAgEhgiIA4WJiAYGhwgGhoaIA4WJiASGCIgFBogIA4YKCAaHBwgFBogIBAYJCAYHBwgFhoeIBIaICAOGCYgFBogIBocHiAQGiYgEBgoIBwcHCAWGiAgFBoiIBAaKCAWHCAgFhwgIBQaJCAcHB4gGhweIBAYKiAYHCAgFhwiIBYcIiAWHCIgGB4gIBYcJCASHCggEhoqIB4eHiAWHCYgEhwqIBoeICASGiwgGB4iIBgeJCAWHiYgICAgIBQcKCAYHiQgGiAkIBIcLCAeICAgHCAiIBogJCAUHiwgHiAiIBogJiAgICAgGCAmIBwgJCAUHiwgIiIiIBogJiAiIiIgIiIiIB4iJCAaIiYgFiAuIBoiKCAkJCQgHCIoIBggLiAiJCQgHCIoIB4kJiAeJCggHCIoICQkJCAeJCggHiQqIBYiMCAmJiYgHiQqIB4mKiAmJiYgICYqIBomLCAaJDAgIiYoICYmJiAgJiwgKCgoICAmKiAaJDIgICYsICgoKCAgKCwgHigsIB4oLiAiKCwgKCgoICQoLCAiKC4gHiguICQoLiAcJjQgJCosICAqLiAqKiogIiouICoqKiAiKDQgJCouICIqMCAkKjAgLCwsICQqMCAiLDAgJCwwICwsLCAmLDAgLCwsIB4qNiAmLDIgLi4uICYuMiAuLi4gJC40ICYuMiAkLDogJjAyICguMiAoLjQgJjA0ICgwNCAqMDIgJjI0ICgyNCAoMjQgKjI0ICYyNCAoMjQgLDQ0IC40NCAAAAAAO3t7e3t7e3t7e3t693AqIC84ujt7e3t7e3t7e3t7e3t7e3t7e3t7e3t6OK8mIdfaI9yw+vt7e3t7e3t7e3t7e3t7crKysrKyLyVjZp5WWiIVztQc7zKysrKysrKysrt7e3tysOvr6yKe5GNYm67m5AQLU06N6Kvr6+vr6/Dyu3t7e3Kyq8BJXy9pIi93OzJQAkfTj43BQEAAAAAr8rK7e3t7crKrgWgvrrV7M9iIhYSCQ1RRTYZBgEAAACvysrt7e3tysqKqsSt1e/NLTIoHSYSF195NkU+LAEAAK/Kyu3t7e3KwGzBxOrvxCIaPEpKMSEdm4hFbqmOGAEAr8rK7e3t7ciDpKfh6rsyGmFhamBSMzvauEWbs0BoAwCvysrt7e3tqG6a3L07MJw1mZmZYEJlwuzBpJKpO7oPAq/Kyu3t7eJdhMnlTRYjNbKMgjk0idH9/uXV4DtvrUgDr8rK7e3tvF/C5X8OC1yeoYZYMWXj+vq447sjDl+pVhioysrt7d1Wku/VOwshsraGcSo1xP7639VfDg4KQJCEYmfIyu3tzlnl+kZwS7/YgU8nRNr+4bF2JhchJwsoX3l/K5XK7e3IvvrfOzKr8MY8KiT9+dybTh0pq3RxFLPcm5BFK6jt7bza/VQaet6yVTNHhfe6kCgTTKWrXCco9Ph5j1lQQ93r26PlZT1lkykvY/T4up8jVU9xoXEcG+T50o6PToWEvOvt24qJW4FLPZb24bWkKRw8XIJ3JxHR/PS+0K0ikLFT3evtwIPW9e/59/itui4UVWZ0cSkbevn02uS+khBveVPi7e3Krtr9/PfvvrUyEU+/gWY5JNHu78/NhR05EFZ9Xd3t7crIg7lr0rq6jxtPzKVMNDOp+tK4hSMXKA4QZGJs4u3tysqvAgTjxL41L/DMfjRB5fbCbyMdgVhYGxe4oKLo7e3Kyq8AASXHMh4xgVonPe/yzVcXCzVhaSkgn9/Xyu3t7crKrwAAAQwIdSccZZz29txGDhFLZks8Cjvj56Li7e3tysqvAAAAARWEn8X5/fPcfR08k3pPGw5G8vXUrO3t7e3Kyq8AAAAAAl7s+vvhu5IuL7aXMxMOO9KweLTK7e3t7crKrwAAAAAABeP+z62SLmPpk0QeHVfniwOvysrt7e3tysqvAAAAAAAAAweqwkc/bVsdKVTBsCUCAK/Kyu3t7e3Kyq+vr6+vr6+vrnjfLyguO5vn8nOdrq+vr8rK7e3t7crKysrKysrKysrKyKhIksTN58uVyMrKysrKysrt7e3t7e3t7e3t7e3t7e3t7cjZy6a3yu3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7dvO4ubt6O3t7e3t7e3t7e0"
+}

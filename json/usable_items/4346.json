@@ -1,0 +1,30 @@
+{
+    "id": 4346,
+    "strings": {
+        "name": "Bass Meuniere +1",
+        "article_type": "A",
+        "singular_name": "serving of bass meuniere +1",
+        "plural_name": "servings of bass meuniere +1",
+        "description": "This bass meuniere rivals those made\nby Vana'diel's finest chefs.\nHP+3% (Max.130) DEX+3 AGI+3 MND-3\nRanged Accuracy+6% (Max.20)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDM0NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAIIAAABiAAAAwgAAQQIAYGCCAABg4gAAQQIAAGDiACCBAgCgoKIAoKCiAKCgogAgoQIAIIEiACChAgAAoSIAAKFCAEDBIgAgwUIAAMFiAMDhAgAAwWIAQOFCACDhggAg4YIAAQGCAEEBggABAaIAIQGiAEEBogABIcIAYQGiAEEhogABIaIAISHCAAEhwgEhQWIAQSHCAGEhwgAhQcIAYUHCAKEhwgBBQcIAQUHCACFh4gBhYcIAQWHiAGGBwgCBYeIAIWICAEGB4gEhYaIAgYHiAEFiAgFhgaIA4WICAIGB4gBBggIAwYICACGiAgCBggIAYaICAMGCIgBhogIBAYICAGGiIgEhogIAwaJCAIGiQgBBwiIBIaJCAGHCIgGhwcIAYeIiAIHCQgChwmIAYeJCAaHB4gCB4mIAYeJCAIHiggHh4eIBAcKCAcHiAgCB4mIBoeIiAGICQgCCAmIAweKCAeHiAgHB4iIAggJiAWHiYgEB4oIAwgJiAaHiQgHB4iIBQeJiAQICYgCCAmICAgICASHiggCiAqIBYeKCASICggDiAoIBAgKiAgICIgEiAqIBQgKiAKICogDCIoIBogKCAOIiggBiQoICIiIiASICogGiImIBogKCAiIiIgHiIkIBggKiAiIiIgHiImIBwiKCAMIiwgGiIqIBYgLCAiIiIgICIkIBQiLCASIiwgGiIqIA4kKiAkJCQgFiIsIBoiLCAiJCQgHCIqIBgiLCAWIi4gEiQsIBYiLCAYIiwgGCIsICQkJCAaJCogFiIsICQkJCAYIi4gHCQqIBYkLiAYJC4gJiYmICAmKCAaJCwgGCQuIBokLiAWJC4gGCQuIBokLiAmJiYgGCQuIBYkMCAYJC4gHCQuIBgkMCASJjAgJiYmIBgmLiAYJjAgGiQwIBYmMCAcJjAgKCgoIBgmMCAaJDIgGiYwIBomMCAaJjAgICgsICgoKCAaJjAgFCYyIBwmMCAcKDIgHCgwIBwmMiAkKCwgHCgyICQoLiAcKDIgHCgyIBooNCAqKiogHCgyIBwoMiAeKDIgHCoyICAqMCAgKjIgHCo0ICwsLCAeKjIgHio0ICAqMiAeLDIgHiwyICAqNCAaLDQgJiwyICwsLCAeLDQgHiw0ICgsMiAgLDQgIiwyIC4uLiAgLDQgIiw2IB4sNiAiLjQgLi4uICAsNCAWLjggIi40IBwuOCAoLjQgIC42ICIuNiAcLjogJi44ICouNiAcMDogJDA2ICIwOCAmMDYgKjA2ICYwOCAsMDggJDI4ICQyOiAgMjwgKjQ6ICY0PCAiND4gJjQ+IDA4PCAuOD4gLjo+IDQ6PiAwOj4gNDw+ID4+PiAAAAAAN/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f36+vr6+vr6+popKHgYF7e4GBh5Kaqa+vr6+vr6/f39/fr6J4eHh0WlSCvdfp7ubi3tnItXxUUnR4eHiir9/f39+vr3gKCzfT8N63lF5TZm5mXmtturOhQwwKeK+v39/f36+vdCW/8MmRboCUsbe3t7e3q4+Ag7KzkDRlr6/f39/fr6JU7sluja7b7OzBxLe0vt3d4NHAmZ20s2CBr9/f39+agu6rbqDR7NbCxISEjo6OjoSt1tbMup2DtHZ439/f2mzukYDFuXV1hISEhFxVSlxXcnJXV3XKwaCDq3bD39+i5LOAj4DGGx1RalxIPj4+TVdkV3KGT0+jwJmWpYLay5vHlo0eFyNLEhIZKzAwPj5ISkVFTU2GUFWfvo+rl7aVzpSgHgcYS0I8DhgbFykrKz5CSEhKUFBYX1/Bqo+yfHyuiKC5LA4SIzMiIhsIIBImJjpAOkhNUFBVVWq0p5yXk5ynxSYsJAiOqGMkJCZnYu/n6rj1zy5IUFdwX5SntKaco66+Kx0JIRGZ0jI6uMLt+fL34/P8OTAxS1BqiKCnqqWnq7QrGA0JBi8yWUUiOjqo4XNv+vo/KytQWHCEmaelpaeyuiYYDwYaFB85WT0ZGS0oEzrx8nUnHCs+ao6Zo6OlrrS0bR4RJxkjZzk1dSIaFBQhP4PcsCocLCZ1iJnBk4u8vLKyJh4bIS8oIiI9TBIWGSY7meiyJyYmXqOUn9aTebzGurprHR5HO2k5JhYaECkcIUQ/LyksXqulmaOq5X2pptXQusdpGEF1WX4vFh8DFA0RIRMnJm6lwJilq8fOedR5xtjM0MfbbSwaHA8YEQUCBQEHBBi3oMCYpau3zX3D37Z/xczO0NXboy8aGAgDDxIaEyQZ8fHiq6Wrt8qzit/f32WJwdDQ0NDV3rIXESmPOzgbGPHx66Wyq7fKhVvU39/folqFxdXQ1dXV28UbPy41G4/NwcXFwMfVu6Zhm9/f39+vqUl6wNDg2NXV2LqjlJ+wtKPAwdXg0MGhSaKv39/f36+veAxDjMfQ2Nvm6+vt+/v079vl4syeXRV0r6/f39/fr694AAoMQ4ysvuLm7/3+/vjm1ayeaBULAHivr9/f39+vr3h4eHhsWk5WcYmdnZaRkXdgTlJleHh4eK+v39/f36+vr6+vr6+vqaKVh4F7e4GHkpqpr6+vr6+vr6/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f398"
+}

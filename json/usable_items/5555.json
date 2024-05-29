@@ -1,0 +1,30 @@
+{
+    "id": 5555,
+    "strings": {
+        "name": "Flurry Courante",
+        "article_type": "A",
+        "singular_name": "serving of flurry courante",
+        "plural_name": "servings of flurry courante",
+        "description": "Made by a master patissier, the taste\nof this gleaming icecap rolanberry\nwill make you dance with joy.\nMP+19% (Max. 65) INT+2\n${icon: wind}+5\nMP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU1NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAgIIAgICCAICAggCAgIIAoICiAMDA4gDAwOIA4KFiASEA4gEAwaIBAMGiAUEhAgFBISIBAMHCAODB4gFhIQIBIQGCAQDCAgEg4eIBQSFiAYFBIgGhYOIBoUECASDiIgGhYQIBIMJiAcFg4gFBAcICAYDCAUEh4gHBYSIBYUGCAWFBggHBgQIB4YDiAQFBwgFA4oIBYQIiAUECQgIhoMIB4YEiAWFBogIBgOIBYWHCAUECYgHhgSICQaDCAWFhogFhAkICIaECAMFCIgFBYeIBISJiAKECwgJBwMIBgWHCAkHBAgFhQkICQcECAoHgwgGBgeIBYWIiAeGhYgGhgeIBYYHiAaGB4gEhgiIBYUKCAYFiYgGhoeIBgaHiAqIA4gFhgiIAwULiAWGiAgHBogIBoYJCAQGCYgGhogIBYYKCAaFiwgGBwiIBAaKCAMGC4gGhwgIBwaICAaGiQgGBwiIBwcIiAcGCwgHhwiIA4YMCAYHCQgHB4iIBgeJiAeGiogFBwqIAwcLiAeHiQgEBwsIB4eIiAgHCggFh4oIBocKiAgHiQgHB4mIBQcLCAcICQgICAiIBYeKiAgICQgEhwuIB4gJCAgGjIgIB4qIBgeLiAeICYgHh4uICIgJiAWICwgHCAoIBYgKiAcIiQgIiImIB4gLCAQHjIgHCQmIBggLCAgHjAgICIoIB4iKCASIDAgJCImIBggMCAgJCYgHCIsICQiKCAWIDAgHiQmICAkKiAUIDIgHiAwICQkKCAiIi4gFiIwICAiLCAcIi4gFCIyICImKCAmJCggHiQuIBYiMiAmJCogGiIyICImKCAkJiogJCAyICAkLiAaJDIgJiYqICQkLiAYJDQgJCgqICQkMiAkJiwgKCYsIBwmMiAiJjAgHiYwICgoLCAmJDIgGCY0ICQoMCAgJjIgKCgsICgoLiAcKDIgKCosICgmMiAiKDIgJCgwIBwoNCAqKiwgKCouICgmNCAoKiwgKiouICoqLiAkKjIgKCY2ICwqLiAeKjYgJCoyICoqMCAsLC4gKCoyICAqNCAsLC4gLCwuICQqNCAsLDAgKiwyICgqNCAkLDQgLiwwICAsNiAuLjAgLCo2ICIsNiAwLjAgLi4wICwuMiAqLjQgLiw4IDAuMiAyMDAgMDAyICwuNiAoMDYgMDAyICowNiA0MjIgMjA0IC4wNiAwMDYgMjI0ICowOiAuMjYgNDI0IDIyNCAwMjYgMDA6IDQ0NCA0MjggNDQ2IDAyOCAwNDggKjI+IDY0NiAwNDogMjQ4IDY2NiAyNjggMDQ6ICw0PiA2NjggMjY8IDQ2OiA4ODggODg4IDg4OiA6ODogNDo+IDo+PiAAAAAAEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISDs7Ozs7PDkyGxsjKzIyIysbGxYjKzk8Ozs7OztISEhIOzkuMi4fFxQqMDhCWWljWU9CODAhFBcfMi45O0hISEg7OS4EAxQwTGmZr7e8vL+7qqCPb29MQiEDKTk7SEhISDsyFwYqVo+81+b79vv89uvm5tzc3KqFVjAZOzw8SEg8OxshWa/X7/v59vLv5tzc2dnc2dnT2d/HbzgiMkhISEgbMGPH6/by+/br5s/Ht7e7vMnT19PX0+LcpkYpPEg8KDiZz+bp9uLDoI+Jj218j5aWj5a8zc3Pz9PcoEI3PDswhdnm4uLPhYy4goJfW0cwR09PQTQ0S5zPz9PmhT03HVnP4tPcv3d11ODUyoNYHk0REREcHB5LS1jPydPHYy8hhd/PyaaFXsLnyuTsakNJCAoLERwmD3l/QZzPx82PPV7Hw8evd22Px8rn8a0kCAgLCxMxgZJukpx7S4vHx7tMd8nDvG9vfF6Due3tpQ4TExISMY52dIiSsKaVe8nHyYWZt7+gaWlZR2rQxOBgMRglGCc1dlNrk4CenriLm7y/iaavu49jR09zanOhq0QxJRpEJ0WoYZNkeJet17KHqrygqre8d080WZJmYL5yUaSTUDU6fcWxeGKRqbjXxoejt6aWr79eJCRdsZ92nVq52uDVwXPtzKfA293n6d66h5yghXemrzQzTpzb2rOk3cjV5+SexLiIwO777+LY0rJxlY93W4mlNGGaioax0Nbo0Pj4+Nusmr31tJe1vMO8lXuPhVsqVpxDYZpUNlyi7Pek+P7+/f7jvcG9tcLN0sZxnIVvQihCglhDlIRUSn7R9PD3/v798PPIveTl5eXvm3GWfEYdPB1Vgl9SlISYmMDR8Lbs9PDO8+HI1fr68s1lj3xMKzxILz9Pb3lLerbMosDRzOz33Z/MrtXt+vmqbW9pRiovSEhIIxY9T2lVouDkwKKf7fHd2rSKtPOmbWVtVj0fI0hISEg5KxUqPVZVpurFfo3k59q9aH11dWNbRjhAFTI5SEhISDs7KQMFKj1CZYOMg6iocHZJPVZGPSwgBwMuOztISEg8PDkuAAAEBQUhFEdsoYhXPiw4IQICAwQBAC45PDxISEg7OS4uLi4uKRkXEAwJDQ0VFxkfKS4uLi4uLjk7SEhISDs7OTs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs5OTtISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEg"
+}

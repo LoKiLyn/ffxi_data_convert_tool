@@ -1,0 +1,30 @@
+{
+    "id": 5751,
+    "strings": {
+        "name": "Goulash +1",
+        "article_type": "A",
+        "singular_name": "bowl of goulash +1",
+        "plural_name": "bowls of goulash +1",
+        "description": "A savory bowl of goulash so piping\nhot that it could warm the bones of\nany Bastoker on even the coldest\nnights. A particularly favored dish\namong the Republic's musketeers.\nVIT+4 INT-2\nAccuracy+11% (Max. 58)\nDEF+11% (Max. 35)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTc1MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQIAAAEiAGBgYgBgYGIAACEiAAAhQgCAgIIAAEFiAAAhogCgoKIAIIEiAECBQgAgYYIAoMDCAEChQgAggYIAIIHCAEChYgAggaIAYMECAECBwgBAwWIAIIHiAIEAwgAgoYIAIKHCAEDBggDg4QIAQMGiAKDBggBAoeIAoSDCAEDBogBAwcIAIKICAGDBogBgoeIAQMHCACCiIgBg4aIAQOHCAGDB4gEBASIAgQFiAMDhogCBIUIAQOHiAIDh4gAgwkIAgQGiAGDCIgEBIUIAQQHiAGDh4gCBIYIAQMJCAIEBwgAg4kIAQMJiACDCggAhAgIAYOIiAIEB4gBhAgIAgOIiAKFhIgDhAcIAQOKCAUFBQgCBIeIAQQIiAGDiQgBg4mIAoQICAGECAgFBQUIAgQJCAEDiggDBAgIAgSIiAEDiwgFBYWIAoSICAEECYgCBAmIAgSIiASFhYgFhYWIAwUICAKEiIgDBoSIAwWHiAKFCIgFBYYIAoSJiAMGhYgCBIoIBYWGCAMFCAgDBIkIAoSJiAKFCIgCBQkIAgUJCAMEiYgCBAqIBgYGCAWGBogDBYiIAwSKCAMFCQgEhYiIBYYGiAKFiYgChQoIBgYGCAMFCYgChYiIAgSLiAMFiQgDhQmIAoSKiAQFiQgGhoaIBIUJiAOHBggDhQoIA4YIiAKFiggEBYmIBgaHCAaGhogFhgiIBQWJiAOFiggEBwcIA4cHiAMGCggDBQuIA4ULCAQGCggGBweIBYYJCAQFiogHBwcIBgcHiAQHCAgDhgoIA4WLCASGCYgEhgqIBAYLCAcHBwgEiAaIBAaKiAUGiYgEBguIBoeICAUGCwgGh4gIBoeHiAWHCYgEiQYIBAaLCAUIB4gFhoqIBAYMCAQHCogFBosIB4eICAaHiIgHB4iIBQcKiAYHiYgGh4iIBIcLCASGi4gICAgIBoeJCAaICIgGh4oICAgIiAYHiggFB4sIBwgJCAWIiQgFhwuIBogJiAaICYgHCIkIBwgJiAaICggHCIkIBgeLCAUHi4gIiIiIBgeLiAcIiYgHCAqIBweLCAcIiYgHCIoIBggLCAWJiQgHiImICAkJCAYKB4gJCQkIB4iKiAYIDAgGiIsIB4kKCAcIDAgHiQoIB4kKiAcIi4gIiYmICAkLCAaKiAgICYoIBwiMiAiJiogHiYsIB4kLiAoKCggIiYsICIoKiAeJjAgICYwICIoLCAeKDAgIiosICIqLiAkLCwgIiowICQsLiAmLDAgJiwwICQqNiAmLjAgLi4uICYuMiAoLjAgJi40ICguMiAqMDQgLDI0ICoyNiAsNDYgLjY6IDA4OCAwODogMjo8IDI8PCAAAAAAPHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHx8fHx4eHExMTExMTExIR0YkxFTFh0hMTExMTExMTh4fHx8fHh4cQAAAAAAwccfKy+vr6+vrlxKwoDAAAAxOHh8fHx8eHhxAAAAw6O3NbWzcbJxs3U3uzw7p4OAwDE4eHx8fHx4eHEAARX1tarr6+vwbnNzdbc1t7t8PWOBMTh4fHx8fHh4XwOtK+goMHj8vn89Prr5+fp7Ozo9vnqYuHh8fHx8eGEbKCgg9zy+eTLjXlaTU1fda3C4OTu9vvzhOHx8fHxoerXxsHw53Vuh4eCSlp1ZXqMlZWVddjp9v33mfHx8bLqytT18ruQl591Nhso58ObVWFhaoynf1/g/P6E8fHhzrPe899fl5CYqY0vKG24lKhWX3NUTlF3nX/H+Puy8cTJve75aaZuOEhupEtoikYvNSEvh1UhIVRRemnA+YTxqsne/Yetwh02YyhasZRycikhS0BLJiaCqE48O4Lo2dCh1vD4n92WWYDLX5jF3Y1LUD8SLyIdIT9yZ0Q8ZbfutrnU+KbF3d2pbpSQamqVxZZWDyZGZl1TXaiwYTxht96yq9b1htXlt0g4SGRkVE4qCwsWVj9muF2K0u9VPE6xypmS3PZa3dpaIxopSjmBRyEWLhQsLFzYEjZngUlERLGumazN5k/InB0ZU5RtMl01DxQgGJqTNzIWGUA6STs7pLyD8aHje33HYxsLFlN4NXZCGEJbiDkpeGMmFzE6Okm7vYPx0LS8QdriewwZrdKA26MgMmDPz4l7sJRlJzExc9LGg/HxhNdPhtHalnu408/omhQMEzd+zLpkdT4nMTOxt7yr8fGyksc2j7XR4trGpVw/HRtLH0GHQREXMycfZdK/1r7x8eGZyaIaLYW10drHUz8vXVa4Wh8RFRcfJ3+xwKDt2fHx4eF0waIaBR6FtdGuLzVAlm8lFRURFyV/seOg47Lx8fHh4cQKtMpkCAEMHkNwJBAdHRMTDRUlc9jGks2E8fHx8eHhxAADV8m3ShAGAgIFBQUICAkXVbj1tJJskeHx8fHx4eHEAAAABFe5wKJ7TzAiKjBPltjGq3E0CsTh4fHx8fHh4cTExMTExHxYUpKgr7SvrKFeRUxig8TExOHh8fHx8eHh4eHh4eHh4eHhmWtiWHR8marh4eHh4eHh4eHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fE"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 5197,
+    "strings": {
+        "name": "Peperoncino +1",
+        "article_type": "A",
+        "singular_name": "dish of spaghetti peperoncino +1",
+        "plural_name": "dishes of spaghetti peperoncino +1",
+        "description": "This spaghetti peperoncino is so hot,\nyou will need at least Water IV to\ncool off the fire in your mouth.\nHP+30% (Max. 75) VIT+2\n\"Store TP\"+6\n\"Resist Virus\"+12"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE5NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAODg4gEBAQIAwQGiAUFBQgAhIgIA4SHiAMECIgBBoSIBYWFiACFiAgEBQgIAwUJCAAFiQgBB4WIBAWIiAGHhggGBoaIBoaGiAMFiYgAhgmIA4YIiAGGiIgAhomIBoaHCAGHhwgEhoiIBgaICAGHCQgHBwcIAYiGiAOGiYgAhwoIBwcHiASHh4gHBwcIA4gHiAOHCQgChwoIAQcKiACHiggDCAiIAYeJiAeHh4gEBwoIB4eICAOHiggCCIgIAYeKCAOHCogBh4sIBYkHCAQHiogICAgIBwgJCAMICggCiAqIAYgLCAGICwgEB4sIAogKiAIIiwgCCAuICIiIiASICogEiIoIAYgLiAiIiIgCiIsIBQiKiAQICwgCiIuIAwkKCAiIiQgDiIsIBAkKiASIi4gDiQsIBAiLiAKJC4gJCQkICIkJiASJC4gDiQuIBIkKiAKJC4gDCQyIBokKiAkJCYgHiQsICQkKCAQJiwgECQwIA4kMCAmJiYgCiYwIBImMCAKJDQgHCQwIAwqLCASKCwgHiQuIAwmMiAUJDIgDiYyICgoKCAkJiogFCYwIBIoMCAiKCogFiguIBAmMiAcKC4gDCg0IBAoMiAmKCogHCYyICoqJiAoKCggFigwIBQoMiAoKCogFCg0ICYoKiAqKiggJCgsICYoLiAOKjQgICgwIBQqMiAQKDQgFiowIA4sMCAqKiogKCosICQqLiASKjQgFCoyICYqLiAgKDQgIiowIBAsNCAYLDIgLCwqICIuKiAiKjIgFCwyICosLiAmKjAgHio0ICgsLiAWLDQgEiw2ICgqMCAoKjAgIiwwICIqNCAYLDQgLCwsIBQsNCAuLCwgKCwwICQqNCAcLDQgKCwyIBIsOCAmLDIgKCwyICosMCAmLDIgLi4uIBQuNiAqLjIgJCw2IBguNiAuLjAgHi42IC4uMCAqLjIgJi40ICAwNCAUMDggIi44IBYwNiAiMDQgFDA6ICouNCAuMDQgKDA0IBgyOCAaMDogMDAyICowNCAgMDYgEjI6IDAwMCAqMDYgIDA6ICwwNiAgMjYgJDI2ICgwOCAaMjogLDI0ICwwNiAwMjQgFjI8ICwwNiAyMjIgLjI4IC4yNiAeNDogLjI4ICoyOiAcND4gMjQ0IC4yOCAqNDggJDQ6IDA0OCAgNDwgMDQ4IBw2PCA0NjYgMDY6IDI2OCAuNjogJjY+ICg4OiAgOD4gMjg4IDI2OiAwNjwgNDg4IDQ4OiAwOD4gNDg8IDg4OiA0OjogKDo+IDQ6PCA2OjogOjo6ICo8PiA2OjwgODo8IDY6PiA4PDwgNjo+IDw8PCA6PDwgODw+IDg+PiA8Pj4gKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrGtra2tra2tra1I3LSUfHyUtN1Jra2tra2tra2usrKysa2BFRUVFNx8UGjdciJWVfVM3HxolN0VFRUVga6ysrKxra0UAAgQjbKnNzcjI0dPa3+Lj0YAvBgIARWtrrKysrGtrQQQvmK6urq6mnJycnKnI3d/s9/a0LwRBa2usrKysa0sUgKapqqmWppybm6OjqZapvN3U6PfzgB9Sa6ysrKxLLZumm5yJf5y6uqWQZk9wtsrUws681PD71jdLrKyghx+unJuWf67OtT4MGT96n0wiPk2y8s6ryPv76Dd+oKwtqqacloylsl07IhZAKCg7RGPVw4V5292rvOz72kGsa0upnJt/pXA+DAcPNEQoFzqBmVVVVW4/2+Krwvv7rGst1KaWb3JwHjI6Fikqc04RLm1JIilui1GP28uo1Pn7QUHdrn9bclYsLF1AQDSKig0NVJphP1E7Ykat8pOu6PtgiNPRb4JZJzoiXVFAPZrENhE9YVCKNDxXUZT/xpzU96zBzs6oZ1knHjxJaF+BhOeEERxIYopfamG30OvGjsL538HU6d2CRzkyP2pfWF6tu5I1JFBC0IFfgfXm86SCwvvUkc3p7KSrXRhXaF9eKwoSufFCbkLVdGrY9d7/jY7U+7F+09/61tawP11qp3pKEBAgZXl6Yq0hM+fc1e52juj7h3i90/rp4uSwPD6hUEiPuYYQMUwhCSG/3sDwr2Sm9/l4h33U6v/4+Op0FWLQfHxCVBsSBQg9mcnl5OJ2gsL7oJGseL3W+fr4+NxpDqG3ajMmQz0ui7eUye32jWer9vB4rKCgS73d/Pr9/ehUDk+tp6eKelTMhPLt155yqPP7S5GgrKxgUqrd//36/vB5IYOPcW2ZfIrV17V2gqvz9GBgrKysrGtgN3vd+f/9/v7rv6Hgu4OZx7iXcp3U+9JBYGusrKysa2tFC1q03ff9/f796tfLr56TpL7a8+93E0Fra6ysrKxra0UAARNamNPs+fb3/v7+8uPr69J3EwEARWtrrKysrGtrRQAAAAEDEzh1s8XZ4c+zolodAwEAAABFa2usrKysa2tFAAAAAAAAAQECAgICAgIBAQAAAAAAAEVra6ysrKxra0VFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRWtrrKysrGtra2tra2tra2tra2tra2tra2tra2tra2tra2usrKygrKysrKysrKysrKysrKysrKysrKysrKysrKysrKCsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKw"
+}

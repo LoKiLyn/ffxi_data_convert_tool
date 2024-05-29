@@ -1,0 +1,30 @@
+{
+    "id": 4522,
+    "strings": {
+        "name": "Jack-o'-Soup",
+        "article_type": "A",
+        "singular_name": "bowl of jack-o'-soup",
+        "plural_name": "bowls of jack-o'-soup",
+        "description": "A yummy pumpkin soup.\nHP+2% (Max. 120) VIT-1 AGI+3\nRanged Accuracy+8% (Max. 25)\nHP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDUyMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAGDA4gCAwOIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgOECAIDhIgDA4SIAoOEiAKDhIgChASIAoQEiAMEBIgCg4UIAwQEiAKEBQgDhAUIAwSFiAMEhYgDhIUIA4SFiAQFBYgDBQYIA4UGCAOFBggDhQYIBAUGCAOFBogEBQYIBIUGCAOFBogEBYYIBAWGiAMFhogEhYaIBAWGiASFhogEhYaIBAWHCASFhogEBYcIBAWHCASGBwgEBYcIA4YHCAWGBogDBgcIBYYGiAQGBwgEhgcIBQYHCAOGB4gFhgaIBAYHiAUGBwgFBgcIBQYHCAYGhogFhocIBAaHiAUGB4gDhoeIBYaHCAWGhwgEhoeIBQaHiAYGhwgFhocIBIaHiAaGhwgFBoeIBQaICAOHCAgEhogIBQcHiAYGh4gGBwcIA4cICAYHB4gFhweIBQcICAWHCAgEBwgIBYcICAUHCIgGhweIBYcICAUHCIgFhwiIA4eIiAcHiAgGB4gIBYeIiASHiIgGB4iIBYeIiAYHiIgDCAkIB4eICAWHiQgEiAkIBweIiAKICYgGh4iIBQeKCAgICAgFiAkIBAgJiAKICYgDCAmIB4gIiAaICQgECAoICAgIiAUICYgDCAoIBggJCAIIiggECImIA4iJiAgICAgCiImIBwgJCAcICYgGiAmIBYgJiAQIiYgDCIoIBQiJiAOIiggCCIoIA4iKCAQIiggDCIoIAwiKCAcIiYgFCIoIAwkKCAiIiIgDCIqIBYiKCAQJCggCCQqIAwkKiAeIiQgHCImIBoiKCAOIiogDiQqIBAkKiAIJCogEiIqIA4kKiAiIiQgDiQqIAwkKiAOJCogFCQqIBAkKiAIJiogHiQoIAwkLCAMJiogJCQkICAkJiAUJCwgECQsIA4mKiAOJCwgDCYsIBQkKiASJiogDiYsIA4mLCAKJiwgHiQqIBImLCAQJiwgJiYmIBQmLCAOJi4gECYuICAmKCAUJiwgFiYsIAgoLiAmJiYgEiYuIA4mLiAMKC4gCigwIBYmLiAQJi4gDiguIBQmLiAKKC4gKCgoIAgoMCAWKC4gDigwIA4oMCAUKDAgDCgwIAooMCAgKCwgECguIA4oMCAKKjAgFigwIA4oMCAoKCggGCguIBYoMCASKDAgDCoyIBAqMiAMKjIgFiowIBIqMCAUKjIgECoyIBYqMiASKjIgDio0IA4qNCASKjIgDiwyIBwqMCAYKjIgFCo0IBIsMiAqLCwgGioyIBIsNCAQLDQgFiwyIBgsMiAWLDQgEiw0IBQuNCAaLjQgLi4uIBYuNiAuLi4gEjA2IBowNiAYMjggPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/M3Nzc3Nzc3Nzc3Nejg4NjYtOD2Tzc3Nzc3Nzc38/Pz8zbuTk5OTk3JLHBUVFxUVFxUZFRUcOJOTk5O7zfz8/PzNzZMABQkMBw0PERAQDg4EBAMIDg4IBwYAk83N/Pz8/M3NogULDQgSEyQ+MTpPWkpAKx4WDwIHCAqBzc38/Pz8zc1rDBQSMkl9hamFhZubm2lFRzssJx0OCBy7zfz8/PzbgRwUMkVwuLgvL3BPMy8vKDNfaVw/LS8EFTi7/Pz8/KwjK0Bw1TIvZoywxdH29uDRsIcvOkdYKy8ZFZP8/Pz8SyNKZy9abbXQ5+fm9fL779rh1LqeRD5cQS0bHPr8+tspQGdfTZ3K2uv7+/nnx+jr/vnv1Ma9ai9aVzYYovz6TEVhWkS1vuP17+n9/+7P0/6GhNLTzLawpTVKTilD214rT2lEwL7a4+fh8/fo7uTn8r2uzNTUvbWejVlKSB6iHkFnWn+5yt/U3+DS6Orl5+Xg197Qzs7GxqWeZk1BQy0eSmU8r7DGzNTY2trg6Ojl2uTx5N7g+MK3q5ahUWhUGS5aUEanq8r0087R0Nra0dre4+zi3uO54r2loZ1WWVQtTGdSN6WOiafjt73Q7e3F0NLP3eLZy5XPxMmlnWo6Tz1UTzM3ko6NiJiysZG8ccm+uaDL2dLLvNm+r4yddCxPKy1BPjV2jqiSn6SqpbKlsbKqo8/Py7G2vrqloY17MU8nO0BENVGSl5+fq6qko6qqqqSwr3mur7Cxioy5h5pENBlXMGUqPIK5fpefpKOUscSqmKOhnJygoZx2z6aGmlk6TncwTzkfVoylb3WPi3yKoY+SmJSUlI52jsDBe4ZwUCHD8DMuTSUnW4fAjG+LfmqIiIiIiKOLfsC0llKGuGk8Pfz8wy4zOiExTVbBtIJ1dXV1dWqIocDcpltgZam4PCHb/Pr6bjEpWiUlW2BtYnaMp4iSgo6zpmZoaGV9v1knTvz8/Py7QyUxLisbKSFse2xsfWlaYWVsaGBQg61EJ0K7/Pz8/MOsOx0rLCggFyBJTVNcPklQNCwsbplnOTJMzc38/Pz8zc1yGiIbKyguKTEtR0o/RUlXcINkPikTAZPNzfz8/PzNzYGTel4tJSkpLjA6QU9FO09KMykmToGTk83N/Pz8/M3Dzc3Nzayid2M7OjpBQ0hVV3p6rLvNzc3Nw838/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw"
+}

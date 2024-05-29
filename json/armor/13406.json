@@ -1,0 +1,22 @@
+{
+    "ID": 13406,
+    "name": "Merman's Earring",
+    "item_type": "Armor",
+    "description": "Attack+6 Evasion-4\nMagic damage taken -2%",
+    "flags": "Inscribable, CanEquip",
+    "stack_size": 1,
+    "equipment": {
+        "level": 63,
+        "ilevel": 0,
+        "jobs": "All",
+        "races": "All",
+        "slots": "Ears",
+        "superior_level": 0,
+        "shield_size": 0,
+        "max_charges": 0,
+        "casting_time": 0,
+        "use_delay": 0,
+        "reuse_delay": 0
+    },
+    "icon_bytes": "kWFybW9yICAgMTM0MDYgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADg4OIA4ODiAODg4gDg4OIA4ODiAODg4gDg4OIA4ODiAODg4gEA4QIBAQECAQEBAgEBAQIBAQECASEhIgEhISIBISEiASEhIgEhISIBISFCASEhQgFBQUIBQUFCAWFBYgFhQWIBYWFiAYFhggGBYYIBYWGCAYFhggFhYcIBgWHCAWFhwgGBYcIBgYGCAYFhwgGBgcIBoYGiAYFh4gGBgYIBoYGiAYFh4gHBgaIBoYGiAaGB4gGhgeIBwaGiAYGCAgGhgcIBoYHiAcGBwgGhgeIBoYICAaGhogHBocIBwaHCAaGCAgHBocIBwaHiAaGh4gHBocIBwaHiAaGCAgGhggIBwaHCAcGh4gGhogIB4aHCAcHBwgHBoeIBwaICAaGiAgHBoeIBwaICAcGiAgHhweIB4aHiAcGiAgHBoiIB4cHCAaGiIgHhoiIB4cICAeHB4gHhwgIB4cICAeHCAgHBoiIB4cHiAeHB4gHh4eIB4eHiAgHB4gHhwiIBwcIiAgHCAgHhwiICAeICAeHh4gIBwiICAeIiAgHiAgHh4eICAeICAgHiIgIBwiICAeIiAgHiIgIh4gICAeIiAgICAgIB4iIB4eJCAiHiIgIB4kICIgIiAiHiIgIB4kICAgICAgHiQgIh4iICIeJCAiICIgIiAkICAeJiAgHiYgIh4kICIiIiAkICIgICAmICIgJCAiICQgIB4mICQgIiAiICIgIiIiICIiIiAiICQgJCAkICIgJiAiICggIiIiICIgKCAkICQgJCAkICQgJiAiICggIiIiICQiJiAiIiIgJiIkICQgJiAkIiYgJiImICYiJiAkIiggJCQkICYiJiAkIiggJCQkICYiJiAkIiogJCQkICQkJiAmIiggJiQmICYiKCAkIiogJiQoICYkKCAmJCggKCQoICYkKiAmJiYgKCQoICYkKCAoIiwgJCQsICgkKCAoJCggKCQqICYkKiAoJCggJiQsICYmJiAqJCogKCYqICYmJiAqJiogKCYqICYkLiAoJiwgKiYqIComKiAoKCggKCYuIComLCAoKCggKigsICwoLCAoJjAgLCgsICwoLCAsKC4gLCguICooMCAuKi4gLiouICooMCAsKi4gLCgyIC4qLiAsLCwgLiowIC4qMCAwKjAgMCowICwsLCAwLDAgMCowIDAqMiAwLDAgMCwyIC4uLiAyLDIgMCwyIDAsNCAyLDIgMi4yIDIuNCAyLjQgNC40IDAwMCAwMDAgMDAwIDQuNCAyMjIgMjIyIDIyMiA0LjYgNC42IDQwNiA0MDYgNjA4IDYwOCA2MjYgNjI4IDYyOCA4MjogODI6IDo0PCA6NDwgOjY8IDw0PiA+PD4gOvr6+vr6+/r6+vr7+vGrp2Id4iIZ+vr6+vr6+vr7+vr6+/r6+vr6+vv6+vgiHdednxebkZnW+vr7+vv7+vv6+vr6+rq6urq6urqvFyBqJ+CjX1PQ1ZYKKDq6urq6urr6+/r6urt6enp6elataKFhUgwNSo1Hz9fF+np6enq6uvr6+vq6ukAAAAAHb+ynFVISDQ0KichHy0xBQAA6erq7+/r6+rq7QAAAD2lv5NxP0M5Pz5JQickH0MWBADp6urr6+vr7urpAAASt8S4fk85S3h4XmtsSS0nLVgBAOnq6uvr6+vq6ukAAB3KyahhXl6KcHh8qbCEZT4iTxUA6erq6+vr7+rq6QAEoczAj2FshISltdbe4ciZbj4/MQPp6urr6+vr6urpAAGnzriPWHOltdfx8+b34sd8VkhLBenu6uvr6+vu6u0HJsXTtmxhnMC1gUE4keX73qRkSmAL6erq6+vr6+rq7QNy1NGoUnOfaisRExEJXfnywlZVZhLp6u7r7+vr6urpBJ7h45tHpb4gFAAAAAAR3v3PZTuGEunu6uvr6+vq6ukEt+XXmHC0ewkAAAAAAAWe+s98VZAS6erq6+vr6+rq6QSs5eSMi8dUAwAAAAAAB1nx23lWhgvp6urr6+vv6urpBKHs3IWSuykAAAAAAAACGObLim5tEO3q6u/r6+vq6ukKoezdp5W3EAAAAAAAAAIb5sV1ZkQO6erq6+vr6+rq7QWD+OKkg68KAAAAAAAAA1Tft4uVTAjp7urr6+vr6urtCGL+56dpkAgAAAAAAAAIkdyndbc32enq6uvr6+vq6ukHOvXmw3qDAwAAAAAAAASR8ZF/ug3Z6eru6+vr6+rq7QAV4vHHV2UDAAAAAAAACrPwkZGQEgDp6urv6+vv6u7pAAHL9cd1TQMAAAAAAAAJy81up0zZAOnq6u/r6+/q6ukAA5HyyHBTAwAAAAAAAiX0nousGQAA6erq6+vr6+rq7QAAOt7UelcEAAAAAAAEPNCYwmIMAADp6urv6+vr7u7pAAAZntt6dQEAAAAABgqXtH+QFgAAAOnu6uvr6+vq6ukAAAA63qx/OAkAAAAEVMJNmhEjAAAA6erq6+vv6+rq6QAAEhHUoXWzLxAPGh6KeVNdCgAAAADp6urv6+vr6urpAAAOLM/UqspyDg5o23wzHBTZAAAAAOnq6u/r6+vq6u3p6TaH5/fPvao2Nrvh6IUzUOnp6enp6erq6+vr6+rq6urq2kXz/+THmW+Az/b8mJqJ7urq6u7q6urr6+vr7+vr6+vrrnTQ26aOo1ukwdjCbYjr6+vr6+vr6+vr7+vv6+vr6+vruZ2do5bv65SjuZRj1evr6+/r6+vv6+s"
+}

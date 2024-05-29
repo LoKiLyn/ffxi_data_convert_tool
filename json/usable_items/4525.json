@@ -1,0 +1,29 @@
+{
+    "id": 4525,
+    "strings": {
+        "name": "Pumpkin Pie +1",
+        "article_type": "A",
+        "singular_name": "pumpkin pie +1",
+        "plural_name": "pumpkin pies +1",
+        "description": "A deliciously baked pumpkin pie.\nMP+45 INT+4 CHR-1\nMP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDUyNSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAKDhAgCA4WIAwQGCAKEBogBhAaIAQQHiAIEBwgDBIaIAoSHCAIEh4gDhQYIAwSHCAQFBggChIcIAoSHiAIFB4gDBQeIAoSICAKFB4gChQeIAoSJCAQFhwgDhQeIAwWHiAIFCAgChQkIA4WICAKFiIgEBYeIAwWICAKFCQgDBYiIBQYHCAMFiAgDBYiIAoWIiAKFiQgDBYiIAgUKCAMFCogEhgeIA4YICAOFiIgDBYkIA4UJiAWGB4gDBYkIBIYHiAMGCQgGBocIAoWKCAQGCIgDhgiIAwYJCAOFiogEBYmIAwYJiAUGiAgDhgkIBgaHiAMGCYgDBokIA4aIiAMGCYgFBogIBIaIiAKGCogDBomIBocHiAWGCYgDhomIAwaKCASGiQgDBomIAwYKCAOGCwgEhokIBYcIiAQGiQgDhomIA4aKiAKGC4gGhwgIBAYLCAUHCQgEhwmIA4cJiAQGiggDhwoIA4aKiAUHCYgGB4iIA4cKCAYHCIgEBwoIBQcJiAMHiggDhwqIBIcKCAUGiwgHh4gIA4cKiAOGi4gFBwoIBAaLCAQHiggGh4iIBgeJCASHiYgHiAgIBAeKiAOHiogDhwsIBQeKCAUHC4gEh4qIBAeKiASHiggHCAkIBogJCAWHiggDh4sIBggJiAQHiwgFiAoIBIeKiAQHi4gDhwwIBAcMiAgICIgDh4uIA4gLCAeICQgFiAqIBggKiAWHjAgEh4uIA4eMiAUICogGCAoIBAgLiAiIiIgICIkIBQgLCAWICogDiAuIBogKiAQIDAgICImIBIiLCAWHjIgFiAsIBAgLiAUIC4gECAyIBoiKiAiJCQgHCIoIBYiKiAQIDIgEiIuIBIeOCAcIiogEiAyIBgiLCAWIjAgIiQmIBIiMCAQIjQgHCQsIBQiLiAkJiYgGiIwIBIiMiAeJCwgGCQuIBoiMiASJDIgGCQuIBIiNCAmJiYgHiQsIBomLCAUJDAgGCI0IBwkLiAWJDIgEiQyIBQkNCAUIjYgJiYoIBgmMCAYJDIgKCgoIBwkMiAUJDIgEiQ2IB4mLiAYJDQgEiQ0IB4mMCAcJjAgGiYyIBQmNCAUJDggKCgoIBgmMiAUJjYgHCYyIBQmNiAaJjQgGigyIBwoMiAmKC4gKioqIB4qMCAWKDggHigyIBooNCAUJjogFig4ICIqMCAgKDQgLCwsIBwoNiAiKjQgFio4IBQoPCAWKjggHiw2ICIsNCAaKjggFio8IBwsOCAuLi4gHiw4IBgqPiAcLDogJi40ICIuNiAiLDggHi46IBYsPiAoLjYgGi48ICIwOCAcLjwgJDA4IBgwPiAcMDwgJjA4ICIwOiAiMDwgJjA8ICYyOiAqND4gOrq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urqtI6OgZycjpyBjurq6urq6urq6urq6sHBwcHBwcG0bW07ORwcHBYIAwcLOy1SzcHBwcHq6urqwbSNjY1kMQwcITVcg3R0mKd0T1wTCwIxZI20werq6urBwY0AAAESNWWgseLk3NjRx7yxp1xYSQ4CRMHB6urq6sHBMQoNaZXD3Oji59zR0bOzk5OYn4yYdBoDO8Hq6urqwYECDV6gy8vPx9jE2OPbvePbxJqIUHBuZT4Tberq6upEFT5pt7fDy8/c+fTs9vb4+Pjy48SfiEpZWSUXnOrqvgszdaqgu+Lk7e29iYCAoaFmZn+o6OPEk1k4cCs51t8oKX11ZaDPs6NmSyxjh2iWiYBoU2YyHpOCn3AwZROOji9lT1iYsX4nJ3Le88jJrNH9//3QhbhRQkpQk1k8MBUgaU9cg6BHNoePR1ak6/fr4NKjpZmFcbCAMi44eTBDC0BPK2BPH4a5e1nKyft7cH+JiZ+C2sCXc7nCMgY1WCsdPiMjNRk3rl7J3srlykeTxPbEgufgj4jpZVrhN0M8NDRWNT0YRZJJ4aWZgvD+8G9lsXnx/LpovK3rqjWsGys1NVZpDytUI8nzskcercP+/uVv0rq6iMujefflXqkuMDA0XjoJeBg8jMm/Q5q8jLzL0/H8ylh9j1ilxtDUKj0lDiFeF0E0G1lQoLphXHSyyvDA+87l9frv4dnm7tdUNBEXHVYhfBMrJFB7qpnJ1OnT0LLl5e6vdb+PSZ5sYosiCAgzZyEpEz8eSlxKSj9ZjFll2fVs5rUhJWJVinyefDRrCDlrMwgJOBlQUFl7GyNYSc57dE9O1akTD7WStnwzOnoTHHdIEwYYFCJfkpA9GCOvr099ZS5IolRsqbaSVEwiTB1qlE0aExlKNTOukmJchZs6Fx0THx9fkl9ixYtUYg49KVvNXSkQCS5DG3iuYnXFi2dMOnyShouFlzpsVVY0EFZd3+q0M0EEGDxGTiIqNYWStaJGTqm5yN2FNVZ9aR0qM5Tq6t9SeiEWGEeCYTVGSTxXeHGXkHNXXm6YlSsIZ1U51urq6o1dXxcdGVmMmJigZVxudH19bqenmDwwHRBAKbTq6urqtIFrnU4TDgVJb5Gxu7u7u7u7mG8rThoSLy20werq6urBwWRdnXxBCQQYJj8jR0dhmIJOXk1rIBVNjcHB6urq6sG0wZxkQTMXDxMPPCVaeF9UnXcoKCBSwcHBtMHq6urq6urq6urBhDMpbClsKS9UXWt3amrN6urq6urq6urq6urq6urq6urq6s2EXU2EW3amvqvN6urq6urq6urq6uo"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 4575,
+    "strings": {
+        "name": "Fish Chiefkabob",
+        "article_type": "A",
+        "singular_name": "fish chiefkabob",
+        "plural_name": "fish chiefkabobs",
+        "description": "A high-quality fish mithkabob worthy\nto be eaten by the Mithra\nchieftainness.\nDEX+1 VIT+2 MND-1\nDEF+25% (Max. 95)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDU3NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAYMIAQGDiAECBAgCgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCgoKIAoKCiAKCgogCAoMIAoKCiAKCgogCAoMIAQIECAKCgogCgoKIAQIECAKCgogCAoOIAgKDiAGCBAgCgoMIAgKDiAGCg4gBgoQIAYKECAKDAwgCgwMIAoMDCAKDAwgCgoOIAYKEiAGChIgDAwMIAYKEiAKDA4gCgwOIAgMEiAGChIgBgoUIAoMDiAMDg4gCAwSIAYMFCAMDhAgDAwQIAgMEiAGDBQgCg4QIAgMFCAMDhIgCAwUIAgOEiAKDhQgCg4UIAgOFCAIDhYgDhAQIAwQEiAIDhQgCg4WIAwOFCAMEBIgCg4UIAwQFCAIDhggDBAUIA4QEiAKEBYgChAWIA4QFCAMEBQgBhAaIA4QFCAOEBQgEBIUIA4QFiAKEBYgDhAWIAwSFiAMEBYgChAYIAwSFiAKEBggChIaIA4SFiAMEhggChIaIBASFiAOEhggDhIYIAoSGiASFBYgDBIaIAwSGiAQEhggDhIaIAwSGCAMEhwgDBIaIAwSHCAQFBYgDhIaIAwSHCAKEhwgEhQWIAwSHCAMFBogDBQcIAwSHCAOFBogEhYYIA4UHCAOFBogDBQcIBIWGCAQFhogDhQcIAwUHCASFhggDhQcIBIUGiAOFB4gDBQeIBQWGCAOFB4gEhYaIBYWGCAQFhwgDhYeIBQWGiAOFh4gEBYeIBQYGiAQFhwgGBgYIBQWHCAOFh4gDhYeIBQYGiAOFh4gEhgaIBAWHiAUGBwgEhYeIBAYHiAQFiAgFBgeIBAYICAWGBwgEBggIBgYGiAQGCAgEhggIBAYICAUGB4gFhocIBAYICAUGCAgGBocIBIYIiAYGhwgFBoeIBIYIiAQGiIgEBogIBIaICAaGhogFBogIBYaHiAUGiAgEhoiIBwcHCASGiIgFBoiIBQaICAWHB4gEBwiIBIaIiAUGiQgFBwiIBYcICAWHCAgFhwiIBQcJCAeHh4gHh4eIBweICAeHh4gFhwmIBYcJCAeHh4gGB4iIBYeJCAYHiYgICAgIBoeJCASICYgFiAkIBYeJiAgICAgGh4mIBggJCAYICYgIiIiIBogKCAaIiYgIiIiIBQiKCAiIiIgGiAqICIiIiAeIiggJCQkIB4iJiAWJCogJCQkIBwiKiAkJCQgICQmIBYkLCAeJCggICQqICYmJiAgJCogICYqICImKiAmJiYgIiYqICgoKCAiJiwgKCgoICgoKCAiKCogIigsICQoLCAkKCwgKioqICoqKiAmKi4gKioqICgqLiAqLC4gLCwsIC4uLiAAAAAAP7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v79+t3+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/fem5t3+/u/v7+/v7+/v7+/v7+/v6dbGxNLk7+/v7+/bleam+v7+7+nb29vb29vb29vb29aRs7Wge3PD29vbxIHhlfL+/v7v79sAAAAAAAAAAAAAC5fRtaSqd0oOAAtRz4/W/v3+/u/v2wAAAAAAAAAAAAAP1aVEWb6qhT4UUbt52e/+/v7+7+/bAAAAAAAAAAAAAA/VVQoRmMyUclevUcPv7/7+/v7v79sAAAAAAAAAAAAAB1AzBAxrzMiEUlkV2+/v/v7+/u/v2wAAAAAAAAAACxAPFQ8NDy7C17zQk1S26e/+/v7+7+/bAAAAAAAAAAsdIS8vNEA/KHXX3t65zIih6f7+/v7v79sAAAAAAAAADiFFXXZ6YEVPO8Lo69XI0bnN/v7+/u/v2wAAAAAAAAAPWqKiorC1p4JOO+Pw9vzjys3+/v7+7+/bAAAAAAAHBBVYnpuLjaKenqR4TtXz+/nlzf7+/v7v79sAAAAADUMZJSw1QltufI2WjY1OT7TFqbbk/v7+/u/v2wAABBWGup8TAjVLS0tbYXGEhIJOQTqp6e/+/v7+7+/bAAUfl9S/rGIBFyIsMDFbZWVxbV1OSanv7/7+/v7v79sEJH6n0MCsnQExKSoiAylLS15lXUktze/v/v7+/u/v2w9keJ6w2NidIhcpKiIaMDU5Sz0yEAjb7+/+/v7+7+/bBSVndqe12OydOCwiIiIpHBYUDAYAANvv7/7+/v7v79sHJhtJdrC+5+zgQUGDTRgKBgAAAAAA2+/v/v7+/u/vyS5MdDQ3eri47Pbz7u7OKwUAAAAAAADb7+/+/v7+7+JmcGB/nDtIeJqO6vDw7oYJAAAAAAAAANvv7/7+/v7poWNqdoSebkA8eI6O6OzFHwQAAAAAAAAA2+/v/v7+/t1mcGptaougbCAnVpqO6lUHAAAAAAAAAADb7+/+/v7+w2NgXmpwi7e3SREONoNfDgAAAAAAAAAAANvv7/7+/v62WGCAlouHpMKKNggIKyYEAAAAAAAAAAAA2+/v/v7+/slTe5aNi4uHwr1HCwAFBAAAAAAAAAAAAADb7+/+/v7+1oF7jqTCx6SKwkoJAAAAAAAAAAAAAAAAANvv7/7+/u2P2m+Oo9PcqGNpkdbb29vb29vb29vb29vb2+/v/v74q9qPyYmjuZKMw8np7+/v7+/v7+/v7+/v7+/v7e/+/u3Aq/H+99/S5PL+/f7+/v7+/v7+/v7+/v7+/v7+/v3+/u34/v7+/v7+/v3+/v7+/v7+/v7+/v7+/v7+/v7+/v4"
+}

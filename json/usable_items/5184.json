@@ -1,0 +1,30 @@
+{
+    "id": 5184,
+    "strings": {
+        "name": "Vegan Saute",
+        "article_type": "A",
+        "singular_name": "plate of vegan saute",
+        "plural_name": "plates of vegan saute",
+        "description": "Vegetarians all over Vana'diel\nadore this specially prepared\nbatagreen saute.\nVIT-1 AGI+1\nRanged Accuracy+7% (Max.20)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE4NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAgIIAgICCAICAggCAgIIAYKBiAKCgogBgwGIAYMCCAIDAogBg4IIAgOCiAKDgogCA4KIAoMDCAIDgogCBAKIAgOCiAIEAogDA4OIAoQCiAKEAwgChAMIAoSCiAMEAwgChAMIAoQECAMEA4gChIMIAwQECAKEgwgChQKIAoQECAMEgwgDBQMIAoUDCAMFA4gDhASIAwUDCAQEhAgDhIQIAwWDiAMFA4gDBYMIAwUDiAMFBAgDBYOIBAUEiAOFhAgDhQQIBAUEiAWEhQgDBgOIA4WECAMGBAgEBQUIAwWFCAOFhAgChQWIA4YECAMGBAgFhQUIA4YECAOGBIgEBgSIBIWFCAMGhAgEBYUIA4YFCAWFhYgEhYWIAwYFCAQGBIgEBoSIBAYFCAQGhIgFhYWIBIYFiAQGBQgDhgYIBAaEiAUFhggDBwSIBAaEiASGhQgFhYYIBgWGCAOGhYgEBoWIBIaFCAUGBggFBoWIBgYGCASHBQgFhgYIBAcFiAUGBogFBoYIBIcFiAYGBogFhoaIBIcFiAUHBYgFBoaIBYaGiAWGhogFBwYIBQcGCAYGhogFhwaIBIaHCAUHhYgFhocIBYcHCAaGhogGBocIBQeGCAaHBwgGBwcIBgcHCASHBwgFh4aIBocHCAaHBwgFB4YIBgcHCAcHBwgEh4cIBgcHiAcHBwgGB4cIBgcHiASHCAgGhweIBYgGiAcHBwgFB4eIBoeHiAYIBwgGB4gIBgeHiAeHh4gGh4eIBYgHiAaHiAgGiAeIBggHCAaHiAgHh4eIBoeICASICAgHh4eIBoiHiAcICAgGiAgIB4gICAcICAgGiAiIBQgIiAgICAgHCAiIBwgICAaIh4gHCAiICAgICAWIiQgHCIiICIiIiAeIiIgHCIkIB4iIiAiIiIgFCQkIBwiJCAiIiIgHiIkIB4iJCAgJCQgJCQkICAkJCAeJCYgGCQmICQkJCAgJCYgIiQkICAkJiAiJCYgHCYmICQkJCAiJiYgHiYoICAmJiAgJiggGiYoICImJiAmJiYgICYoIBooKCAmJiYgIiYoIB4mKiAYKCogJCYoICYoJiAkKCggKCgoICIoKCAeKCggJCgoICgoKCAiKCogJCgqICgoKCAkKCogJCgsICYqKiAmKiogJCosICgqKiAmKiwgKioqICQqLCAmKiwgJCosICYsLCAsLCwgIiwuICgsLiAeLDAgJiwuICgsLiAoLC4gIC4wICouLiAmLjAgLi4uICAuMiAuLi4gKi4wICouMCAqMDAgLDAyICQwNCAsMDIgKjA0IC4yMiAqMjQgLjIyIC4yNCAuNDQgLjQ2IDA2NiAwNjYgNDg6IDQ6PCA2PD4gO3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7c3Nzc3NzcOylJSnrrayp66bm42nq8PNzc3Nzc3t7e3tzcOrq6uXfjNMXGx7nKqnoZR7bFZFPX6fq6vDze3t7e3NzasEAj1jjq/Q4Obp6e7ngoLMs7OOckwCn83N7e3t7c3GjRNcnczp9/vl5f7/5dL8+97V8eC9nVyBzc3t7e3tzZRMoOP3293+/fbf+/jH5/j4sM6C98TSs3Obtu3t7euXXK3V+v356vqdtLfd0sfA5+Cp9/W/x/n43oub4e3ttmPV8da++fG+cFFkUXatramtqb7O0sDv8+7H04PN7dRcv/j8+dmto5pwJR03WrtuhINKSkNbidvwt9L7vXvNrqDMrcjlwIs6T26aMrAbMRsbIh4sP4/PWJXg8PXwr8ZMwvfWwMSgIBo4RE6RWh4MEDgtNXlOJoaiYozw1bDMcqHv7+/daGBnFQtOTixrSgoRERQcHBQuQFlrRqbO4+aOs6PI4q2LUYMoGQtfPxRhMQgPGRwUDw8wFhZGtNXVua/QubnWi3ZziXkWCw1fIgdUGQUIERARHh4eHh5os7e0yt7n5s6tg3Z2fDEWGSYeByI0JAULDRQkMG+GS0jV5ubT2Oe/qa20dmcxdBYQNDQKCisqW6KYFhAWLlldhre0tNvTwLS/oLCJYUFAPgcHFxchZnQhNXyKNWIeXXltxNvTwrjY49KdmrdaKBQ7FAcHLXileIgqMFBvfEAvYYyqsLS4m8rMsJOTqYM1GDZTkkS15OyleIhOQFBmhk2ToM6mqpxWnImav46LkxwpQilimMXy5Oiej2ZZamp8N5O/18qzerx6sczjqYNhKRdCOztlf8XBu6xYKVRmZkFpprGmuomr3KeFs6iAi1s5JiZSUGpLV6yWWCQ1QFlmRpPCyrOJqtztxpSJlYu9uDQpKSNJWS0kP1AoGEhiYoZaqJOqiVbG7evtroF9kLFxjGshIyMhNU5fXzUqJ215oYJ3kHuNpO3r7e3NrnJcfYmCc6ouR0dgkLOJPkB8oWSCgnd1crzN7e3t7c3NpwIGWmiFgm2MkWCosWCZkGl9fV5VEwKrzc3t7e3tzc2rAAAECQ5aXHeCg5CCgndjTQMDAgQBAKvNze3t7e3Nzaurq6url41+en1+fYV9h4eXpKurq6urq83N7e3t7c3Nzc3Nzc3Nw8bGw8bNzc3Nzc3Nzc3Nzc3Nzc3t7e3r7e3t7e3t7e3hy9rc4e3t7e3t7e3t7e3t7e3t7evt7e3t7e3t7e3t7e3t7e3r7e3t7e3t7e3t7e3t7e3t7e0"
+}

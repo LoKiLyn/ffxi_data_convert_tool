@@ -1,0 +1,30 @@
+{
+    "id": 4519,
+    "strings": {
+        "name": "Wild Steak",
+        "article_type": "A",
+        "singular_name": "wild steak",
+        "plural_name": "wild steaks",
+        "description": "This choice cut of dhalmel meat\nhas been grilled to near perfection.\nSTR+4 INT-2\nAttack+25% (Max. 50)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kXJlY2VwaSAgNDUxOSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgQKIAQGECAICAogCAoKIAYGECAGCBAgCAgQIAgIECAGCBAgBAgSIAgIECAICBAgCAoOIAgIEiAIChIgCAoSIAgKEiAKDAwgCAgUIAYIFCAKChIgCgoSIAgKFiAEChQgDAwQIAgKFCAKChYgCgwQIAoKFCAMDBIgDAwUIA4ODiAKDBQgCAoWIAgMFCAKDBYgDA4QIAwMFCAIChogCAwWIAYKGiAKDBYgCgwYIAoOFiAODhQgDA4WIAwMGiAKDBwgCg4YIBAQECAIDBogCA4aIAgMHiAODhggDA4YIAwOGCAQEBQgCg4aIBAOGiAKDhogEBAWIAwQGCAMDhogCg4cIAwOHCAMDB4gCg4eIAwQGiAKEBogDg4cIAwQGiAMEBogDhIYIAwOHiAMEBwgDBAeIA4QHiAKDiIgEA4eIBISGCAMEB4gChAgIAoQHiAMEhwgDhAgIA4QHiAMDiYgEhAeIA4QHiAKECIgDBAgIA4UGiASFBggDhIcIA4SHCAOEh4gDhQaIAwSHiAQECAgDhAiIAoUHCAKEiAgChAkIBISHiAMECIgEhAgIA4SHiAOFBwgFhIgIBAQIiAOECQgEBQcIBASHiAMEiIgEhQeIA4SIiAOFB4gFBYaIBAUICAMFCAgEhIiIBASJCASFCAgDhQiIA4UICAQFCIgFhQeIAwUJCASFhwgDhAqIA4UJCASFiAgDhQiIBIUIiAQFh4gFhYcIBoSIiASFCIgFBImIA4UJCAMFCYgEhQkIAoWIiAUGB4gEBQmIBAWIiAOFiQgEBQmIBASKCASFCQgGBgeIA4aHiASFiIgFhYkIBwaGiAQFiYgEBQoIAwUKCAOGCIgFhQmIBQYHiASFiYgFBYiIBAYJCASGCIgEhYoIBAWJCASFiYgEBQqIBAWJiAWFCggFhoeIBgYJCAQGCQgEhYmIBoaHiAUGCQgFBgmIBAWKCAOHCIgEBgmIBwcHCASGCYgGhQqIBAWLCAUGCggEBgoIBIWKiAaHB4gFBokIBgaIiAaHB4gGhgmIBYYJiAWGCggHBweIBIaJiASGiggFBYsIBocICAWGiYgFBgqIBAYKiAeGiIgEhgsIBocIiAcHCAgEhooIB4eHiAWGiogEBoqIBQcJiAYGCwgFBosIBQYLiAeHh4gHB4gIBoeIiAaGiogEhwsIBQcKiAYHCYgFhouICAeICAYHCogJBooIBYcKiAUHCwgFhouIBweJCASHC4gGhwqIBYaMCAWHCwgFBoyIBweKCAgIiIgGh4uICIiIiAYICwgFCAsIBogLiAiJCQgJCImIBoeMCAWIDAgJCQkICAiKiAcIDIgJiQmIBwiMCAkJiggKCgoICgqKiAuLi4gP//////////////////////////////////////////////9z0mHR8tLf///////////////////////////////103GiR5P1YuFiaw/f39/f39/f39/f39/f39/f3////MOFJgR2AKGiQdFh9d7+/v7+/v7+/v7+/v7+/8/f///0STq2RZZFuDgxMuFhMPAAAAAAAAAAAAAAAA7/39////OF/VnVspOlHkjhQ3RxYOAAAAAAAAAAAAAADv/f3///pFa36my+lmYKTQQiMXNxYQCAAAAAAAAAAAAO/9/f//l2uzWaD5+6grYKnXTgIaIxYdHwcAAAAAAAAA7/39//+Ba76vbrHy8O6aqsbXkUByhSEWFgwAAAAAAADv/f3//3Via6+VmPbf5IV5U3ycUVRCZlYJCS0LAAAAAO/9/f//SHVYseeCyseDloOdZ56zWoJSQDEdFgUAAAAA7/39//9fkpK05J2H6NbryuS8b5FIvNMnCkAxCQkPAADv/f3//3DH42+3t9S+fdy7ysN+ekqU9cIwNFNUFgkTBu/9/f//YbLolKelo1trnI2DYn6GNUGi6qZKaYySKhEWUP39//+BRXHU8cbKx9aEueeFVIWUN4CKcZlXZ7trPBEJUP3///6QX3ve1OHwzXev9d8rYtOddcPl6q9vJzRFbBoRdv///5CtO4Szs964uoeo0kxDnnyji9LlrqJKGkunkiEV5v///HNBod3GyY5vZVyyTy97hn5Lc8K3koYnNGJiVD4V////9Ei/yd2PkntkTIRxUVFAgHg6PJZVY2AbNAoxKBrP///9l3NeebuL2+ingaqVcmaMxpY/lqj4hjYiMCw8Il3///39f0VJt6vj7MKnqmlygC6SxnExysJ7aEuTIg0BFP///f3vTURWpMnJinh8TEFgSTqckkdWxZl7hUwbHVAh///9/e9qieJ+pIGjhYOGhFZMLDRMUT5USDhWTEpJvZv///397wAAMjm1Eh7Bs3xFY3JVImtgR0dHS3eeZKHE4P///f3vAAAAAAAAAxm/olNgZHo2PndkPEdxWWdol9nE///9/e8AAAAAAAAAAATOmWBBVUYqRzcqITFMNSaIz/3///397wAAAAAAAAAAACAlsF5LP0ckN1I3LjM6XcTz/////f3vAAAAAAAAAAAAAAMSz8heVDEaNC8rFD3P0fP////9/e/v7+/v7+/v7+/v7++20b2s5kkoOhShyMTv//////39/f39/f39/f39/f39/f3g2LbZ2trO2ubA4P3//////////////////////////////ffRxM+2wP3///////////////////////////////////////////////8"
+}

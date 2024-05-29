@@ -1,0 +1,30 @@
+{
+    "id": 4534,
+    "strings": {
+        "name": "Medicinal Gruel",
+        "article_type": "A",
+        "singular_name": "bowl of medicinal gruel",
+        "plural_name": "bowls of medicinal gruel",
+        "description": "A hearty gruel with\nmedicinal properties.\nVIT-1 AGI+2\nRanged Accuracy+15% (Max. 15)\nHP recovered while healing +4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDUzNCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAIDA4gCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCA4QIAgOEiAKDhIgDA4SIAgOEiAIDhIgDBASIAwQEiAKEBIgCg4UIAoQFCAKEBQgDhAUIAwSFiAMEhYgDhIUIA4YDCAQEhYgDhIYIAwUFiAQFBYgDhQYIA4UGCAQFBggDhQaIBAUGCASFBggDhQaIBAYEiAOFhggDhoQIBAWGiAKFhogEhoSIA4WGiAUFhggEBYaIBAWGiAQFhogEhYaIBIWGiAQGhIgDhwSIA4WHCASFhogEBYcIBQWGiAQGBogFhgaIBIYHCAQGBwgFhgaIBIYHCAQGB4gFBgcIBYYGiASGBwgFBgcIBgaGiASGB4gFB4UIBYaHCAUGhwgECASIBYcFiASGh4gFBoeIBYaHCAUGh4gFBwYIBgaHCAWGh4gFBoeIBQaHiAUGiAgGhocIBQaHiAYHhggGBoeIBgcHiAWIBggFhwgIA4iFiAYHBwgGB4YIBgcHiAUHCAgFhwgIBggGiAWHCAgGhweIBYcICAWIBggFBwiIBYgGiAaHhwgGiAaIBYcIiAWHiAgFiIYIBweICAaIBwgGCIaIBgeIiAWHiIgFiIaIBgeICAYHiIgGiAcIBgkGCAeHiAgGh4iIBgeIiAaICAgHCIaIBgiHCAcIB4gICAgIBwgIiAYICIgHiIeIBggJCAaJBwgHiAiIBwiICAeIh4gGiAkIBokHCAeJBwgICAgIBogJCAcJB4gHiIgIBwgJCAYICYgGiAkIB4kHiAeJB4gHCIkIBwmHiAgJCAgIiIiIBwmHCAeJB4gHiQiIBwiJiAgJCAgGiIoICAkICAeJh4gICImIBwmHiAcIiYgIiIkICAmICAgJiAgHiQkIBwoHiAgKB4gHiQoICImICAiJiIgJCQkICAmICAeJCYgIiYgICImIiAkJiIgJCggICAoICAiKCIgHiQqICQmJCAkKCIgIiogICYmJiAiKCIgJCgkICAmKiAmKCQgJiYmICQqIiAmKiIgJCgkICQqIiAmKCQgKCgoICQqJCAiLCIgJiokICQqJCAgKCwgKCgmICQqJiAkKiQgJCokICYqJCAmKiYgKCgoICgqJiAkLCYgJiomICgsJCAmLCYgKCwmICgqKCAoKiggKCwmICgsJiAmLCYgKCwoICgsKCAoLCggKCwoICosLCAqLiggKiwqICouKiAsLiggKi4qICwuKiAuLi4gLDAqICwwKiAuLi4gLDAsIC4wLCAsMCwgLjIsIC4yLiAuMi4gMDIuIDAyLiAwMjAgMjQwIDI0MiAyNjIgNDYyIDQ2NCA2ODQgODg2IDg6OCA6OjggO3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7cfHx8fHx8fHx8fHiEA9PT0wQESax8fHx8fHx8ft7e3tx7yampqamoJTHBMTFBQUFBQZExMcQJqampq8x+3t7e3Hx5oABwQLCgwODxAQEA0DAwkJEA0JAwYAmsfH7e3t7cfHpgcIDA0SESVCPkFWZFFFMSATDgIDCQWOx8ft7e3tx8d7CxUSOk6LlKyUk6CgoHhLT0MyKB8NCRy8x+3t7e3Tjh4VOkV9uLiXl5SEYHJyM1ZvfWg5NDMDFEC87e3t7a8nJEV9zJdygZ29z7vFz7vQzpVyYk9eMTMZE5rt7e3tUyRReJdvicjy8uvYdtDVyfDms6TLgUZkRjsbHurt6tMsQ3RvYqjw8/Lu3ruHqpiq9Ovrsr3ilXJUYj0Ypu3qUEtuZFDd7Pj08ba2m9zh3vf/9+7RstHryGBbWCxK02cxVnhGveL0+f7VX6TP6e/v9/v26bWNc+DYp2dUQyGmIUZ1XpXd5vH08+R2cMLs8vP29Pbv0cOMmLDiiWJGRDAhUW4ys7bk7u7x8ul6TN76/fn67/K9q8Jwh/zEW3hbFDFkZCzW0N7m4Pz93Tc3xOvf6dW96N+w39XE2NRbXls9T3hRKtbp4eKA3e/hmGnh4ufssKuy3+jm+oCQ1GBBVUNbVj48uuX46MSQ3ea90eXi3dHl2bXc1vWcnNHdfjJWMTRLRTyfzujl5c7W5cTE5dmQoop/XcTK2YDR5dqJOVUoQ0VFOInW29v2+OjfzrfKln/KjeW6ocDE0sSnnaVIPhlcOXUtSK7f99ba1trU0rpJjcC3t6hdt8TSa3OepWQ+WIg5WUIgZqeVs8bGrsbEn1o3aeWVWmu6s++zqZ6EVyLB40E1VSYoZkmzua55s8aNSVpllYqhzcCuvomTuG5CQO3twTVLOSQ1XmxhWm1hYTYrWoWZmVqhqHl1day4SCTT7erqfDUqXiomaG9NTS4dba2KKYWteVKEdXiLv2MoWO3t7e28VCYxQTEbLyaGlIuPno9xhIl+hm9Zj7FIKEe87e3t7cGvQx81MTMiFyJOVVljSE5kPy8yfKN3PzpUx8ft7e3tx8eCGiMbJiU1Kjk0S09OUVFifZJvQioRAZrHx+3t7e3Hx46aiGcwJiIsNTlBRktLQVZPPjEnWI6amsfH7e3t7cfBx8fHx6+mg3FDPkFGSkpcXIiIr7zHx8fHwcft7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e0"
+}

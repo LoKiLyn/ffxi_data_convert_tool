@@ -1,0 +1,29 @@
+{
+    "id": 5648,
+    "strings": {
+        "name": "Grilled Lik",
+        "article_type": "A",
+        "singular_name": "grilled lik",
+        "plural_name": "grilled lik",
+        "description": "This lik on a stick is guaranteed\nto make you lick your lips.\nDEX+4 MND-3\nAccuracy+2 Attack+8"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY0OCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYIIAQGDCAICAggBggIIAYGCiAICAggCAgIIAYGCiAEBg4gCAgIIAgICCAICAggBggKIAIGECAKCAggCAgIIAgICCAICAogBggOIAoKCiAICAogBggQIAoKCCAKCgogCgoKIAgKDCAKCgwgCAoOIAoKDCAKCgwgCgoMIAoKDiAGChAgDAwMIAgKECAICBQgDAwMIAoMDCAMDAwgDAwMIAoMDiAKDA4gCAwQIAwMDiAIDBIgCAwSIA4ODiAMDhAgCgwSIAoMEiAMDg4gCgwSIAoMEiAKDhIgDg4OIAgMFiAODhAgDA4SIAoOFCAKDhQgDA4SIAgOFiAKDhQgDBASIAoOFiAOEBIgCg4UIBAQECAQEBIgDhASIAoOFiAOEBQgChAYIAwQFiAMEhQgEBIUIBISEiAIEhggDBAWIAwQGCAKEBogCBAaIAgOHCAQEhQgEhIUIAoSGCAMEhogDBIYIAoSGiAMEhogDhQYIBIUFiAUFBQgDBIeIBAUFiAQFBogDhQaIAwSHCASFBggDhQaIA4UGiAOFBwgDhQcIA4UHiAUFhggEBYaIA4UHiAQFhwgEhYaIBYWGCAOFh4gEBYeIBAWHiAUGBogDhYgIBAWHiASGBwgEBYgIBAWICAMFiQgFhgaIBAWICAQFiIgEhggIA4WJCAWGhwgEhggIBAYIiAMFiYgEhggIBIYIiAWGhwgGhocIBIaIiASGCIgDhgmIBocHCAUGiIgFhweIA4cIiAUGiIgDhomIBQaIiAcHBwgFBoiIBQaJCASGiYgFhwiIBQcJCAWHCQgHh4eIBIcJiAQHCogDBwsIBYeJCAUHCggEhwoIBweIiAWHiQgFh4oIBggJCAYHiYgFB4mICAgICAWHiYgFiAmIBYgKCAeICIgFiAoICIiIiAiIiIgFiIoIBgiKCAWIiogIiIiIBoiKCAaIiogFiIsICQkJCASIi4gGCQqIBwkKiAkJCQgGCQsIBokKiAkJiYgHiYqIBomLCAYJC4gJiYmIBYkMCAeJiogKCgoIBwmLCAUJjQgHiYsIBomLiAmKCggGCgwIBwoLiAgKC4gHCguICoqKiAgKjAgHiowIBoqMiAcKjIgICwwICwsLCAiLDAgICwyICwsLCAgLDIgHCw0ICQsMCAkLDIgIC40IC4uLiAkLjIgHC42ICIuNCAmLjIgJDA0IBwuOCAoMDIgJDA0ICIwNCAmMDQgJDA0ICIwNiAgMDggJjI2ICIyOCAoMjYgHDI4ICgyOCAmNDggLjQ2ICI0PCAqNjggJjY6ICg2OiAsNjggJDY8ICg2OiAqNjogLDg6IC44OiAsODogLDg8IC46PCAoOjwgLDo8IC46PCAAAAAANra2tra2tra2tra2trGY8va2tra2tra2tra2tra2tra2tra2tra2trU0dra2rphXNra2tra2tra2tra2tra2tra2sHBwcHBvp5jt8HBwWNKt8HBwcHBwcHBwcHBwcHa2trawbqrq6uqcmxuqqurkFZcqqurq6urq6urq6u+wdra2tq3bUwAAAAQZTQQAAALMUMYAAAAAAAAAAAAq8HB2tra2sFjWB8AAAAzVh0AAAAdVkYAAAAAAAAAAACrwcHa2travqpQMQAAABFkPAsAABE6Ty8zLDEyAAAAAKvBwdra2trBwUxhGgAAAClaJRAoJ0g+LUpgdC0IAAAAq8HB2tra2sHBkFQyAAAABzQgDCphcVd6dFotQRwAAACrwcHa2trawcGrGVgRACUXKz96oH9QUGRwioJ3NRsAAKvBwdra2trBwaslSjAGCjZxg41nUHSWloKCf3iZLgAAq8HB2tra2sHBqyUNDj9noJJ0WnyRlIp3d6WyuNZYJgCrwcHa2trawbNdFTt2nJKGdHyRm4p7nL2s4MLCpaNPAKvBwdra2tqzRDZnoJZsbH+blnqHtc7Z9cK5pbGt4q4pr8HB2tra2l07k4dnZHeKn5Sizebt8szMtrHE+/OWSzerwcHa2trBI15XQVqRiq2s0+X19vbe18ni4uzNaiIPG5fBwdra1NpdI0F6f3+nx+f19vDYyczo9vm8WysZHjZgTMHB2tra2q8gV2+Tv9zv9N3N2Oro/f2sbUB8Fj5RYo0rwcHa2trawTZTfcPW1tDN0Njl/fG1ZD0cNVBsdnpmSTtpvtra2trBXVKatdC5udDt99eWQ3w/R1p2a2hrb3eGgzW32tra2sGzTFmyssLQ7cWPXyArP1d2YmhoYqKif3OBjn7a2trawcGXMYHKuaaPNh41SHp3b2JmcaKbdn2ZtOvEXNra2trBwasaZWqEORIFPm+Ga1FijaKik5i05/z31/dgxtra2sHBqwAAAAAUFmZvb3FxjZWlssfW9vrq7uHX5MKL2trawcGrAAAAAxNmcWZXfIqxz9zp+/n519Pd3cCLqNra2trBwasAGgQTQUlBgKfT4/H++PPw5dXf3c2WcrPB2tra2sHBqxQBEyE+Zpi/4Pr75NvQ1dPf3buhWzaXwcHa2trawcFEAQUWOKOpysrKyNDQ09+7orB1QkUABqTBwdra2trBkBUFHE6MwqOlrLm8vMKhflRIKomrq6urq8HB2tra2sbBXQU2iYVuaXlyeWBHVYmkwZdEwcHBwcHBwcHa2trU2travsva2tra2trLtyBN2tra2tra2tra2tra2tTa2tra2tTa2tra2tra2trahVXa2tra2tra2tra2tra2to"
+}

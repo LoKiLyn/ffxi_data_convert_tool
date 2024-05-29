@@ -1,0 +1,30 @@
+{
+    "id": 5671,
+    "strings": {
+        "name": "Loach Soup",
+        "article_type": "A",
+        "singular_name": "bowl of loach soup",
+        "plural_name": "bowls of loach soup",
+        "description": "This precise blend of select\ningredients creates a culinary\nharmony that can only be appreciated\nwhen enjoyed with friends.\nDEX+4 AGI+4\nAccuracy+7% (Max. 45)\nRanged Accuracy+7% (Max. 50)\nEvasion+5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY3MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgYOIAIGEiAECBQgBggQIAoKDCAMDAwgDAwMIAwMDCAKCg4gCgwOIAYKFCAGChIgCgwOIAgMFCAGChYgBAoYIAoMEiAGEAwgBgwUIAoOEiAGDBggCg4UIBAODiAKDBYgCAwYIAwOFCAODhIgChIOIAoOFiASEBAgDhASIAoOGCAEDhwgFBIOIAgQFCAIDhogDBAUIAgUEiAKEBggDBAWIBISEiAKDhogBA4eIAoQGCAWEhAgCBIUIBAQGCAMEBggDhAaIBASFiAMFBQgDBIaIAoQHCAMEhogCBAeIAwWECAEGg4gGhYOIAoUGCAOEhogDBIcIBwWDCAQFBggChIcIBoWECAGECIgDhYUIA4UGCAOEh4gIBgMIAwUHCAcFhIgHhgQIBIWGCAQFBwgDBQeIAoSICAMGBYgIhoMIA4WHCAcGBIgChQgIA4UHiAMFh4gCBQiIBAaFCAQFhogIBoQIB4YEiAOFiAgGhgUICIaECASFhwgEBYeIAwWICAkHAwgEhYeIA4WICAiGhAgChYiIBQWHCAmHAwgDhocIBAWICAMGCIgCBYkICQcECASHBYgDhgeICgeDCAOGCIgDhgiIAwWJCAKIBQgFhocIBIaICAIHB4gCBgmIAwYJCASHBwgEBgkIA4aIiAUGiAgKiAOIBQaHiAYHB4gFBoiIBIaJCAMGiYgEBokIA4eHCAOGiYgCiAgIBQcIiAUGiQgGBwiIBAcJiAMGiogDhwoIBAaKCAYIBwgFBwkIAomFiAUHCYgEBwoIAwcKiASHCggDh4oIBYcJiAKHiYgECAiIAoeKiAYHiIgFh4kIBAeKCAWHiYgEh4qIA4eKiAMICggGB4oIBQkHiAUHiggFB4sIBQgKiAOICwgCiAsIBYgKCASICogDCQmIBIgLCAcICggECAsIAwiLCAWICogCiAwIBokIiAYICwgGCIqIBQkJiAWIiwgHCIqIAwiMCAYIiogGiggIBAsHiAaJiQgFiQuIBAiMCAYJiggEigmIBgiMCAQJDAgGiQuIB4kLCAiKCIgEiwiIBokLiAQJjAgGCQwICAmLCAcJjAgFiQ0IBAoMiAWLiIgHCYwIBomMiAUKDAgGCY0IAwoNiAUKDQgHigwICIoLiAYJjQgECg2ICIqKiAYKDIgHigyIBwqMiAkKjAgFCo0ICAqMiAcKDYgGCg4IBwqNiAeKjQgIio2ICAsMiAOLDggHCw2ICQsNCAeLDQgIiw2ICouMiAkLjYgICw4IBAwOiAqLjIgJDA2ICIwOCAsMDQgKDQwICQyOCAqMjYgJjI4IC4yNiAoNDogKjQ6IC40OCAsNjggLjg4IDI4OiA0OjwgNjo8ID4+PiAAAAAAHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fGtra2tra2tra25rY1xYWFxja25ra2tra2tra2t8fHx8a2tZWVlZXFlBLR4bJTQ0JRseLUFcWVlZWVlra3x8fG5uY1kAAAYFFDY2R1pTUzY0R0dHNAkIAAAAWWNrfHx8fGtjUQgFFjBagm9Mb28wMDQ2PT1HUz0KBwBZY258fHx8a1gpPT1vnWIwPUcnHR0gHScgND09b2goCFlja3x8fHxcHj3wgDAwNCw0NkdHTEw1LCcgJz09U28oQWNrfHx8YBcd+fv604d5kK6/zdnBxc7Hu6JTJydHTFopa2t8fG4eNvn5+dqCsd2xZUBvjCoMDnm/4vPNlSc9R1o6a258Pof39PTayOnIaEUqCyFkiiQCECshTdnz6oA9TDxcfHxG2vbartvOkE1CK0IhN4G7knGjgl4YAST0/JVMTEl8fHxJ7rTU64BMX3GBdpKv1uTc8tzkb6vU6Y76/aBMLXx8fGa7q/NiDCBNcZKqpsbLqGTL7OzjkId/WjX+83Aybnx8ZqPbtR0VQF9fgYSbeouUeDubx5DcxmlTR5P+t1NmfG5mkeYdHVJphJOecYkuVG1DjbC7lp/q07egQP7pcGZufGa/yWEOQHdfTFNxVW0zJhywl9zv9vCgS14T6/WJZnxuZt3NdBM1X3Cq2KxpIxImTjh13Na806tTEQTT+Ltmbnxm5rWgGDWJk4TAy5QSoaGDbFa90aagaDEEC+Pq2mZ8fGbTwacwLDV6m7vcwLpOg8y4w9fSd4g0IAt09+DnZnx8bpnmoGUsX3B6m6WsnoU5cr7P1rauPRggNdn41eNgbnx8W93BwmU9NFSLrKWbxLmPqZitrYtMSzGx9NjvxS18fHxcfuagoDwYFSRMcJGz8WyXUiRAKjEvlevh5/LtV098bmtYmdN0lTYgGQ8OJCQxGQ8LAw4wU8Xo1d/28v6QInx8a2tBms1hYX9XJRMEGBgTDB1Lf67o3srg9+76/PoifHxrY0gHXcW3YURigI59joeVzdnN0NDh9+7u+Pj3V2B8fG5jWQAGH1CkwYxiYl6Ak6KjzuHhsnuG9Pf35y1gfHx8a2NZAAAABghKc5yktMHBtK6cUD8IBgcNwqc6Y3x8fHxrY1lZWVlZWVlRSEhISEhISEhRWVlZWVlBQWtrbnx8fGtrY2tra2tra2tra2tra2tra2tra2tra2trY258fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8bnx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw"
+}

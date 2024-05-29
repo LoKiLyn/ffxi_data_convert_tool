@@ -1,0 +1,30 @@
+{
+    "id": 5545,
+    "strings": {
+        "name": "Prm. Crab Stewpot",
+        "article_type": "A",
+        "singular_name": "prime crab stewpot",
+        "plural_name": "prime crab stewpots",
+        "description": "The cooking of this crab stewpot was\nstrictly supervised to ensure that\nthe ingredients were added in the\nproper manner.\nHP+10% (Max. 75) MP+15\nVIT+1 AGI+1 MND+2\nEvasion+6 DEF+20% (Max. 75)\nHP recovered while healing +7\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU0NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAYSIAoKCiAKCgogBAwKIAQGGCAGCBQgCgwOIAQODCAECBogDAwOIAwMECAKDBIgDA4QIAgKGCAGCB4gBAocIAwOECAMDhQgBBQMIAwOEiAIChwgDhASIAwOFCAGCiAgBAgmIA4QFCAMDhQgChAWIAoSEiAOEBQgDBAWIA4QFCAIDCAgDhAYIBASFiAKFBQgDA4eIAYWECAQEhYgEBIWIAgMJiAOEhggChIaIAgYEiAOEhggAggwIAoQICASFBYgEBQaIAoWFiAKDiYgEhQYIAoYFiAQFBogDBIgIBQWFiASFhogChoUIBAUHCAMECggBg4uIAYMMiASFhwgBgw0IAwWICAQFCQgCBQkIAwaGCASFhwgEhYcIBQWHCAOEiggEhgeIBIUJCAMEiwgBgw4IBgYGiAOGB4gDBwYIBQYHiAMFiYgEBgkIBIUKCASGCAgDBYqIBoaHCAOFCwgCiAYIBYaICAQGCQgDh4aIBYaICAMFDIgDhYwIBwcHiAWHCAgEhooIBAYLCAaHCAgFhwiIBIeICAQIBwgEB4iIBweHiASGiwgChQ4IBAiHCAOICIgHh4eIBIcKCAaHiIgFB4iIBAcLCAOFjQgHB4gIAwWOiAQJBwgDCQeIBIcKiAQGjAgICAgIBAiICAaICQgGB4mICAgICASGDQgDhg2IBAiIiAaICYgFCIkIBgeKiASHi4gDBg8IBggJiASGjIgECYgICIiIiAQHDAgEBo2IBwiJCAaICYgGCAoIBQgLCAQJCQgIiIiIBgkJCAUIC4gEho6IBImIiAcIiggGiAqIBogLiAQHjQgJCQkIBgiLCAWIDAgEhw8ICQkJCAYJiYgHCQqIBgkKiAOHjggFCA2IBQeOCAUKiIgJiYmIBYiMCAaJCwgFh46IBAePCAmJiYgHCQuIBQiNiAWKiYgKCgoIBwmLiAUIDwgFiwoIBwoLiAoKCggGCY0IB4oLiAUIj4gGCwoICAoLiAeKDAgHiY0IBgkOiAgKjAgKioqICAqMCAgLC4gGCg6IBwmPCAaMCogICoyICwsLCAeKDwgJCg2IB4oOCAiLDIgLi4uIB4sOCAuLi4gHjIuICQuNCAeKj4gIiw6ICQuNCAaLD4gJjA0ICQuOiAiLD4gHjQwICYwNiAkLjwgKDA6ICgyNiAgNDggJDA8ICowPCAoMjggLDI6ICQ0OiAmNjYgKjQ4ICAyPiAqMjwgLDQ6ICg0PCAsNjogMDQ8ICw2OiAuNjwgLjg8ICo4PCAsODogLjg8ICg4PiAuOD4gNjg6IDA4PCAuODwgMDg8IDQ6PCAwOj4gNjo8IDA6PiAyOj4gODw8IDQ8PiAyPD4gNjw+IDg8PiAAAAAAMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzK+vr6+vr6+vr6umnp6amp6epqavr6+vr6+vr6/MzMzMr6+RkZGRkXlWODAoMTY2MSgwMFZ5iZGRkZGvr8zMzMyvr5EAAAMKJztHRj87OzY/P0Y5MRQNBwIAka+vzMzMzK+vbQMLIDY2OzEtNjEtMTY2NjtGSUYgEQORr6/MzMzMr20eGho2Nj8qLSofGxcXGx8fNjs7Rlk5Fm2vr8zMzMxtHhr9szstMSoXGxsXFxsXGxsfHzY7SVk5OJGvzMzMnh4a+P35xFlJoOLp8vv+/vPn16AXHzZGVFA5TavMzLQ4Nvbe6+vu8/TaqHBwRCyCoTJw0dfioDY7WVk0mszMtG/059re5+vRHE5lgLg6JtbDn3okVFLE4r9JUFBWysy02uvp6/PamytSHHDWzYCSzYiulWw3JUhp18lUSTS+zMx9ucnu2gxBj6c3HJB2sluVayoGDhVLi1dp2s5UOa/MzG1k89qbblp3tdgrL1F21lsYBQEQPmp/fmJX2s45aMrFR9Hp0RuTG2Gny6eKURAQQwkYGUCFvNDISyW610lHxb6B9Nc3jxynnKe7YXgFCV5/h16FXa3L0HQzDiXO2mS+vpb24hd3Wm4rhCtuIT2dwtS8XS+K2NnCFQYOU9PnZL6+lvbuqNz07rVuk0JxvOry1KNimdzcz10pPDw84vNkvr6N9umb4/j4761XVcHn9dRdvMHj8OqjpD4uPnLn9G6+xYzr11S74PD58KqiasvSnUyq7/bd3/Pmf0x0mN7ugb7KkenOuivT29vt+5/BsZRIvPbxx9/3+tCFnWHR0e57xcyrut69qLPA4bJbZjVKu5fH2WGp9/fdhXRSsMnrxGPKzMVz4Mm2giaST2t6kEqDqKA/cujo1bepg6zOzvSBR77MzJFv5dGwggg1T8OQuDq4pXVni8bk+s66xNrr4vh8mszMr32B6d6/uqgsNSylE65YuIg6jrnEv9Hl7uL5/PmJzMy0r2hgfOvi07rEWyREMggECB2szr/X6+Xp9vbrlrTMzK+vkQMKhpfr6dqws7q/xL22s9rn88SG6evr14yvzMzMr6+RAAADCmCGjuLu+P39+fbphnxcESNF6dd9mszMzMyvr5GRkZGRfXlfY3uBjW9vgYFWbX2RkYlfbauvzMzMzK+rr6+vr6+vr6+rpp6enp6epq+vr6+vr6+vr6/MzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMw"
+}

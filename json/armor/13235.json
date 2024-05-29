@@ -1,0 +1,22 @@
+{
+    "ID": 13235,
+    "name": "Prism Obi",
+    "item_type": "Armor",
+    "description": "DEF:6 \nSpell interruption rate down 8%",
+    "flags": "Inscribable, CanEquip",
+    "stack_size": 1,
+    "equipment": {
+        "level": 63,
+        "ilevel": 0,
+        "jobs": "MNK, WHM, BLM, RDM, PLD, BRD, RNG, SMN, BLU, PUP, SCH, GEO, RUN",
+        "races": "All",
+        "slots": "Waist",
+        "superior_level": 0,
+        "shield_size": 0,
+        "max_charges": 0,
+        "casting_time": 0,
+        "use_delay": 0,
+        "reuse_delay": 0
+    },
+    "icon_bytes": "kWFybW9yICAgMTMyMzUgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgwOIAgMECAOEA4gDBAUIAoSFCAUEBIgDhISIBAUEiAWEhQgFhIUIBAUFiAYEhYgEhQYIBgWFiAQGBYgFhgSIBIWGiAYFBogFhgWIBQYFiAWGBQgGBYaIBoWGiAcFhggGhgYIBIYHCAcFhwgEBgaIBoYGiAeGBggHBgaIBgaGCAOGhwgGBwUIBYYHCAcFh4gGhoYIB4YHiAcGBogFBoaIBwaGiAUGh4gHBoaIBAaHiAYHBogHhggIB4cGCAaHhggGBwcIBocGiAgGh4gFhweIBQaIiAeHBwgHBwcIBIcICAcIBYgHBwcIB4aICAeHhogHBwcIB4cHiAgGh4gIBoiIB4cHCAaHhwgIhogIBoeHiASHCIgHh4eIBYeHiAeIBogHh4cICAcHiAYHCAgJBwgICAeHiAkHh4gHiAaIBwgHCAkGiIgEh4iICAeHiAeHh4gIh4gICAeICAYHiIgHh4gICYeHiAYHiQgICAeIB4iHCAmHiIgHiAeICQeICAgICAgICIcICYeJCAWICIgIiAeICggHiAgICAgICAgIBwiICAkICIgHiQcICIiHiAaICYgKCAiICAiIiAWIiYgIiIiICoiICAkJB4gHiIkICogJCAmIiIgHCQiIBoiJiAoJCAgIiIiIBokJiAqIiIgJCQgIComHCAkJCQgGiQmICImHiAoJCIgICYgIBgkJiAcKCAgKiImICImIiAYJCogICQmICwkJCAiJiIgJiYiIB4mIiAqJiAgHCQoICgoHiAeJiYgJCQmICYmIiAgKCIgLCQmICQoIiAkJiQgHigmIB4mKiAeKiIgGCYqICooICAqKCIgLCQoIC4mJCAgKCQgJCokICAoJiAmKiAgHigqICooJCAuJiggKCgmICYqJCAeKCwgKCwiICAsJCAkKiggICoqICIqJiAmKCogICooICYqJiAuKiQgKiwiICYuICAmLCQgIiwmICQsJCAqKiggHiosICAuJCAqKiogICosICoqKiAqLiQgKCwmICQsKCAcKi4gJi4iICQuJiAoLCYgKiwoICIsKiAiLCwgKiwmIC4uJCAeLC4gJDAkICguJiAmLiggJC4qICouJCAkLiggLCwqICguKiAiLCwgHiwwICQuKiAkMCYgKjAmICosLCAgLi4gJCwwICYuKiAsLCwgJC4sICQuLiAqLiogIC4wICgwKCAmMCwgJi4uICIuMCAmMiggKjAsICAuMiAkLjAgKjIoICgwLCAqMCwgLi4uICYwLiAiLjIgKDIqICQwMiAmMiogKjIuICgwMCAmMDIgMDAwICwyLCAqMi4gKjIyICg0LiAwMDAgMDAwIDAwMCAyMjIgKjIwICgyNCAsNDIgPv7+/v7+/v7+/TrDyE4eq7X+/v8+/v7+/v7+/v7+/v7+/z7+/v7+/v7+1QcRSwhIRw4R5GR+/v7/Pv7+/v8/Pv7+/r6+vr6+vr6Dd/f5tOaRSwhHBwoMWB5+vr6+vr8+/z7+vr5+fn5+fkF0+bT8+3fycmDYygPCAgHFGb6+vv8+/v6+vkAAAAAAQWa7e3+7+PY2OKsdmhoQg8ICAgIVOv7+/r6+QAAAAABHMDt7e/z48nd3a+XdpeXiERCIAMDVPv7+vr5AAABAgJawN/j3/Pj3ezNr4yTl5ejc0IlLRP0/Pv62x0CBEWHRWPY7+/Y4+Ld3dSvk4yToYheUEIlIGf01zoNGjWHh29FjvP37d3S0sXNzLWffIariEJeQjJCfrwLERoqWqjZqCyY9+Pi3dLU1OHMv6eKipZzXlBCICu8kSMaKmyYqOe4Y7j38vLi3Nzx9r/DinJebm5eUDIlZ/tnIxpabI642Xd/xuf35/fh4erl0bCVkl5kaFtJPUk3+5FEKleYmKjZNKO74v/s7Nzh4eHRy6CGcmReUz0lU1T7kUQaS5iYrMZXrMXy9v3c4erM0cSnvnxrZFtJKzYrkfv8cDRzf6y70jSs1Pb9/+rh5bC+vrCca0lBTTYZK0b7+/xwiJeXxuLsaJfN8f/28eXMsL63potkPVNNNhkrRvv8+35YdsXF7MWhn7np9unp5dG+vrecfEE2QUErGScp+/v760Zora/ioZ+Zudrp0eXg0d6+t8SBTU1BNisnJzr7+/v7Vpaftdxov4S56eHg6eDe3sS+xIFNSkpKHx8++vv7+/xWq4Kt4VC+qrn4+O7g6fXQ0MS3gU1NXzYYJz76+/v7/HmWgq3hUMO2ufjw5NXg4NDQpqaBW1VKQxgnPvr7+/v7uj2GoOVcvsLV8O7KwcuivpKLi3VfVUozHxg6+vv7+/T6RqeK5Vy0ws/V1bOiqZKceIGBbV9KPzMkJlb6/Pv7+/o6oGqgapXLz8+0qY+SeIGBdW1pVUo/Li4/YPr8/Pv8+nmGSGpPgOjoy7Sim41xeHt4bV9VQzMuLjv6+vv7+/z6ukE8OU+A1ui9sn2NeHFliYWdaVE/LiYmO/r6+/v7+/r6HUgiSIDWzrKbfWVxe3uJdJSFMyYmGxIW+vr8+/v7+vodPBBIgM7OssixpImJpZ2FhW1RUS4kGx36+vz7+/v6+mZrFTCAvc69vciknp6epZSUYl1iURsuHfr6+/v7/Pr6ulMVMJWVx6lya1NOWU5ZTExDQ0NAGy66+vr8+/v7+/T7VBVQamFhPEg8Lx4eHh4YGCYYEhIScOv7+/v7/Pv8+/xwEzJQT0gvLy8eDhMKDgoGDA4JCReu9Pv7+/s"
+}

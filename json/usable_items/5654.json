@@ -1,0 +1,29 @@
+{
+    "id": 5654,
+    "strings": {
+        "name": "Cherry Muffin +1",
+        "article_type": "A",
+        "singular_name": "cherry muffin +1",
+        "plural_name": "cherry muffins +1",
+        "description": "An exceptionally delicious cherry\nmuffin. All the Yagudo cherries inside\nare equidistant from each other.\nMP+10% (Max. 85) AGI-1 INT+2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY1NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAICgogBggOIAgKCiAICg4gBgwSIAwODiAEDBggDA4SIA4OECAGDhYgCg4UIAgIJCAGDhwgEBIUIAoQGiAIEBogChIWIAgOHiAEEB4gChIaIAgQHCAOEB4gBhAiIAQQJCAKEh4gChIgIBIUGCAIDiogDhQcIAYSJCAIEiIgDg4oIAwUICAMEiQgChQiIA4UICASFhwgCBQmIBYYGCAGEiYgDBYiIA4WIiAKFiIgBhQoIAwWJCAIFiggGhoaIBIYHCAGFCwgEBgiIAoWKCAGFiogGBocIBAYJCAaGhogDhgmIAgWLCAKGCYgChYqIBgaHiASGCIgDhgmIAYWLiAUGiAgHBwcIAgYKiAKFiwgEhokIAwYKCAOGiYgBhguIBwcHCAKGCwgChooIBIaJiAMGCogHBweIBocICAWHCQgBhosIBAcJiAQGiggBhgwIA4aKiASGiggCBwqIB4eHiAQGiogHB4gIAgaMCAOGiwgGB4iIA4YMCAUHCggDBouIB4eHiAQHCogDBowIBgeJCAIHC4gCBoyIBIcKiAOHCwgICAgIBQeKCAcHiIgChwuIBAcLCASHiogICAgIBggJiAOHDAgCBwyIBAeLCAKHi4gFB4sICAgIiAYICggChwyIBYeKiAQHDIgEBo2IB4gJCASHi4gDh4uIBYgKiAWHi4gECAsIBwiJiAaICogDB4yICIiIiAcHi4gFCAsIBIgLiAYICwgDCAwIBQgLiAUHjQgDB40IBoiKiAQIDIgFBw4ICQkJCAWIi4gFCIuIBQgMiAWHjggDiA2IBAiMiAIIDYgJCQkIBwiKiAgJCggHCQqIBoiLiAWIi4gFCIwIA4iMiAKIjQgECA2IBIiMiAmJiYgHCQqIBwkLiAWJDAgFiA4IBQiNiAOIjYgJiYmIBgkMCAkJiogHCQuIB4iMCAYIDggEiI2IBgkMiAoKCggDiY0ICAmLiAUJDQgFCQ4IBImMiAYIjogKCgoIBomMiAUJjYgFiQ4IBomMiASJjggHCgyIBAoNiAgJjIgGiQ6ICIoMCAcKDQgGiY2ICoqKiAUKDYgECY6IBokOiAYKDYgICgyIBYoOCAeKDQgJigyIBwmOiAUKDwgIio0IBoqNiAgKjQgGCg6IB4oOiAeKjYgGCo4ICIqNCAmKjQgGiw4IBYqOiAeKjggHCw2ICQsNCAuLi4gICw2IBgsOiAkLDYgIC44IB4uOCAeLDogJC42ICYuNiAgLjggICw8ICQuOCAiLjogKi42IB4uPCAiMDogIi48ICowNiAmMDogIjA6IC4yNiAqMjggLDI4ICYyOiAuMjggLjQ6ICY0PCAqNDwgMDQ6IDI2OiAuNjwgNjg8IDA4PiAAAAAAN7e3t7e3t7e3t7e3riPX2lpaXSPuN7e3t7e3t7e3t7e3t7e3t7e3t7eqY90aW6Ye4WbjGI0bZfe3t7e3t7e3t7e3rGxsbGxbUxYmL7KpbBqcZx7kH2HW0xtsbGxsbHe3t7esbGDj0c0wsC+0syRuYZaiXF7PWiFbE5Hj4Oxsd7e3t6xsYMATYzK0rzMsLnMkWaJe3FEYGxRYEoAg7Gx3t7e3rGxgwjYjMzVsNXDvNKda4alcWtxYFdRUQiDsbHe3t7esbFfTd251dWw4bzD0qVxpbBxa3F7YFFFJF+xsd7e3t6xsUea3cPv5cPdkNfSpXG5sHtFPWBlhj1DQLGx3t7e3rGxLsrh5fTm5utd5tKVZsy5kUVFQ12cRWwusbHe3t7esbEm5tfz99Xz9k7mzKVx776dbFRUQ4dRYDuDsd7e3t6xsTTrrff63/b6ue/MoXvvyp2+a2hOgWxsdV+x3t7e3rhfmd2t+/bX9/vm+tehqvKtnOtxfTykd2CRVqne3t7esUz62Nj9+9j9+/LdvqHMhISk2JysaKRdV3w7dN7e3t5nq/r0zfJ3wOthak9jPjALG0EtXZwiNXeQqm5n3t7esUD20C2KipN5lJSUi2R2YRswUjMSEisXJ0uHs0ze3t6PmZvhgqaTt467p7WLgnBkUj4+RjMdJzNISzotgLjeonrClbTLrreTrs/Hx6CCdnBZRkZCQSUeS1pmUy0eeriPWF26xujIwZO74MegqK9kWXNvSEhTNxlLWmZzWiVpj95WgcTs7sjB09rar3ingjNBpZJeQldgMicyWmVlMhqp3mej4+TuyM7g2r2gXEJCORh13EI4S0sZBhYyU1M5dN7ej3fixO7U6trLllwfISksKofv43BjIgEBFCU5Oi2P3t6xPGJ+59Tq7Mu6NwMEHiNJNeH4y5YTBQIUHjJILaLe3rgcBz/S2+TkveAaTAIMKog5UKHslhMmAiMsSDkpqd7e3hoNB9L15+rW1jHeDRBVv55/rO3xewkdLA5JLEfe3t7eX8VMyvzt2+fnxlAaUJ+esrbd0PP8tH4xCiAiX97e3t6pXy/8/P756tnc58Pm49G/xvDh3YxFIxUYMxN03t7e3rixNuL8/v7159zc49zRn57Z/N98VQEDBBYjVrHe3t7esbGDANX88/Ti7enV3+mCyeXf3LJyEwUJDy6xuN7e3t6xsYODNoDt9e3GtMnV0dHJw7TJqistFAc2g7Gx3t7e3rGpsbGxVqPJ0XJeOBEKIGqGaD8cHBxMZ7GxqbHe3t7e3t7e3t7eoqmjpDceA1YNMRpndI+pqd7e3t7e3t7e3t7e3t7e3t7e3qKPdGdHLm2Dot7e3t7e3t7e3t7e3t4"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 4577,
+    "strings": {
+        "name": "Wild Cookie",
+        "article_type": "A",
+        "singular_name": "wild cookie",
+        "plural_name": "wild cookies",
+        "description": "A deliciously baked acorn cookie.\n\"Aquan Killer\"+12\n\"Resist Silence\"+12\nMP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 99,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDU3NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAICBiAEBAYgAgQGIAQGCCAEBgogBAYKIAQGDCAECAogAggMIAQIDCAGCAwgBggMIAIIDiAGCAwgBAgOIAYIDiAGCA4gBAgOIAIIECAICg4gCAoOIAYKDiAGCg4gBgoOIAQKECAGChAgCAoOIAYKECAIChAgBgwQIAYKEiAGChAgCAwQIAYMECAKDA4gBgwSIAYMEiAIDBAgCAwSIAYMEiAMDhAgCgwSIAYOEiAIDBQgCg4SIAgMFCAGDhQgBgwWIAgOFCAIDhIgCg4SIAYOFiAIDhQgCA4UIAgOFCAKDhQgDhASIAoQFCAIDhQgCA4WIAYOFiAIEBQgBg4YIAwQFCAIDhYgBg4YIAgQFiAIEBggDBAYIAgQFiAKEBYgCBAYIAoQGCAKEhYgChIWIAgQGiAIEhggBhIaIAoSGCAKEhggChAcIA4SGCAMEhggChIYIAoSGiAIEhogCBIaIAgSGiAKFBggCBIaIAoSHCAQFBYgDhIaIBIUFiAMEhogCBIcIAgUHCAKFBwgDBIcIBAUGCAMFBogChQaIAoUHCAKFBwgFBQWIAwUGiAMFBwgDBQcIBIUGCAOFBwgCBQcIAoUHCAKFB4gDBQcIAwUHiAKFB4gDhQcIAoWHCAMFCAgDBQeIAwWHCAKFh4gFBYaIA4WHiAMFh4gChYeIAoWHiAMFhwgDBYeIAwWHiAWFhogFhgYIAwYHiAMFiAgDhYgIAwWICAKGB4gDhYeIAwYHiAMFiAgDBggIBgYGiAOFiAgEBgeIAwYICAKGCAgDBgiIA4YICAOGB4gGBgaIBAYIiAMGCAgDBgiIAwYICAMGCIgDhogIA4YIiAMGCIgEhgiIBgaHCAKGiIgEBgkIA4YIiAMGiIgEBogIAoaICAOGiIgDhoiIAwaIiAOGiIgDBoiIAwaJCAaHBwgDhoiIBAaJCAMGiQgEhoiIA4aJCAOHCIgDBwkIBwcHCAQGiQgDhwkIAwcJCAQGiQgDBwkIBAaJiAOHCQgEhwkIA4cJCAQHCYgDhwmIBAcJCAOHCYgDBwmIBAcJiAMHCYgEhwmIBAcJiAOHCYgDh4mIA4eJiAeHh4gDh4mIBIcJiAQHiYgDh4mIA4eKCAUHiYgEB4mIB4gICAOHiggEB4oIBAgKCAOICggDh4qIBYeKCASHiggECAoICAgIiAWHiggEiAoIA4gKCAQICogIiIiIBIgKCAQICogDiIqIBQgKiAUICogIiIiIBIiKiAWIiggIiIkIBIiLCAWIiogFCIsIBIiLCAWIiwgJCQkIBYkLCAUJC4gJiYmIBYmLiAYJi4gKCgoIBooMCAoKCggHCguIBwqMCAsLCwgLi4uIC4uLiAAAAAAP7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v62OoWPof7+/v7+/v7+/v7+/v7+/vf39/f39/f39+s6FRYjHR8WJDrU9/f39/f39/f+/v7+9/To6Ojo6OjoXxkiJ0dLSycyIhYiruvo6Oj09/7+/v739+gAAAAAAAAcJydVCwgIREksJy4XDA8A6Pf3/v7+/vf36AAAAAAABRUnWpJrZjI9cTYRd04jJxCF9/f+/v7+9/foAAADAgQHGVCKp3Epm9eZTjzD0DJtOzNq9/7+/v739+gAAQwGBhELP8LCWrdV4LNQz7/szp7IMyuP/v7+/vf36wwSCB8ZSVMhMlO+7npJt2CUnLDFupQvOy79/f7++eISDRUeKx56PF6mUURaiSyvjc/JRU2CSU5gNsz+/v70HBIhCxFeOXqBc3djvcp/fqWzyXVpmp+irYJIX/7+/ioSHi8bGmtrLDY8PGNZ5oBXdfbcqLPJrbHBUDMu/v7+DRkTTlFHf4tzZ36RbYaqm559q3DH3/rX1p6zKC7+/oUNGSZIsnebfld/aD5Pidi539KVYC1DiJiglMZIOv7+ahwZJjhng2iCxYyMPj7P28OZpanIkFaIiFZ5nnqX/v5fFRkoUWd+pLO0ys3L0+dtn8rEtYDe2oKNdE1CLff+/moqEh1RcZvqk8uqrO+1vbPJ1VjfnkVvpGl7sMcq/v3+rhwtEixxf6mO5qzf6c+zyeBPT0VY3K+p5lJ9RoX+/v62Ij1HH3erwql/y+zs9fvXsYlFFL+7dajFMSUb9P7+/swqToFJNlqOZ0udpWLV6eC7n1hixLXbpGNDEzT3/v7+tiJOQ39zS3qS478+NbGT4MOxsaLyr6+aYWk8Xff+/v70HCk4FDCMtM3fe2NVxrW7rIbl3/a6csC8cl5u9/7+/vwqJg4KR7i0yc/u0MTZ0OnYcdW11sCjlFJSZMz3/v79/pcgGho1hrjXteTc4cHh87il3+O5ysacmnuE9/n+/v7+92U8g1l+jNPT4cZcMb3ctMt/1/vKy+2ObOL39/7+/v73ritQbZVjvZ/Juse65M+r34KO48jDn30Y6Pf3/v7+/vf3QVVnhmi+8Nuo7Pjf006er4JHNp+JVALo9/f+/v7+9/fMF1Ftbb6pcGhZPpyzPyhbs4dHdTcJAOj39/7+/v739+jMKkZtaI6oizgps6h5S2OGqZVItujo6Pf3/v7+/vf39/f31Do/fq9+W4NcXFYZiYZ+Qd339/f39/f+/v79/v7+/v7+/vGFZUw7KEqVczQ0hN39/v7+/v7+/v3+/v7+/v7+/v7+/v756+LUfGWh9Pz+/v7+/v7+/v7+/v4"
+}

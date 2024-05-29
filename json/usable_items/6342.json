@@ -1,0 +1,29 @@
+{
+    "id": 6342,
+    "strings": {
+        "name": "Bean Daifuku +1",
+        "article_type": "A",
+        "singular_name": "bean daifuku +1",
+        "plural_name": "bean daifuku +1",
+        "description": "The beans in this soft rice cake have been brought to full bear through the steaming process.\nHP+30 VIT+7\nAccuracy+11% (Max. 85)\nRanged Accuracy+11% (Max. 85)\nPet: HP+30 VIT+7\nAccuracy+11% (Max. 110)\nRanged Accuracy+11% (Max. 110)\n\nDEF+11% (Max. 105)\nHaste+4%"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjI1OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICIAICBCAEBAYgBAgIIAQICiAICAogCAoMIAgKDCAGCgwgDAwMIAgMDiAMDhAgDg4QIAwOECAOEBAgDhAQIA4QEiAOEBIgEBIUIA4SFCAQEhQgEBIUIBASFCASEhIgEhIUIBISFCAQEhYgEhIUIBIUFiASFBYgEhQUIBAUGCAUFBYgEhQWIBQUGCAUFhggEhYaIBQWGCAUFhggFBYaIBIWGiAUFhogFhgaIBYYGiAWGBogGBgYIBgYHCAWGBwgGBocIBYaHCAaGhogFBogIBgaHCAYGhwgGBoeIBoaHCAYGh4gGBoeIBwcHCAaGh4gGBoeIBocHiAYHCAgGhwgIBwcHiAeHh4gGhwgIB4eHiAWHCIgHB4eIBoeICAeHh4gHh4eIB4eICAcHiAgHB4iIB4eICAeHh4gHh4gIBweIiAeICAgICAgIBweIiAgICAgICAgIB4gIiAgICAgICAgICAgICAcICQgICAgICAgIiAiIiIgICAiIB4gJCAgIiQgIiIiIB4iJCAiIiIgIiIiICAiJCAkIiIgICImICAiJCAiIiQgJCIkICAiJiAeIiYgIiImICIkJCAiIiYgJCQkICQkJCAkJCQgIiQmICIkJiAkJCQgJCQmIB4kKCAiJCYgICQoICQkJiAiJCggJiQmICQmJiAkJCYgIiQoICAkKCAkJCYgJCQoICQkKCAmJiYgJCYmICIkKCAgJCogICYoICQmKCAkJiggJCYoICImKiAgJiogJiYmICQmKCAkJiggJiYoICImKiAgJiogJiYmICImKiAoJiggJiYoICgoKCAmJiogKCYoICQmKiAoKCggJiYqICQoKiAmKCogJCgsICIoLCAoKCggJigqICgoKiAkKCwgKCgqICQoKiAmKCwgJCgsICgoKiAoKCogJioqICoqKiAoKiwgJiosICQqLCAoKiwgJiouICYqLCAqKiogKiosICgqLCAqKiogJiosICoqLCAqKiogKiosICQqLiAmKi4gLCosICgsLCAmKi4gLCosICosLCAoLC4gKCwuICYsLiAqLC4gKCwuICQsMCAoLC4gLCwuICosLiAoLC4gKCwuICgsLiAsLC4gKCwuICgsLiAsLCwgKiwwICguLiAoLjAgLiwuICosMCAqLi4gLi4uIC4uLiAqLjAgLi4uICwuLiAsLjAgLC4wICguMCAqLjAgLC4wICowMCAqLjIgLC4wIC4uMCAqLjIgLDAwICwuMiAuMDAgLDAyICwwMiAuMDIgLDAyIC4wMiAwMDIgMDIyIC4wMiAuMDIgLjIyIDAyNCAwMjQgMDI0IDI0NCAAAAAAOLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4p6enp6enp6enp6enp6enpqUg3h3d3uUmp6enp7i4uLinp5paWlpaWlpaWlpaWljWDQlGRkZHDROY2eenuLi4uKenmkAAAAAAAAAAAAABAoOGBgZHBwgIBsMTpqe4uLi4p6eaQAAAAAAAAAAAAINFB0oKSQtMjc3NzwlXqji4uLinp5pAAAAAAAAAAACEhokLSozMT8/PEZRREI8Yd/i4uKenmkAAAAAAAAABBEaHSk3Q1FcYmtiXFFcU0Q+nt/i4p6eaQAAAAAAAAQLISQ9TWBocXVzen5+eXNmYlVe0OLinp5pAAAAAAABDyYkOGhZbXp6iXqIiYh+fnlmXlOe4uKenmkAAQYFBwMkKz1Wen9xf4yWpJeRkYuRfnVma3vi4p6eZwUMEx8jJy4zUm2BjJKSm6GjpbGlpZ2RfmtvfOLinpQ5FyIiKCgtRUVof4yWm6GprqyxtLGqn518ZHV84uJ4NCgkMTAxKilNZX+FmK6uqa61tLG0sbCsnYeEeIDYwDIsLThAOEkxKlJtmKbS1rm1ub+7v7S0sKqdnYtve+J7LDJGUmVlaDgvbYGbq77Pxr6+ysjEwbvEqqCHfGqKujU1UW2BjJuOYDp6mKS13cLhzcrKyMjBu7GqpZd4ap6oPERohoybrY59S4Gbq9LLzsvLysrRx8G3rKqsh2pOuqhQZZKSrqu2tqd9kqa13vLn19LM1eDc0Mixu4d4XnjfqGJujKS1trm4y5mZtsr1+fn45ezg4NjRxdDHlGc+ut+ocX6108PDw8m4p42v1+f0+fj08vX15N7ox7Bwalvf2LNbi7Xl58zI1sa1ppPD1+34/vv39vvw6OTkgGRalOLiwGSHt9br6NbT19PLzq/P5e/6/Pv7+/Xw7JweVJSe4uLYgGO/5fXv4dbW5N7N1Lbq4/L2+vr6971sQQRnnp7i4uLAVKDV7/3559ra2dTCjpufeaKcgnZIEAQBAGmenuLi4uJwWJTI8vn0++Hh8evtq3Q7FggFCQYBAAAAaZ6e4uLi4p53WE+/6/Lx7erp4cmVSAkBAAAAAAAAAABpnp7i4uLinp5hB0FdX8XT2tOQVwkVAQAAAAAAAAAAAGmenuLi4uKenmlpYVpYSkpKSlRbZ2dpaWlpaWlpaWlpaZ6e4uLi4p6anp6enp6enp6enp6enp6enp6enp6enp6emp7i4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uI"
+}

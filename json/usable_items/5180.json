@@ -1,0 +1,30 @@
+{
+    "id": 5180,
+    "strings": {
+        "name": "Sophic Stew",
+        "article_type": "A",
+        "singular_name": "bowl of sophic stew",
+        "plural_name": "bowls of sophic stew",
+        "description": "This savory brain stew will make\nyou wonder how you would settle\nfor anything less.\nDEX+6 INT+6 MND+6\nHP recovered while healing +3\nMP recovered while healing +3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE4MCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAgIIAgICCAICAggCAgIIAAIECAKCgogAAgSIAoIDCAGCg4gDAoOIAwKDCACChIgDAwMIAwKDiAEChAgDAwOIAgMECACChQgDgwOIAYMEiAODA4gDg4OIA4MECAKDBIgCAwSIAYMFCAODBAgCgwSIAwOEiAEDBQgEA4QIAYMFiAQDhAgCA4UIAIOFiAQDhIgEA4SIBAOEiAQEBAgBg4WIBAOEiAQEBIgFBASIBIQEiAIEBggCBAWIBIQFCAIDhogEhASIA4QFiAMEBYgEhAUIAgQGCAUEBQgEhISIAgQGiASEhQgEBAWIAwSGCAUEhQgChIaIBQSFCAUEhYgCBIaIBQSFCAOEhggFhIWIBQSFiAUFBQgDBIcIAYUHCAOEhogFhQWIBQUFiAKFBwgChIcIBAUGCAWFBYgFhQYIBYWFiAWFBggDBQeIBgUGCAKFCAgFhQYIBAUGiAUFBogGBQYIAwWHCAWFhYgGBYYIBAUHCAMFB4gFBYaIBgWGCAQFCAgChYeIBgYGCAYFhggGBYaIBgWGiAMFh4gDhYeIBoYGiAaGBogChYiIBIYHiAYGBggGhgcIBoYGiAMGCIgEBggIBwYGiASGB4gGhoaIBoYHCAYGBwgDhgiIBAYIiASGCAgHBocIBoaHCAQGiIgGhoaIBwaHCAUGiAgEBoiIBwaHCAYGiAgHBwcIBYaHiASGiIgDhokIBwcHiAcHBwgHhweIBQaIiAeHB4gEhwkIAwaJiAeHB4gEhwkIBgcICAQHCYgHh4eIBIcJCAYHCIgHhwgIBQcJiAWHCQgFBwmIBgeJCAeHh4gHh4gICAeICAUHiYgEhwoIBYeJCAgHiIgFB4oIBQeKiAgICAgICAiICAgIiAWHiogHCAkIBgeKCAWHiggGCAmICIgIiAWICggIiIiIBQgKiAWICogIiAkIBwgJiAWICwgICIkIBggKCAiIiIgFiAqIBoiJiAUICwgIiIiICQiJCAYIiogHCIoICQkJCAkIiYgHiQoIBgiLCAkJCQgGiQqIBoiLiAkJCYgGCQuICAkKiAmJiYgICYoIBokLiAcJCogGiQwICAmKiAmJiYgGiQwIBwmLiAiJiogKCgoIB4mLCAeJi4gHCYuICIoKiAeJjAgGiYyICQoLCAeKDAgJioqICoqKiAiKDAgICgwIBwoNCAiKjAgKioqICAqMiAoLC4gJCoyICwsLCAkLDIgJCw0ICYsMCAuLi4gIi4yIC4uLiAkLDQgIiw2ICYuNCAsLjIgJi42ICYuNCAmMDYgKjA0IC4wNiAqMDYgMDI0ICgwOCAqMjggKjI6ICo0OCAwNDYgLDQ4IC42OiAyODwgMjo6IDI6PiA+Pj4gOnp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp49Cih3xzc3Nzc3yRtN/n6enp6enp6enp6dDQ0NDQ0MaRNxUXGxsfHxsXEA4VSsDM0NDQ0NDp6enp0Ma0tLSZQRUbHyUlJCQkJB8XGxsQJ4KstLTG0Onp6enQ0LQAAQYTEx8XGw4KCgoXEBAbFxcTCAIDtNDQ6enp6dDQtAEGEyQbHzlRY21xcXFfSTQhGxcTCwSi0NDp6enp0NCZBgssJixbhp+kpJ+kqqSaelE5IRsbC3PM0Onp6enQrEETFyRpr7mKXjsUBQUSNVZ1m6NbNB8mJ6zQ6enp44I3ISlPqq9RHRwZGj1mLQcSDBkMOmWUUSwhSrjp6d9zQTwpablxHB1rcoNcOH97NQwPGj1rKT5tWzQhbN/nfEV6UWmbYx0Zcruptpg4VIV2KAwtkotdLEN0WzwmouM8hppbqn0cD0yp4b5yeF1ManZGYJWgoaF+H1V0VSxa2mOkdJ+NRCIoQH7Zx5OmiUtdR3fb1brSrrE7LGlpSTy4hp9uvSs9am93UiiD9OGwGh4jrvPl2O+tpZcdSW1lN3mjipSfHEiQkJxSHIb/7dF4ICK36+7z7r+hqBlRaXRaUJSAn4AnVoWLdkAtvvnxqZZIIone5djIqL+FO2NpZVVKY4qqX0qEhIuYZ4nk+N6zu6ciQrvs4sKuza1LfXllVUVBgK9JOZOgs8/F0fb2s8vs4msatv364tK3ykCkimVRSmxjpFMYeMnb19fo68Le+/juqEjm/u/uzp2hQL2GT1FQrEGUVRFW2+bRnrqrl/Pv09ipz97x9tXCv4w9uYY/ZVrQWmlpHBHJ+OaJYXbg9t7TnY/027XIqMTWi3i8gD9uWuOsRWVPHCLk/NdyXdz25eCLpvL2rm+13cJnxa9JW4Za6dpKUU8yIiLu95Nnrvfq4Lup4vfgs7XEloTDZTSGlErn55FKREQYHCLY00go4PXq3GeS1dOrnHuJw3ovdJR6Y+npxmJFOTYdCRlZGRl22OXBPR41S1Jnk7KANFuUelq86enGtEUxNDkvHQkPFC17jmYuDww9a4GafSRRim5FwOfp6dDQghYxNDRDPzIzVlk1OztNXoGaiEkfP05jSofj6enp0NC0ARYqLzY5SVNNV1dYZG1lWD4pOTEqDVq0xunp6enQ0LS0mWI3NDk/QzYvLy8vPj5JOTQ0PHOZrNDQ6enp6dDM0NDQzKx8UDcsLCkpKSkhITQ3Woe80NDQzNDp6enn6enp6enp6d/GmVo3PDw8PDRFc5HG4+np6enp6efp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6ek"
+}

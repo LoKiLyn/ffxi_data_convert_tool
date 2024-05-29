@@ -1,0 +1,29 @@
+{
+    "id": 5216,
+    "strings": {
+        "name": "Tentacle Sushi +1",
+        "article_type": "A",
+        "singular_name": "plate of tentacle sushi +1",
+        "plural_name": "plates of tentacle sushi +1",
+        "description": "Raw squid tentacles don't\nget any better than this!\nHP+20 DEX+3 AGI+3\nAccuracy+20% (Max. 20)\n\"Double Attack\"+1%"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTIxNiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAKCgogCgwMIAoMECAMDA4gDg4OIBAQECAKDhYgDA4UIA4QEiAQEhQgEhISIBAQGCAOEhYgEhIUIBISGiAOEhogFBQWIAwSHiAQEhwgEhQcIBQWFiAUFhYgEBQeIBQUHCAUFhggEhQeIBAUICAWFhogFBQgIBIWICAYGBggGBgcIBYWHiAQFiIgFhgeIBgYGiAYGBogFhYgIBQYHiASFiIgGhggIBYYIiASGCQgGhoaIA4YJiAYGhwgGBggIBoYIiAUGCQgFBgmIBocHCAcGCAgGhgiIBYaIiAaGiAgGBokIBgcICAUHCIgGhoiIBIaJiAcHBwgHBweIBYaJiASGiggHBwgIBYcJiAeHh4gGhwkIBweICAWHCggHh4gIBocJiAgHCQgEh4kICAgICAeICAgHB4mIBYcKiAaHCggFBwqICAeJCAYICQgICAgIB4gJCAcHiYgGhwqICAeJiAgICAgICAiICAeKCAiIiIgJB4mIBgeLCAWICogICIkIBoeKiAgICYgIiIiICIiIiAcICggHiAqIBwiJiAYICwgIiIiIBwgKiAiIiggGiAsIB4gKiAeICwgJCQkIBoiLCAiJCYgJCQkIB4kKiAgIiwgHiIsIBwiLiAmJiYgIiQoICQkLCAcJC4gHiQuICIkLCAiJC4gICQwIBwkMCAmJiwgKCgoICQmKiAeJDAgIiQuICImLCAmJi4gIiYwIB4kMiAkJi4gICYyICgoKiAkJjAgJigsICQoLiAqJi4gIiYyICYmMCAkJjIgJCguICgoMCAiJjIgKioqICoqLCAqKC4gJigwICQoMiAgKDQgKCouICgoMCAmKDIgJiouICoqKiAkKDQgKCgyICgqLiAeKDQgLCwsICgqMiAkKjIgIio0ICgqMCAsLCwgJCo0ICIqNiAqKjIgKCo0IC4uLiAqKjQgKiwwICQqNiAwLDIgJio2IC4uLiAoLDQgLi4uICYsNiAsLjIgKiw0ICguNCAmLDYgKCw2ICwuNCAuLjAgJi44IC4uNCAqLjYgLC42IDAwMiAuLjYgKi44IC4wMCAqMDQgLC42ICouOCAuMDYgKjA4IDAwNCAuMDYgMDA4IC4wOCAwMDggLDA4IDQwNiAwMjggLjI4IDAyNiA0MjggLDI8IDAyOCAuMjogNjQ4IDA0OiA2NDYgNDQ6IDI0OiA0NDogNDY4IDY0OiAyNDogODQ4IDY2OCAyNjwgOjY2IDQ2OiA6NjogNDY8IDY2OiA4ODggNjY8IDg4OiA6ODogODg8IDg4PCA6ODwgOjo8ID46OCA6OjwgOjo8ID46OiA8OjwgOjo+IDw6PiA8PD4gPjw+ID48PiA+Pj4gLi4uLi4uLi4uLi4uLi4uLi4uLi4uLCrq7i4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLiwpkA5cLi4uLi4uLi4uIKCgoKCgoKCgoKCgoKCgoKCgoJNIzIyVYKCgoK4uLi4gnhlZWVlZWVlZWVlZWVlZV1dVRIVCRkiXWV4gri4uLiCgmUAAAAAAAAAAAABAiEQFwwFHzMSHygDZYKCuLi4uIKCZQAAAAAAAgICCC5OxZh0VApTU1k3KAtlgoK4uLi4goJlAAAAAAYbJlaZwoNy8CkpDitTehUsD1qCgri4uLiCgmUAAAAEMN7vu2iBPMCqSlclJa5uGTQUTYKCuLi4uIKCZQABB7agssikpOnXMWM4WGu0gEgkPjpFgoK4uLi4goJdBBO23pSkhu3AznVTT1d9tNRfSC9QKB5Ngri4uLiCeDV55tfpuqDPhs6gUVxup+rqol9QQkISGhJwq7C4uIxdusni4tXDvM98Y1FRiNTz0b2Af0hCLRESFSdhsLi4eGHVwp/D4uF8dVGKkY3j89rNoolfQkRBDhEWHEOruLhastl2uo6NcYV6kpqx4+DTx6KJdz4+HJA2KxwdQ6amoUmOfmBMaIHh0NDE1evazb25ootCdSwUXjYjHxVAq2pwYahxdnSnp7vG4+7Nzb6+vbmLd4hYLThZIzMVGUmwcOv8/frc3OXVyuTr3dbNvr6plomfa1BcbD04Kh0sYbiM5f/+/vfm2LHS7u7dxNq+i5yLo29tlZBPSlckKj14uKaM/f78/vS+t+vr69/ds5yps7dvUp6bfmJugTMzQ5e4uHP4/P379NzK8vnl2rOpy82xb2l/k4h3fodnQVFNuLC4pkX18Pb05uHDvbXN1uHSioqT0MaajZJ1aWBBQHO4uLi4c0Xo7+fc5rWz2+fRr5OThMzUv66Nd3yFRjllgri4uLiCeD9bwujLrL3BuaKv0q+byti/nJ+/jUZGP4KCuLi4uIKCZQQNGEez5N3u+/by4MPMrMPfv5pmZgtlgoK4uLi4goJlAAAAAzD3/f359/f28cPR2MaSfjsHAGWCgri4uLiCgmUAAAAABkft+fb29vHfu9Kxn4ZHAwAAZYKCuLi4uIKCZQAAAAAAAxeY7Nru5LmlrY9kBAIAAABlgoK4uLi4goJlAAAAAAAAAQYQJmRkJhcQBgIAAAAAAGWCgri4uLiCgmVlZWVlZWVlZWVaVVVaXWVlZWVlZWVlZYKCuLi4uIKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLg"
+}

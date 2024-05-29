@@ -1,0 +1,30 @@
+{
+    "id": 4589,
+    "strings": {
+        "name": "Wild Stew",
+        "article_type": "A",
+        "singular_name": "bowl of wild stew",
+        "plural_name": "bowls of wild stew",
+        "description": "This dhalmel stew has\nan exceptionally gamy flavor.\nSTR+4 VIT+2 AGI+1 INT-2\nAttack+25% (Max. 50)\nRanged Attack+25% (Max. 50)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDU4OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAIDA4gCAwOIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgOECAIDhIgCg4QIAgOEiAKDhIgCg4SIAoOEiAKDhYgChAUIAgOGCAOEBIgDBAUIAwQGCAMEhYgDhAYIA4SFiAOEhYgDBAcIA4SFiAOEhogChAeIA4UGCAOFBggEBQYIA4UGCAQFBogEhQYIAwSHiASFBggDhQaIBAUHCASFhggEBYYIA4UGiAQFhogChYaIAwUICAQFB4gEhYYIBAWGiASFhogEhYcIBAUHiAQFhogEhgYIA4UICASFhogEBYcIA4WHCASFB4gFBgaIBQYGiASGBogEhgcIBYYGiASFh4gChQkIBYYGiAUGBogEBgcIBAWIiASGBwgEhoYIBQYGiASGB4gEhgeIBYYGiASGBwgEhggIBAYHiAUGBwgFBgcIBIWIiAOFiQgGBoaIBYaHCASGB4gEBYkIBIYICAQGCIgGBocIBQaHiAUGCAgFhocIBYaHiAWGh4gFBoeIBIcHCAUGCIgEhgmIBQaHiAUGiIgFhwcIBQaICAOFiogGBoeIBgaHiAUGCIgGBoeIBQaHiASGCQgEh4cIBAYJiAWHB4gGBogIBIcICAWHCAgFBokIA4YKiAWHCAgGBwgIBIaJiAWHCAgGB4eIBQcIiAWGiQgGBokIA4aKiAWIBwgFBomIBAYLCAWHCIgEhooIBYeIiAaHiAgGh4gIBYcJiAYHCQgEBwqIBgeIiAUGiogFh4iIBYcJiAOGiwgFBwoIBYgIiAaHiQgGB4iIBYcKCAcHiIgGiAiIBIcLCAaHiYgGiAkIBgeKCAWHCogFB4qIBwgICAUHiwgHCAmIBAaNCAYICQgGh4oIBIcLiAWICggGB4qIB4gJCAcICQgGiAkIBogKCAWHiwgHCAoIBggKiASHjAgICIkIB4gKCAUICwgICIkIBwiJiAcICogGB4wIB4iJCAaIiggICIkIBokJCAWICwgFiAwIBogLCAeIiggFiAyIBIeNiAeJCYgHiIqIBoiLCAYIjAgGCA0IBwiLiAiJCYgHiQoICAkKiAYIi4gJCYmIB4kLCAWIjIgICYqICAkKiAaJDAgHCYoICQmKCAaJC4gICQsIBokMCAYJjAgJiYoIB4mLiAaJDIgICgsIBwmMCAmJiwgHCYwIBYiOiAgJjAgKCgqICgoKiAcJjQgIiosICIoMCAqKiogICgyICYqLiAiKjAgICo0ICYqMiAeLDIgLCwuIBoqOiAiKjggLC4uICYuMCAiLDQgHCg+IC4uLiAwMDAgIC46ICIwOCAiLjogMDAwIDAwMCAwMDAgMjIyICYwOCAkMjwgJjI8ICg0OiAuNjogPn5+fn5+fr5+fn5+vn5+fn5+vn6+vn5+fn5+fn5+vn5+fr5+fn5+fn6+fn5+fn5+fn5+fn5+fn5+vn6+vn6+fn5+fj4+Pj4+Pj4+Pj4sjExMTElMUHK+Pj4+Pj4+Pj5+fr5+Pj39/f398ZEDwsLDQ0NCwsQCwsPIvf39/f4+Pn5+fn4+PcABQcJAwoRDA0NCwoKAwgLCw0IAwQA9/j4+vr5+fj49wUGCgsPDihMOU5ldWFOMxgSDAIDCAbk+Pj5+fn5+PivCRAPOlyiqcCpqbe3t45RX04yLBoLCA/y+Pn5+fn4sg8QOk6Ux8eXl4dnMzc3Jzl7lHtRMzYDCzHy+fn58/IbG06U2bhtfMDLy7u+2NPFxao3OV9uMzYVDNb5+fn5WyBcjrh1nsvLwcSh3fHtn+Ppq8LFjEB4UTMaFvP5+eAqXIZ1e7SmtKPEob+kVFiLzNzhxcXItD9ucjkTuPnzXleEbV+Pm5GtxbV3cCYfVLvhyaumoyk8wlZgay1K4G0zYI5cpYudsYXJZp65kJDs9P38hX4XQnZ2vFJuVhq4GlGOe5OR1PT12rqB78mYpM/79sMvFB5+NUeNfVJgSCodXIQyb5vn/v/e0LPCLyaficKlRhQeUzxvkYWrM45rETZ1eCscF13n5uLZdhxHWp2RVJoeJDUwMGR6nbs5YGsnXoZcIy8wbCkZGctHR3GRrTAXNKO9ik9UgIWFrTNOZUheZU4jnzxdNRcptJyRurF2bCkZZI+JnZ3MgpGccjJlLTZOXDKcnGNdQtLDteXwzzxPTzSPZJy84+hvb5VoP2UoP2FOOZWwR5zc6tWPkuPXm4mw26aDpN7n3GaCfYxcORVtOYQuUKpsWIViYnCS19ONaV0pg6TU5+PaisF1s24/VZY/XkYjWc6Phn2YetLi5qQePBIeokmi2n7OZ5SaaCDR7jY2UissV0KbqoJx18t+mTQ1EhmESXypznWEwIZGPfn50S1SOyNAV05ZY4KbUzxPcykpbJnbvWeOeKnNUCDg+fnziDYtdSsrTnh7TE9PoKBdNWaTk2CUhH2pzXQjW/n5+fnrRSgzTisYLCNuhpSOhoZoe05OdXhoqMBXI0Hy+fn6+fjfMR0yMjYjEiNcZXt4TGFhTDIylLaMRjpE+Pj5+fn5+PjGIiEYKyA5KzkzX19XV1xylKh7TCsOAff4+Pr5+fn4+Pf3xnkrIyMtNj9AUmVfTmVgQC0bTeT39/j4+fn5+fj4+Pj4+N/Wp4hFOkpFRUVbarKy3+v4+Pj4+Pj5+fn5+vn5+fn5+fn5+fr5+fr5+fn5+fn5+fn5+fn5+fn5+vn6+fn5+fn5+fn5+fn6+fr5+vn5+fn5+fr5+fn6+fk"
+}

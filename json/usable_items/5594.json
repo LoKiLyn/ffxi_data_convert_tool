@@ -1,0 +1,30 @@
+{
+    "id": 5594,
+    "strings": {
+        "name": "Chai +1",
+        "article_type": "A",
+        "singular_name": "cup of chai +1",
+        "plural_name": "cups of chai +1",
+        "description": "A rich aroma wafts from this\ncup of chai.\nVIT-3 CHR+3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU5NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgAQIAQCDiAEAhIgBAISIAQCFCAEAhQgAgAWIAIAGiACABggAAAcIAICGCACAhggAgAaIAICFiAAAhwgAgIaIAAAHiACBBogAgIeIAAAICACAhwgCgoKIAoKCiAKCgogCgoKIAQEGiAKCgogAgIgIAACIiACBB4gDAwOIAQGHCAAAiQgAgIkIAYGHiAEBiAgCgwSIAYIHCAABCggAAYkIAIEJiAKDBQgCAoYIAIEKCAIChwgDA4SIAYIICAIDBggAggkIAgKHiAKDhYgBAgoIAoOGCAKDB4gAgomIAQIKiAIDh4gBgwiIAgKJCAGCiggDhAaIAgOICAEDCYgEBIYIAoSHCAIDiQgDBAeIAYMKiAOECIgCA4oIBIUGiAIDCwgAg4sIA4SHiAKECggFhYYIBIUICAEECwgEhYeIAgUJCAOFiAgDhImIAwQKiAUGBwgEhQkIAwSKCASGB4gChYkIAwSKiAKEi4gCBQqIA4UJiAEFC4gEBYkIA4UKiAIFCwgDBIuIAQULCAOFCogGhoaIBAWJiAYGhwgFBogIAoWKiAGFi4gDBYsIAwULiAUGCQgGBoeIBAYKiAcHB4gDhYsIAYWLiAQGCggChgsIAwWLiAWGiYgEhgqIBgcIiAUHCQgGhwgIBAYLCAQFjAgDBguIB4eHiAIGDAgFhomIBIaKiAQGiwgFhoqIBIYLiAOGC4gFhwkIAwaLiAIGjIgHh4gIBQaLCAOHCwgChowIBweIiASGi4gEBouIA4cLiAYHiYgHiAiIBQcLCAIGjQgICAgIBgcKiAKHDIgFBwsIBAcLiASHDAgICAiIBoeKiAWHi4gEh4uICAiJCAaICggIiIiIBIeMCAUHi4gDh40IBwgLCAgIiYgFCAwIBggMCAUIC4gFCAyIBggMCAcIiwgGiAwIBAgNCAkJCQgFiAwIBYgMiAiJCYgHiIsIBoiMCAUIDQgJCQmIBokLiAeIjAgFiI0ICYmJiAaJDAgEiI2IBgiNCAmJiYgICQuIBwkMiAcJDIgKCgoIBokNCAYJDQgIiYuIBwkMiAoKCggGiQ0ICImMCAqKiogJCYwIBomNiAgKDIgHCY0IBgmOCAkKDIgICY0IBwoNiAqKiogJCg0ICAoNiAmKDIgHig2ICwsLCAcKjYgIio0ICAoNiAmKjIgLCwsICYqMiAeKjggJio0ICAqNiAuLi4gJiw2ICAqOCAoLDQgLi4uICIsOCAkLDYgKi40ICYsNiAgLDggJCw4ICQsOiAkLjggKi44ICYuOiAuMDggKjA6ICwyOiAqMjwgMDI4IC4yOiAuNDwgNDQ4IDA0PCAwNjwgMDY+IDI2PiA0OD4gOjo8IDw8PiAAAAAAOXl5eXl5eXl5eHcwZ6Md2dnZ3mRtdLh5eXl5eXl5eXl5eXl5eXl5eXJlFefzc3g4PHr5s2oUXm95eXl5eXl5eXl5cHBwcG9fXipzePz89Ht+ce8zevQuFhmrsHBwcHl5eXlwcGglGaozfHR6/jt783v1rTN1Gra3qNXfaDBweXl5eXBwZpUu83m1u3v9vby7ufi2ceoapLT5mlBfcHB5eXl5cG9ZrTN48u78/z24szFwLq6wMWvmI2qv4ZXrsHl5eXlxpSi1u3j7fP79cysnIBuiZKcs7+naI3MwpZvweXl5eW1kbTg5ubx/PnZnJJ6g1lWY252rLqijWrUzoCg5eXl5Zq2tMPj4/r78qeZjmtIODg4U3aAs8CGfKfs2Ijl5eXhmq26qbjR+/vpnY5wRCchJyw0VnKnwKaiwM3Opcnl4dxtfrTny834+uCZhGE4IRQhHSk8WazFunNq77ufxuXl10d+pqGpy/j4x5V7UywhFBERIiJEr9/Fc43arYXG5eXXR3Gduseh9viplXphLCIUEQgSJDTH+b+v8ueHkMbl4eFMYoG6xWnp9qeVelwpIhweFR4vKdr8hr/6zV2xxuXl5YhQacCnhqHxt5yVVRQcJjYmNiQd7eBxuOa0aX3h5eXlrkddeqfQlrzTt6R2U1Nhe0ZLLxGnYOfs45NKmuXl5eXBb2Vdr6Khh7rQ2/fbdlU+OkZwiUKN78J8cUy95eXl5ca5TIdpjaew0JdNBAEBAQECAiCS2qrTQl1AoMHl5eXlwcGULodJepJTDwcGAgEDAQQEAw2Jqi8/NW/BweXl5eXBwaAYLltOcjEPCQYDAwMGAwkNEjJuOioboMHB5eXl5cHBoAAXM1xlMRULCwUFBgUHCwsaGkM5GQCgwcHl5eXlwcGgABg1RVI3Hg8TDQcNBwwOEhIaTV4lFqDBweXl5eXBwaAAGTlspE4kEBANDQsLDAsSDEW+gjAYoMHB5eXl5cHBoAAfPnXKpzceCwwLDBAVKBEjvtWCMBigwcHl5eXlwcGgAB8yVcTdkjcaDAcJDxwoX/Do1ZUwGKDBweXl5eXBwaAAGytCpNXdvpJSNjI7X6z3/vfbXCoXoMHB5eXl5cHBoAAAJT9lssjEytvk5N/k6PT994BCHwCgwcHl5eXlwcGgAAAbMGCXssTK2+To3eTo9PCzVioXAKDBweXl5eXBwaCgoKBkQ36dq6vEz9vb1cjFqXQ9faCgoMHB5eXl5cHBwcHBwcGUSnGPgXKXf3WXnXxjR5rBwcHBwcHl5eXl5eXl5eXl5eXJeV5bfotQaJhlT4jS5eXl5eXl5eXl5eXl5eXl5eXl4eXlyb25ubm5ucHS5eXh5eXl5eXl5eU"
+}

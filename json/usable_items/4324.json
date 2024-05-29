@@ -1,0 +1,29 @@
+{
+    "id": 4324,
+    "strings": {
+        "name": "Hob. Chocolate",
+        "article_type": "A",
+        "singular_name": "chunk of Hobgoblin chocolate",
+        "plural_name": "chunks of Hobgoblin chocolate",
+        "description": "This Goblin chocolate is especially\nbitter.\n\"Lizard Killer\"+12\n\"Resist Petrify\"+12\nHP recovered while healing +7"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 99,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMyNCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAEAIIIAoGCiAMBgogBAgMIA4GDCAKCAwgAggMIAIIDCAKCAwgBAgMIAwIDCAGCBAgEAgMIAQIECAECBAgBAgQIBAIDCAKCA4gBAoQIAQIECASCAwgCAoOIAYKDiAOCA4gEAgMIBAIDiAKCA4gDAoOIAgIFCAMCg4gCgoQIBAKDiASCg4gDAoOIAoKDiAQCg4gEAoOIAgKECAEChIgEAoOIA4KECAOChAgBgoQIAQKFCASCg4gDAoQIAwIFCAMChAgBgoUIBAMDiAMDA4gDAwQIAoMECAKDBIgEAwQIAwMEiAGDBIgBgwUIBQKECAMDBIgDAoUIAgMFCAODBAgCgwQIAYMEiAcCgwgDA4QIAgMEiAQDBAgEAwSIAYMEiAGDBQgFAwQIBIMECAMDBIgCgwSIAQOEiAKDBIgBA4SIAQOFCAIDBYgBgwWIAwOECAODBIgDgwWIBAMEiAKDhIgCgwUIAoMFCASDBIgCA4UIA4OEiAIDBYgCA4UIAYOFCAWDBIgCg4UIAwMFiAMDhAgEA4SIBIMEiAODhQgEAwWIAoOFCAIDhYgDg4UIBAMFCAGDhQgCAwYIBQOEiAUDBQgEA4UIA4OFiAQDhIgDA4UIBIOEiAMDhYgCA4WIAYOGCAQDhQgEg4UIBYOFCAMDhggEgwYIAgOGCAUDhQgDg4WIAoOFiAIEBYgEBAUIBAOFiAKDhggFBASIBAOFiAMEBggDBAWIAwOGiACDhwgGBAUIBQQFiAODhggCBAYIAgQGiAQEBYgDhAYIAgQGiASEhQgChAYIA4SFCAMDhwgFA4YIAYQHCAUEBQgEBAYIAoQGiAODhwgEhAWIBQQFiASEBggDhAaIAwQGCAMEBogEBAWIBQQGCAYEBYgEBAaIAoQGiAKEBwgCBAcIBQQGCAQEBggDhAaIBYQGCASEhYgDBAcIBYSFiAUEBggDBIaIAoQHCASFBQgDhAcIA4SGiAGEB4gGBAYIBQSGCAUEBogDhIaIAoSHCASEhogDhIaIA4SHCASFBYgEBIcIBQUFiAWEhogEBIcIBAUGCAYEhogFBIcIBoUGCAQFBwgDhIeIAwUHiASFBwgFhQaIBgUGCAUFhggFBQcIBIUHiAOFB4gFhQcIBgUHCAMFCAgDBQiIBIUHiAUFBwgFhYYIBYUHCAQFB4gGhQcIBQWGiASFB4gDhQgIBYWHiAYFhwgFhgaIBoWHiAUFiAgDBYkIBgWICAeGBwgFhggIBgaGiAaGCAgGhoeIBIYJiAcHBwgHhogIB4cHiAeGiIgHhwiIB4eICAgICIgICIiICIiIiAkJCQgJiYmICYmJiAoKCggKCgoICgoKiAqKiogLCwsICwsLCAuLi4gP////////////////////////////////////////////////////////////////////////////////////////n5+fn5+fn4nWr5+fn5+fn5+fn5+fn5+fn5+fn/////+fj19fX19fWdrvX17+1kZJPZ6fX19fX19fX4+f/////5+c8PEA4AAAAANAkCAwNKHjUEBwAAAAAA9fn5//////n560IcE09PXkwWCwsLDUoqZk4KCAAAAAD1+fn/////+fn1DhRNUGxBFh8iRotJhVZLQCtB3QAAAPX5+f/////5+fUATUxBRzkrWDhkmXRkXEtARGFXwAAPK/n5//////n59ehOQUdfm1tooKuMjGpcWICUWytjtBSV+fn/////+fn1TjZEW3Z2aUiHyauCNmGhobuAWCZDM/P5+f/////5+DcSNltfOl9fOofJyausgIev0cxmQDhTU/L5//////mZGiI/Zj52vnaE39/f5Nuv38Tg0IZcOCYXU+L+////8xEtMj8wkaFSLJvVt9/ss9vWteDhamofWTZAI/L////CESQ7Wox/dicnhKmKmMuPypam0NSeVD0+Nisfcvr+/CMYYDs7jFVROlKzqZh3LLKvpnyXrZ5mZqA+DBsS7//pHzdapaVvL1GEopKpqZQ6h9HYqrh+jIYdYVgwGxKF/5V4aozcxqpiXX2bm6mbgUiHtr1nl7mGWHWrn7AiBkX7YXOsvdPmvb+EhI+nh4FdJ1GgjVU9hoZ/q5qxyEUFzvtbgKGi0eTJv8vSp6Ghu2lRXYeNf3VmPl3Esc2LLQHy+1unp6/Lyqi/28q/u7vewYegiY2ReGFidaZVjGUtLfz9gdW81supr7/e18nK3tHaqo2NmoN4P0tUf7FUWjtu/v6+jtLLvKmotcnMzMnMusO6pKrTlz9UVmqCgmpGKOf//8Vfdryzj2KDusfMx8e6w8bj6tN5ViRFVmRqkD8b9f//9I6Om497MHmfzdDQx9S45/DxzUZGLSQ3NzBUS1z9////iJSAdjg/VoWww9DNxq3j7vHUeRoRMjIiMEvP8//////2iHN4EjdadIyGw72kw+Hj0LlrICAlJSk88vn5//////n32So3N3pkeWaRprrH4L1rayUZFSEAAAD1+fn/////+fn1NBxrdH6GvaCgrMG2YXEuAAAAAAAAAPX5+f/////5+fX19e+ukKOrsqyih1lzrvX19fX19fX19fn5//////n5+fn5+fn49/TryaFo4vn5+fn5+fn5+fn5+fn///////////////////////////////////////////////////////////////////////////////////////8"
+}

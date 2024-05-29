@@ -1,0 +1,29 @@
+{
+    "id": 5981,
+    "strings": {
+        "name": "Bld. Barnacles +1",
+        "article_type": "A",
+        "singular_name": "plate of boiled barnacles +1",
+        "plural_name": "plates of boiled barnacles +1",
+        "description": "Steamed expertly in their own juices,\nthese barnacles are certainly not\ntypical fare from the sea.\nCHR-2 DEF+26% (Max. 135)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTk4MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIEIAICBiAEBAQgAgYKIAYGCCAECA4gBggOIAQIECAKDAwgCAoQIAoMDiAIDBAgBgwSIAwMDiAKDBAgCAwSIAgMFCAKDhAgBgwUIAoOEiAIDBYgBgwWIA4QECAOEBAgBgwYIA4QECAKDhQgDhASIAwQFCAKDhggChAYIAwQGCAIEBogDhIUIAwSFiAMEBggEBIUIAwSGCAMEhogCBIcIAwSGiAUFBQgDBIcIAwSGiAQFBggChIgIA4UHCAWFhYgFBYWIBQWGCAUFhggEhYaIBQWGCAMFCAgFhgYIAwUICAMFiAgFhgYIAoWIiAWGBggDhYeIBAWHiAYGBggDhYgIBYYGiAQFiAgFBgcIAwWIiAWGhogEhgeIA4WIiAQGCAgGBoaIBoaGiAOGCIgGBocIBIYIiAaGhwgEBgkIBocHCAQGiQgFBoiIBocHCAOGiYgGhweIBocHiAUGiIgEhokIBocHiASGiYgEBomIBwcHiAaHB4gFBwkIBQcJiAcHh4gFBwmIBweICASHCYgHB4gIBAcKCAcHiAgFh4kIBoeIiAcICAgHB4gIBYeJiAUHiggFBwoIB4gICAeICAgGB4mIBQeKCAeICAgHiAgICAgICAWHiggHiAiIBYgJiAgICAgICAgIBQeKiAeICIgFh4qIB4iIiAYICggGCAmICAiIiAgIiIgHiIiIBggKiAWICogHiIkIBggKiAUICwgICIkICIiIiAgIiQgHiImICAiJCAiIiQgICIkICAkJCAaIiwgGCIsICAkJCAeJCYgIiQkICQkJCAaIiogGCIsICIkJiAkJCQgGCIuICIkJiAWJCwgHiQqICQmJiAiJiYgJCYmICImKCAkJiYgJCYoIBokMCAcJC4gJCYoICYmJiAmJiggGiYwICQmKCAoKCggJCYoIB4mLiAkKCogKCgoICYoKCAkKCogKCgoICQoKiAkKCogIiguIB4oMCAmKCogJioqIB4oMiAqKiogJiosIB4oMiAmKiwgHigyICYqLCAmKiwgKCosICAqMiAoKiwgLCwsICgsLiAkKjIgKCwuICgsLiAoLC4gLCwsICgsLiAoLC4gKCwuICouMCAkLDQgLi4uICwuLiAqLjAgKi4wICQuMiAuLi4gJCw0ICouMCAsLjAgKi4wICouMCAsLjIgLDAyICwwMiAwMDIgLDA0ICgwOCAuMjQgKjI2IDAyNCAuMjQgLDI4IDIyNCAuMjYgMDQ2IDI0NiAwNDYgMDQ2IDA0OCAwNDggNDY2IDA2OCAuNDogMjY4IDI2OCA0NjggNDg6IDY4OiA0ODogNjg6IDY4OiAAAAAANvb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb27GxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbHb29vbsaiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+osdvb29uxsY8AAAAAAAECAwQFBQUFBAMCAQAAAAAAj7Gx29vb27GxjwAAAAMHHjd5pLa2rpN/hlYrBwMAAACPsbHb29vbsbGPAAQRQpPp+/3+/fv59O/s5NeoXw8DAI+xsdvb29uxrXoPUrTx+vr38/Hu7eLg4Nnd4ePepksLj7Gx29vb27GPRZrn/Pjw7efl5eXn6uXg3djSzdLYyW9Asa3b29vWm1TF9fju7ePl07q5pZiUmLLN3eDT0s3Szo5AqNvb1spizfXt4+LiwUwjGjozdayypbK5usHS0c3Pz3xQ29vbn77j4uDh3bJdDA4MECwaULfFxcbBtJ7T2NLSzXix1ria39LR1N+nTBYmHCUtLzIigcHBw8HBrJTT39HPzVnKh8bZx8XPnp4lLUg+J1VTTigweKylqbm9npTd1M/PZsBwzs/GzrKVki1Oc2VegpdgKSBAVGNUZnyIWcbZ0suDuG/GxcfNpZW0izJec7OAoI1RGjNFPVA4XHhZqeDTx4i1erm3vc+elKy9U2uMq1qqqmshGA0SNUMxTJm34NPGbLiHgbCwvpJ1iLCEcYrIrzFXqzUTFxAWGURRu9/d0rRUwLh8nqe9pXh0kqxne7PcZS4bTSQIChVYdomj1NPOfHTQ2594oay9qXSBdYRVc8LaNB9yLSFkSMTE3LvRzZ5msdvbymaDp7C6mHh1apF7YJwngKJgojyzv9Xyx8+9ZmLb0NvWm2yIp6espYh4eG6dSkHV1bzI6Pbm69PSw3hUsdvb29utm1RqkpinrKGVi4tnc5xxWNPJxb25w75oULGx29vb27Gtfg9okJielZqhspFxNIQ8rKepqZRmOwmPsbHb29vbsbGPAAMUUmODlZWQkYVGP3eSgXxbRwsDAI+xsdvb29uxsY8AAAADBitPaIGIiJltUUc5HQUCAAAAj7Gx29vb27GxjwAAAAAAAAIDBAUFBkkEAwIAAAAAAACPsbHb29vbsbGPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI+xsdvb29uxsY+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj7Gx29vb27GtsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxrbHb29vQ29vb29vb29vb29vb29vb29vb29vb29vb29vb29Db29vb29vb29vb29vb29vb29vb29vb29vb29vb29vb29s"
+}

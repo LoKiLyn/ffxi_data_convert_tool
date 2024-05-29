@@ -1,0 +1,29 @@
+{
+    "id": 6166,
+    "strings": {
+        "name": "Altana's Hymn",
+        "article_type": "A",
+        "singular_name": "copy of Altana's Hymn",
+        "plural_name": "copies of Altana's Hymn",
+        "description": "A copy of Febrenard C Brunnaut's favorite read. The simple lyrics and enchanting meter were said to have soothed his soul. Adventurers note that reading it increases one's divine magic skill."
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "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"
+}

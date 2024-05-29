@@ -1,0 +1,22 @@
+{
+    "ID": 27109,
+    "name": "Lamassu Mitts +1",
+    "item_type": "Armor",
+    "description": "DEF:82 HP+18 MP+44 STR+6 DEX+28\nVIT+24 AGI+5 INT+19 MND+33 CHR+20\nEvasion+22 Magic Evasion+43\n\"Magic Def. Bonus\"+3 Haste+3%\nSummoning magic skill +22\nCait Sith: Lv.+1\nAvatar: Magic Accuracy+26\nUnity Ranking: MP+10\uff5e50",
+    "flags": "Ex, WallHanging, CanSendPOL, CanEquip, NoSale, Rare",
+    "stack_size": 1,
+    "equipment": {
+        "level": 99,
+        "ilevel": 119,
+        "jobs": "SMN",
+        "races": "All",
+        "slots": "Hands",
+        "superior_level": 0,
+        "shield_size": 0,
+        "max_charges": 0,
+        "casting_time": 0,
+        "use_delay": 0,
+        "reuse_delay": 0
+    },
+    "icon_bytes": "kWFybW9yICAgMTM5NTMgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAoMIAoKDCAICgwgCAoOIAoMDiAKDA4gCgwOIAoMDiAKDA4gCgwQIAoOECAMDhAgCA4QIAoOECAKDhAgCg4QIAoOECAKDhAgDA4QIAwOEiAMDhAgDg4SIAwQEiAMDhIgDhASIAwQEiAOEBIgDhASIAwQEiAMEBQgDhASIAwQFCAOEhQgDhAUIAwSFCAOEhQgDhIUIA4SFCAOEhQgDhIWIA4SFiAQEhQgDhIUIBASFiAOFBYgEBQWIBIUFiAQFBYgEBQWIBAUGCASFBYgEhQYIBIWGCAUFBggEBYYIBIWGCASFhggEBYaIBIWGiAUFhggEhYaIBQYGiAUGBogFBgaIBIYHCAUGBwgEhgeIBYYHCAUGhwgFBgeIBQaHCAYGhwgGBocIBocHCAWHCAgFhweIBgcHiAWHCAgFh4iIBYeIiAaHh4gGB4iIBYeJCAcHiAgGh4iIBoeIiAYHiQgHB4iIB4gIiAeICAgGCAkIBogJCAYICQgHiAiIBogJCAaICQgICAiIBggJiAeICIgHiAkIBogJCAYICYgICIiIBwiJCAaICYgICIkIBwiJiAgIiQgHiIkIBwiJiAaIiggGiImICAiJCAiIiQgGiIoIB4iJiAaIiggIiQkIBoiKCAeJCggHCQoICIkJiAgJCYgICQoIBwkKCAiJCYgHCQqICIkKCAcJCogJCQmIB4kKCAkJCYgHiQqIB4kKiAcJCogICYqICQmKCAeJiogHiYqIBwmLCAkJiggHiYsICAmKiAeJiogJCYoIBwmLCAkJiggHiYsIB4mLCAeJiwgJCYqIB4mLiAmKCogIiYsIB4mLiAkKCogJigqICYoKiAgKCwgHiguIB4oLiAmKCogIigsICYoKiAmKCogICguICAoLiAgKC4gKCoqICYoKiAeKDAgKCosICYqLCAeKDAgJiosICIqLiAoKiwgICowICAqMCAoKiwgJCouICAqMCAoKiwgIiowICgqLCAiKjAgKiosICgsLiAmKi4gJCowICIqMCAgKjIgKCwuICgsLiAiLDIgKiwuICYsMCAqLC4gKiwuICYsMCAkLDAgLCwuICgsMCAiLDQgKiwuICosLiAqLDAgKCwwICgsMCAqLjAgJCw0ICIsNCAqLjAgKi4wICwuMCAmLjIgLi4uIC4uMCAsLjAgKi4yICwuMiAuMDAgIi42IC4wMCAsMDIgLjAwICwwMiAsMDIgMDAwIC4wMiAsMDIgMDAwIDAwMCAwMDAgLDAyIDIyMiAyMjIgLjI0ICowNCAuMjIgLjI0IC4yNCAuMjQgLjI2IC4yNiAwNDYgJjQ8IDA0NiAuNDggMjY4IDA2OCAyNjggMjY6IDI4OiA0ODogOrq6urq6urq6lUvLy8Zbe3q6urt6urq6urq6urq6urq6u3q6urq6uoqJFu2czsTHEiC6u3q6urq7erq6urt7erq6uns7OnpNBuYh2lcjpI7GR9E6enp7Onp6enp6ent6u3q6eno6D8noGV0aGhaSYZ5NB806Ojo6Ojo6Ojp6ert6urp6egAKltlhJOqrY1jX0yWYhkvPAAAAAAA6Onp6urq6unp6DUxeXytzc+qkZOEZE1QXRkqAAAAAADo6ent6urq6ezoNW9fl+7u5LStt41yclZSUBkFAAAAAOjp6erq7erp6YtEjnS8+O7b0ue0k4R2fl9bRhkMBgAA6Onp7ert6uLJSDd1fNv29efz4bfBoo1+iYBgZndHCQDo6enq6urq6XkZLJaFvPjy/Pvr48/HrJOEiWhYaZtiDDzp6erq7eqmRBo5PWmaxPHz/P/23d3Bj35shGpnVH2MTTbp6urq5ZgbLDAlInWVr+f4/f3k+s+3jXKTenpqaFaHczRK6uXWmCFCMSUlA0Zmo9z6/Pjx46yZhJl+cnZqcmhWgZXq6r6uLEU4OCEgIENvjsf8+vvXvMLBmZOTiWd6olhflertvt8nRSwrJS5PjpeXnsbu0sKq3fHBt7e3mbGZkWx56u3F90E+MxclN5a/y+Th8t3SotXu5Lzj4cG5qpl2Xnjt4ODUgS4wOw8aU4GBsr3x+/Xu0rzC3fbXxJmZ141aaOrl6rOWGyKOSxU3AwdPjJKKg4V/tbnh8dWqtMfEnmFu6urqyKZHJ8OHFUApBAIIQVNbOhaKiMTNxNv4x6xsXnnq6uXiunlOwpoXM0EjLA8dBBcLExiKfbfS8uTHom5uberq7eLioVX60X8INzEuHA8BCxULCwdccK+Zqo1kn4/l6urq6enQa/Wcbz4VLCsnCAgUFBcdCx1wm3Nlddi/2urq6urp6eiorPqFby0eMTIaFy0mDSAbERS4sqeUVens6urq6unp6ACk9N+4jFAaJCc5OigdHikUCxzTWVHo6ent7ert6enoAACkpceQZmAbIT44KRQdHRcPFQAAAOjp6erq6u3s7OgAAAAAnXZ4jlsaEzEbMSkgIxMJAAAA6Ozp6urq6uzp6AAAAAAApM6vwIwmCyxCLigUDhAAAADo6ent6urq7OnoAAAAAAAAALHvzMw3CiMmEQgSAAAAAOjp6e3q6urp7Ojo6Ojo6Ojo6PD5oMyrHRoLEdno6Ojo6Ozp6urq7enp7Onp6enp6ens7ObzsJuHUy3O6enp6enp7Ont6urq6urq6urq6urq6urq4LuxvbaG3url6urq6urq6urq7ert6u3q6urq6urq6url6sqp3urq6urq6urq6urq6uo"
+}

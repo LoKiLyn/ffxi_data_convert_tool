@@ -1,0 +1,30 @@
+{
+    "id": 4335,
+    "strings": {
+        "name": "Juicy Mutton",
+        "article_type": "A",
+        "singular_name": "slice of juicy mutton",
+        "plural_name": "slices of juicy mutton",
+        "description": "Succulent juices flow from this tasty\nroast mutton.\nSTR+3 INT-1\nAttack+27% (Max.35)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMzNSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAYSIAQGDiAGCA4gBAgQIAIIEiAECBAgCgoMIAQIEiAGCBIgBAoQIAQIFCACCBYgBAoUIAgKFCAIChIgBAoYIAYKFCAGDBIgBAoWIAgMFCAGDBQgCAoWIAgKGCAEChggDg4QIAgMFiAMDhIgCgwUIAgMFCAMDhIgCAwWIAwOEiAMDBYgCAwYIAgOFiAGDBogDg4SIAoOFCAKDBggDA4SIAYMGCAQDhQgCAwYIA4QEiAKDhYgEBASIAoOFiAGDhogEBASIAwOFiAIDBogCA4YIA4QFCAKDhggCAwcIAgOGiAMEBQgDBAWIAwOFiAKDhggEBAQIAoOGCAMEBYgEBASIA4QFCAMEBYgCg4aIBAQFCAMEBggEBIUIA4QFiAMDhogDBAYIAoQGiASEhQgCA4eIAoOHiAMEBogChAcIA4SFiAKEBogDBAaIAoQHiAIDiAgEhIUIA4SGCAQEhYgDBAaIAwSGCAKEBwgEBIYIAwQHCAMEB4gFBQUIBQSFiAOEhogDBAeIBQUFCAUFBQgEBIYIA4SGiAOEhwgChAeIA4SHCAMEhwgDhAeIA4SHCAMEh4gFBQWIBAUGiAQEhwgChIgIBASHiASFBggDhQcIAwUHiAOEiAgFBYYIBIUHCAQFB4gEBIgIA4SIiAQFBwgFBYaIA4UHiAWFhYgEBQeIBQWGCAOFCIgEhYcIBQWHCAQFh4gEBQeIBYWGCAUFhogEhQeIBAUICAOFCIgFhYaIBQWHCASFCAgEBQiIA4UJCAYGBggFhgaIBIWHiASFiAgGBgaIBAUJCAUGBwgFBYeIBQWICAQFiIgGBgaIBYYHCAWFh4gEhYgIBIWIiAaGhogGBocIBQYHiAUFiIgFBggIBIWJCAYGB4gFhggIBIYIiAQFiQgFBYkIBQYIiAaGhwgGBoeIBQYICAYGh4gFBgkIBYYJCAUGCYgGBogIBwcHCAYGiAgFhgkIBocHiAUGCYgFhoiIBwcHiAaGiAgFhgkIBgcICAWGiQgHBwcIBwcICAaHCIgFhwiIBQaKCAWGiQgFhomIBocICAYGiYgGBwkIB4eHiAYHCYgHBwkIB4eHiAYGiggGB4kIBocJiAWHCYgHh4gIBgeJiAaHCYgHB4kIBgcKCAYHCwgICAgIBweJCAYHiYgHB4mICAgICAaHiYgHB4mIBoeKCAaHCwgHB4oIBwgJiAaICggIiIiIBgeLCAaHC4gGiAqIBwgKCAiIiIgHCAqIBoeLCAeIiggGCIqIBwiKiAiJCQgHiIoIBwgLiAcIiwgHiIsICQkJCAeJCogHCIuICYmJiAeIjIgHiQsICYmJiAeJC4gKCgoICAmLiAgJDAgKioqICwsLCAuLi4gP/////////////////////////////////////////////////////////////////////49drQ+v////////////r6+vr6+vr6+pR8fJSzs8i+vrO1rKCfvvr6+vr/////+vrn5+fn5+eGweXs3N/e1eSxnsmmwIyHq+f6+v/////6+ucAAAAAgNvYtYXHx+nZ8cy7xcp30qpQq/r6//////r65wAAAGPN+djlaZ1zqcy1o5ijSEWwmIl22vr/////+vrnAABGsuHh5uVsmY+Oak9Naql/ong8z5Zi9f/////6+ucAAFDY4dfF9LG31c6iU11qeHhxPEOIrn6Q//////r6515jWc/w18Xlwu/23XF1iorEwnFSYIW1qq71////+u2Qv9mWgvOulvC7esy7Zqr04+XEcXGj4M57rcv////is5HJ6O2r4Orz0aqVsbBxu/zDnaK1vVi4wWitkfr/8qCDtObs3Mnu+/edaafdsKnMw6/ohc+9L1xccYR3y//QloKtz9HY6Pv3652TeHjStZjx6M9odGtYcX82Pkm52nzBuJOqjnqVxOG40c2ESE6Jqqa4tZN9mad/f0VoZbaUctfBaomOgZm7z+Xs7uqcf7CijZ2Fp1qefyNFHRJuuW2MiE03YY63no6v0dHc6srT3N95f1JpNFJcUXEjCk65h6NNTSRUqLeemaevfZe0ysqstHh4jYVPN0NOSCcdIb6EdVQROIqogWdhfWckeIWto5eynGBSXDMzFzYnGgsqy2tTcGdpI0opXXAzJBgUSISEVpastpYdIhECEQYOFC7yOkp9bEoSNENTdEMQKXUnO3tlO6WLpRIUPhYNCA4ds/8uSVhFhHNzXFxaMAsGXBYGSWBWR6WHRxQnYCcBCRv4/8uGZJOtkpeSaEoiERYaFw4EHVZkVnaLYiYyFAOa7f////6afFtkbi9JPjQ+K0gaDRYGL1ZkfHx3RA4SKn76//////r1mgc/ZElRaxJYNA0FWCcnJ1ZkcpaHW6Vbq/r/////+vrnPRlGLEImJlk7EgQGK102IicycpZyfJYoyP/////6+ucAAAAAGTEeOT9aEQ0MMzw8RTIOPmRutJtAS+L///r65wAAAAAAAD0xQS0fHxELKSI8Uw4vbndzg6G2n///+vrnAAAAAAAAAAA9JSA/Dw8aIiIFDCJFMGh7hLyz///6+ufn5+fn5+fn5+fn58uQSyYvQjsVDRowODBoi+f///r4+vr6+vr6+vr6+vr6+vr68quQR0QdI1aEYHzW///////////////////////////////92pRtS3KH0P////////////////////////////////////////////8"
+}

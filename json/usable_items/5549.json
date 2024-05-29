@@ -1,0 +1,30 @@
+{
+    "id": 5549,
+    "strings": {
+        "name": "Prz. Beef Stewpot",
+        "article_type": "A",
+        "singular_name": "prized beef stewpot",
+        "plural_name": "prized beef stewpots",
+        "description": "The cooking of this beef stewpot was\ndirected so that the ingredients were\nmasterfully utilized. Guaranteed to\nmake your mouth water.\nHP+10% (Max. 100)\nMP+20 STR+4 AGI+2 MND+2\nAttack+18% (Max. 80)\nEvasion+7\nHP recovered while healing +9\nMP recovered while healing +3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU0OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAIIAYICiAGCAogBAYOIAgKCiAICgwgCAgMIAoKCiAKCgogBggOIAoKCiAGDAogCgoKIAQIFCAICg4gCgoMIAwMDCAIChAgAggaIAwMDiAIChIgCgwOIAYKFCAMDA4gCgwQIAoMECAODg4gDA4QIAgQDiAEChggDA4SIAwOECAIDBYgDA4SIAwOEiAGChwgCAwYIA4OEiAOEBIgCg4WIAoOGiAGDBwgDBIQIA4QFCAUEhAgDhAUIA4QFCAMEBYgEBAUIBAQFCAKDhwgDBQSIBISEiAQEhYgEBIWIAoQGiAKEBwgChAeIAwWEiASEhYgFBQUIBoWECAGECIgEhQYIBoWEiAMEh4gChIgIA4WFCAcFg4gEhQYIBQWFiAMEiAgHBYSIBYWFiAOGBQgFBYYIAoSIiAcFhIgDhQgIB4YDiAUFhogHhgSIBQWGCAiGgwgHBgUIA4aFCAMFCIgHhgSIBIWHiAWGBggFhYaICIaECAMFCIgJBwMICIaECAaGBYgFhgaIA4WIiAUGhggFhgcIAwUJCAYGBogFBgcIBIWICAmHAwgJBwQICQcECAYGBwgDhYkIBIcGCAUGCAgHBoYIA4WJiAoHgwgHhoWIBgYHCAQFiQgFBoeIBYaHCAqHg4gEh4YIBgaHiAOGCYgEBgmICogDiAaGh4gEiAWIBAcICAWHCAgFhokIBAaJiAOGCogFB4aIBocHiASIBogGhwgIAoYLiAQGiogHh4eICQeGiAQGiogHB4gIB4eICAOGi4gIB4eIBIcKCAUJBogHh4gIBYeJCAcHiIgEhwsIBggJCAeICIgFBwsIBYkHCAWHiogFiIgICIgICAYICYgEiAoIBQeLCAgICIgGCYeIBoiJiAaJCAgICIkIBYgLCASHjAgFB4uIBgkJCAiIiQgGCggIBYgMCAiIiYgGCIqICYkIiAcJiIgGCggIBQgMiAkJCYgHCQqICgmJCAUIjIgGioiIBYiMCAkJCggHCQsIBQiNCAmJiggHiokICYmKiAiJiwgHCYuIBwsJCAmJiggGCQ0ICAqKCAeJi4gJigqIB4sJiAcJjIgKCgqICAsJiAgKC4gHi4mICoqLCAiKjAgKiosIBwqNCAiKjAgJiowICAwKCAiLiogKiwuICAqNCAmLDAgICw2IB4yKiAkLjQgKC4yICAuNiAiNCwgJi40ICQuNiAqMDIgJDA2IBouPCAqMDQgLjAyICg0LiAuMDQgJDYuICoyNiAmMjogMjI0ICAyPiAsNDggJDQ+ICo0PCAkND4gLDY6ICg2PiA2NjggLjg8IC44PiA4OjogMjo8IC46PCAwOj4gMjo+IDI8PiA0PD4gOD4+ID4+PiAAAAAAH19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fWtra2tra2tra2tra2tra2tra2tra2tra2tra2t9fX14a2pYWFhYWFhYXFJOTk5OTk5SXFhYWFhYWFhqa3h9fXhrX1gAAAAACQ0UICcuNzIuMRgLDQkAAAAAWGppeH19eGtqWAAACQUWLC9AZGx6enRsWzYvIgsJAABYX2t4fX14a19OCAsGJjY8QGRsho5+enR0W0Y8MiILCFhqa3h9fXhrRT0DAhkyMkBRW3SGiIiIemxbUVE2JiYQTl9reH19fUVa1mwKHzYsQFvD5eXz/vbr0I5RRlEyJiYtX2t4fXhUZsfQzjY8UcPQx1lZAQ4eSDMpmb/WpkAcGSZFanh9Xz3DyrQvlsO/QkhNKSEOOo2DdVcODgG0umQ8HEpQfX01orSuZKamKTk5XYpDqLxXIReDfHtXT29vwMovTGBrfYuiiGy0KFd1fJJiT5KnT3WaXY2prV18yZg8mcc3Zml4aUVktIJ7ijldbbmKPyoTTV11dZBxJK3bu4GBZ9BMaXh9ULofQjpdYh5DqKi3s5xNJZcOM5CJ1+HvzGd2NspfcnKelhJNqamXjYSKhDM6mpIeXdFigKDS/vXXzMxnv3NycrY8Ibe3XbOXil2axLmn3fnj7u+Ff6rn/vXi+el+sHJyth84xOrZxNvJuZpt0e7R8vnw4lZ5HTT26aTp/kDQcnK9LBXq/PzZ+/fJ7/n5/dns38VuuNqTd0Q7DFNTAuVycrAyEtn98cH8/dvx+vrg1+qBO4Wl2ktWVm64hx0CtnJ4jH4KMJ+1xtvXld3Bn6+7pER5wm6jK6OysVZLNAKMeHhetCMKCk/u+/j49OS10tydVsjayLKTm83Csh0CPGp4eHhzPBoKIcnu/f377czY3M+lm9Sjssu4yOiTGQ+ReH19fVywMhUSBCiVn8a10+Hk3NXIS3mT2tTmRBwHrj54fX14a1CeQBoVEkBbpMDc5+Hlvs2Fh6zeeQIsH6KIflB9fXhra0mUxy8jGh82MluZtKZ3Yysrbh8ZI669enp+kWl9eGlfWAgLuplRLB8mLB8jIyMaEhIfLKKuhn6GZj5pfX14a2pYAAAbEY+umTw8Lzc3JiZRpr2PR2F+enBFan14fXhrX1hYWFhYTklVZourw8OrkWZVSU5YQVpKQWtreH19eGtrX2tra2tra2tqX1xcXFxfampra2trXF9rX2l4fX14eH19fX19fX19fX19fX19fX19fX19fX19fX19eHh9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX0"
+}

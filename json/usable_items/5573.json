@@ -1,0 +1,30 @@
+{
+    "id": 5573,
+    "strings": {
+        "name": "Irmik Helvasi +1",
+        "article_type": "An",
+        "singular_name": "irmik helvasi +1",
+        "plural_name": "irmik helvasi +1",
+        "description": "An irmik helvasi baked to perfection\nby a master patissier.\nHP+10% (Max.100) MP+3% (Max.15) INT+2\nHP recovered while healing +1\nMP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU3MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAKCgogCAoMIAoKDCAKCgogCgoMIAoKDCAKDAwgCAoOIAgMECACCBggCAwQIAoMECAGDhIgCA4SIAgOEiAIDhIgBg4UIAYOFCAIDhQgBg4WIAgQFiAIEBYgChAUIAAOICAOEhYgCBIYIAYSGCACEB4gChIYIAgSHCAIFBogBhIeIAYSHiAKFBogBBIeIAISIiAIEh4gChQaIA4UGiAIFCAgBhQeIAwUHCAIFCAgBBIiIAwWHCAKFCAgEBYcIAgUICAMFh4gCBYeIAgUICAKFh4gBBQkIAYUIiAIFiAgCBYgIAoWICAGFiIgChYgIBQYGiAKFiAgChYgIAgWIiAGFiQgCBYiIBAYHiAKFiIgBhQmIAoWIiAKGCIgEBggIBQYHCAKFiQgBhYmIBAYIiAMGCIgChgiIAQWKCAOGCIgDBgiIAwWJCAUGBwgChgiIBIYICAMGCIgChgkIAoWJiAOGCIgDBgmIAwaJCAMGCQgDhoiIAoYJiAQGCQgDhokIBocHiAQGiQgFhwgIAwaJiAKGiYgDhokIBAaJCAcHBwgGhweIA4aJiAWGiQgEBwkIAwaJiAcHB4gDhwmIBAcJiAQHCYgEhwmIBAcJiAMHCogGB4kIA4cKCAKHCogFh4kIBYcJiAWHCggEB4oIBYeJiASHiggEB4oIBweJiAgICAgEB4oIBAeKiAcICIgEh4qICAgICASICggICAgIBogJCAUICggEh4qIBIgKiAeICYgDiAsICIiIiAUICogHCAmIBIgLCAUICogECAsIBIgLCAiIiIgHCImIBogKCAUICogGCAoIBYiKiAYIiogFCIsIBIiLCAeIiYgFiIqIBAiLiAUIiwgGCIqIBYiLCAiJCQgFiIsIB4iKiAWIiwgGCIqIBQiLiAYJCwgFCIuICAkKiAWJCwgGiQsIBQkLiAiJCggGCQsIBgkLCAaJCwgFiQuIBQkMCAeJCwgJiYmIBokLCAYJC4gGiQuICYmJiAcJCwgGCYuIBYkLiAaJi4gFiYwIBwmLiAoKCggHCYuIBomLiAWJjAgFiYwIBwmLiAaJjAgGiYwICgoKCAcJjAgGigwIB4oMCAcKDAgHCYwIB4oMCAYKDIgHCgwIBwoMCAaKDAgKCgsIB4oMCAYKDIgKioqICgoLCAcKDIgHigyIBooMiAqKCwgKioqIB4oMiAaKjIgICowICoqLCAsKiwgKioqICAqMiAeKjIgHCo0ICoqLiAaKjQgHio0ICwsLCAeLDQgIiw0IB4sNCAuLi4gICw0IDAsLiAuLi4gIC42ICIuNiAiLjYgJDA4IDQwMCAkMDYgIjA4ICQwOCAkMjggJDI4IDo4OiAAAAAAPPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz88PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8Pz8/Pzw8OWlpaWlpaWj4iGgYGBgYaIj5aWlpaWlpbDw/Pz8/PDw5YAAAEGDRASFRwdISgfFhMSEA0GAQAAlsPD8/Pz88PDlgINERhIWnGZgn9/flVDSENIJBgRDQKWw8Pz8/Pzw8NiD0BndIeKo6SMh5mbk4d0Z05aXj8UD2LDw/Pz8/PDaixXk4qboK+9qK6zubKokHRrYV5OQEg0GWrD8/Pz8GJRnKOpm6mTncLJyc+zorOkgnFoXk9OXmcrFGLw8/OlLGygvb2vo5OovtTPycGwqpmFdHFnWldXSDQ5F6Xz7GRzirTEubmonrvAzdvNxrWqlYt8fmthVUM6OV45PuzleZyvyL25srOzxcXJ1c3Btaqei3xnTldHOjU6SCUp5dl5tMivoMC7xc/Fv83bzcG2qo6Lf2U9VUhBOjo5LSPZ35evz7uTyNHFwMXM2Njhyr+qjot8XnRFXUM6OjUwRN/sn7TUuaC5xcXPyc3V3efHtqqUi39wXXxdS0E1LSNk7PPLmuK7k8jRyMnKxtvx9fHo2L+Vf4VydGFBSzoqIMvz8OyE4tvC1NTn7e/69/38/Pf36ujKtYV8ZU9HOipU7PDz85ac4Nzr7/b78evTzNzQ66qiys3VtX9rWFgyJ5bz8/PzvInm8fT79NfrzdPU5tTglaqzq6tjqIxrZTJKuPPz8/PDj+b5+fTTusWopouFLpWV8o2paGhok5lYPI+88/Pz88Oxl+biznUaQtryWy5bk3P+8l5FXZNocWVJuMPz8/Pzw8NpnaumZkLa8v7+5HRdTS1SQVp+cEthT2nDw/Pz8/PDw4YzUEzp6UVz8v7+/o09HjcmMDI8aGs7hsPD8/Pz88PDlghyeAxZ49b+8v7yYCqA443yUFt+NgiWw8Pz8/Pzw8OWAAkvX0aY/v7++N7y5P6fYHBwOBgJAJbDw/Pz8/PDw5YAAAcLIlu31v7y6bGtp2xTSBYKBwAAlsPD8/Pz88PDlgAAAAEFBBIxdn17epFWGw4EBQEAAACWw8Pz8/Pzw8OWAAAAAAAAAQIDAwMDAwMCAQAAAAAAAJbDw/Pz8/PDw5aWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlsPD8/Pz88O8w8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDvMPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/M"
+}

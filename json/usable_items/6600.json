@@ -1,0 +1,28 @@
+{
+    "id": 6600,
+    "strings": {
+        "name": "Egg Sand. +1",
+        "article_type": "An",
+        "singular_name": "egg sandwich +1",
+        "plural_name": "egg sandwiches +1",
+        "description": "A delectable egg sandwich made with pizzazz. \nHP+10% (Max. 105)\nVIT+6 MND+6\nAccuracy+10% (Max. 55)\nDEF+10% (Max. 105)\nEnmity+2"
+    },
+    "flags": [
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjYwMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAoKIAoKCiAGDgogDA4QIAgQDiAIEBAgChIOIAoUECAOEhQgChQQIA4UECAIFhAgDBQSIAwUFCAOFBQgChgSIAgUHCAOFhggEBQYIAwYEiAQFhQgDBgUIAwWGCAIGhQgEBoSIA4aGCAMHBYgEBoYIBIYHCAKHhYgChwYIA4eFiAKHhYgBhYoIA4YICASGhogDBwaIAoeGiAIFiggGhoaIBgaHCAOHhggCBgqIBIaIiAKIBogBBYwIAwgGCAOGiQgBhguIBYcICAWHhogCBgsIBIcJCAUHh4gFCAaIAogHCAUHCIgEhwkIBAcJCAIGi4gHB4eIBgcICAQIBwgGB4eIBAeJCAMIh4gCBouIBgeIiAeHh4gEiIcIBIeJiAcICAgDBwsIAwcLiAgICAgFCIgIBYgJCASJBwgFB4oIBAcLCASHiogICAgIBAkHiAMHC4gFiAmIBQiIiAUICggChwyIBYgJiAQJiAgFCAoICAgIiAcICQgFiImIBAeLCAMHjIgGCAqIBAeMCAiIiIgHiIkIBoiJCAWICogHiQiIBImICAYIiYgFiAqIAwgMiAUICwgEiggIBgiKiAkJCQgHCQkIBwkKCAcJiIgICQmIBYoIiAOIDQgJCQkIBYkLCAUIjAgGCQqIBYkLiAWKiAgFCIwIBokLCAOIjQgFiQwICYmJiAYJC4gFiQwIBAkNCAWLCQgECwiIBwmLCAYJDAgJiYmIBomLCAcJiogGCYuICYmJiAYJDIgIigoICgoKCAYJjAgGiYwIBIkNiAYLiIgFiYyIB4qJiAYLCYgGiYwIBwoLiAQJjggGiYyICAoLCAeKDAgFCY2IBgmNCAcKDIgGig0ICoqKiAgKDAgFjAmICQqLCAcKDQgKioqIBYuKiAgKjAgKioqICYsLCAeKjIgGio2IBwwKCAiKjIgLCwsIB4qNCAWMC4gJiwwIBgqNiAkLDAgHCo4ICwsLCAiLDIgKCwwIB4qNiAqLC4gLi4uICAuMCAkLDIgHiw4IC4uLiAmLjIgJi4yICAsNiAcLjYgHCw6ICowMCAgLjogIi42IB4uOCAoMDIgJjAyICYuNiAeMDggJjA2ICowNCAgMDogJDI2ICoyNCAoMDYgIjI2ICwyNCAgMD4gLDI2IC40NCAmMjggIjQ4ICwyNiAmNDggKDQ4ICI0OiAqNDggLjQ4ICg2OCAwNDYgLjY4ICw0OiAkNjogMDY4IC42OiAoODggLjY4ICw2OiAmODogMjY4IC42OiAuODogNjg4IDY4OCAwODogMjg6IDA4OiA0ODogNDo6IDI6PCA2OjogNDo+IDY6PCA4PDwgNjo+IDo8PiA4PD4gPD4+ID4+PiAAAAAAL+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7avqaampqm7u7+/v7+/v7+/v7+/v7+/v4+Pj4+Pj4hjPjk1NTUwLCwySHaPj4+Pj4+Pj4+/v7+/j49jY2M9PlVbaneLi4F6enpfIylLY2NjY2OPj7+/v7+Pj2MCE1lufWZueouLi5+wxsasfFEJAgAAY4+Pv7+/v4+PYxNZkX19W253gYuasJSauc/VxI0TAgBjj4+/v7+/j49FOmZ3d1tPZm56pYeXgpqUtb7V1cQdAmOPj7+/v7+PgERPR3pmO0FXZmqHf4KCeJ6sxMbP3dMdY4+Pv7+/v49chjoRV08wT09banh/f3x4lKWzyM/Z57xLj4+/v7+/gHNNHAYSXldHT0FXbHh/fJSUnp7M0Nnq5GeAj7+/v79jrjYhGjlNW3dHR253f3+CkJSerMPM2eTn6GOPv7+/v1yYeWk7O6S0T4mJnJywsJCQmqC5zMzb2eftc4i/v7+2XZiuhkdeybRQJ2zcy5+Rl5eapcK+zNvg4+nJb7+/u7ZdiqgVcV7AqDQnJ2yron2LmqCwvsfQ4uDt4OBzv7+7uymGHAh5irS0eDQ0KyKcn5qrq8fL4+Le2+jn7Y62v7+7CxULB5ubtL1/VDw8NCKRn67L383e69ve4unyqq+7v6kLCwgFctHAwMFrfms0KyJ90uXl39/i3Ojb6fTFqb+/thUWFg0g1NfJztGSdYN1SUm96+vr4uLl3uDm8temu7+mDyAbDRnF1PHB0r6dnZ2dnV/l8+Xe7dzY4+nxqru/u79FRhsIBQbh8/TO1s25kp7Wt3rt7fr86urr8fNvv7+/v29MaC8aDg/X9vbU2t/f39ZDSkr+/v7q6vz472+/v7+/gDdtUwwkAw3h9vn75dKaPGIxLmz+/urq/PuPjL+/v7+AM6doP2UeBQxW+PvzvZxDYFh1nofr5ur94W+Pv7+/v4hSo7FtcD8hIRDe8+zBwJCDg4OgmFCu/O5Lj4+/v7+/j4woFAoqLyEeGCDy9ezOydrN0s18Ypy4BGOPj7+/v7+Pj2MBASVOIRgmHz/39ffj49/f0WKX5mQAY4+Pv7+/v4+PYwACF0YvJjhaWlb4+/v79tq9y+ayAQBjj4+/v7+/j49jAARZk3SFhC1COB7x77rl7Objyh0CAGOPj7+/v7+Pj2NjUjZ7WlpoaJZoQEVcUnNdzkhFY2NvY4+Pv7+/v4+Ij4+PZ3ItH2itdEiAj4yMj4iAjI+Pj4+PiI+/v7+/v7+/v7+/oWdMaJWIu7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7u/u6+mpru/v7+/v7+/v7+/v7+/v7+/v78"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 4516,
+    "strings": {
+        "name": "Grilled Black Hare",
+        "article_type": "A",
+        "singular_name": "slice of grilled black hare",
+        "plural_name": "slices of grilled black hare",
+        "description": "Deliciously roasted wild hare meat.\nSTR+2 INT-1\nAttack+20% (Max. 30)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDUxNiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgIGIAACBiACBAYgAgQIIAIECCAEBAggAgQKIAQECiAEBgogBAYKIAQGCiAEBgogAgYMIAQGCiAEBgogBAYMIAQGDCACBgwgBAYMIAQGDCAGBgwgBAgMIAQGDCAEBg4gBAYMIAYGDCAGCAwgBAgMIAQGDiAGCAwgBAgMIAQGECAGCAwgBggOIAYIDiAGCA4gBggOIAQIDiAGCA4gBggOIAYIDiAGCA4gBggOIAYIDiAGCA4gBggOIAQIEiAGCBAgBggQIAgIDiAGCBAgCAoOIAYKDiAGCg4gBggQIAYKECAGCBIgCAoQIAYKECAGChAgBggSIAgKECAIChAgCAoQIAYKECAGCBIgCAoQIAgKECAIChAgBgoQIAgKECAGChAgCAoSIAYKEiAIChAgCAoQIAgKECAGChQgCAoQIAYIFiAIChIgCAoSIAgKEiAGChIgCAwQIAgKFCAKDBAgCAwSIAYMEiAIChIgCAoSIAgKEiAIDBIgCAwSIAgMEiAIDBIgCAwSIAYKFCAGDBQgBgoWIAgMEiAIDBIgCgwSIAgMFCAIChQgBgwSIAgKFiAIDBQgCgwSIAgMFCAKDBQgCAwUIAgKFiAKDBIgCgwUIAoMFCAIDBYgCAwUIAoMFCAIDBYgCA4UIAgMFiAKDhQgCgwUIAoMFCAKDBQgCgwUIAoMFiAKDhQgCgwWIAgOFiAIDhYgCgwWIAYMFiAIDBggDA4UIAwOFCAKDhYgCg4UIAgOFiAIDBggCg4YIAgOGCAMDhQgCg4WIAwOFiAKDhYgCAwaIAoOFiAMDhggCA4YIAoOGCAKDBogDA4WIAoOFiAKDhYgCg4aIAwQFiAMDhggDA4YIAgOGCAOEBYgChAYIAwOGCAMDhggBg4cIAwQGCAKDhggCg4aIAgOHiAIDhwgCg4aIAgOGiAMDhogCg4cIAwQGCAOEBYgDBAYIAoQGiAMEBYgDBAaIAoQGiAMEBogDA4cIAwQGCAOEBogDhAaIAwQGiAMEBwgDhAaIAgQHCAMEhggDBAeIBASFiAOEhggDhAaIAwSGCAMEhogChIaIAwQHCAKEB4gEBIYIAwSHCAOEhogDhAeIBAUGiASFBggDhAgIA4SHCAQEhwgDhIeIBAUGiAMEh4gDhAiIBQUGCAOEiAgDBIgIA4SHiAQEiAgEBQeIBQWGCAQFBwgEBQeIBQWGiAQFB4gEBIiIBYWGiASFCIgEhYiIBIYICAYGhwgFhgcIBIWJiAUFiQgGBoeIBocHiAWGiQgGhweIBQaJCAcHB4gHB4eIBweICAYHCYgHB4gICAgIiAgICAgICIiICIiIiAiJCYgJiYmICYmKiAoKCggKioqICwsLCAuLi4gP////////////////////////////////////////////////////////////////////////////////////////z8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz//////Pr4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj6/P/////8/PgAAAAA4Xx8iUM/Pj4+PkM1vAAAAAAA+Pz8//////z8+AC5gYs2mNvq6eTT4rW4mkhXvrsAAAD4/Pz//////Pz33E3z5a+Yk8ikvaA/t6DY2dKLiJIAAPj8/P/////8+pCL7ZhnVFOOjBsmFV9uPGtp1sm6TUsA+Pz8//////xVzuLfqZlBrtAqUVEfLjsfLplKa5alV5/4/Pz/////7FvSsI0xFhuLeCFnWj+RDlyDhydiF4LIPvf8/P////5yfadHG2sqKoxwbH16j5t3ujRvCh/NKqR3ovz8////+y26gl3OXVFls61Is0yPmkbmRzIXbTvaHodM8fz////rsrOH74CXLaPEqLd3Fne1sLWiG31nHqM0BnE//P///7HRIZG6fWVRLWeUZTJorKSTwB57srqRXjYwSof1////wsyRoDpeMA4yUUoeLGwhLExpEZzAW7RVDiE6yMr////KITqnqpShHKyqq0wjhFFsaFQUDi0bRy0JMht4df///8oyx5uOW0CD1b2/XAqEpnBJgDEXsl9aLBxAOFF4////+VWyx5N5bG2kqGdREYzLm1xTNy6zaxw2UxtMslz////9ssagTKiTZYR3U3gsWoI4Kg7eO0kSJxxOMcN9Mv/////gOjJHhL3BcDSHFlGoaFMjLHsSRh0JMWRQeZUr//////zoXW+Lta1wLTAjs6Q4LgMZm1GEVAlKQk5CdhX//////Pzufm/UtkhqLhc3d2g4KnhJFyMsBhwjSrQOHv/////8/Pifc1iVw1dGVWdwPAcHSZUdEQMBChMeTBex//////z8+AAAik9AcZCeXh8cBWMTBBkQCCBQFAMGF/X//////Pz4AAAAn2BZXnvDTEYHYzFfLx0FjUIqEQXP/P/////8/PgAAAAAAH9hRHvFCwRUIzEdAgNTNyQPZ/z8//////z8+AAAAAAAAABmYTMoJCQRFyYHCywoJCX4/Pz//////Pz4AAAAAAAAAAAAZktFIiQPDygPDCIpAPj8/P/////8/Pj4+Pj4+Pj4+Pj4+Pj28ePd1+fw+Pj4+Pz8//////z8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz////+//////////////////////////////////////7///////////////////////////////////////////8"
+}

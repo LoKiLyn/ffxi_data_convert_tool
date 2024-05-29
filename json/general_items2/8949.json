@@ -1,0 +1,24 @@
+{
+    "id": 8949,
+    "strings": {
+        "name": "Snowdim Stone +1",
+        "article_type": "A",
+        "singular_name": "snowdim stone +1",
+        "plural_name": "snowdim stones +1",
+        "description": "Cold to the touch, this stone possesses a more ethereal hue than its relatives, akin to a light flurry."
+    },
+    "flags": [
+        "MysteryBox",
+        "NoSale"
+    ],
+    "stack_size": 99,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 1,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgODk0OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAiACAgIgBAQEIAQEBCAGBAQgBgYGIAYGBiAICAggCAgIIAoICCAICAggCgoKIAwKCiAMDAogDAwMIAwMDCAMDAwgDAwMIA4MDCAODgwgDg4MIA4ODiAODg4gEA4QIBAOECAQEA4gEBAQIBAQECAQEBAgEhAQIBIQEiAUEhAgEhIQIBISEiASEhAgEhISIBISEiASEhIgEhIUIBQSEiASEhQgFBISIBISFCASEhIgFBIUIBQUFCAUEhQgFBQUIBQUFCAUFBYgFhQUIBQUFCAUFBYgFhYWIBYWFiAWFhYgFhYWIBYWFiAWFhYgFhYWIBYWFiAWFhYgFhYWIBYWGCAYFhYgFhYYIBgYGCAWFhggFhYYIBgYGCAYFhggGBgYIBgYGCAWGBggGBgYIBgYGCAYGBggGBgYIBgYGCAYGBogGhgYIBgYGiAYGBogGBoYIBgYGiAYGBogGhoaIBgaGiAYGhogGBoaIBoaGiAaGhogGhoaIBoaGiAYGhogGhoaIBoaGiAaGhogGhoaIBoaGiAaGhogGhoaIBoaGiAaGhwgGhoaIBoaGiAaGhogGhoaIBoaGiAaGhwgGhocIBwaGiAaGhogGhocIBwcGiAaHBwgGhwcIBwcHCAcHBwgHBwcIBocHCAcHBwgHBwcIBwcHCAcHBwgHBwcIBwcHCAcHBwgHBwcIBwcHCAcHB4gHBwcIB4eHCAcHhwgHB4cIBweHiAeHhwgHh4eIB4eHiAeHh4gHh4eIB4eHiAcHh4gHh4eIB4eHiAeHh4gHh4eIB4eHiAeHh4gHh4eIB4eHiAeHh4gHh4eICAgHiAeHh4gHh4gICAgICAeICAgHiAgICAgICAeICAgICAgICAgICAeICAgICAgICAgICAgICAgIiAgICAgICAgICAgICAiICAgIiAgIiIgIiIiICAiIiAiIiIgIiIiICIiIiAgIiIgIiIiICIiIiAiIiIgIiIiICIiIiAiJCIgIiIkICIiIiAkJCIgIiIkICQkJCAiJCQgJCQkICIkJCAiJCQgIiQkICQkJCAkJCQgJCQkICQkJCAkJCQgJCQkICQkJCAkJCQgJCQkICQkJiAkJCYgJiYmICQmJiAkJiYgJCYmICYmJiAmJiYgJiYmICYmJiAmJiYgJiYmICgoKCAmKCggKCgoICgoKCAoKCggKCgoICgoKCAqKiogKioqICoqKiAqKiogKioqICoqKiAqKiwgKiwsICwsLCAsLCwgLCwsIC4uLiAsLi4gLi4uIC4uLiAuLi4gLjAwIDAwMCAAAAAAPv7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7++bm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ub7+/v75ubDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8Pm5vv7+/vm5sMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw+bm+/v7++bltQUGBwcEAQAAAAAAAAAAAAAAAAAAAADD5ub7+/v75cVbHiAuMCETCAcGAQAAAAAAAAAAAAAAAMPm5vv7+/vDTGhwoZaATkc9LScQCAUAAAAAAAAAAAAAw+bm+/v75Fmj1Pz+/v3v7uvEp1k1FwsDAAAAAAAAAADD5ub7++1k6vXy9ff69PLs8+jrzZI5MhIJBQAAAAAAAMPm5vv76cfY5eHi3de6ssjS4+bu4HZ2MSMeDQUBAAAAw+bm+/vpw9ng2crWzMKmn7nI09fkydOWQDosHQ4HAgDD5ub7++nj5dnR0b/bz8qpu8LR1ru9xr2bejY7NyYUCbXm5vv76cHX3N7Fz9DCwMK5uc+vsLa2qMmlqJ5YMywvRdHh+/vxcN6759jOxa66xbK8q52Jja2gpaSYfaeDQzYrK171+/rVq7a709HHuLG+nKyrmYiKi5GzfYGNi4ejXjg0Kaj4+/qRtrWeuMW6tLKEhLCalJ6OtqCJh4dkXo2Xqn44Ku77++WUrbugm6ayooRtapOls4qOjIiFiYViemCLkUo86fv75uZqnbSvrbOtc3l+pauzf1+tsIFve6RuYGt9bzbp+/vm5r8NaYeAj2FhlJ6llIyGa3x/a3tniHl0ZlhLJej7++bmwwAHIoeHcYV+W1aGf36MZWyajHKCZW90TUQ+6fv75ubDAAADDEmYiVZkc4h/e29sX3VyZXR7ZldLSnDy+/vm5sMAAAAABhxJd1tbV4aCfG9dX1JPZniQZ1xq3Pv7++bmwwAAAAAAAgUKKEZigpGcf2BjbGBxXGNtQnr7+Pv75ubDAAAAAAAAAAAECB9RWniIiop/f4ptQjmv5fv7+/vm5sMAAAAAAAAAAAAAAwcIFiRNP0tLSDoQsOXm+/v7++bmwwAAAAAAAAAAAAAAAAACBREYGhkVDwDD5ub7+/v75ubDAAAAAAAAAAAAAAAAAAAAAAICAgEAAMPm5vv7+/vm5sPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw+bm+/v7++bm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ub7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/s"
+}

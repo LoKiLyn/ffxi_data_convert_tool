@@ -1,0 +1,30 @@
+{
+    "id": 5578,
+    "strings": {
+        "name": "Sutlac +1",
+        "article_type": "A",
+        "singular_name": "bowl of sutlac +1",
+        "plural_name": "bowls of sutlac +1",
+        "description": "Only a master patissier could have\nmade this exceptionally delicious\nserving of sutlac.\nHP+10 MP+10 INT+2\nHP recovered while healing +1\nMP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU3OCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABggMIAgICCAKCgogCgoKIAgKDiAICgwgBgoQIAIKFCAECBYgCgwQIAQIGiAIDBIgCAwUIAYKFCAEChogBAocIAYMGCAIDBQgCg4UIAgMFiAGChwgDA4UIAYMGiAIDhggDhASIAQMHCAGDBwgAgweIAgOGiAKEBYgCA4cIAgQGCAGDCAgBg4eIBASFCAKEBogCBAaIBASFiAGDiAgBA4iIAYQHiAEDiIgBAwmIAwSGCAMEBogChAeIBASFiAGDiAgChAcIAYOJCAMEhogBhAgIAYQIiAEDiYgEBIYIAgSHiAEDiQgDBIcIAYQIiAEDiYgDhIcIAoSHiAKEiAgEhQYIAYQJiAOFBwgCBIkIAwSICAGECggFBYYIBIUGiAGECYgDhQgIAYSJiAEECogDhQeIAYSKCAOFCAgDhQgIAwUIiAGEiggFBYcIBIWHiAOFiAgCBIoIAQSKiAMFiIgFhgaIBQYHCAQFiIgEBYgIAYUKiAUGB4gEBYgIAoWJiAIFCggCBQqIBgYHCAQFiIgEhggIAwWJiAGFCwgCBQsIBIYIiAIFiogDhgiIAYULCAYGhwgFhgeIBAYJCAKFiggFBggIAwYJCAEFC4gEBgkIBgaHiAIFiwgCBYqIAQWLiAOGCggFBgkIBYaIiAQGCYgGhweIBIYJiAMFiwgEBokIBIaJCAWGiIgBhguIAQWMCAaHCAgChomIBAYKCAUGiQgBhgwIBQaJiAOHCYgFhokIAgYLiAcHh4gFBomIAoYLiAaHCIgDhwoIB4eHiAYHCQgFhwmIBQcKCAGGjAgHB4iIBoeJCAWHCggEhwoIAoaMCAGGjAgChwuIBIeJiAWHCggDhwuICAgICAGHDIgGB4oIBYeKiAIHDIgDhwwIA4eLiAUHC4gIiIiIAoeMiAWHi4gDh4wIBggKiAiIiIgFiAqIAogMCAYICwgEiAuIAgeNCAaICwgECAwIAggMiAYIiwgDCA0IBwiLCAIIjQgJCQkIBAiMiAOIDQgJCQkIBQkLiAeIiwgGCAyIAwkMiAIIjYgGiQsIAokNCAmJiYgHiQuIBIiNiAWJDIgCiQ2ICYmJiAYJi4gECQ2ICgoKCAMJjYgHCYuICImLiAOJjYgICYwIBImNiAYJjQgDiY4ICoqKiAaKDAgECg2ICoqKiAaKDYgGioyIBAqNiAMKjggFCg4IBgqNCAsLCwgJCoyIBAqOCAaLDQgFCo4ICwsLCAgLDIgEiw2IBAsOCAYLDYgHCw2IC4uLiAgLDggFC44IBwuOCAgLjYgIC44IBwuOCAaLjwgIDA2IBoyPCAuMDYgIjI4ICI0OiAoNDggIjQ6ICY2PCAiNj4gKjg8IDY+PiAAAAAAOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7M7Ozs7Ozs7Ozs7Lxr67u77Gy87Ozs7Ozs7Ozs7s7Ozszsuurq6urqmNbFhdU1NTU1JYbI2prq6urq7Lzuzs7OzOzq4AAAMKN3mZjk5zW1ROSU46IBMKAwAArs7O7Ozs7M7OrgQGLWiHo6OJblQ6MzM6OiAkMSAMBgSuzs7s7Ozszs6pBT1ajouHh0wzQkI6OkIRHRggICQSBanOzuzs7OzOxkZCY46JjpnA0/b2x8fHsa2UTDMkICAURsbO7Ozs7Mt0Qkxoh63i4rfQxMTEraSapK25sYBCCA4OdMvs7OzsqSxMW5XHtK3Q5/n7+N3dwtzMrYCJiaRkFAgsqezs5tceOluxmX3Y9P7+/frdxZy29fv89difWoCAIB0W1+bsrkxOlYbE8Pr7+/jvtsjbpb3z7ta22ePgmm6fRBiu7OEvZJ+at/f3+PjryWlnyO3fxZaWjKXK1M28r26OPi/h2jOLtJr08PTryatVSkOnrN26d6KbnIJrYWHVn4B9HtraQqN7r+vVyadnQUhDNUiWyraqxbasdlFhVYLYlZ9k2tpotFewq35cS1VIKhxBa4KIs8+2jFxFPDJWuOCviZPa2ouJOEMyOU1NRTk1NUg5KD9lSig2UU08K6Lu8Ldak9rai04dMDVBVVFrVTUhIRcOBw0JCzJmd1aI3t7xikmT2uGYTh14SkhRVWk7IhoXCAEBBw4uMkWIqtnpw7VuSZPh5pdJOHsyIiInJxoPFQ8IBxQNPnMpMI/u6Nazsk9ol+bsvnBOMVAREQ8aFRBNRTQuHRwuIhs0YLWdgqxXT4e77OzXZE4xmjEXDxUhdbNcRSe0pjwnIjA7QUpvez5UcNfs7OyhUzE+t2ofImW4m5Z1QcnlflU7XGA7e5o4P1uS7Ozs7MaNTDElnp6GVbjPnW+P2ejPiHWlp8x7MS5bfMbs7Ozszrt8VDElMW5/v7+8oKzS5dnU6syROCVEbmK7zuzs7OzOzqFAXlQ+MTFxiq/w9/f05L+FVyVJgF4moc7O7Ozs7M7OrgQCWVRUMTExVFQcKT5XX1BXgGM3AgSuzs7s7Ozszs6uAAADI1mBgXp6enp6ennA0ZhHGQMAAK7Ozuzs7OzOzq6urq6uqaGShHR6enqQkHySl6murq6urs7O7Ozs7M7Ozs7Ozs7Ozs7Oxr67u77Gzs7Ozs7Ozs7Ozs7s7Ozm7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Obs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ow"
+}

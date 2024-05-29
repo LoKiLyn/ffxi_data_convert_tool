@@ -1,0 +1,30 @@
+{
+    "id": 6465,
+    "strings": {
+        "name": "Behe. Steak +1",
+        "article_type": "A",
+        "singular_name": "behemoth steak +1",
+        "plural_name": "behemoth steaks +1",
+        "description": "Perfectly cooked on the outside with\na hot red center, this juicy meal melts\nin your mouth without needing to be\naccented by sauce of any kind.\nHP+45 STR+8 DEX+8 INT-4\nAttack+24% (Max. 165)\nRanged Attack+24% (Max. 165)\n\"Triple Attack\"+2%\n\"Lizard Killer\"+5\nHP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjQ2NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgICIAICCCAEBAQgBAQGIAQECCACBAwgBgYGIAQEDCAGBgogCAgIIAgGCCAICAggAgQOIAQGDCAEBhAgBggOIAoICiAICAwgBAYSIAYIECAEBhQgDAoMIAoKDiAICBIgBggUIAwMDCAMDAwgBAoUIAwMDiAKChIgCAoUIAIKFiAODA4gCAoUIA4ODiAODg4gCgwUIAwMEiAIDBYgDg4OIAYMGCAKDBQgBAwYIAoMGCAIChwgEBAQIAAQFiAKDBogDA4WIAoOGCAIDBogEBASIAwOGiAIDhogEhISIA4QGCACDh4gCA4eIAISGiASEhIgCg4cIAwQGiAGEBwgCBIYIAwOHiAMEBogDhAaIAYSHCACECAgFBIUIAoQHCAMEB4gChIaIAIQIiAKEB4gDhIaIAoSHCAEFBwgFhQUIAwSHCAMEB4gEhQYIBQUFiAOEhwgDBAiIAQUHiAEEiIgDhIgIBYWFiAUFBggEBQcIAgWGiAOFB4gChQcIA4SIiAOEiAgCBQeIAQSJCAWFhYgEhQeIAQWHiASFBwgDhIkIAYUJCAQFCAgDBYeIAYWICASFB4gBBQmIBgYGCAYGBggDhQiIBAUICAOFiAgDBgeIBYWGiAYGBggEhYgIAwWICAYGBggEBQkIBoYGCAMGCAgEBYiIBIYHiAGFCogBhgiIBYYHiAaGhogEBYkIBoaGiAWFiAgBBQsIBAWJCAKGCIgEBogIBoaGiAaGhogEBgkIBIWKCAOGiIgEhgkIAgYKiAcHBwgEhYqIAQWLiAYGiIgDBokIBIYKCAWGCQgEBokIBocHiAcHBwgHBwcIAgYLCAcHBwgDhokIBgcHiAUGCYgCBwmIBwcHiAUGCggEBwkIA4cJiAeHh4gDBgsIBAeJCAeHh4gCBouIBgcJiAUGiggHh4eIBIeJCAUHCggFhosIBocJiAQHiYgEhwqICAgICAYHCogHB4mICAgICAUICYgFhwqIBoeJCASICYgICAgIB4gIiAYHiogGCAmICAgICAgICAgFCAmIBQeLCAiIiIgICAoIBAgKiAiIiIgEiIoIAweMiAiIiIgFiAsIBQiKCAiIiIgICAqICQiIiAiIiQgFiAuICQkJCAaJCYgHiIoIBYkKiASJCwgDiA0ICQkJCAYJCogJiYmICQmJiAQIjQgGiQuIBgmLCAmJiYgHiIwICYmJiAcJiogFiYuICYmJiAoKCggEiQ4IBooLiAoKCggKCgoIBgoMCAoKCggGCY4ICoqKiAgKi4gGioyIBwqMiAsLCwgICwyICwsLCAsLCwgIi4wICAsNCAuLi4gLi4uICAuNCAmMDQgJDA2ICgyNCAAAAAAPr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+fn6+vr6+vr6+vr6+vr6+vr6+vr6+ufn5+fn5+fm5s++vsnMzMzMydTj5ufn5+fn5+f6+vr65+fMzMzMvqhyXH2vxsKrwqudeIaouczMzMzn5/r6+vrn58wAAQMeSY2dpJ14XFxWVlZWjZN7AwIAzOfn+vr6+ufnzAMOUq+keF1VKxooKRQVJElJNzd4nwPJ5+f6+vr65+aNFIbCN4ddJTYRLBYbGy8FBg8xNyQrjYzm5/r6+vrnqCC2kyVFVBsTiVMLFxMMExEbBA8ZJCAkz6vj+vr6+r4ktndPOSU0DAs4dDQMNSoqCAsQEQQUGSQg3Yz2+vnvP7mMMxslFyE1U2NsdEtLQXQ7CAsLEwgHIBQnr+r69o1yqzUSEyVsFypziaK3mOLQWLOHOxMLIQ8HIBRczPnqXMavFiJFY2AtcxxLspRqYjNEMz2ZrSkMCwgHGRmN6u14tp04LyVXoruYpVhLajAYEhAJEhc4V28XEAknIIbq6r6Tq1AlQY4zRLuPGGpEH26CaFE+MhIbNEYXESEnjOrqtp2vjlciYIV8sjBiTh9o1+DOys7XPi0RV2ctXTGv6urak6HARWBXc4mlj1g5ZOzki3Z2dr3YMiizuEZyMb7t6uOdQ23FjmBXhVuYahx6+4t2tL3EQ8RZG2fHO0k/3e3q6qFhtKCKrrFFYGlBUKP8kF/OuqpDsG44h5Y/SXLS7+fdv8H7/Vl6kbF5Kipko/KqkPz75HawghuHh10/ucb19b6v6f3yiqeaps21iTVQo/DV/vz0uoJKaXODclLn2vn53drp4JegyPRDZIpD038iedb89/A5IoV5m4ZJ2ozv+vr2nefS1/v4YYqXoEdrZRcsU0A5QkiITUqTZmbmvvr6+vrahufPi23K8eWQQ4FIIzyIrCMulXBNk3hc76jj+vr6+ufSjfna3eTskEyAwTw8WqllPMueZWuNZu+M4+f6+vr65+eve/bP0tTUz8a5f5LZgTyS3oFad7brHcbn5/r6+vrn58wCCvXqz9LSzM/P3+hrvO7TlrnjwwMBzOfn+vr6+ufnzAABJnHz9urJxsm+xrnJ1NTc0ToCAADM5+f6+vr65+fMAAABAQ0dnOH2+fbz3OvRhAMCAQAAAMzn5/r6+vrn58zMzMzMycm+tqurq6+vr7bCzMzMzMzMzOfn+vr6+ufm5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5uf6+vr2+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vb6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vo"
+}

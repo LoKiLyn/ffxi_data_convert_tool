@@ -1,0 +1,30 @@
+{
+    "id": 5603,
+    "strings": {
+        "name": "Hydra Kofte +1",
+        "article_type": "A",
+        "singular_name": "dish of hydra kofte +1",
+        "plural_name": "dishes of hydra kofte +1",
+        "description": "This hydra kofte has been baked\nto absolute perfection.\nSTR+8 INT-4\nAttack+20% (Max. 160)\nRanged Attack+20% (Max. 160)\nDEF+25% (Max. 75)\n\"Resist Poison\"+5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTYwMyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYMIAgICCAICAggCAgIIAYGDiAICAggCAgIIAgICCAKCAggCAYQIBIMAiAICA4gCAYQIAgGEiAICA4gCAgQIAwMCiAICBIgCggSIAgIFCAICBQgCggUIAoKEiAODgwgCgoUIAoKFCACFAYgEA4MIAoKGCAKChYgCgwUIAoMFCAWEgQgBhIOIAYUCCAQDg4gCg4UIAwMFiAQEA4gFBAMIAwOFiAKEBIgDBAQIAwOEiAMDhQgGhQGIA4OFCAUEA4gDhASIBYSCiAWEgwgFBIOIBAQECAKDhggDA4YIAQWCiAMDhggDA4aIBISEiAWEg4gDg4YIBQSECAMEBogDhAaIBYUEiAQFBQgDBIWIA4QHCAWFBIgChoOIBoWECAQFBggEBIcIAoYFCAKGhAgGhgOIBoWEiAQFBggDBQaIA4SICAOEh4gGBYUIA4SICAaGBAgHhoMIB4YDiAWFhYgFBYaIBgYFCAWFhYgEhIiIBoYFCAYFhggDhYeIBwaECAYGBYgDhQgIBISIiAOFCIgHBgSIA4cFCAQGBggHhoQIBYYGiAOGhYgEhYgIA4UIiAYGBggEBQkIB4aFCAaGhYgEhYiIBwaFiAQHhQgGhgYIBAWIiAQGCAgEhYkIBoaGiAQFiQgHhoWIBAcGiAaGhogHhwYIB4cGCAYGCIgDhokIBocGiAUGCYgEhokIBAYKCAcHBwgIiAUIB4eGiAWGCYgFBwgIBIaJCAeHhogIB4aICIgFiAUIBogFhooIB4eHiAiIhYgICAaIB4gHCAiIhggGB4iIBocJiAgIB4gFhwoIBQeJiAkJBYgIiIcIB4eJiAgICAgICIeIBwgIiAeIiAgIiIiIBgeLCAaIiIgJiQaIB4iIiAYIiggIiIiIBoiJiAgJCIgGiYgICYmHiAiJCIgICQkIBwkKiAaIiwgJCQkICAmJiAmJiYgICYoIBwkKiAoKCAgGiIyICYmJiAgKCQgICYqICQkKiAoKiAgHiokIB4qJCAmJiYgKCgoICIoKCAoKCYgICgqICQqJiAkKCogICQyIB4oLCAoKiYgIigqIB4qKiAiKiogIigsICYqKiAiKiwgIiosICQqLCAmLCogIig0ICoqKiAoLCwgIiowICYsLiAkLC4gKi4oICYsLiAiLC4gLCwsICgsMCAoLi4gLi4uICguMCAmLjAgKjAsICIwMiAoLjIgLDAsICowMiAoMDQgLDAyICowMiAqMDQgKjAyICwwNiA0MjAgLDIyIC4wNCAuMjYgKjI2IC40NCAwNDYgMjQ2IDI2OCA2ODggNjg6IDg4OiA2OjwgPDo6IDg8OiA8PDwgPDw+ID4+PCA6Pj4gPj4+ID4+PiAAAAAANzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3L6+vr6+vr6+vr6+vb29vb29vr6+vr6+vr6+vr7c3NzcvrampqamppyEbFdXXV1dXVddbIScpqampqa2vtzc3Ny+vqYAAAQkWlikwt/f39/CwsKkaFokBAIApr6+3Nzc3L6+pgQ1c57f35mFVbr3+9ajjKPf355gOwSmvr7c3Nzcvr53YLLixi4uLi5fjLq6kF9fX19fxuKeXWy9vtzc3Ny9e2DWqlRUX+X0+vr6+vr6+vr05V9fVKrPYHO23Nzc3HtgtFRUVO/6/v7++/37/fv9/v7++u9uVCHGYHfc3NyxYJNUVN32/OWN4/vz8e3n7PD1+/3+/vTSMguac6Dc2XOKVFTUt0aisyNyQisxLDExTpTB5+f19PrmbjKKc9GxgGd5zNrbRiNpekoaJi0vPQ8XJUhmwcHh9PrlRzKGpoRMhsPU4cFlS0YbIkRTIB89HxolKS1Drbjk+uPOMjJ7QVaRw+u7vKlqOCoQNzogBQ8gJiYpQDaIuNPy6M6fC00wVqzL6+PwiHYSDgoaEBABFy8MN2pQOnW/4ejo3bILPDBMv7/j49SVcBINDQ0NDQoPBQw3UUA6T8fp4+PazkczQTO/v9fj1IcODg4OEA4ODg0QN3BAQERewePj3d2vbjRzM7DDztfUlxQUEhISEhUVEhoeSUlJP6640t3OzLBkTaYzsL/D0tTFUJsWFhUSFRYSDh1jRHSCwcrS19TOqEeP2VJ9sLDUzszIgn7tuR1bW2KOoXhhmMXN0tLU0s6KTdHcoE2WsLDm5tXVrm1th8TQtYNrf+Hy7sjV4MPLw0eW3Nzcd2SfsLDy+MzMyq2lpaWlp8HBwe7v+fndw7BHYNzc3Ny+d4vqsMfe8vLm5ubm4ODg4O7u8vLy9PnA6nO+3Nzc3L6+bHzAsMfHzNrh4ODu7u7u4NjMw8Pu6pF7vr7c3Nzcvr6mBBx9ksfMzMzMzMzMzMzMzcm/qJo+Bqa+vtzc3Ny+vqYAAAYYWYarw8nJycnJw6idhm8cCQAApr6+3Nzc3L6+pgAAAAADBhEnRVlxcVxFJxEJAwAAAACmvr7c3Nzcvr6mAAAAAAAAAAAHCAgICAcAAAAAAAAAAKa+vtzc3Ny+vqampqampqampqampqampqampqampqampr6+3Nzc3L69vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vb7c3NzZ3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nnc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nw"
+}

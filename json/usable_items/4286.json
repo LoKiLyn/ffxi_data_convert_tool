@@ -1,0 +1,29 @@
+{
+    "id": 4286,
+    "strings": {
+        "name": "Healing Tea",
+        "article_type": "A",
+        "singular_name": "cup of healing tea",
+        "plural_name": "cups of healing tea",
+        "description": "This savory blend of chamomile tea is\nrumored to have soothing properties.\nMP+10 VIT-1 CHR+3\n\"Resist Sleep\"-40\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI4NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADAwMIAwMDCAODg4gBhQMIAwQEiAMEBQgBhYMIAwQFCAQEhIgDhQQIAQYDCAMEhYgEBIUIBQUFCAEGgwgDBQYIAgaECAOGBIgEhYUIA4UGCAWFhYgEhQYIA4WHCAQGhAgFBYYIBAaFCAKHBIgChoWIBIaEiAWFhYgFBYaIBIcECAUGBYgDBwUIBAWHiASGhQgGBgYIBAYGiAOGB4gFhgaIBgYGCASGBwgEhwUIAoaGiAQHBggDB4UIBAYHiAaGhogFiAQIBIgEiAWGBwgEBogIBoaGiAUHhggDhoiIA4cHiAQGiAgGhoaIBAeGCAcHBwgFh4aIBIaICAaHBwgEBweIBwcHCAOIBggFhweIBAaIiAOHh4gEBomIBQiFiASHh4gHBwcIBQeHCAQIBwgDBwkIBwcHiAUHCIgEhwkIBYgGCAUIBwgGBwgIA4eIiAeHh4gFh4eIBYcIiAUIB4gEhwkIAweJiAQICAgHh4eIBIiGiAYHiIgDhg0IBgiGiASHiYgFiIeIBQeJCAOICQgHiAgIBggICAYHiQgEBgyIBoiHiAOHiwgFiIgIBogIiAUICYgICAgIBgiICAOICQgFiAmIBoiICAaICQgDhwyICAgICAWIiAgFiAoIBoiIiASIiQgGiAmIBAiKCAQHDAgGCQiIBYmHCAaJCIgGiImIBIiKCAaJh4gIiIiIBYgKiAaJCIgECIqIB4iJCAWJCYgECQmICIiIiAQIDAgHCgcIBokJCAcIiYgICQmIBokJiASJiYgGiYiIBAkKiASHjQgGCggIB4iKCAcIiggEiIsIBwmJCAeJCYgGCQoIBYoJCAOJC4gFCYoIBAkLCAkJCQgHiQoIB4mJiAgJCYgFiQsIBAmLCAcKCQgEiYsICImKCAgJCggGCYqICYmJiAgJiYgGComIBAmLiAaKiIgICYqICImKCAgJiogGiokICgoKCAeKCggGiQyIBIoLiAiKCggGCooICImKiAUKC4gJCgqICIoLCAeLiIgICgsIBYoMCAaLCggJCgsIBgsKiASKDIgIigsICYoLCAqKiogJCgsICIqLiAoKiwgFioyICQqLCAiKi4gIiwsICAuJiAqKiwgJCouIBYqMiAiKi4gJCouICQsLiAkKjAgLCwsICQsMCAmLDAgIDAoICgsLiAkLDAgJiwwICgsLiAkLjAgGiw0ICYsMCAgMiogKC4wIC4uLiAqLjAgJi4yICguMiAoLjIgKi4yICYuNCAqMDIgKjA0ICowNCAqMDQgKjA2ICwyNCAsMjggMDI2IC40NiAyNDQgLjQ6IDI2OCAwNjogMjY6IDI4OiAyODwgODo6IDQ4PCA0OjwgODo8IDg8PiA8Pj4gOPj4+Pj4+Pj4+OCPA4fKB8fHw4JDm1kz9bj4+Pj4+Pj4+Pj4+Pj4+PjSQ0IFh8mIy8vND4+HzpB4+Pj4+Pj4+Pj47Ozs7OzsyUFDQwGEAwUEBAQFC9PTj9Js7Ozs7Pj4+Pjs6qCgoIpBQgIDBcvOT4+OTQjFyM+PxWCgoKqs+Pj4+Ozs4IAAQIFCCY0RE9ghZdYcHBgTyMQGQIAgrOz4+Pj47OzggECFT+Zjo1mYoOcVpbS0mKjWDQoAwGCs7Pj4+Pjs7OCA227u6LF6Oi8clKPzMjMZnajOTczA2Szs+Pj4+OzsymGsMHQmXmvwcHQ29fI17GWXX8vWGAoHqqz4+Pj47OzKaKij2ycgGzByNDQ0NvXucvi2E5Mg2JNgrPj4+Pjs7MlXWxZmmJSu8vLx8vM1de5x9DLon95oKJbs+Pj4+OzsyUeo5xdQ2u7xdDQ0OLTy8fc5+Da3d3Jjluq4+Pj47OzJUOcnF1rhsHU1Njm6NzYx9vp7OLa3bttdLPj4+Pjs4kwhmZdoHKowdDc4uLi0NC81eXr5uroySl0s+Pj4+OqPDqOqNigoLmMOxsPDwsRIjt81Oji5uLPNYKz4+Pj47MwW7DT3K9uLQciWnidh4eHjy5cLoTU2MU6ibPj4+PjszVUr8hRBwQskq2kuuHZsp62rdG/Li5CcTqzs+Pj4+OzNUFlERxFS1p6nqRctV5LR+HArjJcyqkRE7Oz4+Pj47M1CleerZSsuK6uRmdeXl5em5ubwr3fkGoZs7Pj4+PjszUoUF99kHp6rUVpe3OTc4pjptHD386BXyazs+Pj4+OzOioxi52knpKkb29FU0VAOHjK37/R38CyOTyz4+Pj47M6JjumtppKPTYgICAdGCAYKzJHcX6pw5BAQbPj4+PjszoqgEgkHRo9mJihq6G3t6G0zc20mCtlv2NJs+Pj4+OzOhkSK3G3yNPg4ODl5+fr6u3w9O7u4jZoeUmz4+Pj47M8FYbM29vg6/D2+fz8+/v+//3+/Pju034hKbPj4+PjszxUxODt8vft3oxqamqEjJir2vP+/vnl0z8ws+Pj4+OzPKLl8u+ZbldKdVFhYaWhV0plVYTn+PjrTTCz4+Pj47M8xea5cnd1YVGEpYTNtJFhV1VKSneN5PeGPLPj4+Pjs1SJ77xdoNW3bnyEdXx8dVePr7GNa1Jm4tops+Pj4+OznzXq7MyVqMyvxOTt4NzMxKCgoI15jXm8olSz4+Pj47Ozn1To8u7TscTi1dXc0LHIvNvn5+Xi3aI6bbPj4+Pj4+Pj1nRbz/Hx/fr19/Xx7+rj1p90gkk8gs/j4+Pj4+Pj4+Pj49afQWRtn4mCbVtUVFRUSXR0gsbj4+Pj4+M"
+}

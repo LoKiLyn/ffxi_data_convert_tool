@@ -1,0 +1,30 @@
+{
+    "id": 5626,
+    "strings": {
+        "name": "Silken Siesta",
+        "article_type": "A",
+        "singular_name": "silken siesta",
+        "plural_name": "silken siestas",
+        "description": "This maple cake is as smooth as silk.\nHP recovered while healing +2\nMP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTYyNiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAKCgogAgwYIAoOFCAMDhIgCA4YIAQOGiAIDhggBg4YIAQOGCACDhogBg4YIAYOGiACDhwgCg4WIAQQGCACDhwgBA4aIAQOHCAGEBggCBAaIBISEiAEEBogBg4cIAoQGCAIEBogAhAeIAwSFiAIEBwgCBAcIA4QGCAKEBogChAcIAYQHCACEB4gCBAcIAoSGiAIEhogChAaIA4SGCAIEB4gBhAeIBASGCAIEB4gChIaIAgQHiAQEhggCBAeIAYSHiAEECAgCBIaIAwSHCAIEhwgChIeIAgSHiASFBYgBhIeIAoSHiAIEh4gBhIgIAQSICAOFBogChIgIAgSICAUFBYgCBIeIAgSICAGEiAgChQcIAYSICAOFBwgChIeIAQSIiAQFBogFBYWIAwSICAKEiAgCBIgIBYWFiAOFB4gChQgIAYUICAMFB4gChQgIA4UHCAMEiAgBhQiIBIWGiAQFBwgEBQcIBAUHiAIFCAgChQgIAoUIiAKFCIgFhYWIBIWHCAOFhwgDBQgIAoSIiAMFCIgDhQgIAwUIiAKFCAgFhYYIAYUJCAMFCIgDBQkIA4UIiAIFCQgDBYgIBIYGiAOFCIgChQiIAgWIiAUGBogDBQiIAwUJCAGFCYgCBQkIAwWIiASFh4gCBYiIBgYGCASGBwgBhYkIA4WJCAUGBwgDBYkIA4WIiAKFiQgCBYmIA4YIiAMGCAgDhYkIAgWJCAOFiIgGhoaIA4YICAOFiQgCBgmIA4YJCAOGiIgChgmIAgYKCAOGCQgChgoIAoYKiAIGiggHBwcIBocHiASGiYgDBooIAoaKiAMGiogHBweIBwcHiAKGiogEBooIAwaKiAOGiogChosIBweICAeHh4gDBosIB4eICAKGi4gDBwqIAwcLCAeHh4gChwsIAgcLCAMHCwgDhwuICAgICAOHCwgChwuIA4cLCAMHC4gDBwuIA4cLiAMHC4gChwwIAweLiAgICAgDh4uIA4eLiAOHi4gDh4uIAweMCAOHi4gDh4wIBAeLiAMHjAgEB4uIA4eMCAOHjAgIiIiIAweMCAQHi4gDh4wICIiIiAQIC4gDCAwIBAgMCAOIDAgDiAwIBAeMCAiIiIgEiAuIBAgMCAOIDAgECAwIA4gMCASIDAgECAwIBAgMiAQIDAgEiAwIBAgMiAkJCQgECAyIBIiMCAUIjAgJCQkIBIiMiASIjIgFCIwIBIiMiASIjIgFiIwIBQiMiAmJiYgFCIyIBQkMiAWJDIgJiYmIBYkMiAoKCggFiQyIBgmMiAoKCggGCY0ICoqKiAaKDQgHCg0ICoqKiAcKjQgLCwsIB4qNCAgKjYgLi4uIC4uLiAkLDYgJCw2ICYuNiAAAAAAPv7+/v7+/v7+/vt28S3raKirbfE2+37+/v7+/v7+/v7+/v7+/v7+/r1xF5JX3hYWVlYV19WZ8T1+vv7+/v7+/v7++3t7e3boj8tTk4yMkVDHhMTHSluRUmi2+3t7e37+/v77evIqE1TjY2Dg4B3dzQsHx4eFwQNSEg/qMjr7fv7+/vt7aIUiY1kVG1Pb2U9Un2FZEofEx4lJVcDre3t+/v7++3fXoRtgHeKfUtSUUs4OEtSSlJlVB8lJS023+37+/v77YhDnY2Wh31vSigoRlRhKCgoRh8YRiwsUh166/v7+/vbVoyQkH19b2FhTExzZVRMYzUuPSwsIhxbGCbP+/v7+7cXjJBCaWVjW2FjY2lpaWNPPjUuLB8bHBZbDbf7+/v7rQqMf2lcaV1dY1xjaWlpcFx0PTUuJyIWFlwNrfv7+/ubM39MXF1dXV1ccJGZnpxsnmk1NSonHBYWYR6b+/v7+n59c5dmN2yj6vHi+O7h5Obk1Z9PQQUREREuQHL6+/ryYIGOjpi//v756ubi3OPW3dnHubjWpmY5EC9aU/L6++tRo7nL9vjpwNDV4uri3t3d2uDjy8HB3qM3gTND6/v751KzyfHar6/V0NXR6uPq4t7e5uzc2MnBwcF5SzPn+/vfWqvpwLzA0snRycnd6ujgyuDo5ODW0svBusGRM9/7+6SB07O+tLvBy9He2d3k6e7p4+PKytzc5M7HwbpApPv3bpfps860vcPBuMzZ6Pjz+fz92djU2tzaxc3U1I5u9/I8sL/Ty8fHu7m7w72ZgnZ2kabi793Y2tTX0tLKhjzy8Cbex8vL0sO7u8eeQQUZMGhHOzuy7ODW1+PTzbm6F/DrF7/HwLGxtrvDriABECAoKmyCRHXh5c3N09LFwsYK6+0dsNa7srGxubmrIAEJGSA3RFAvdczW08zMy8Kyixft+6Ev2K6rsbGxtrmgMA8ZITBERHax7uzMy7u7tqpQofv77SuXtKyrq7G51OHDmHZVRGiR8fPay7u7srKnk0Pt+/v7mwrBpampsbaxw8fk5t329u7N1NrLw720tZMkmvv7+/vtlB6mp6ensbG7w7vH0tTS0tjSw8e2u92GK5Xt+/v7+/DtlAZxtrKytrm7u8O9x8fHx8K+vrajLyOU7fD7+/v77e3IAAIHOo+xtru7w8PDw8PHua+PLxIaAMjt7fv7+/vt7cjIyJtyJQs6fJGrp6upmHVQFSR+m8jIyO3t+/v7++3t7e3t7e3PmntgMQ4ICA4xYHuaz+3t7e3t7e37+/v7+/v7+/v7+/v7+/Xy8PDw8PL1+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v6+vv7+/v7+/r6+/v7+/v7+/v7+/s"
+}

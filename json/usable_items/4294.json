@@ -1,0 +1,30 @@
+{
+    "id": 4294,
+    "strings": {
+        "name": "Medicinal Quus",
+        "article_type": "A",
+        "singular_name": "serving of medicinal quus",
+        "plural_name": "servings of medicinal quus",
+        "description": "The herbs used in this healthy dish are\nsaid to have healing properties.\nDEX+1 MND-1 Ranged Accuracy+7% (Max.15)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI5NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAKCgogCgoKIAwMDCAMDA4gDg4OIAwOEiAMDhIgDhAUIBASEiAQEhIgDBAWIAwUEiAQEhQgDhIWIA4UFCAMEhggDhYSIA4UFCAOFBYgEBYUIBAUFiAOFBogDhQYIBAYEiAOFhYgEBYUIBIUGCAQFBggEhgWIBQWGCAQFhggEhgUIBAWGiAQFhogEhgYIBIYFiAOGBogDhYcIBQYGiAUGBggEhgaIBAYHCAaGBggFhgaIA4YHiAQGBogEhgaIA4YHCASGBwgFBgaIBoYGiAUGhogEBgeIBQcFiAUGBwgFhoaIBIYHiAUGhogEBgeIBQcGCAUGhwgEhocIBIaHiAcGhogEBoeIBYaHCAUGiAgHBocIBYcGiAYGhwgFBoeIBYeGCAWHBwgEhogIBwcHCAQGiIgGhwcIBYcHiAcHBwgFhweIBQcICAYHBwgGBweIBwcHCAUHCAgEhwiIBgeGiAWHCAgHBweIBwcHCAaHB4gEhwiIBgeHiAcHh4gFBwiIBgeICAeHh4gGh4eIBYeIiAUHiIgGCAcIBYeHiAcHiAgEh4kIBoeICAWHiAgHh4eIBQeJCAUHiQgHB4gIBYgIiAaIB4gGh4gIBwgICAUHiQgICAgIBogIiAYIh4gGiAgIBYgJCAgICAgHiAgIBwgIiAUICYgHiAiIBogIiAYICIgHiAiIBwgICAcIh4gICAgIBQgJiAWICYgFiIkIBogJCAeICIgICIiIBwiIiAeIiIgGiIkIBoiJiAcIiQgHiIkIBoiJCAaIiYgIiIiIBokIiAeIiQgIiIiIB4iJCAaIiYgICIkIB4iJCAaJCQgIiIiIBokJiAaIiggJCQkIB4kJCAWIiogHiQmICIkJiAkJCQgICQmIBwkKCAgJCYgJCQkIB4mJiAiJiYgHiQoICImKCAcJCwgJiYmICQmJiAeJiogJCYoICYmJiAkJiggIiYoICgoKCAkKCggIigqICQoKCAcKCwgIigqICgoKCAiKCogJigqICIoLCAkKCogJigqICgoKCAgKiogHiguICYqKiAkKiogIigsICYqKiAkKiwgICosIB4qLiAmKiwgKioqICYqLCAoKiwgICwsICYsLCAoLCwgLCwsICgsLCAoLCwgKiwsICQsLiAqLC4gICwyICgsLiAqLC4gJi4wICouLiAuLi4gJC4yIC4uLiAsLjAgKC4yICwuMCAkLjIgLDAwICgwMiAsMDAgLDAyIC4wMiAuMjIgLjIyICwyNCAuMjIgLjI0IC4yNCAwMjQgMDQ0IC40NCAwNDQgMDQ2IDA0NiAyNDYgMjY2IDI2OCAyNjggNDg4IDQ4OCA0ODogNjo6IDY6PCA2PDwgODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4La2tra2tq+ldnaXnaWgl52Fe22Ul6+2tra2trbg4ODgtq+UlJR2XC1GW3B/oLSwoI17cFFCNVyFlJSvtuDg4OC2tpQDBEJblrTU4+fo6OrokZHPubmYf0YEhba24ODg4LazbQxdps/p8fr96uP//vv7+vb39+HFqFtctrbg4ODgtnZGqOP1/PqtrfmYPTm08/j39vWR9vftuXSLpeDg4N52W7Xt/PzbjQhr+JplVytr4+/09Pv59fn24ZaL0+DgqWPY8Pr59R0NGFXaxlCHmWWJu9rt8vPx9PP324q84MJcyPb74VXMuFAsJFWAc6fXpyFEu9HJ4+7y8/P6yH+8pajw+e46CZvm3ElMPVOYc6dLgV5Em8C4xu/z7vPtsrNNyPnYChAYWrvOvTt+bkF3iMTfompiqsbAwO/w8PDSdKvt6thiIyQkM1qALIeTZUFiy+SfFEkqu4M8od3q7eeYwe7r6MCQMRFOaiseZay/kyNxnCUbMhEfpket1e7q68XU4+nbu4wfFG96WBBMIcfASTm/yVp1GSa1u4PM6ejqz+Hl49GtXzxIQ4+sYhc9rtrJPzocR0AUMXNkrbXb5+jW2+jpz6hiSnckb5+QKhKG2eK/KyG9sXpMNMCmecjn5d3S4+rGcyI+nD83G5+7HlMwgZJsLJOArFARoaaDzOXdyL7d5dVKGkrKUEsVYbpQTBHZaJ4/OyGTUBR0m6vM2Na+pczU6TgTeNCcWhcOG3Flb6JScSUlEW5vN4CYq+HSxatRpM/hPhN40MM5SDcnhiVJWCVxj0t0Uzc7FIrI2M+3e697uc+EEz7K0HdQVWYnQL8kerHXp3NrORkVMZrFvpCXzZeNwcFKE5XQymKjayFXjneJV5+HP4qbHQ4ND7CYqc3gs4WNsLA4IqrKkjxUVBYWJacsHldXLpggCC5wjVGz4N7glGOCmrA+OJXDqKGbVDYpKzs3EDlEsmlpjXR7lODe4OCznVxWgqFySlnFxcG5ubJwKSgzSJGRkWl8Uam24ODg4La2iwQGVnCNkaimtLK0t6ukln+Kf2lPCwSUtrbg4ODgtraUAAADBQddXX2RlpiRfX1gRgEBBAMCAJS2tuDg4OC2tpSUlJSUi21gXHBcY2BNY2N2i5SUlJSUlLa24ODg4Laztra2tra2tra2tra2tra2tra2tra2tra2s7bg4ODe4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4N7g4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4OA"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 6220,
+    "strings": {
+        "name": "Prm. Wt. Stewpot",
+        "article_type": "A",
+        "singular_name": "prime warthog stewpot",
+        "plural_name": "prime warthog  stewpots",
+        "description": "This rendition of one of the most iconic pieces of Vana'dielian cooking could barely get any better.\nHP+10% (Max. 75)\nSTR+3 MND+1\nAttack+10% (Max. 30)\nRanged Attack+19% (Max. 60)\nHP recovered while healing +7"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjIyMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgIEIAAECCACBAggAAQMIAYGBiAGBgYgAgYKIAYGBiAGBgYgAgYMIAYICCAGBgggCAgIIAIGDiAICAggAgYOIAYICiAECA4gCAgKIAIIECAICAogBAgOIAIIECAICgwgBggOIAQMDCAEChAgCgoMIAgKDiAGDAwgCgwOIAQKFCAGChIgCAwQIAQMECAMDA4gCgwQIAwODiAKDBAgBAwSIAYMFCAMDhAgBAwWIAwOECAMDBIgDA4SIAYOEiAGChogCA4UIAYQECAODhIgBgwaIAwOFCAGDBwgDhASIAYQEiAGDhggCBAWIA4QFCAIDBwgCBAUIAgSEiAOEBQgCBAYIAgOHiAQEBQgDBAYIAwUEiAKEBogDBIUIAgUFCAQEhYgEhIUIAwUFCAKEhggCBAaIBISFCAMFhIgChAeIBQUFCAIEB4gEhIWIAwSHCASFBggFBQWIAwWFiAKEhwgChAiIAwQICASFBggDhQcIAgQJCAOFhogChQeIAoSIiAWFhYgFBYWIA4aFCAUFhggDhIgIAwSIiAOFB4gEBYcIAoUICAOFCAgDhQiIBYWGCAUFhogDhoWIBYWGiAMFiIgDhQiIAoUJiAWGBwgGBgaIBAWIiAOFiQgGBgcIBAaHiAaGhogDhYiIBIYIiAOHBogGBocIBAWJiAOGCQgGhocIBgaHiAaGhwgGBoeIBIaIiASGCQgGhoeIBIeGiASGCYgEhweIBAYKiAOGCogHBwcIBocHiAaHCAgFBokIBIaKCAWHCIgDhgsIBIiHCASIB4gEh4kIBweICAOHiQgHh4eIBQaKCAeHiIgHh4gIBQeJCAWHiggFhwqIB4gIiAcHiQgFB4oICAgICAWJB4gFiIiIBYeLCAUJCAgIiIiIBYiJiAgICQgGiAoICIiIiAYIiQgEiIoIBoeLCAiIiIgGiAqIBggKiAYICwgFiImICIiJCAiIiYgICIoIBYgLiAYIC4gHCIqIBggLiAkJCQgJCQmIBQkKiAaIi4gJCQkIBgmKiAkJCYgGCgkICIkKiAkJCggGCYqIBwiMCAcJC4gFCYsICYmJiAkJiogHCokIB4mLCAoKCggGCgsICQmKiAmJiogHCQyIBooLiAkKCwgKCgoICIoLiAaLCggGiouIBYqLiAoKCwgHiYyICoqKiAiKDAgKCosIBQsMCAqKiwgJiouICAsMCAsLCwgKC4wICAuMiAaLjIgLi4uICYsMiAuLi4gJCw2ICouMiAqLjQgGjI0ICIwNCAcMjYgLDA0IDAwMiAcMjYgJjI2IC4yNiAyMjQgIjQ6IDA0OCAiNjogNjY4IDI2OiA0ODogNDg8IDg4OiAoOjwgJD4+ID4+PiAAAAAAOfn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn58zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzn5+fnzMiurq6urq6urq6uqqqqqq6urq6urq6urq7IzOfn5+fMzK4AAAAABQgNFR8sQj8sJBUGCAUAAAAArszM5+fn58zMrgAABQYTOz9UcnaAgHx2bkg/HAYFAACuzMzn5+fnzMymAQEMO0hSVHJ2jJWFgHx8bFpSQhwGAK7MzOfn5+fMunMLES1CQlRsbnyMjY2NgHZsY2NIPzcLrszM5+fn57ph9XYZM0g7VG7P7+/3/vvz3JVjWmNCLi5VzMzn5+fTYfPe3EhSY8/czllYh71lPF9Bn8nCtFQqJTeLzOfn2kLP2MA/mc/JQTZYZTaxvdm5cUGkxVm1wnJSKkmz5+c3qLu0crSfQTBwWWp1ibFBNn22t3FY6H1+y9g/VWHl54GojXa7S3AwT5hkNGWRWDY8ddnZj2Xo6Lzd19JJa+Hn4Zdyu3q3dEGHnZ1PWZ2KXH3FX9nopLnQ/eTdx9xh4efnocM1WcWth3CYsY+EU3RqPDA8UbG3da/H/e3d5NjM5+WLmSFBdNm35o5mhCEQBwMHDjRPK2a4g5bw/evXyYHn5Z5SRWSEZ8b69XopFCAQFAcCAxcKEiJ31tHt/fCMmuXlmi16r69X+PX66jpnNCApeg4CChIbIRab1s329F3Y5eW0O1vL7tu4+vjGWzmvZuopDgcOg0CvOpDjxNGnA+fh5ZpCMd/m9dt+xqBpaXnxnBcQDiE55jkbg/Hs0cQWmuXnmoUZy9/pg5ypV2lp5nrGIBQEKepmkDqbv/zWqxGX5+feuzUZbI6QzvKUXV5eUSsgCgpDXkxLiOCy/OMRSdPn5+eLUh0WQ5vS8vliOExAKCEbIy89SziI9uCyMxiB5eHn58iXOyIdErXu4qNthjJWVjIvRzh7kz6ypzcRqHjn5+fnzL6BUjUiHUhKTsrKYtXBkj6ibdWlVh43Lp6NdrPn5+fMzKZQzzstIidGq6JiwYaihkpEeyolLrTDgIWMf+Hn58zMrgAJl55jMycuMyUtLS4iHR0tO6i0jIWMf3/h5+fnzMyuAAAPCWC0mUlJN0JCMzNjqMNgJk2CgGuuzOfn5+fMzK6urq6uqqaNc3OXwMCXeHiLnqqumlVVoczM5+fn58zMzMzMzMzMzMzMzMjIyMjMzMzMzMzMyMzMzMzn5+fh5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+Hn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+c"
+}

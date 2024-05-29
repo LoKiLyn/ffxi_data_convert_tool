@@ -1,0 +1,30 @@
+{
+    "id": 5679,
+    "strings": {
+        "name": "Cathedral Salad",
+        "article_type": "A",
+        "singular_name": "cathedral salad",
+        "plural_name": "cathedral salads",
+        "description": "A mushroom salad so delicious,\neven the papsque cannot help\nbut ask for seconds.\nMP+15% (Max. 90)\nSTR-5 VIT-5 AGI+7 MND+7\nRanged Accuracy+17"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY3OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgQEIAIGBiAEBgYgBgYIIAIIBiAACgYgCgYKIAQICCAMBgwgCAgKIAgIDiAEDAogDAgMIAIMCiAMDAwgDAwMIAQODCAMDAwgDAwOIA4ODiAGDg4gABIMIAAQDiAEEA4gCg4QIA4ODiAODhAgAhIOIAgOFCAQEBAgCBAQIBIOFCASEBAgBhIQIA4SFCAEFBAgEhISIAoUEiAEFhAgFBQUIAYWEiAGFhQgChYSIAgWFCAUFBQgFBIYIBYUFCAGGBQgDBgUIA4WFiAGGBQgAhoSIAoWFiASFBggDhgWIAgYFCAKGhQgDhgYIA4WGCAGGhYgChgaIAIcFiAWFhggCBoYIBAaFiASFhwgGBgYIBgYGCASGBogBhwYIAwaGCAOGBwgEBoWIBIYGiAYGBggDBwYIAQeFiAIHhggFBgcIBAaHCASHBggDBwYIAwcHCAIHhogEBogIA4cGiAOGh4gGhoaIBIcGiAKHhogFhwcIAogGCAaGhogCCAaIBwcGiAaGhwgFhweIAweGiAWHBogHBwcIBwcHCAaGh4gEhwcIBwcHCAKIBwgHBwcIBAeHCAGIhogGB4cIAwgHCAcHBwgHBweIBYcICAIIBwgFB4cIAogHCAUHCAgGh4cIBIgHCAUGiQgHh4eIBgeICASHiAgFB4kIB4eHiAQIhwgGB4gIBgeIiAaIBwgCiQcIB4eHiAeHh4gECIcIBIgICAgICAgHCAeIA4iHiAcHiIgFCAkIBQiHiAeICAgFh4mIBgiICAeICAgFB4oIBAkICAYICQgHiAkICAgICAeIiAgGB4oICAgIiAgIiAgECQgIAwmICAUJCIgFCIkIB4iJCAgIiIgGCQiICIiIiAYIiggGCAqICAiIiAQJiIgHiQiICAiJiAiJCIgEiYiICQkIiAeJCQgICImICIkIiAcIiogHCYkIBYmJCAeJCggEigkICImJCAiJCYgJCQkICQiKCAcJCogEigmIBoiLiAiJiQgJiQmIBooJCAgJiYgJCQoIBokLCAkJiYgJiYmIB4oJiAeJiwgJCgmIBgqJiAoKCggJigmICQoKCAgJi4gJigoICIqKCAoKCggICYwICQqKCAoKiogKCoqICIoMiAqKiogKCosIBosLCAoKDAgKCwqICYqLCAsLCwgJCwwICYuLiAsLi4gLC4sIC4uLiAqLjIgLi4uICYuNCAoMDAgLjAuICguNiAqMDAgMDAuIC4wMCAwMDAgLDIyIDAyMCAyMjIgMDIyIDIyMiAmNDQgNDQyICwwOiAyNDIgLDQ2IDQ0NCA0NDQgMjY2IDY2NCA2NjYgNjY2IDY4NiA4ODggODg4IDo6OiA6PDwgPj4+ID4+PiAAAAAAN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbd3d3dxsChoaGhoaGhoapoZWVlZWiqoaGhoaGhoaHAxt3d3d3GxqEAAAAADxAaJUNkZEtLLxQQDwAAAAAAocbG3d3d3cbGoQAAEBtLh8DSzNLHx8fHwKpfIRAQAAChxsbd3d3dxsaqEB6V393YzMrKx8fAs62oqMDMqigQAKHGxt3d3d3Gxlhg2+nf2MpzUXatuq3AqIiopJ+hzLUhaMbG3d3d3cZwu+rc4uLLfjg5MTdMhX45Kzp/qJaNqNhYhMbd3d3daNju39+mY1lckrJMJxxHQCwwJ0ltjZCNkOuEhN3d3aHS8OLiYzE5RzBSklM9SKN8NVY4OSlBgZmQkOloqt21ffLn57xUiZpWVpOTVZfR48OLv1MpTm5ZjaSWkNiH3Zjd8OrpiZqpxSZC7+CRuc23V3XJro6da2OZraSWqqGqcPPs7vfbc2I3BwdCsXF8onWAilBVl8lrc4GkraSQyoee9fDsy0Z+ew0NNk+UbVt/RWGKimd1fI5HJ1GtrZm6fc/48N5Ggr94HQtCsbFhemEilDt6npRIkYszJ8Ctn7OH0/jz3l6b7+9CAhcqOpSsSoqUcYA7Yr1hGSlUq62ts4e0+PDmiU0zPQIGGGGsf0WntixxJrEzOhMETnKrra3AhIT49+rsdDQRCTanvn8ycaynSggZyVAMCCQ+nLOtrchdkPb4++y9NAwgQlAFCHHVHCYuBBWLBwU8RmLEs7OtxJi7tPj369wnGAgiRhUDZmEWHw0BDiMKH4LCxLOzush9td2Y7Pj18GmCaVqwbh8HBBFiA0A8JlJUj8TEwLqzwJjd3d1w9/b25MWcjOuwUxMCLDwWuKlObGl3vcDAwNBo3d3d3cRY9/j26/Dk9OGwmpKlVke4uIJ0jL3HwMTSRMbd3d3dxsZd7vjy7PHm9NrU7dnXzqmcr73IysTHykTGxt3d3d3GxqESg/P28ujm2vz+++Ti1tDW0srM0IMUocbG3d3d3cbGoQAQG5X19fLw8v79+d/Y29jbz3klEAChxsbd3d3dxsahAAAAEBItb8Hf9fn68M+YaigSEAAAAKHGxt3d3d3GxqGhoaGhoaFlZV1dWF1dXWVlh6GhoaGhocbG3d3d3cbExsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxMbd3d3Y3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3djd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0"
+}

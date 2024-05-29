@@ -1,0 +1,29 @@
+{
+    "id": 4523,
+    "strings": {
+        "name": "Melon Pie +1",
+        "article_type": "A",
+        "singular_name": "melon pie +1",
+        "plural_name": "melon pies +1",
+        "description": "A delectable melon pie.\nMP+30 INT+5\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDUyMyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABggUIAgKFiAIDBQgCAoWIAgMFiAIDBggCAwWIAYOFiAKDhQgCgwYIAgOGCAKDhYgCA4YIAYOGiAKDhggCg4aIAoOHCAIEBogDBAYIAoQGiAGEBwgCBAcIAwQGCAIEBogChAcIAoSHCAIEBwgChAgIAoSGiAQFBYgDhIaIAwQHiAKEhwgDhIcIAgSICAKECAgEhQWIAoSICAMECQgDBQcIAwSHiAIEiIgDBQeIBQWGCAKFCAgDBQeIAgUIiASFhogEhYcIBAUHiAMFCAgDhIgIAoQJiAOEiQgDhQgIAoUIiAMFCIgChQkIBYYGCASFh4gDhYgIBQWHCAOEiYgDhYgIAgWIiAKFiQgDBIoIAwWIiAKFiQgFhgaIAYYICAUGBwgDhYiIAwWJCAOFCggEhgeIBQYICAMGCQgDBYkIA4WJiAKFiYgEBgiIA4WJCAKFiggGBocIA4YJiAOGCQgEBoiIBgaHiAQFiggEBgmIAwYKCAOGCYgEhgkIBAaJCAQGiQgEBgmIAwYKiAOGiYgEBYqIBoaHiAQGCggDhgqIA4aJiAOGCogEBokIBAYKiAQGiYgFBwkIBIaJiAQGiggCBwmIBAaKiAaHCIgDhgsIBAcJiAQGiggEhoqIA4aKiAQHCggDBouIBQcJiAOGiwgEhwoIBIcKiAQHCggGBwkIBIaLiASHiYgFBwoIBIcKiAQHCogEBwsIAgeKiAWHiQgDhwsIB4eIiAQHiogFBwsIA4cLiAQHCwgEB4sIBAeKiASHCwgCiAqIB4gIiASICggEBwwIBIeLCAQHi4gFh4qICAgIiASHiogEiAqIBQeLCAUHDAgEB4uIBIeMCAKICwgFCAqIBIgLiAQHjAgIiIiIBYgLCASHjAgFCAsIBQeMiASIDAgFCAuICIiJCAWIDAgDCIuIBIgMCAUIiwgFiIuIBIgMiAUIi4gFCAyIBIiMCAiJCggGCIsIBgiMCAUIDIgFCIwIBIgNCAWIi4gFiIyIBIkMCAUIjIgFiQwIBQiNCAaJC4gGiIyIBQkMCAmJiggHCQwIBYkMiAUJDIgGCYwICgoKCAQKDAgHCYuIBYmMiAWJDYgGCQ0IBYmNCAkKCogKCgoIBomMiAWJjQgGiY0IAwoNiAaKDIgGig0IBYmNiAoKiogHigyIBYmOCAqKiwgGCo0IBooNiAaKDYgFCo2ICIqMiAcKjYgGio4ICIqNCAYKjYgLCwsIBYqOCAcLDYgIio4IBwqOCAuLi4gGiw6IBosPCAcLjggHiw8ICQsOiAeLjogGi48ICAuOiAaMDwgHjA+ICYuPiAgMjwgKDA8ICI0PiAoND4gIjY+ICg2PiAsNj4gJDg+ICg4PiAqPD4gOrq6kZGOywsJTuj6urq6urQOywlJSUeHixG6urq6urq6uoeWZp+gVJtVTAwMEhIPjAxLTiEaI54bBsTyOXq6urq6h6T0ambsriVhGhob1tfTmiDg3VvW2xbXysJw8jq6uoeQG/Ozs7d3d3Frpqmpqa6y8XW0b7ApG5qRBYww+rq6jBWseKpuNbp3eHd1tW1rrGxsamxtpmv0XxEKQqY6urqMY6OnaW7kLhhvqaxg3GDg3VKU2FvYX2xgy0zEWXq6uo4iI6WolyF0Zm2r5u1rpmZx69hQmSK4+OpPW4pIurq6jOWvb/OqaXO3sHZysBjeHSm9/DMnG7Ei5VsXzcS5erqM3vzzOu4ioWyhZAmESZnRY26/N23dmtrQoM9Mxqq6uo5jdLx/Kt4QUqk8oOl9uvMc4B979dnv7t2X05JGkDq6jmOzu/Nd11Qq+n+zKj+37mMQzVxc3O5snZdfm4aIerqN1bFpJVKi7vizGJ51/776dfu02Rn9aeAnmaKbCga6uouQrjFeGOy66zxjNPplqi/2v/62mRn6EuFZpaKPRrq6k1OqNJWceL99KiM7NTrqHl5jNq5sEuFZHGbcY9JGOrqci2dpmOOnqK3e6Lsn/SeqOKwjGJUcyc2JGF1fEkY6uqqIHjLeGaWiC9ilu32s8bmyfStaYinJxxXg1Z0SRjq6sMyT6+XSr57UWeIXI221/j5xox717daNj9hfWpgEurq21kgbJdC8tap3+a9KkVpe85zd8LC3K1aP3ZWSmoS6urqiSJXl1/CndKRkdeWs42IXC9c8ufCiHdaNjQ9fBjq6uqqPDmgl0qV5PjtnZbXxoaIIzpFhFxR56kRNF9uEurq6shZIFOXV11pjZbGrYaG3GdRcYSKTzqvikk3N1gS6urqw5IfRGhWWmdcVC+F8uetUXCux6ZKfkJKehA3WBLq6urIyD4iUpdhb9GOZ4VnRUJCuuDgQk6ZtX5eBxBJFOrq6sjIWQZEj4FXaKbcy86ZFUpPVg4toKDKV14QLi4U6urqyMijAhE5gVsmSoW4qUVHoYpCFQ4hUj03KwoaGhTq6urIyKMBBjNOj0QZOVZFT7qatTlHgWptN3p/FCkYDerq6sjIowACCkl0Uyk3mlZCLypELaCBkyY9NAoiKAgH6urqyMijAAEEICBgLisZK0qKLSYjG0kpYIcHB00SCFnq6urIyKOjo1UaFi4rID0zKzlEPXRYGxYdDws8Cg8D5erq6sjDyMjIyKpIDx0hKSErKyEaHRQFAwsPFAgNAxPq6url6urq6urq6qofDwwUCAsNCwUFDwgFBQMLCQwX5erq6urq6urq6urq6uWSHxMMEzFykuXl2MMfDAkMPurq6uo"
+}

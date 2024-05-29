@@ -1,0 +1,29 @@
+{
+    "id": 5212,
+    "strings": {
+        "name": "Arrabbiata +1",
+        "article_type": "A",
+        "singular_name": "dish of spaghetti arrabbiata +1",
+        "plural_name": "dishes of spaghetti arrabbiata +1",
+        "description": "Only a master's hand could produce\nsuch a perfect balance of ingredients.\nHP+17% (Max. 150)\nSTR+5 VIT+2 INT-7\nAttack+23% (Max. 100)\nRanged Attack+23% (Max. 100)\n\"Store TP\"+6\n\"Resist Sleep\"+8"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTIxMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAYIEiAKDBYgCAocIAgIICAKChwgAAoiIAoMHCAKCiAgCgwcIAoMICAKDCIgAAwiIAoKJCAMDh4gEhISIAAMJiAMDCIgCgwmIBQUFCAMDCggBBgSIAwOIiAMDiYgDA4kIAwMKiAOECIgDBAmIAwOKiAIEiQgEBIiIBgWFiAMECggBBIoIAYaGCAMEiYgAh4UIAYSKiAMDi4gDA4wIAwMNiAEHhYgEBgeIAYaHiAOFiYgEBQoIAwQMCAIFiggBh4aIA4SLCAUHBogCBoiIAgULiAOEDIgEBYmIBYYIiAIFiwgDhA0IAoWLCAIFi4gGhwaIA4aIiAKGiggDhYqIAoYLCAMFi4gFBoiIAwYKiASFDAgChguIBAUNCAeHh4gDBguIBAYLCASFjAgDhoqIBweHiAeHh4gDBouIBAaLCASFDogEBg0ICAgICAeHiAgEhowIAwaMCAgIBwgEBouIBweJCAOGjIgEhY2IBAgKCAgICAgFhwsIBIcLCAMGjQgEBwuIBIcMiAgICAgDhwyIBIaNiAiIiIgEBwyIBIYPCAUICggICIkICIiIiAeIiYgFBwyIBAeNCAWHjIgJCQkIBYeNiAWIDAgGiQoIBgiLiASHDogEiA0IB4iKiAkJCYgHCAwIBgcOiASIDQgGiIuICYmJiAYIjIgFCI0ICQmKCAeJC4gJiYmICAmKiAWJDQgFCI4IBQgOiAkJiggKCgoIBomLCAeJi4gHCQyIBgkNCAkJiwgFiQ2IBQkOCAcIjogGiA+ICgoKiAmKCogJCgsICAmMCAWKDIgFiI8ICgoKiAgKC4gJigsICQoLiAaJjYgKCoqIBYmOCAqKiogIiguICYoLiAgKDIgICY2IBoqMiAqKiogLCwoICoqLCAgKDQgJiowICQqMCAcKDggLCwsICAqNCAWLDYgGiY8ICgsLiAmKjAgJCo0ICYqMiAsLCwgICo2ICgsMCAYKjwgJiwyIC4uLiAiLDYgHio6ICosMCAoLDIgIio6IC4uLiAuLi4gJCw2ICwuMCAuLjAgKC4yIB4sPCAoLDYgIio+IBYuOiAqLjQgJi40ICwuMiAwMDAgGjA4ICouNCAqLjYgMDAwICAuPCAqMDQgIi46IDAwMiAoLjggLDA0ICIwOiAwMjIgLDA2ICYwOiAsMDYgLjI2ICowOCAyMjIgJjA+IC4yNiAqMDogMjI0ICgyOiAuMjggLjI6IDA0OCA0NDQgHjQ8IDA0OCAwNjggMDQ8IDA0OiAyNjggMDY6ICo2PiA0ODggMDY8IDI2OiA0ODogODg4IDQ4PCA0OjogODo6IDY6OiA2OjwgODo6IDY6PCA6OjogODw8IDg8PCA6PDwgL+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v4iIiIiIiIiIiH1wa2ZjY2ZrcH2IiIiIiIiIiIi/v7+/iIJra2trY1NITmuAnaenk3hrU05TY2tra2uCiL+/v7+IiGsAARRUjbbW1tLS2dvg5unq2aFqIAEAa4iIv7+/v4iIZhRqsL28trGVeYGpqbbS5Obw+PjEaiBmiIi/v7+/iHBIoba2trFLGAkEBAQ4qam2yeTc7fj2oV14iL+/v794Y6mxqbGbvkUFCQQDAgJyrcrZ0s/J3PP84HB4v7+5rF28qamplL1LGBIGCAoKflAiQVCt9dm40vz87XCsub9wvLGpqaCto2E5GQwLDyQ5PGDFtX5y3eS4yfD85oK/n3i2samUrXREDQchFxISFztuhFhYWHJB3eW4zvz8zJ9w3Lapg4p8HjA7ERMXDBIJLm9JIiZtf09/3dWz3Pr8iHjkvZR3iV8wO2E1GAwMCQwGUIVaRk85WEmP9aK97fyTp9vZg5lzLTsiYS8dGhMdHRkSWlV7NTVWT4T/z6rc+MzU1tazgXMtHjtJNkcnHR0yDx8MO3taZ1aet/DPoM766tTc7OSZaUAwQWdSkHovHUMzKxgOQG5adu/j97KZzvzcrNzu8rK4YR5WZGVbXBYjQjYnHBgOSmfF79f/oqDc/MKl2+b74OCcQWFnj0dMKioxP0coJxgLQN/T1/OLoO38paXL2/vu6eWcNUSOZSlHZTslNDodBRir0bvzwXyx+PqfrJ3c7v/5+etuJG23ZVFbaCwjCA8ndbrf7OmLmc78ubS/pcLg+vn1+dpvG4SebUI+i3RecZeMvvH5o4G4+POlv7+5eMvk/fv9/elfG1+OhYaRx5GvdvLx462Ks/b8eLS/v7+Cfbzk//77/vN+N3+EbW2McXvF3caLmbj394KCv7+/v4iCZpjk+v/9/v7wzavoyJak08Goiqrc/N5rgoi/v7+/iIhwPYfE5Pj9/f797uHVta2issrg9/SmTWuIiL+/v7+IiGsAAU2HsNvw+Pj4/v7+9urw8N6mVwEAa4iIv7+/v4iIawAAAAEQTWyaw9Di59jDwJJZEAEAAABriIi/v7+/iIhrAAAAAAAAAQEBAQEBAQEBAQAAAAAAAGuIiL+/v7+IiGtra2tra2tra2tra2tra2tra2tra2tra4iIv7+/v4iIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi/v7+5v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7m/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v78"
+}

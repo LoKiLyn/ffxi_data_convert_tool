@@ -1,0 +1,30 @@
+{
+    "id": 5612,
+    "strings": {
+        "name": "Prm. Ang. Stewpot",
+        "article_type": "A",
+        "singular_name": "prime angler stewpot",
+        "plural_name": "prime angler stewpots",
+        "description": "The cooking of this angler stewpot\nwas strictly supervised to ensure\nthat the ingredients were added in\nthe proper manner.\nHP+10% (Max. 200) MP+15\nDEX+2 AGI+1 MND+1\nAccuracy+15% (Max. 30)\nRanged Accuracy+15% (Max. 30)\nHP recovered while healing +7\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTYxMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoMIAgKECAMDAwgDAwMIAwMDCAKCg4gCgwOIAgMECAKDA4gCA4OIAoQDCAKDhIgCg4UIA4QDiAKEgwgDhASIAoOFiAMEg4gDhAQIA4QEiAKDhggDBAWIAoQGCAMEBYgDhISIA4UECAKEBggEBIWIA4SFiAKEBogEBIUIAwSGiAKFg4gDBIaIAoQHCASFBQgEBYSIAwSHCAQFBggEhQWIBAUGCAKEiAgDhgQIAwSHCAQFhYgFBQYIAwUHCAOGBIgDBQeIBIWGCASFBogEhYYIA4WHCAOFB4gDhoUIBAWHiAOFiAgFhgYIBIWHCAMFCIgEBYcIA4WICAYGBggEBoaIBAWICAOGCIgEBYkIBIaHCASHBYgDhYmIBQcGiAQGCIgFhocIBIYICAQGCQgGhocIBQaICASIBYgGBogIBQaICASGiQgFBokIBAYJiAWHCAgEhomIBIgGCAcHB4gFBwiIBQaJCAUIhggGCAcIBgcIiASGiggHh4eIBYcJCAWIhogFBwmIBAaKiAQHCogFh4kIBQcKCAWHCYgGh4iIB4eHiAUHiYgGiAgICAgICAWHiQgFhwoIBIcKiASHCwgGB4mIBoiHiAWICYgICAgIBAcLiAUHiwgEiAoIBogJiAYHiggFCAqIBgiICAiIiIgFiAoIAoeMCAiIiIgIiIiIBogKCAWICogGiQiIBAeMiAWICwgGiAqIBwiKCAYIC4gFCIsIBwkJiAYIiogJCQkIBgiLCAYIiogHCIsIBQiMCAkJCQgICQoIBwiKiAWIi4gHiYkICAkKiAmJiYgFiQuIAwkMiAcJCwgHiQsIBokLiAYJiwgGiIwICAkLCAUJDIgJiYmIBwkLiAeKiIgGCQwICAkLiAWJDQgKCgoICAmLCAcJjAgGiYyICIqJiAcJjAgHiYwICgoKCAYJjQgICguIBAmNiAoKCggJigqIB4oMCAaJjIgIiguIBgmNCAeKDIgIioqICYoLiAqKiogIiguICAoMCASKDggHCoyICoqKiAkKjAgHig0ICIqMiAcKDYgGCg4ICAqNCAoKjAgJCoyIB4qNCAcKjYgKCoyICIqOCAeLDIgICw2IB4sOCAeLDQgJCw0ICIsNiAuLi4gKC40IBwsOiAsLjIgJC42ICouMiAiLjogKC42ICQwNiAwMDIgJjA2ICQwOCAqMDQgJDI4ICQwOiAqMjggJjI4IC4yNiAoNDogKjQ6ICg0PCAyNDggLDQ6IDY0OCAsNjggLjY6IC44OCAuNjwgNjY6IDA2PCA4ODogMjY8IDI4OiA4ODogMjg8IDY4PCA0OjwgNjo+IDg6PiA4Oj4gNjo+IDg6PiA6PD4gPjw+ID4+PiAAAAAANLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0qampqampqampqaglpCLi5CWoKampqampqampqbS0tLSpqB/f39/f3tXPygcHSAgHRwoP15/f39/f3+gptLS0tKmpn8AAAMBDCIiLzk2NiIgLy8sIAYFAAAAf6am0tLS0qamewUBDRs5U0IxQkIeGyAiJiYvNiwHBAB/pqbS0tLSpn8uJiZCbj4bMS8XEREVERcVICYmQkEYBYumptLS0tJ/KCbeShsbIBsbIiwvMTEjFxcbGyYmNkIYaKam0tLSoBkR6vLss2FLYYGjvs3Izc6jk3Y2FxcsMTkuoKbS0rokIurq6r5RjMKpgXhDqVJSVZOby+GsZhcmLzlXptLSa1nl4uK+p97HqI6FZHb6+/n59OalPMHh1lEmNi+Q0tJ+vuS+hMDYqGGk08qe0/35+Pj5/Pi0fYPi9mYxMXPS0tJz2oyv2HiGxprAobvZxevt9Pf61piwvY/1+HAxOtLS0q2TgOFCX5Fnd9Xz8PPJyNbc8buc9O/74HT+4UgputLSsXW7jhE9LQ7G/PDu46uGx+HBqYnl9P3vY6n+jTit0tKxY9ARGQ4OClTK25GkkjiJ/Pn40K/3+fx0dP7TQa3S0q2TqD0fJBMZp7u5lUNRtJvn9fjZl+3x/pef2ONZrdLSrcKrVBkfGQ5X+e7nmzZKjJL2/PXFj21PXEjC55Ox0tKx0Ix4JFuiolbS9enKKWVZG0qVl1xTYm82OMzWvrHS0rG8mXwQE0WiopTVsmqA4Ni0ZaVUFh6Bq2FZ5cnPsdLSv4DQfCQQDjBgcaqCeoTFydS2b0NLAghRPLzotsym0tLSasKSmR8OEy24uFZWTi1AgS9Gh10qAkuB4rTdnD/S0tKQZ9BtfCgTLXq4YAswWhIhCptGRmI+cNbDz9/XPYvS0qB+d7NKZjM6R3EwEjBOMCsPUsGbSqjRtsTk3/5hOtLSpqZXbKw9PVBERxkQRyUaEkRUcKPRw6XJ5drs9uw60tKmpn8EO5yNPSk+Ul9QX1lmq7errq7I5dra6OjlRKDS0qamfwADFDV5mV0+PjhSZW11qcjIik1Y4uXlzzqm0tLSpqZ/AAAAAwUySWl5iJmZjIFyNScFAwQJoXxMltLS0tKmpn9/f39/f35za2hoaGhoaGtzf39/f39XXqam0tLS0qampqampqampqampqampqampqampqampqampqbS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tI"
+}

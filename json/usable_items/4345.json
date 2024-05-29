@@ -1,0 +1,30 @@
+{
+    "id": 4345,
+    "strings": {
+        "name": "Flnd. Meuniere +1",
+        "article_type": "A",
+        "singular_name": "serving of flounder meuniere +1",
+        "plural_name": "servings of flounder meuniere +1",
+        "description": "This flounder meuniere will make your\nmouth water.\nDEX+6 VIT+1 MND-1\nRanged Accuracy+15\nRanged Attack+14% (Max.30)\nEnmity-4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDM0NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAIIAAABiAAAAwgAAASIAAEDiAGBgggAAQQIAACEiAABBYgAAYUIAACHCAKCgogCgoKIAoKCiAABhggAAoWIAAGHiAAChggAAgaIAAMGCAAChogDA4QIAAMGiAADBggAAwcIAAOGiAADCAgAA4cIAAKIiAIDhwgBA4cIAAOICAAEBwgAhAeIAQQHCAADiQgABAeIBISFCAAEh4gABIgIAQSHiAAEiAgCBIgIAASJCAAFCAgAhIkIAIUIiAAFiAgEBYcIAAWIiAAFCYgFhYaIAAWJCAMFiAgBBYkIAAYIiAKFiIgABYmIAgYJCAAGCYgABYoIBAYIiAAGCggChgkIAAYKCASGiAgABomIAoYJiAEGCggABooIAQaKCAMGiYgGhweIBocHiACGi4gBBwqIBweICAeHh4gAhwuIBoeIiAMHiYgAB4qIB4eICASHiYgBhwsIBQeJiAaHiIgGB4kIA4eKiAAICwgICAgIAweLCAWHiggAB4wIBAeKiAgICIgAiAuIA4gLCAGIC4gACAyIBogKCAOIC4gIiIiIBggKiAWICogEiAsIAAgMiAUHi4gIiIiICAiJCAaIiYgDCAuIAYgMCAYICogFCAsIBIgLCAeIiYgFiAsIA4gMCACIjIgIiIiIBQgLiAQIC4gHCIoIBIiLiAEIjIgAiI0ICQkJCAWIi4gFCIuIBgiLCAWIiwgGCIsIBokKiACJDQgJCQkIBgiLCAWIjAgFCIuIBYiLiAkJCYgGiQsIAAkNCAgJCggFiQuIAQkNCAAJDYgFCQwIAokMiAmJiYgGiQsIBgkLiAcJC4gGCQuIBYkLiAYJDAgFCQwIAAkNiAmJiYgGiQuIAIkNiAWJDAgFCQwIBYkMCAmJiYgHiYsIBgkMCAaJDIgDiY0IBYmMCAoKCggGiYwIBgmMCAYJDIgBCY4ICQmLCAiJi4gGiYwIBYmMiASJjQgCiY0IBomMCAaJjIgBCY4IAYoNiAoKCggGCYyIBomMiAQJjYgHCYyIBgmMiAaKDIgFCg0IAYoOCAgKDAgDCg2IAQqOCAaKDQgHigyIBwoMiAqKiogHCowIBooNCAQKDggBCo4IBwoNCAkKDAgHigyIBgqNCAWKDYgDCo6ICAqMiAeKjQgJiowIB4qNCAsLCwgHio0IAIuOCAcKjYgHio0ICAqNCAcKjYgICo2IBwqNiAsLCwgIiw0ICgqNCAgLDQgHiw2ICQqNiAULDogLi4uICIsNiAoLDYgGiw6ICAuOCAkLjYgFC48ICgsNiAkLjggIi42IBouPCAiMDwgKDI4ICYyOiAgMj4gIjI+ICQ0PiAuNjwgLDY+IDI4PCAsOD4gMjo+IDw+PiAAAAAAOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Kurq6urq6uln4iAeXl5eXl5gIiWpaurq6urq6vo6Ojoq59tbW1nU05usNbj6uTd3dTDpm9NTmdtbW2fq+jo6Oirq20MDTTP792/i19ZX19qXGZ7wLKaQg4Mbaur6Ojo6KurZyax78eBanqLrr+/v7+/s6Jsc7OygzFbq6vo6Ojoq59N78d0gafc7OzGxsG/xuDg39fAkYy3sliIq+jo6OiWbuqzdK7V8N7S0szMwczSzMzM297OwIx9t29t6Ojo4WDqgXPHtnd3zNLMzM2vj8XF08zFxczOxpuCs2/J4eif47Z6gYLHLCyhzc2Pa2trj7jFxefnf5K0yIqRp3Xh2JDIkYosGzOSEREkQU9LeHhrnn9/oZ7nr7i0vqSzl7qN0IuiLAQgkodaCx0oHUFBP3hrk4+ToZ64ubnGrpSzfHysi6K8RgsRM1IyLSIIHhI9Ol5kXqGhoa+vuMSzrrOOjpenyDpGMwiVqVEyMDV+VPLy8r31ykueoa+4tbSzp6CXoK3GPywJIxSU0T8/vdLt+vf46/b8NktLkrjCnaenrKenrbs/GQkKBzo8TGEtUlKV7tq5/Pw5RT+hxcKdpKenp6eywD0cCQUhGCdHVUMhITw4FVLx818uKD9rqaOipKKgrMC3dygQKRgwY0dFdC8lGBcqQILcqisoRjp9naTAiYa8vLe7PSUfIzwyLS1FTBIYGS9Am+azKUE6XKSUm9uFdb7HvrxwJR8+RmJFLxklEC8lJ0hEQzdGXK2no6et5XylmdXVvM5fGDZiTHFDGScDEgoSLxcrPWqnwKenrc7QbuFux9DO1c7de0EoKg8lEAYCBgEEBBy2pMCjp6273mXJ6LpywNXV1c7cs0YoHAgDDxMlFS0l8fHira2tu9u2gOjh6FuFwNXV1dXZ3bcaEi99OTYiHPHx5Ke3rbfbaFDh6Ojon1NywNnX2dfV2cgiOTc5H4vXwMjVwMjXxphXkOjo6OirpUlpwNff3NzZ3MCbi5uqraTAyM7fzsCaSZ+r6Ojo6KurbQ5CdsfX3N3p6ent+/v08Nnl386cVhZnq6vo6Ojoq6ttAAwOQoSowN3k8P3+/vnk2aicXRYNAG2rq+jo6Oirq21tbW1gU0pQZYWYkZGJiXJYSk5bbW1tbaur6Ojo6Kurq6urq6urpZ+NgHl5eXmAiJalq6urq6urq6vo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Og"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 4328,
+    "strings": {
+        "name": "Hobgoblin Bread",
+        "article_type": "A",
+        "singular_name": "loaf of Hobgoblin bread",
+        "plural_name": "loaves of Hobgoblin bread",
+        "description": "This strangely baked Goblin bread\nlooks burnt in some places.\nHP+10 VIT+3 CHR-7\nHP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMyOCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAQGIAIECCAEBgggBAYKIAYGCCAGCAogBggKIAQIDCAICAogCAoKIAoKCiAKCgogCgoKIAgIDCAKCgogBggOIAgKDCAICg4gCgoMIAgKDiAKDAwgCAoOIAoMDiAKDAwgCgwMIAYKEiAKDA4gCAwQIAwMDCAIDBAgDAwOIAoMECAMDg4gCAwSIAoMEiAMDhIgCAwUIAgMFCAIDBQgDg4QIAwOEiAMDhAgDA4SIA4OECAODhAgCA4WIAoOFCAKDhQgDhASIAgOGCAIDhggDA4UIBAQECAQEBAgCA4WIAoOFiAQEBIgDhAUIA4QEiAMEBYgEBASIA4QFCAMEBYgChAYIBAQEiAIEBogDhAUIAwQFiAOEBYgDBAYIBISEiAQEhQgDhIWIAwQFiAMEBggEhISIBISFCAOEhYgEhIWIBISFCAMEhogDhIYIBQUFCAQEhggDhIaIBIUFiASFBQgDBIcIBASGiAUFBYgFBQWIBQUFiASFBggDhQaIBQUFiASFBggEBQaIBQUGCASFBogDhQcIBYWFiAUFhYgEhQaIBQWGCAQFBwgFhYYIBQWGCAWFhggEhYcIBIWHCAWFhggFhYYIBQWHCAQFh4gFhgYIBYYGiAWGBggFhgaIBYYHCAUFh4gGBgaIBYYGiAWGBwgEhYgIBoYGiAYGBogGBgaIBQYHiAWGBwgGhoaIBYYHiAYGhwgGBocIBgaHCAaGhwgFhoeIBgaHCAWGiAgHBocIBoaHCAWGiIgGhwcIBocHiAcHBwgGBogIBwcHiAaHB4gFhoiIBocHiAcHBwgHhweIBwcHiAaHCAgGBwiIBwcHiAeHh4gHh4eIBocIiAeHh4gHB4gIB4eHiAeHh4gHh4gIB4eICAcHiAgGh4kIB4eHiAeHiAgICAgIB4gICAeHiIgICAgIB4gIiAgICAgHiAiIB4gJCAgICAgICAiIBwgJCAeICQgICAiIB4gIiAiIiIgICAiICAiIiAiIiIgICIkICAgJCAeIiQgIiIkICAiJCAeIiQgIiIiICIiIiAgIiQgIiIkICQkJCAiIiQgIiImICQkJCAiJCYgICQmICIkJiAeIiogIiQmICQkJCAkJCYgIiQoICQkKCAmJiYgJCQoICIkKiAkJiggJCYoICQmKCAkJiogKCgoICYmKCAkJiogJCYsICYoKiAmKCogKCgqICQoLCAoKCggJigqICgoKiAmKCwgKCgqICYoLCAmKCwgJigsICoqKiAoKiwgKCosICgqLCAoKi4gJiouICoqKiAoKi4gLCwsICgsLiAmKjIgKiwuICosMCAqLDAgLi4uIC4uMCAsLjIgLC4yIC4wMiAuMDQgLjA0IC4wNCAwMjYgPf39/f39/flnJmZiIF2fn96fnmWyPH39/f39/f39/f39/f39/HlkHQ+PD9VMDg8PDxOZ4x9jsL39/f39/f39/f399nSunk8NERxWSMeMDw/UngiLzxEYm/F2dnZ2dn39/fpgos+NDxtkV0bHysrKUMvbjwIGjg4RVvBwcHS2ff38ZykrU9OcZp3OSQYChQrPGdhJBwSQDg8JhcAwdnZ9/e3h+zKaF2RsGATGBEKEhIvcnIcBBRhMBoiVRnB2dn396mq7sDolZVrTxMRCgYKKTxebgoCAlJLEAgnMk/Z2ff3ulOBxMrgyntJKSAsKiFIpppJAwcUQFgeBzclP6HZ9/epdj4qMaWriGBJXU1ma3CeSAEBBiN8Pw4KURYnVNn396J5UCg7dn62fodreqVQ1GsJDRMTPo0jAQNSFhA3jvf3onlWKk17zeWEoHqbWtjbRyEYKjqAgCAHBEoeCEJr9/ecl2U7VmzR8L+or6M5/8NbTU0fgZo6BQYWWRYjVUaQ96K6eVtiV6D068nWtnT5tphvKInbexUGBVRuDhtOQG3FosideYlmZt7yv9erx/bDw3VB6+JQFRVBg2MFBUlpQHSpub+riXNaqvnNuMT+19fDYuP2qFA5Ta2eOwYUSm0nRa61uKuqtYd16/7mtv3Vz8Z+9X6rdVtsgXAfBoorMTok2Yt/ybiMiXV5+v7r/NXVhOjWk7iJasfm7ti2sxhNLE73rn2YxsevbGzq/fr58Mek7aC4qH/L44Rq2PZoCUg+PveufY6HqM3q+/v19fT28urGiceTmOaof1+lmx8YWjlI9/GQi5aouMvntL+bxPD68sq1m2+706qHectNOzlwITv399KikN/b3LTnu6OE/Pz2x7+jedu/qn/RqnBHj3s7VPf32dmCqfj7y+e7w/b5+fbbxoTT3rVzuN6Jb1DTiTlW9/fZ2cFMn6H0tP3/5NavmNXi2+u7o4zXqpNs7KCFKnn399nZwQAP0eqvuMTQzbhz7fTt4qCMus+vjuPRfy1Hovf32dnBCzXw2trH59rDvuj24qDN3eTj0ZvX7LVXR4u39/fZ2cEPyd0PXNrp1cnq7L9/bMTm5Nev1sS+b3WQsff399nFgqTKhg8LHT2vxrKGpJi4193Ekt3oo4yOrpz39/f32bHJ8vC9CwAAAAw2snO4397Nr3Vf3qOSro6X0vf39/fZxY6hvp2CwcHBwaJ9nMO8zcOgr4/RtZ2Cp9nZ9/f399nZzpypqcXZ2dnZ2azZ4pKbyenf0pessdnZ0tn39/f39/f39/f39/f39/f3xerNou+st7rFxe/39/f39/f39/f39/f39/f39/f39/fZp8XS9/f39/f39/f39/f39/c"
+}

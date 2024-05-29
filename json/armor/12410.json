@@ -1,0 +1,22 @@
+{
+    "ID": 12410,
+    "name": "Nms. Shield +1",
+    "item_type": "Armor",
+    "description": "DEF:11 MP+15 MND+3\n${icon: fire}+15 ${icon: ice}+15 ${icon: wind}+15 ${icon: earth}+15\n${icon: lightning}+15 ${icon: water}+15 ${icon: light}+15 ${icon: dark}+15",
+    "flags": "Inscribable, CanEquip",
+    "stack_size": 1,
+    "equipment": {
+        "level": 69,
+        "ilevel": 0,
+        "jobs": "WAR, WHM, RDM, THF, PLD, BST, SAM",
+        "races": "All",
+        "slots": "Sub",
+        "superior_level": 0,
+        "shield_size": 2,
+        "max_charges": 0,
+        "casting_time": 0,
+        "use_delay": 0,
+        "reuse_delay": 0
+    },
+    "icon_bytes": "kWFybW9yICAgMTI0MTAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAgIIAoKCiAMDAwgDAwKIA4MCiAMDAwgDAwMIAwMDCAKDBAgDAwOIAwODiAODg4gDA4QIAwODiAODg4gDA4SIA4ODiAODhAgDA4QIAwOEiAODg4gEBAQIBAQECAQEBAgDhAQIBAQECAMDhIgEBAQIBAQECAQEBAgEBAQIBIQECAQEBAgEBAQIA4QFCASEBAgEBASIBIQECAOEBQgEhIQIBISECASEhIgEBASIA4QFCASEhIgEhISIBASEiASEhIgDhAWIBISEiASEhIgEhISIBISEiASEhIgEhISIBISEiAQEhYgFBISIBISEiASEhIgFBQSIBISFCAUFBQgFBQUIBQUFCAUFBQgEBIWIBIUFCASFBQgEBIWIBQUFCAUFBQgEhQUIBASGCAUFBQgFBQUIBQUFCAQFBggFBQUIBIUGCAUFBYgFBQUIBYWFCAWFhQgFhYWIBYWFiAUFBYgEhQYIBYWFiAUFhYgEBQaIBYWFiAWFhYgEhQYIBYWFiASFhogFhYWIBYWFiAWFhYgFhYWIBQWGCAWFhYgEhYaIBYWFiAWFhYgFhYWIBQWGiAYFhYgFhgWIBQWGiAYGBggGBgWIBYYGCAYGBggGBgYIBgYGCAYGBggFhgaIBgYGCAYGBggGBgYIBgYGCAUGBwgGBgYIBgYGCAYGBggGhoaIBYYHCAUGB4gGhoaIBoaGiAaGhogGhoaIBYYHCAWGB4gGhoYIBoaGiAaGhogFhocIBoaGiAaGhogGhoaIBoaGiAYGhwgFhoeIBwaGiAcGhogGhoaIBwcGiAYGh4gHBwcIBwcHCAcHBwgGBoeIBwcHCAWGiAgHBwcIBgcICAcHBwgHBwcIBgcICAcHBwgHBwcIBwcHCAcHBwgGhwgIBwcHCAeHh4gHh4eIB4eHiAeHh4gHh4eIBgcIiAeHh4gHh4eIB4eHiAeHh4gHh4eIB4eHiAeHh4gICAeIB4gHiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgIiIgICIiIiAiIiAgIiIiICIiIiAiIiIgIiIiICIiIiAiIiIgIiIiICIiIiAiIiIgJCQkICQkIiAkJCQgJCQkICQkJCAkJCQgICQmICQkJCAkJCQgJCQkICYmJCAkJCQgJiYkICYmJiAmJiYgICYqICYmJiAmJiYgJiYmICAmLCAoKCggIiYqICgoKCAoKCggKCgoICoqKiAqKiogKioqICoqKiAqKiogKioqICoqKiAqKiogLCwsICwsLCAsLCwgLi4uIC4uLiAuLi4gLi4uIC4uLiAuLi4gLi4uIDAwMCAwMDAgMDAwIDAwMCAyMjIgMjIyIDIyMiAyMjIgPv7+/v7+/77+/v7/sKpUzMmQLPM8/X7+/v7+/v7/vv7+/77+/v7+/v++/dzQDVhnzptTSpIm83z+/v+/vv++/v7+/r6+vr6+vqiJkBmTyrpLoh+VG9AO1x58fj6+vr7+/77+vr8+fljFzhPcrG+QThsxcmud5+DUxxi5Pn6+vv7+/v6+vnrGCZhOkKDlH23ZrWZt89/ha9dqwwB+fr6/v77+/r6/CgRwXcecqpPTVJmb21trLpJyfDBcAfv+Pr7+/v7/frnHyEwHhl3rFJdYWFviHiqxVFF2crAH4T4+vv7+/v6+jQmQRIKL3iwVFRvcn9/bcCqUXFX18euHL36+/v7/vqiJiQLFMY2VK60bWmOfm241adm5kl0zsNTZPT7+/v7+ilUGhIQUTxvfcqXap+fmN+0sG9nLFCu0MEyjfv7+/uiU0cjORRDUXSMpM94oIrfvm24aodGh859w6lM7fv7+zJvtyJDFGVEYV1ftKB4tsF/YbJqh0aAh/Z9ujXU/vv7IkESMawUWERfiUuX2onjp3SPrG2WbuWmndCjJNT7+/shQQkjQxRKNn26laTKiNW7peG0ZqFGh4Zx0Ksk1Pv7+yZNBRsxECxReHTFyYmJlN7dtNpfnmuchnHOqiTC+/v+MxoFYIdYnjZqf0c8jJKwg4Owz13ca9zTbX2rIM37+/smwQRee16RL5eOwKOF/4q/yZjFaeB24uJy9qsgzfv7+yY3BCw5EEYqj8/h35mxo+nqzrpdrWuhkH7HqyDU+/v7JkEPJUMQWCKZ2om+5rHqypjmuFqhZZqLdb+jHdT7+/smWQs+rAlOK5iDrLrhiePBsqTJWoAs5ltvtZUdzfv7+yFZNzpJKkolmH+K1aeuldWfmctJh0aGgX28mRrU+/v+O1m3IksURiWXd8vYkru86dKVyUKHRoDH9q9sY+j7+/6NFWEOHhtDJX/B236xu7CZ6ti+QoFGQrDAdz3E+/v7+/EtKlkKG8gehdafrMDGt7en6rI85T6UvJ9Iufr++/v7/b0RPA8LEx7I0Z+7w8G/trre2jxlf8C1cFX0+vv7+/v6+FYXOC4ZHtKUpX56qniKmafqPG+1tX8C7/r6+/v++/r6+RwiQcolyreDetKX1Y+K0dZB9maSCAP5+Pr++/v7+vr5FhE1XVRv26SXyJfVxrfumY6jly0GAPn6+v77+/v6+vz5hBoqT1Kk0r9vZm/a4760gzcfqPn5+fr6+/v7+/r6+vr6+HMaNV9mbGnwaY6FdEsdk+z6+v36+vr7+/v7/vv7+/v7++1zFTV8g6OMYUBoqfv7+/v7+/v7+/v7/vv++/v7+/v7+/vMMik/QILN8vv7+/v7+/77+/v++/s"
+}

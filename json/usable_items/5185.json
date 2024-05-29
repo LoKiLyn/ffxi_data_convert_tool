@@ -1,0 +1,30 @@
+{
+    "id": 5185,
+    "strings": {
+        "name": "Leremieu Salad",
+        "article_type": "A",
+        "singular_name": "Leremieu salad",
+        "plural_name": "Leremieu salads",
+        "description": "Tavnazian salad with a twist!\nHP+20 MP+20 DEX+4 VIT+6 AGI+4\nCHR+4 DEF+25% (Max.160)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE4NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAgIIAgICCAICAggCAgIIAoKCiAIDAwgCA4KIAwMDiAIEA4gChIMIAQMGiAIEg4gChIOIAoSDiAEDBwgDBIQIAwUDiAWEhAgBg4eIAwUECAMFBAgFBISIAoWECAOFBIgCBYSIA4UEiAKFhIgChIYIAYQICAMFhAgFhQUIA4WECAMFBYgDhYUIAYQICAGFBogChgUIBYUFCAQFhQgEBYUIAoYFCAQFhQgEBQYIBYWFiAMGBQgFBYYIAgSIiASGBYgFBYYIAoaFCAUFhggChYcIBIYFiAWFhggDBoWIA4WHCAIFCIgDBoUIBgYGCAIFCYgEBoUIBQYGiAOGhggFBgYIA4WICAOHBYgFBgaIAgSKiAQGhggChocIBYYGiAIFiYgCBYiIAoWJCAKFCggDhwWIBQaGCAIFCwgDh4UIBAcFiAUGBwgFhoaIBAaGiAWGBwgCBYoIBAYIiAMGiAgGBocIA4cGCAUGhwgFhwYIBgaGiAWGhwgFBgeIBAcGCAMGh4gDhgmIBAeFiAUHBogGhoaIAoYKCAIFiogGhocIBYaHiAQHhwgGBogIBIcHiAQGCYgFhweIBwcHCAYHBwgFB4cIBIgGCAQIBggChYwIBYeGiAWHCAgFhoiIBgcHiAMGiggHBwcIBgcICAQHCAgECIYIBAYKiAKGCwgGhwgIBgeICAYHCIgEiIYIBoeHiAeHh4gGhwiIBoeICAYHiAgEiQaIBYiHCAcHh4gECIeIBgeIiASJBogHh4eIBoeIiAcHiIgGiAeIB4gICAOHiYgFCQcIBggICAWJBwgGCAiIBoeJCASJhogHCAiIBweJCASJBwgDh4qIAwcLiAgICAgGCIeIBwgIiAWJB4gHCAkIBogJCAMHDAgICAgIB4gJCAWJh4gDh4uIAweMiAiIiIgHCIkIB4iJCAeICYgIiIiIBoiJiAYJCQgIiIiICAiJCASIC4gHiIoIAweMiAeIiYgJCQkICAkJCAaIiggCh46ICAkJiAkJCQgICIqIB4mJCAgJCYgECA2ICQkJCAgJCggHCQsICAkKiAiJiggJiYmICAoJiAiJCwgHiYoICYmJiAiJiggICgmICgoKCAiJiogICYqIAwgPiAkKCogKCgoICIoLCAkKCwgICguIAwkPiAkKCwgIiguICQqKiAqKiogJiosICYqLCAMJj4gJiouICQqLiAsLCwgJiouICYsLiAmKjIgJiwwICgsMCAmLDAgKCwwICYsMiAuLi4gJi4wICguMiAoLjIgJi4yICouMiAoMDIgLC4yICowMiAqMDQgKjA0IC4wNiAsMjQgLDI2ICwyNiAuNDggMjQ4IDA0OiAuNjogNDY8IDA4PCAwODwgOrq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6s7Ozs7Ozse4jo6rsr24q7KSkoSrr8fOzs7Ozs7q6urqzsevr6uObhImNkdUhqeQhnpURywfFm6fr6/Hzurq6urOzq8CAxY7daPG1dzf3+PfbW3DrKx1XCYDn87O6urq6s7LhAgzjMPj8ff+/P7//Pj49/Pz89S3jDZ5zs7q6urqzo4mjNjw9vH92vv59/Py8vLz8/Jt8vPmrFGSverq6uqOMaTn+fv6ofXP+O7p4ODg4unw8Pj28vbz1HWS4erqvTvP6Pf4z/WaNRSPmIWbiXx6j5jW7u3v8O/z0GjL6tM2t/L49vTGUiIRDmiAycmUQkzFxYCk4Ozs7e33vFTOr4zs9u/05bW1rjA1FBWhg6AlGYiVLa6Puufo5+/mo8ssvPTs7Naum8VNFQ0HBxEVX4lCJS1FyYVTTOns6OjDVJDl5efZrnZhIRUVCgYPHGlf3eu/LTe+hy03sOfn5tx1t+fl465qVmFgiHE9I04TCzIye78ZGQwMLbWb1Ofl5rfM0rnJhStKpaWZck8dc04PqDokSSVjGy06xUe14t/jw9TfijUNWUm715yNQiMdL1eCTDlVSGWxOmKHIkWh3N/Pz3ShTR6NV0qpqcRwlSkbGSmLSLvRVVVifA0JNWPS1dLG1YpAFY2NRmBpltXd7+/NMo1mwd7epbE/LRcag9XSvLPS0qcVYo1Mch5xqM3d2qKJQmuetKqTOj+RGlRAisyzhLzG0hUgYnEpDM2iTJSIDgcKNcjaYnIXdxgUNW+5rZAshsbVbxUgPQkeyKgpghUREU1Q49odC5UiDhgwrcCjXMJcp8PYWxUVCSrmuRstGF+dqqnKfUQTtTMiKE2Ks2ir26Zot8DPTSIiPtpBIzxmtteqeA5LS0uBM5C8w7d6p9vqy4RomrzAvIVoRytIVX7RfjQODhB6an+jt62aaCzL6urqr4Rdeq28rXc+FBo4eGxeLS0XMJCns21thl13n+rq6urOsm4xXYZtoSAiKhgUGl2zcEVwp21tbUNYZMLO6urq6s7OqwMELEdjQycVTRV3moeAhndoXUMuCAOrzs7q6urqzs6vAAACBAUsMFptdWhtWlo+JgMDAwIBAK/Ozurq6urOzq+vr6+vpoR5eWdob2hneYSSpq+vr6+vr87O6urq6s7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7q6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6uo"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 5730,
+    "strings": {
+        "name": "Bavarois +1",
+        "article_type": "A",
+        "singular_name": "serving of bavarois +1",
+        "plural_name": "servings of bavarois +1",
+        "description": "A bavarois among bavarois. Using\nthe finest ripe fruits, this dish is\nchilled to the perfect consistency.\nHP+25 INT+4\nHP recovered while healing +4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTczMCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAIIBiAGBgYgBgYGIAYGBiAGBgYgBgYGIAYGCCAICAggAgoGIAgICCAGCAogAA4IIAgMDCAKDAwgAhAKIAgMDiAGEAwgDA4OIAwODiAKDhAgDg4QIAwQECAGEhAgChIOIA4QEiAKDhggBBYOIBASEiAMEhggEBIUIA4SGCAQFBQgDBIYIAoSGiAIGBAgEBQWIAwSGiAMGBIgDhQaIBAUGiAOFBwgFhYWIAoUHCASFhggDhQcIBYWFiAUFhggDBYaIBAUHCAWFhYgEBYcIAoWHiAQFhwgGBgYIBAWHiAWGBggFBgaIBQYGiAWGBggDhoYIA4YHiAYGBggChYiIBQaGiAUGBwgEBgeIBgaGiAWGhogEBwaIBIYHiAaGhogFhocIBgaHCAUGiAgEBogIA4aIiAQHhggGBocIBYaHCAUGh4gEhogIBwcHCASGiIgEBoiIBgcHiAUGiAgHBwcIBIaIiAaHB4gFBoiIBwcHCAWHCAgGhweIBwcHiASHCIgGBwgIBQcJCAQHCYgGh4gIBIcJCAYIBwgHh4eIBIeJCAUHCQgHB4gIBoeICAcHiAgGh4gIBYeJCAcHiIgEh4mIB4gICAcICAgHCAgIBQeJiASHiggGh4kIBQkHCAaIh4gHCAiIBQgJiAcICIgICAgIB4gIiAWICYgFCAoIB4gIiAWICggHiIiIBogJiAiIiIgGCAoIBQgKCAiIiIgHiIkIBwiJiAiIiIgHiIkIBYiKiAYIiggHiIkIBYiKiAYJCQgICQkIB4iKCAaIiogGCIqICAkJiAYKCIgICQmIB4kJiAcJCogGCQqIBYkLCAYKCIgGCQoICIkJiAeJCggJCQkICImJiAYJCwgIiYoICImKCAaKiIgHCYsICAmKCAmJiYgHiYsICImKCAcJiwgGiokICQmKCAiJiogKCgoIBomLiAgKiYgJCgoICgoKCAcKC4gJCgqIBwoLiAeKC4gJCgqIBwoLiAoKiogICguICYqKiAqKiogHCowIB4uKCAmKiwgHiowICIqMCAmKiwgHCowICgqLCAgKjAgJiwsIBosMiAiLDAgKCwuICgsLiAiLDAgHiwyICouLiAmLDAgIC4yIB4uNCAuLi4gKi4wICIuNCAiLjIgIC40ICYuMiAmMiwgLC4wICouMCAoLjIgIjA0ICAwNiAmMDQgKjA0ICwwMiAmMjQgLjAyICwwNCAoMjYgLDI0ICQyOCAqNDAgLjI0ICoyNiAuNDQgJDQ4ICg0OCAuNDggLjQ2ICo4MiAyNDYgLDY4IDI2NiAyNjggLjY4IC42OiAwNjggNDY4IDQ4OiAyODwgODo6IDg8PCA6PDwgPD4+ID4+PiAAAAAANLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0q+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6/S0tLSr6+KioqKiopnX0hINysrLz9EWGeKioqKioqvr9LS0tKvr4oAAAEEBw8VGiUvOTovLRoXFQwJBgAAiq+v0tLS0q+vigYIFCFBc46qsrK4vLy4tZF9MCERCAaKr6/S0tLSs4QrHzuLuNnTzs7Ozs7OysrFrcO8vIIwDkqvr9LS0tKEOUWC09nTzs7Oy8POw7yqrby8uK2qpLxqL1+v0tLOrzlQytnO08u8xbWnrqefkpKDdomRnry8pI68T1PS0r1aT+Dgx861pGRWT3uepK2fkYl7YV1vgICAgI6RRXzSfErq4qqXl5VFRRJQSzYeGyMeLkJhe2thbHl5goJzRIpf8vLyd+KqfUUSVx4mKiY1ODIqIiApSXlqXmx5gIB9N5H6/Pp3HCQnAmA+IipMcFVDaWJZLikgIG9qXmx5eXI58PD4+r9mDU4QEEweMmWGj1lDWVJHKDIuKHlaXmpyc2ry8/PzHAoCDaxODRg4dIGaj0NbWWA4MjIyUHlKZH2CbPrnsU4NCgINR++/pZyWjZ25bj5UYEMuSzYpgGp9i5eX0/7Y5woKGRA+TLDUm390mra2VWJbWThLSzR5gpWRl2RI+/13DQoNPXpSjdbmhnWMtNaPdGV0VFRuR2qqqqqVSqCA/b8cDUbQhXqFxuvElJu51reGdX9iYoFXqsDDwEio0nxe80546NDcf7DG5uaUor7WwY1wjIV6fpjLw8Nar9LS0nFxrO77ws3PtLTc7MR1vtHNqYaaq42Fx8ueSnzS0tLSr4pEoej8wuyZucj16ZTB3uWpjKK+opSVWkiKr9LS0tKvr3ELHarP1evG1un53N7s5bu01demURMLiq+v0tLS0q+vigABFovR7u7U4f708f7l3szk6XYTBQCKr6/S0tLSr6+KAAAFM/H7/u3jqbfC6t/t/PXXMAMAAIqvr9LS0tKvr4oAAAAD+Pbu2pNATWiiyenu17kdBQAAiq+v0tLS0q+vigAAAAE8/v7oYmNgf6LM3vvXbQMAAACKr6/S0tLSr6+KAAAAAAaH9vvjz6a7z9f26jwFAAAAAIqvr9LS0tKvr4qKioqKilM3K6j2z7r24EU/WIqKioqKiq+v0tLS0q+or6+vr6+vr6+EWD83KzdYfK+vr6+vr6+vqK/S0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tI"
+}

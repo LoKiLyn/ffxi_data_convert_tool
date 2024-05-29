@@ -1,0 +1,30 @@
+{
+    "id": 6070,
+    "strings": {
+        "name": "Oceanfin Soup",
+        "article_type": "A",
+        "singular_name": "bowl of oceanfin soup",
+        "plural_name": "bowls of oceanfin soup",
+        "description": "An exquisite example of boiled\nrockfin, the broth perfectly\naccentuates the marine flavors\ninherent in the beast's dorsal\nappendage.\nAccuracy+15% (Max. 95)\nAttack+19% (Max. 85)\nRanged Accuracy+15% (Max. 95)\nRanged Attack+19% (Max. 85)\n\"Amorph Killer\"+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjA3MCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQgBgYIIAoMDiAKDA4gDhAQIA4QECAEFBIgBhYQIBASFCACFBogAhIiIAQSJCAIGhQgBBYcIBQWGCASFhggChwSIBQWGCAEFCYgGBgYIAoUKCAWGBogFhgaIAwWJCAGFiYgGBoaIA4eGCAIGCggEhwaIBYaHCAYGhwgCBYsIAIaJCAaGhwgGBweIAwgGCAYHB4gGhweIAoeHiAaHB4gGBweIAYaLCAEGiogHh4eIAgYMCAaHiAgECQaIBoeICAMICAgBhwqIAoaLiAeHh4gGh4gIA4eKCAEHC4gICAgIA4aLiAcHiIgGiAiIBgiHCAcICIgDBwuICAgICAKJCIgHiAiIBwgIiAeICIgEiYcIBwgJCAGHjIgECImIB4iIiAIHDQgHCIkIA4mIiAeIiQgIiIiICAiJCASICwgDh40IAggMiAeIiQgFCYkICAiJiAgJCYgHiQmIAgiNCAkJCQgCiA2ICAkJiAMIjYgEiIyICYmJiAWKiQgICYoIAwkMiAkJiggCiI6IBAiNiAWJDAgFigqICImKCAiJiogDiQ2IA4iOCAKJDYgGiokIBAmNCAmJiYgKCgoIBwmLiAkJiogIiYqIBAmNCAQJDggIigqICQqKCAmKCogDiY0ICgoKCAiKCwgFiYyIBAkOiAKJjogFiY0ICQoLCASKDQgJCosIA4mOiAqKiogFCg2ICQqLCASJjwgGDAoICQqLiAWKjYgFCg4IAwqOiAmKi4gECg6IA4oPCAmKi4gGio0ICwsLCAmLC4gHDAoIBgqOCAmLDAgDCo8ICYsMCAQKjwgFCo8ICYsMCAoLDAgFiw4IA4sPCAeMC4gKi4wIBYsOiAYKjwgJi4wIBwuNiAQLDwgGjIsICQuMiAuLi4gFCw8ICguMCAcLDggJC40IBgsOiAULDogLC4wICguMiAgLjYgJC40IBYuPCAoLjIgIi40IBwuOCAULjwgJDA0IB4uOiAgLjYgGi46ICYyMCAqMDQgKjAyIBAwPiAWLj4gGi48ICAwOCAqMDQgIDA6IBw2MCAaMDwgJDA2IBgwPiASMD4gLjIyIBYwPiAeMjogHjA6ICoyNCAiMjggHDA8ICAwPCAWMj4gKDI4ICwyNiAkMjogJjI4ICQyOiAeMj4gMDI0ICI0OiAaMj4gJjY0ICwyOCAeMj4gLDQ2ICI4NCAoNDogMDQ2ICA0PiAuNDggKDY6ICw0OiAgNjogLjQ6IDI2OCAuNjggIDY+IDA2OiAoNj4gIDo4ICI2PiA0NjogLDY8ICY4PiAuOD4gNDg6IDA4PCAyODwgKjw4IDI4PCAsOj4gNDg8IDQ6PCAAAAAAKurq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Orq6urc3JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJyc6urq6tzc1IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUnNzq6urq3NzUgAAAAAAAAAAAAAAAAAAAAAAAAAAAABSc3Orq6urc3NSAAAAAAABAgMEBAQEBAMDAgEAAAAAAFJzc6urq6tzc1IAAAADBgsUSGZ7e3VaTVEqDgYDAAAAUnNzq6urq3NzUgADCBta3Pf9/f338+zl3M2yay0JAwBSc3Orq6urc3JECSR55/n9/fn577/B3MC3wcHGo2sbB1Jzc6urq6tzUhlf0fn+/vvr6+JwNEF6rbOflpObrZNCGXNyq6urq10njO/7+Pjp2ti+ZSYsKRINIoOtmZmbn5BXGXKrq6uVK5Pv7+/r5NCxXEsQERgwDwwSFgxqrZubnpZGH6urq2Js4uvr5+TPnFw8L0NtjpE3EyBjSQw7rZ6bn5srcqt9RsDn4uLZz6F3HiHa8MnJx2FWRUmXFjZMrZ+fm3krlVNZ19fX0dm6mkMd0vDUrLB4d25gRYupIFhqt5+emSuHQH7BxsbA3cKPVHTw1J2Af9CsnIZnfPHIUKK3rZ+WNX1CjJ+zra3dzI5pjcu6y4BDsLGcklVeoPrj38C3rZMuc0Z2mZ+fn8XVuoKg4cvDy044eGgyMoZehOro0cCmkCt9Uz9+kJaZuMnOmLDm3tXhrFUlGj6KkkuBodLGt59+K4d9P09+jJmZvdCwrvD18t7OrIqlxLZ3Vpq+uLutnko/latiLkeDjJaWuM+N2vz85t7b29TUvHeovrWmn5ZkNXOrq5UxM2SDhZCTtMW52PT29uTk2ohxoL2vnp+egzoxq6urq101SmRsg4yMm7jSxc/HlJSUp7SvnqaenoxHJ3Orq6urcl0nOllsbIWFiYWZqqamn5mQkJCFfpCJOh9zfaurq6tzckQJQEpKW2R5g4OJiYV+eXZ2dnZbNRcGUnNzq6urq3NzUwADCSQjIzNKSkdPV1tXV09KLhsHAgBSc3Orq6urc3NSAAAAAgUOHCguLjVCLiQbFQoEAgAAAFJzc6urq6tzc1JSUk1SUlJEPTExMTMxOT1EUlJSTVJSUnNzq6urq3Nyc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcnOrq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6urq6s"
+}

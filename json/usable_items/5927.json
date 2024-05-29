@@ -1,0 +1,30 @@
+{
+    "id": 5927,
+    "strings": {
+        "name": "Caravan Tea",
+        "article_type": "A",
+        "singular_name": "cup of caravan tea",
+        "plural_name": "cups of caravan tea",
+        "description": "A particularly aromatic cup of date\ntea. Its delightful taste promises to\nsoothe one's soul on even the longest,\nmost arduous of journeys.\nHP+22 MP+32 INT+4 CHR+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTkyNyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgAAIAICACACAgIgAgICIAQEACAEBAQgBAQCIAYEBiAGCAIgBAQIIAYGBCAGBgYgCAgIIAgICCAICgYgCgoKIAoKDCAMDAggCgoMIAgGGCAIBhogDgwMIAwMECAKCBogDAwQIA4ODiAMDhAgDg4OIBAOFCAQDBogEBIOIAoIJiASEBggCggqIAwKJiAMBDAgEhIUIBIOHCAUFBQgEhAaIAwMJCAODiIgDAooIAwIMCAWFBQgEhIcIBQWFCAOCiwgDgwqIA4GNCAODiQgEhIeIBQUGiAQDiYgFhYWIAwKMiASFBwgEBAiIA4INCAWFhYgDg4qIBYWFiAUECYgFhgUIBAKMiASECQgFhYYIBQUICAWFB4gDg4uIBAKNCAUFCIgFBImIBIMMCASECwgGBoWIBgYGiAWGBwgGhoaIBgWHiASDjIgFhQmIBQSKCAQEC4gEhIsIBgaGiAWFiQgFAw4IBQWJiAaGhogGBwaIBoYIiAWGCIgFBAyIBgaHCAYGiAgEhIwIBwcHCAWFCogHBwcIBYSMCAWGCYgGh4YIBASNCAYGiAgGBgmIBocHiAcHBwgHBQuIBYQOCAUFi4gFhI0IBocICAYGCogHh4eIBoeHiAYGCggHB4eIB4eHiAcHiAgGBYwIBweICAeHh4gGhwmIBAWNCAeHiAgHiAeIBweICAaFjIgGhosIBoYLiAgICAgHB4iIBoaLiAeICAgHB4kIBocKiAaFjQgGhQ6ICAgICAeICIgHBwoICAgICAcHC4gGhg0IB4gIiAiHiQgHh4mICQiICAaGjIgIiIiICAiIiAeHCwgHiAoICAiJCAiIiIgICIkIBwcMCAeHDIgDhw2ICIiIiAiIiQgHiAsIBIeNCAiJCIgJCQkIB4eLiAgIiogIiQkICgkIiAiJCQgIB4yICAiKiAgIC4gIiQmIB4gMiAkJCQgECA2ICgmJCAiJiYgICIwICwmIiAiJiYgJiYmICIiLiAkJiggIh42ICQoJCAmJiYgLiYiICooJiAkJiggJCYsICgoKCAiIDYgJigmICQoKCAkKCogLCgmICYmLCAoKCggEiY2ICYqJiAmKCogJigqICIkNCAkIjYgKCQyICgoKiAmKC4gKCoqICYmMiAuKiggJiQ2ICImNiAoKiwgKCwqICwsKCAqLCwgKCg0IDAsKCAmLC4gKCowICwsLCAqLCwgKiwwICgoOCAyLiogLi4sICouLiAsLi4gLi4uIC4uLCAQLjogLi4uICQsOCAyLiwgKio4ICwuMCAyMCwgLi4yIC4wMCAuLjYgMDAwIDAyMiAwMDQgFDQ6IDI0NCAyNDQgGjY6IBY2PCAyNjYgNDg0ICQ4OiAAAAAAOjo6Ojo6Ojo6KY3d4yhvcnMwrGPZHvo6Ojo6Ojo6Ojo6Ojo6Ojo6OjoWmySTjkrIis9IiM+bNvl6Ojo6Ojo6Ojo6MLCwsLCwsJkZEQuTl+Ah3pWNCAol8LCwsLCwsLo6Ojowr2cnJycl2whXXh6q7TAr3FrToVNc5ycnJy9wujo6OjCwpwAAAADHHazpr3b5NPTq3pNX3onAwAAnMLC6Ojo6MLCnAAAASVrtpvayOHg5cy0gGtxV0IdBQCcwsLo6OjowsKcAAw3jb6p1emQ4uvo08WNaVU2U4keCpzCwujo6OjCwpwbTXa+s8fk1GXx9PLmxZRjOpJrgI0tbMLC6Ojo6MLCbD5rq7a/3fB5LOL5+ObNqGPFxa+Aek1awsLo6OjoyY8nc4ioqtXt6JY70vz857qfg4K56auSX0Oxwujo6Oi9c19gVZS21fTQpNfD8/nmqEFURkZ5wcRsPozC6Ojo6Jxak1OIqaLZ0kqy+uPD1qxULG/UsFSDxpg+ZL3o6OjoZHFyalailGZtoOr6/u67ipYssP34zkaJvE17wujo6LhDmmM1N2AqMSRo6vvsz9zbrrBV2vj2kW/FVne96OjosXeZZhwNJjZ14F6k95Hz/Pjx1EZywfiwVK9iYsLo6OichJBFDwQhdZ3arn3Kkfb59efYo1Rm5eNhmn93wujo6KGMgkUPAh1ds8zZZSS57/Xy4bqdnaKx4pajpWy46OjoppyZLgsWTWuhtMunQdLi7+bYtKuvopfNn7WlWqbo6OihppAhH3O6kpyxwtuDzdvhxbSim7p+L3awzrhsl+jo6KachihMqeaAdqqbxLnY2NHAmKKijTwMTZZhnTeP6OjooZyQIUB7mWqSj4SvwM3Rxa+bh4diHAxPlmGFN5fo6Oimj4Y5DxpFgquMa3R6koeNdHRra08ICCWQODE1d+jo6LGEmUgTEkWZnVtIM1Q7O0c7UXxrQwEOGEGLw3hs6OjosWSaU1BnRKzESzJHeazSzcCuXkcmAQgUtf3Y3nTo6Oi9N691STpLrp9ejtvv+Pn5+evFnjEZBxB3wFa3a+jo5ehsjc2DSqfYSXX1889uWDBR7vLfPRUJDVbYt4d36Ojo6Jd7veHTq7dZasuRVVFKcD0pt60zFwIRAwZDYpfo6Ojowo9PYndaLT5JZoheYNjZXnyFPxsCAAAAAJfCvejo6OjCwo9kT09PTVohUniGgYl+Px5ajJycnJycnMLC6Ojo6MK9wsLCwsLCsX53RFG7Ild3j8LCwsLCwsLCvcLo6Ojl6Ojo6Ojo6Ojo6KY68/XvUpfo6Ojo6Ojo6Ojo6OXo6Ojo6Ojo6Ojo6OjovYzm282ij+jo6Ojo6Ojo6Ojo6Og"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 4243,
+    "strings": {
+        "name": "Torrent Crystal",
+        "article_type": "A",
+        "singular_name": "torrent crystal",
+        "plural_name": "torrent crystals",
+        "description": "A crystal infused with water energy.\n"
+    },
+    "flags": [
+        "Ex",
+        "MysteryBox",
+        "CanSendPOL",
+        "CanUse",
+        "NoSale"
+    ],
+    "stack_size": 12,
+    "item_type": "Crystal",
+    "resource_id": 0,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 0,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI0MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAEhIQIBYUDiAWFBAgFhYSIBoWECAaFhAgGhYQIBYWEiAaGBIgFhgUIBwYECAcGBIgGBgSIB4YECAcGBIgGBgUIB4aECAcGBIgGhgUIB4aEiAcGBYgIBoSIB4YFCAcGhQgGhoUIB4aEiAcGBYgHhoUIBwaFiAgGhQgGhoWICAaFiAgHBQgHhoWICIcFCAiHBIgGhoYICAcFiAiHBQgHhoYICIcFCAgHBYgHhwWIB4cGCAiHBQgIBwWICAcFiAcHBggJB4UICIeFiAkHhQgIBwYICYeFCAkHhQgIh4WIB4eGiAiHhggKh4UICQeFiAiHhggIh4YICIeFiAmHhYgIB4aICIeGCAgHhogHh4aICQeGCAmIBYgJCAYICYgFiAmIBYgIiAYICAeHCAoIBYgIh4aICQgGiAkIBggJiAYICAeHiAqIBYgJiAYICAgHCAkIBwgJCAaICIgHCAeIB4gIiAcICQgGiAmIhggKiIWICQgHCAgIB4gLiIWICwiFiAoIhogLCIYICgiGCAmIhwgICIgICYiHCAwIhggLCIYICIiHiAwJBggKCQcICgiHCAkIh4gIiIgICokGiAqIhogJiIcICQiHiAmIh4gLCQaICgkHCAkIiAgLiQaIDIkGCAiIiIgIiIiIDAkGiAoJBwgKCQeICYkHiAkJCAgJiQgIDQkGCAuJBwgMCQaICokHCAmJCAgKCQeICgkHiAmJCAgJCQiICwmHCAmJCAgJCQkICYkIiAsJhwgLCQeICgmICAoJCAgJCQkIC4mHiAqJiAgOCgYICgmIiAwJhwgJiQkIDomGCAqJiAgKCYiIC4oICAqJiIgMiYeIDwoGCAuKB4gLCYiIC4oHiAqKCIgLCggICooJCAwKCAgLigiICgmJiAqKCQgKigmICwoICA8KBogOCgcIDAqICAoKCggMioeICwoJCAqKCQgMCogIDYqHCAwKiAgLioiICooJiAoKCggPCoaIDAqICAsKiQgLCokIDwqGiA4Kh4gLiokICwqJiAuKiQgLComIDYqICA0KiIgMCokICwqJiA2LCAgOCweIC4qJiAwKiQgNCwiICwqKCA4LB4gPi4cIC4sJiAsLCggMCwmIC4sKCA4LiAgOCwkIDIsJiAsLCwgMCwoIDouIiAyLiYgMCwoIDQuJiA+MCAgMi4oIDAuKiA8MhwgLi4qIDIuKiAyLiggLi4uIDIuKiA0MCggMi4qIDAuLCAuLi4gPDQeIDQwKiAyMCogNDAsIDwwJiA4MCggMjAsIDQwKiA0MCwgNDIuIDg0LiA2NC4gNjQwIDY0MiA4NjIgOjYwIDo2MiA6ODQgOjg2IDw6NiA+PjYgPDw6ID4+PCAAAAAAOfn5+fn39GJsIZSPzY9y+fn5+fn5+fn5+fn5+fn5+fn5+fn4tW/Nw5Wir06S42Dz+fn5+fn5+fn5+fn5+fn5+fn566XpC4HHAxUQC8vU6xVka6urq6urq6urq6urq7n5+fnt8seDxwuKQ9KzG9AQIFJeHl5eXl5eXl5eXmnrufn5+fPKQwpISYhIRjHzHMwVYIFAAAAAAAAAAAAea6u5+fn59SBKQ8hLmc+GGzTvU6BgkgCAAAAAAAAAAB5rq7n5+fnvrFYCAgdN0RZIk3HiXaWRSoAAAAAAAAAAHmurufn5+fLoqRDAQQ7szkNE4TSb3ZSORIAAAAAAAAAea6u5+fn52V1SnhVPhlErB8QDYOdTixlWQYAAAAAAAB5rq7n5+fnkGhWE5osBApvRCsNPcNNH02DWgsAAAAAAHmurufn5+eMum1KWIgTGCJSRCYkb5klJVVZGgAAAAAAea6u5+fn55dNf2RDtowxPSJ2OzYzfFwwQFVBCQAAAAB5rq7n5+fnrotJdWhWmpNeRDl3S14ecVxCTD1GFAAAAHmurufn5+eurlBqjHWFv45bYV6AZhwdonI4THRPFgAAea6u5+fn566ueRGPh4eaqWs7UoCYgJ4onFhlw9tHAAB5rq7n5+fnrq55AAV9f2ygpDQTO7jeIS1lml2EjcZuAHmurufn5+eurnkAAzzXhHy+th05zeheOyCalV1cr7mhea6u5+fn566ueQAAA3vTtY3jthOCuLwzFxu/fleOn615rq7n5+fnrq55AAAABpLsoMLgcEV2d0shFyixflhrtIqurufn5+eurnkAAAAAI5uaptrZjTcdNjYgFVyaWIWyoqeu5+fn566ueQAAAAAAMqi6yc7ZWRhLNjMgFXCPdOXvv67n5+fnrq55AAAAAAAnY9HIydHFNB4taZ4mVPKG8em3rufn5+eurnkAAAAAAAAnwODhvuaHNDaUzZbJ7/fZ6amu5+fn566ueQAAAAAAAABi3OPIhPFYPVvH7eTQ7pyqu67n5+fnrq55AAAAAAAAAACj6uPIsPZcTNbO2r6Q64N/rufn5+eurnkAAAAAAAAAAACt692asfT25aTJyo9wjZW35+fn566ueQAAAAAAAAAAAF/Y67t++/jWh5WqpX19fbfn5+fnrq55AAAAAAAAAAAAAF/Y4cH5+fGwhpO6nMWarufn5+eurnl5eXl5eXl5eXl5eXjI1vz+/fabvrrPz92u5+fn566nrq6urq6urq6urq6urqfI4+72+/358/T68q7n5+fn5+fn5+fn5+fn5+fn5+fn5+fi7ubm3+7r8PX15ufn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fm5+bn5+fn5+c"
+}

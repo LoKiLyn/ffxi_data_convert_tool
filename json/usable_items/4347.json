@@ -1,0 +1,30 @@
+{
+    "id": 4347,
+    "strings": {
+        "name": "Slmn. Meuniere +1",
+        "article_type": "A",
+        "singular_name": "serving of salmon meuniere +1",
+        "plural_name": "servings of salmon meuniere +1",
+        "description": "This salmon meuniere is so delicious\nthat it will bring you to tears.\nDEX+2 MND-2\nRanged Accuracy+7% (Max.15)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDM0NyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAGIAAACiACAgYgAAASIAAEDiAGBgggAAQMIAACEiAAABogAAQWIAAGEiAKCgogCgoKIAoKCiAABhYgAAIeIAAIFCAACBggAAgaIAAGICAABCIgAAoaIAAMGCAAChogAAocIAIIHiAMDhAgAAocIAAIIiAABiYgAAweIAAOHCAADCAgBA4aIAQOHiAADCIgAAomIAQQHCAADCQgChAaIAYQHCAAECAgBBAeIBISFCAEEhogABAiIAAMKiAADiogBhAkIAoSHiAAECQgBBIgIAASIiAEDiogABImIAYUICAEECogBBQkIAQQKiAIFCQgFBYaIAAUKCAEFCYgCBYiIA4WICACFiggEhggIAwYIiAMFiQgBBYoIAIULiAOGCYgFBogIBQYIiAAFDIgChQwIAQSNiAOGCYgChgoIAQYLCAKFDAgGhweIAoaKCAEFDYgBhY0IBwcHiAGFDggBBY4IAAWOCAeHh4gBhY2IBoeIiACFjggDBwsIBYcJiAIHC4gCBY4IB4eICAUHiYgEhwqIAoeKiAEFjogECAmIBweJCAUHCogChg4ICAgICAEGDwgGB4oIBQeKCAMHiwgEh4sIBYeKiAIGDwgICAiIAYYPCAUHiwgGiAoIAgaPCAiIiIgHCAmIBggKiAWHiwgIiIiIBIgLiAUICwgICIkIB4iJiAaICogGCAsICIiIiAYICwgFCAwIB4iJiAMIDAgBhw8IBYgLiAkJCQgGiAsIBggLiAcIiwgCBw8IBoiLCAcIiogGCIsIBoiLiAYIDAgFCAwIA4eOCAOIjAgJCQkIAwePCAgJCggGiIsIBoiLiAeJCwgGCIwIBwiLiAQIDggCh48IBokLiAaIi4gHCQuICYmJiAcJC4gGCIwIBoiMCAMIjYgFCI2IAQiOiAeJC4gGiQwIBgkMCAaHjwgGiQwIBwkMCAmJiYgGiQyIBAkMiASIjogGiQwIBIgPiAoKCggHCQwICAmLCAcJjAgGiYwIBomMiAYJDQgJCYsICgoKCAkJiwgHCYyIBQmNiAeJjAgHCYyIB4mMiAWJDogHiYyIBYkOiAaJjYgHiYyIBYmNiAeKDIgKioqIB4oMiAgKjAgICgyIB4oNiAgKDQgICoyICYqMCAsLCwgKCowICAqMiAgKjQgHCo0ICIqMiAcKDggHio2ICAqNCAiKjQgICo2ICIsNCAiLDIgLCwsICIsNCAgLDYgJCw0IC4uLiAoLDIgIiw0ICQsNiAkLjYgKi40IBguPCAkLjYgHi46ICYuNiAqLjYgJi44ICQwNiAeLjwgJjA8ICoyOiAiMj4gJDI+ICg0PiAwNjogLjY+IDQ4PCAuOD4gNDo+IDw+PiAAAAAAObm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5re3t7e3t7expJeKg4ODg4ODipeksbe3t7e3t7fm5ubmt7F8fHx4Ylp/vtbn6+jh4drPuYBaWnh8fHyxt+bm5ua3t3wMDT3U8ODEnWlkcXF1cH2Fx7qjSQ4MfLe35ubm5re3eCzA8NCScYKbssTExMTEu517hLu6jz1rt7fm5ubmt6Ra69B7jK/e7e3M0crJzOTk49jHmpvBumiKt+bm5uakf+u4e6fY8d/b28bGycjIyMbJ39/SypuJunl85ubm4nPrkoLOupSUxsbIxo50XYiItLaIiKnSzKeJu3nN4uax57mCkozQJyVyoI5YVVVVWIiIiLauV2q9zJObtX/i1ZnOm5MnGi9qEBAeO1VMVVVUWWFXZmaubHe9xZ27pb+X05GsJwQdaltLCR0lFTs7OVRUWVhZZmZ3d5XMuJ28hoa6kqfBOwkQL0czLiMIKBI5Nk1UTVhmZmx3dLTEsrKcnJqvzjY5MAizwmczMzqHY/Tz88v1z0xYXXSYla2ywaulpbjKOScKLRKs2UZGy9vv+vb47vb8QVFManSYprCvta+vuME5GQoLBT9Cb2AuUFCz7Kqo/PxEOTlmiJimp6+vr7W6xzYaDwcgFypPb1MfHz43E1Dy9G4xJDlVn6asrKyruMXBlCQRMhczh1NPfi4mGBY1RYneuzIkOzaJna3HmpDFxcG8NiYiKz86Li5TXhIYGTVFoem8Mjk2cKydod+NgMXOxceFJilKRnVTNRkgETgmK05IPzw7cLWvna+16Yaxq9fTx9JuIkN+b5ZCGCoCEgsSNBYyNnuvx62su9LTf+J/0NPT09LghTskJA8gEQYDBgEEBBnDrMettbXE33nN5r+Bx9PT09fdsjskGQgCDxMhEzMf8vLlta+1wdywiubi5muNztLT19PX4MEcEjiRREEjHPLy6qy6tcHcgVzi5ubmpGKBx9fT19fX3c4mREBEIpHYzM7Ox87XzKtomebm5ua3sVJ6x9fd3d3X3sehkaG7uqzKztfj0sejUqS35ubm5re3fA5Ji87Y3uDq6urv+/v1793o49KiXxt4t7fm5ubmt7d8AAwOSYuwyuDo8v3+/vno3bCibRsNAHy3t+bm5ua3t3x8fHxzYlZcdo2em5uSjXZoVlprfHx8fLe35ubm5re3t7e3t7e3saSXioODg4OKl6Sxt7e3t7e3t7fm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5uY"
+}

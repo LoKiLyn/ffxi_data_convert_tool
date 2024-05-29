@@ -1,0 +1,30 @@
+{
+    "id": 4295,
+    "strings": {
+        "name": "Royal Saute",
+        "article_type": "A",
+        "singular_name": "plate of royal saute",
+        "plural_name": "plates of royal saute",
+        "description": "Tender slices of coeurl meat grace this\nsavory dish fit for a king.\nSTR+5 AGI+1 INT-2\nAttack+22% (Max.80)\nRanged Attack+22% (Max.80)\n\"Resist Stun\"+4\nHP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI5NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAKCgogCgoKIAoKDCAMDAwgDA4MIA4QECAOEBIgDhAYIA4QGCAOEhggDhAaIA4SGCAOEhogEBIaIBASGiAQEhogEBIaIBASHCAQEhogEBIcIBASGiAQEhwgEBQaIBAUGiAQEhwgEBQcIBIUHCASFBogEhQeIBIUHiASFhwgEhQeIBIWGCASFhwgEhQeIBIUHiAUFB4gEhYeIBQUHiASFh4gGhgYIBQWHCAUFCAgFBYeIBgYGCAUFiAgGhgaIBQYHiAUGBogFBYgIBQWICAWFiAgGhgaIBgaGiAUGBwgFBgeIBQYICAWFiAgFBoeIBYWIiAYGhwgFhggIBoaGiAWGhwgFhoeIBYYIiAaGhwgFhgiIBYaICAYHBwgHBwcIBYaHiAWGiIgFhgiIBYcHiAaHBwgFhgiIBwcHCAWHCAgFhoiIBgcICAYGiQgFhokIBwcHCAcHB4gGBoiIBgcICAYHCAgHBwcIBgeHiAWHCAgGBokIBgcIiAcHh4gHh4eIBgcIiAaHh4gHB4gIBgeICAYHiIgGBwkIBoeICAeHh4gGB4iIBgeJCAaHiAgGB4iIBgcJiAYICAgGhwmIB4gICAYHiQgGiAgIBogIiAaHiQgGh4mIBoeJiAgICAgGiAiIBggIiAaICIgGiAkIBwgJCAeICIgICAgIBwgIiAaICQgGiAkIBoiIiAYIiQgHB4oICAgIiAcICYgIiIiIBwiJCAaIiYgHCIkICIiIiAcICggIiIiIBwiJCAcIiQgIiIiIBwiJiAeICggHiIkIB4iJiAaJCYgIiIiIB4kJCAcJCQgJCQkIBokJiAcJCYgHCIoIB4kJiAgIiogJCQkIBwkKCAeJCYgJCQkIBwmJiAgJCggICQoICAmJiAeJiYgHCYoICYmJiAcJiggICYmICImKCAeJiggIiQqIB4mKCAgJiggHCgoICYmJiAiJiogIigoICAoKCAoKCggIigoICAoKiAgKCogJCgoICgoKCAiKCogHigqICQoKiAkKCogJCgsICIqKiAoKCggJCoqICAqLCAkKiogJCoqIB4qLCAkKiwgKioqICAqLCAmKiwgJCwsICIsLCAmLCwgJCwsICwsLCAmLC4gJiwwICAuMCAmLC4gJCwuICguLiAmLi4gKC4uIC4uLiAoLjAgLi4uICguMCAqLjAgKC4wICQuMiAoMDAgKjAwICYwMCAoMDAgKjAwICYwMiAqMDIgKjA0ICwyMiAqMjIgLDIyICwyMiAsMjQgLjI0ICo0NCAuMjQgLDQ0IC40NCAwNDQgLDQ2ICw0NiAwNDQgLjQ2IDA0NiAsNjYgMjY2IC42NiAwNjYgLjY4IC44OCAuODggNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Le3t7e3t6qacXGOl6Cajpd4eGmMkaq3t7e3t7fc3Nzct6qOjoxxUCsrOE5oj6KYjH5xYDc3L1Z4jo6qt9zc3Ny3t44EAiNOgqjH1dfh4t/fenrCrrCDaC8Cf7e33Nzc3LezaQlIm8Ld6vT3+/X7+/379/Py29K1mz9bt7fc3Nzct3ExmdXy9vz9//779e3t7e3t8vB6+PjlrmV/oNzc3NpxRavk+Pz+/uPY0Mm9trnCwrbN4ury8vrw0oR/0dzco0nJ8/r7/taCfEp0e6LFxbmbWV11nd3q6vPyzXS83MNBufD48fTmcl8qEiRNmbrUq1EVHRobfNLj5enuvWi8oJzu9unqzqFLRDtUJA5lqOCCDzKNZxtRnMbf5fPlorcvz/Ln5c66XSWFcF5MFCx7ujoVXo1PFDWKstLd5+y7ZJjr5+nGsMiBGEQwT1QbDIOZGi5VNDAPGGqhqeHi4uKCtvPf16Kry3UpPDBPdzQQbIkMF0ZMJg0LZqKLx9vf7LvS6du5kK62oS4YNExMNRYcShU7RFQpHxFtmWyi0NvrwNfZzI+AiYOoISIiT5NeJRJKFzuNVD4fJHtmJhU919fHzNLHUSQhSkgzQxgqn3cqC1klZ41eMBJTShkRGhx918/HxJUhFxUNCxUeQxs1bi0dDBRVNjwSOSwTFDs7OmbPuK3ApVE6FxIdGw8QJSYgVDwbDUY0FkMZDCBMNCkolcethq3HhyQ1JkZ2QA8XGhI1wdMfTy4hHgwojXBEMDrAtZgxj8K/ay08TF5nRiI7R31+na9wXyghPFV3Xi1LpbunYKpkp8CtWDA8NjY8KQoaWLUzvzJitFQtNDQnWLHGtXuRyo50rLutkmpLUl9AfqYwtHneKqXZdhcYNWunx8x7nsrcs3h5xMS4rJaESjBYLh1LuOg8r1pKPW2Srbu7eTiz3NrcjGFzmMy4ta10QDUuMkdAWCYlHZauwHp6uGx5kdza3Nyql1A/c7F6uLFKQFGorFosITqep3p6elxjSaO33Nzc3Le3iAIGN2SUepuboqLCxriQkIt7bFxCCAKMt7fc3Nzct7eOAAAEBQc/TW96goR6b29OMQMDAgQBAI63t9zc3Ny3t46Ojo6OiGlXVmRWYFdJYFdxf46Ojo6Ojre33Nzc3Lezt7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3s7fc3Nza3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nrc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nw"
+}

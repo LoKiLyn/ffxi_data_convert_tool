@@ -1,0 +1,30 @@
+{
+    "id": 4349,
+    "strings": {
+        "name": "Bunny Ball",
+        "article_type": "A",
+        "singular_name": "bunny ball",
+        "plural_name": "bunny balls",
+        "description": "This specially cooked rarab meatball is\noverflowing with juices.\nHP+10 STR+2 VIT+2 INT-1\nAttack+30% (Max.30)\nRanged Attack+30% (Max.30)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDM0OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYIIAgGCiAGCAwgCAgOIAQKDCAICA4gBgoOIAwKCiAICg4gCAgQIAoKDiAICg4gCgoQIAoKECAIDA4gCAwOIAoKECAKChAgCAwQIAoKEiAIDA4gCAwQIAgMECAIDBAgCAwQIAgMECAKDBAgCAwQIAoKEiAIDBAgCgwSIAoKFCAKDBIgDAwSIAoMFCAIDhAgCgwUIAoOECAIDhIgDAwUIAoOEiAKDBQgCg4SIAwMFCAKDhIgDA4QIAwMFCAKDhQgCg4SIAgOEiAKDhIgDA4SIAwOFCAMDBYgDA4WIAoQEiAKEBIgDBASIAoQFCAMDhYgDBASIAwOGCAKEBQgDBAUIAwOFiAMEBQgChAUIA4OGCAOEBQgChAYIA4QFiAMDhggDBIUIA4QGCAMEhYgDg4aIAwQGiAOEhQgDBIWIA4SFiAOEBYgDhAYIA4QGiAMEhYgDBIWIAoQGiAKEBogDhIWIBASFiAOEhYgDBIWIA4QGiAOEhYgDBIYIA4SFiAOEBwgDBAcIA4UFiAOEhogEBQWIAwUGCAMEhwgDhQYIA4SHCAOEhwgEhQYIA4UGCAOFBggDhIcIA4UGCAOEhwgDBIcIA4UGiAMFBogEBIcIA4UGCAOEiAgEhQYIA4UGiAQEh4gDBIeIA4UGiAMFB4gEhYYIBAWGCAQFB4gChYaIBASHiAQFhogEBQcIBIWGiAOFB4gEhYaIA4WHCAUFhogEBYaIA4WHiAQFB4gEBYaIA4UICAQFhwgEBYcIBQWGiAQFhwgDhYcIBIWGiAOFiAgEBQgIBAYHCAUGBogFBgaIBIYHCAQGBwgEhYeIBAWICAWGBogEhgcIBIYHCAQGB4gEhgcIBIWICAOFiIgFBgcIBYYGiAUGBwgEBgeIBAWICAOGCAgEhgcIBAWIiAWGBwgFBgeIBgaGiAWGBwgEhggIBQYHiASGB4gFBocIBAWIiAWGhwgEhoeIBQYICAMGCIgDBoiIBQaHiASGCIgGBocIBYaHiASGh4gFhocIBQaHiASGh4gEhogIBoaHCAWGh4gFBogIBocHCAYGh4gFhweIBQaIiAYHB4gEhogIBYcICASGiQgFhwgIBQcIiAOHCQgFBokIBocHiAWHCIgFBwiIBAcJiAWHCIgFh4iIBweICAUHiIgFBwmIBgeIiASHCYgGB4iIBIeJCAWHCYgHh4gIBYeJiAYHiIgFh4kICAgICAeICIgICAiIBogJCAUICggICAgIBogJCAcIiYgGiAqICIiIiAcIiYgGiIoICIiJCAYIiogHCImIBwkKCAkJCQgHiQoIB4kKiAmJiYgJiYmICYmJiAoKCggICgsICgoKCAqLCwgLCwsIC4uLiAuLi4gP////////////////////////////////////////////////////////////////////////////////////////n5+fn5+fn5+fn55ZycnJaHnKTs+fn5+fn5+fn/////+fns7Ozs7OO7TjQ6PTo6OjpFNDpOnOzs7Oz5+f/////5+ewAFhgaHB4pMS4uLiQPDxAXLiQXHBUA7Pn5//////n57xYZHhczMnefmJ7Dzbmli2ItJwccEBPo+fn/////+fnfGjkzmbXm6fHp6e7u7tywvJ6Iel8kEFn3+f/////76Fk5jqzh9fXt7fHp0pmZmcPW4dKjh5APOpz3//////N2fKzh+vLtx5V9Z1o6SVhaWluQw7zHhZBJLez/////u2653O3Wv1tLVFQSCy0hDBs/LThJpb/Nro9LWf3///t8tdrNzW5DYnRCCAYSQD4bCTdQW0JCYpnLyZZD7//+vrDVzb8/a4axR4kSEjxymzcGDUedfVhiW7W8xYO0+9GFv9ywQmumys5jk4A3Sq9oNyIlPM7AjWdkW83Lo2TvZKXcy25ln8rO2JpEXFw3UigiTEwlsr/OwWKBpb+yo4dkpdWIW6ZitdPitVOAum1+qDd4bTdZrL21qVRamNzGPYvLzXqGdH29oMCfY9ne8K9+U20sQF2IgZ21YrCsw8aHvtq1ZaaIiIFujV1R3uvgyLOUSG83AiY0dL2NkqCwv6TGw5hysY1nbkIGBB1j3s/runVTgA0SEgMMYmJn4YjDhYewtZ3BjX2ICiAGHyIbQLaKYVMRERQ8EQktJpjqlb96o6Wpkcq1jTwsHSgdER0GBANBSHNBL0FBNyU6heqxjUXJktV/seCGL0R4XFxcKEQDASJSQQ08b4Q8H1Cu9MGVwuSSw59lys5zaUGzopNIKh0CDg1KNzw3XHkRR4Hpy2f4/JeLv3R6zoqnXG9N53lTIA0fIiVjQT5BQSNnZ7GfpP//+IuwnW6Ngi+4eWZXe0QKDiyCg6FzY1yMKnyBn277///+1419y31YeWmT23AwMCAdQaHIV91oZlc1kqlywv/////2q3GSoI1eqoyqtyojK7krNqeCr3kqKtaxcbT3//////jzl1+Bi3de1KJwIyGdpnQRJWh5YTDNnY6++fn/////+fnjT2xUhXdraFhRq66guZ2HfGtriHQyBez5+f/////5+ejs5dGHdGuBgZ6XpcOwpce8hYGHwujs7Pn5//////n4+fn5+fPv5NejnrCltLTFyeXl8/b5+fn5+Pn////+//////////////////////////////////////7///////////////////////////////////////////8"
+}

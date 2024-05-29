@@ -1,0 +1,29 @@
+{
+    "id": 6540,
+    "strings": {
+        "name": "Altana's Repast +2",
+        "article_type": "An",
+        "singular_name": "Altana's repast +2",
+        "plural_name": "Altana's repasts +2",
+        "description": "A dish popular with the Allied\nForces of Altana.\nSTR+20 DEX+20 VIT+20 AGI+20\nINT+20 MND+20 CHR+20\nAccuracy+90 Attack+90\nR. Accuracy+90\nR. Attack+90\nM. Accuracy+90\n\"M. Atk. Bonus\"+20\n\"M. Def. Bonus\"+5\nEvasion+90 DEF+90\nM. Evasion+90\n\"Store TP\"+8\nPet: Same effect"
+    },
+    "flags": [
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjU0MCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAGIAAADCAAAgogAAQMIAACDiAAABIgAAQOIAgICCAICAggAAQSIAIIDCACCgggCAgIIAIGDiAICAggAgYSIAoKCiAKCgogBAYSIAQEFiAEDAogBAgQIAoKCiAECBQgAgoSIAQOCiAMDAwgBAYaIAYKFCAECBYgAg4MIAQIGiAGChYgBggaIAgMFCACDBQgAgYiIA4ODiAGCCAgDhAQIAISECAIDhQgEBAQIAYMHCAGCiAgBg4YIAYKIiACFA4gCg4YIAgQFiASEg4gBgwgIAgSEiAGDhwgBgoiIBISEiAUEhAgCg4aIAYMJCAAFBYgChAeIAgOIiAEFhQgEhQSIAgSGCAKFhIgCBAgIAgOJCAGDCYgGBQQIBASGCAMEhogBhgUIBgWEiAEGhAgChIgIAoQJCAIDiYgHhgOIBwWEiAOGBYgBhgYIBwWEiAQFhogIBgOIBYWGCAeGBAgCBAoIAYcEiAOFh4gDBQiIB4YEiAMEiYgGBgWIBwaFCAMFCYgDhYgIAwUJCAiGhAgEhgaIBgYGiAIHBggBhoeIAoSKiAmHAwgGBoaICQcECAiHBIgFBocIBAYICAMFiYgDBQqICgeDCAGIBYgDhwaIA4YJCAQHhggGhocIBYaHiAIIBogKiAOICIeFiAEHCQgDhYqIBAaJCAeHhggGhweIBgcHiAQGCwgDBguIAwgHiASGiggAhouIAYkGiAcHh4gEhwmIBgeIiAIJBwgFBosIB4gHiAeHiAgFB4mIAAYOiAMHCwgHiAgIA4iIiASHC4gEh4sIBAcMCAAHDYgHiAiICIiICAIKBwgDCQiIAgcMiAUHiwgFiAoIAgoICASHjAgICIiIAgqHiAOJCYgFCAuIAwcOCAYICwgICIiICAiJCAQJiQgCiAwIBwiKCAWIDAgAB4+ICIkJCAKKiIgEiAyIAIePCAGIDggIiQkIBIoJCAYIi4gJCYmICImJiAaKCQgCCQ0ICQmJiAAIj4gJCYoIBYmMCAAJD4gFiQ0ICYoKCAIKDYgJigoIAAkPiAYJDggGCY2ICYqKiAcJjYgCig8IBwoNCAqKiogKioqICosKiAGKD4gIiwuICosLCAkKjIgFig8IBooOCAqLCogHio2IAYqPiAqLCwgKi4uIB4qOCAaKjogKCwyICwuLiAkMC4gLjAsICAsOCAsMDAgDDA+IC4wMCAmMDIgLDA0IAowPiAwMDIgBDI+ICgwOCAIMj4gCjgyIDAyMiAyNDIgMDQ0IC4yOCAmMjogMDQ0ICw2NiAyNDYgJjY6IC40OiAyNjYgKjY8IA46PiA0ODggNjg6IDY6OiA6OjggODo8IDo8PCA6PDogPDw8ID4+PiAAAAAAHl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eWtra2tra2tra3FjY2NjY2NjY3Fra2tra2tra2t5eXlxa2tcXFxcY1NQRjk4OEBAODg5RlBTY1xcXFxja3l5eXlrY1wAAAgSJna5xcrKztXOzsWyViYSCAAAXGNxcXl5cXFsXA0RKLLp2rmtp6CXl5eRkaC71q0oEghcY2t5eXl5a2NQG3bkzr+/v7+7u7m2sqeXoI2HttqtJlBra3F5eXFrVSvV6dXV3tbFubKnu7/Fv7myp5eNf7/kXlVreXl5eWMz3uvW6bsqDipUd3eHl6Cnl4B/f3+HZa3kd1V5eXlxM97z6b8jAQEDBAcZJEh3bW2AZDU1QlF3f5frXmt5eU+/9/C2CwU9OhMEAwMHHh4uLlo1MB8fSTWHf7nkT3lxSvP63kc9174eAQcsIRMdDhMQB2auZh8MGnetd9qYaWmy+/bOYdjTIiBbYDYYEwMDPUwVnuhSFYZZOKenrc5VT+n69r+c0TQ+2JweBiJiiISEIx+GnnhJcqFLXrmRv19f8/j32rSfHNdaAhyfxsbDlCMWFhkLWZmGoTxHh6eyfn72+PDOpyyUnQJw1+3Y0GAWEzExFBQpS3I/BCSHoK2Mfvb43qd1QcM2i+3dvpViCxNDfTYgQyAYBAUdDmSgrYx68/vWP4qoYl3dyKWUhQcdNnSOLCA0Nz4eOjoYMpeyfmPr/c5mkrNSk9Ojm8x7MUw2iFscNzdYNCc9IhBIrbZsabv98LZSkppzo9Tl5xY9dH1hJy9onEQvRCwcIInLsmlxevP+82SaqEm45+OxOmGIYSxNyJXsgU4vRC0sztp+cXFpuf3+24O3or26j6xvSGIsNJPEr8Sji4tEJarptmlxeXlV5P765MVnlrCk399NJzREO3x8k6O05lhO685XeXl5eWtX6f7+8M3hy7zUvcKpb0Q7RYFwk6OBgtncV2t5eXlxa2tK4P39/fz5z6yPx/XjwJBoWGhwaIHZ0kpra3F5eXFxa1wJpu77+/3y2PTv8vTx7+ni8/fs6qYJXGtreXl5eWtjXAAXD6bq9/r+/v38/Pz7+/z56qYRDQBcY3FxeXlxa2xcAAAADQlqtcng7u7u7uDBpmoJDQAAAFxja3l5eXlrY1xcXFxfXFxTU1BQUFBQUFNTXFxfXFxcXGxrcXl5cXFrY2tra2tra2tra2tra2tra2tra2tra2tja2t5eXl5cXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5cXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXk"
+}

@@ -1,0 +1,29 @@
+{
+    "id": 6344,
+    "strings": {
+        "name": "Grape Daifuku +1",
+        "article_type": "A",
+        "singular_name": "grape daifuku +1",
+        "plural_name": "grape daifuku +1",
+        "description": "A soft grape rice cake.\nHP+30 STR+3 VIT+4\nAcc.+11% (Max. 85)\nAtk.+11% (Max. 55)\nRng. Acc.+11% (Max. 85)\nRng. Atk.+11% (Max. 55)\n\"M. Atk. Bonus\"+4\nPet: HP+30 STR+3 VIT+4\nAcc.+11% (Max. 110)\nAtk.+11% (Max. 80)\nRng. Acc.+11% (Max. 110)\nRng. Atk.+11% (Max. 80)\n\"M. Atk. Bonus\"+15"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjM0NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAQEIAQEBCAGBAQgBgQEIAgEBiAKBgggDgYIIAwGCCAMCAogDAgKIA4ICiASCAwgEAgMIBAKDCASCgwgEAoMIBIKDiASDA4gEgwOIBQMECAUDBAgEA4OIBIMECAWDBAgFAwQIBYMEiAYDBAgFgwQIBYOECAUDhIgFg4SIBYOEiAYDhIgFBASIBYQEiAWDhIgGA4UIBQQEiAYEBQgGBAWIBoQFCAWEhQgGhAWIBoQFiAaEBYgFhIWIB4QFiAYEhYgHBIWIBoQGCAYFBYgGhIYICASFiAeEhogHBQWIBoSGiAgEhggHBIYIBoUGCAcFBggIhQYIB4UGCAeFBogGBYYICAUGiAcFhogIhQYIBwUGiAiFBogHhQcICAUHCAcFhogHhQeICAWGiAiFBwgGhgYICIUHCAgFhwgJBYaICAYGiAcFhwgIhYcICIWHiAeGBwgJhYcICAYGiAaGhogJBYeICQYHCAkFh4gIBYgIB4YHCAmFhwgIhgeICIWICAgGhwgJBgeICQYHiAgGB4gIhggICYYHiAcHBwgIhggICgYHiAkGCAgIBoeICQYIiAmGCAgIhogICIYIiAiGh4gJhgiICYaICAkGiIgJBogICAcHiAmGiIgJBokICYaIiAgHCIgJBoiICoaICAoGiIgJBwgICYaIiAiHCIgIhwgIB4eHiAkHCIgJBwkICocIiAoGiQgIhwkICAgICAkHCIgJhwiICYcJCAgICAgJhwmICQcJCAmHCQgIh4iICgcJiAgICAgKBwkICYcJiAmHCQgJh4kICgeJCAmHiQgKB4mICIiIiAmHiYgJh4mICQgJCAqHiYgIiIiICgeKCAsHiYgJiAmICYiIiAmICggLCAmICggKCAoICYgKiAoICYiJiAoICggJiIoICQkJCAsICggKiAoICoiKCAoIiYgJCImICggKCAkJCQgKiAqICoiKCAmJCQgKCIoICoiKCAmJCggKiIqIC4iKCAqIiogKiIoICgkKCAoIiogKCQoICYmJiAoJCggKiQoICwiKiAsIiogKCQqICwiKiAqJCogJiYmICgkKiAmJCogLCQqICgmKCAsJCwgJiYmIC4kKiAoKCggLCQqICwkLCAsJCwgKCYqIC4kLCAsJiogLCYqIComKiAsJiwgLiQsICwkLiAoJiwgLCYsIC4mLCAsJiwgMCYsICgoKiAuJi4gKCgoICwmLCAqKCwgLCYuICoqKiAuKCwgLCgsIDAmLiAwJi4gLigsIDAoLiAsKCwgMCgwIC4oLiAuKDAgMCgwICwsLCAwKDAgMiguIC4qMCAwKDAgMCowIDIqMCAuLi4gMCwwIC4uLiAuLi4gMCwyIDIsMiAAAAAAPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/M/Pz8/Pz8/Pz8/Pz8/Pz83Nv7GqsbTNzc/Pz8/8/Pz8z8+dnZ2dnZ2dnZ2dnZ2YilcqHhcXIleGmJ3Pz/z8/PzPz50AAAAAAAAAAAAAAgYWJiIzHhcVHRkKgM3P/Pz8/M/PnQAAAAAAAAAAAAMLEy5AMyomMDxCPDEmkM/8/Pz8z8+dAAAAAAAAAAADEBUeQDAwKystXEhcVDwxmPn8/PzPz50AAAAAAAAAAg4UFyc7NDpHRI5/Py1ESjE3x/v8/M/PnQAAAAAAAAIIFRotP1Nfa3BkcmNTR0tNS0F0+fz8z8+dAAAAAAABCRwaJ1M/Mnl2iYlyX21paWFSXkHP/PzPz50AAQIDAwQdHChGcCxJkomTpZaUlsCujYFzTb/8/M/PnQMIDx0YGyUoRnKMi5Kamp6mvLy8vuC+Y2RYtPz8z8dXEiAXMyAcRFF+eYyemp6lrNDX5NOnwMt1ZGm0/PyxTCAnOyswJRxEXoKMnqSzrLi2wbzTyL6+vpSIabT58jAnMEhINDolHD9bZ5nY3r24usHV0NPXwbzTp6dltPy/JzBIUX9jRygfX3JumrrRxsTF0NXt3ujdnI2bcXO/8jA7XFSHm3NbPyhymZqasKnlhbjK3ufo3sGXfZFhYs/iLVSOh46vh4xnOGeppcXjyNi4s8K6oOfWtpeEcWVQ5uJBXpuUmaLIvKJtdpms3fXj5czGzt/f3cqto2xlUqr74lJtjqClrLO1xIx2l7Lx+v395erSrdDOprbQlWI+5vviWHKkw8OysrKwtZKLuN3z9/bx7KaWu5Tn3q18WY77/OZPdZzU3MKck8bbt4Wow+Hz/vj2k5Pt7evOZXyKzfz88mJspNTSw6yC0te3panD0uHx+Pjq3ffv65UjgMfi/Pz5lU+jpurMzMXDxMHX5NDlztTq8e7s359VLwKYz8/8/PzyVn2Ryvjx0sWsw8bIm5mEYYN6aF01BwIBAJ3Pz/z8/PyqVnu54fPp9szF3NnjmVopDQUDBQIBAAAAnc/P/Pz8/MeqYD2f1Onh2tLY2KaCOQUBAAAAAAAAAACdz8/8/Pz8z8+YAy9DRa26xbp3PQQMAQAAAAAAAAAAAJ3Pz/z8/PzPz52dmJCKgICAgH+QnZ2dnZ2dnZ2dnZ2dnc/P/Pz8/M/Hz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Px8/8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pw"
+}

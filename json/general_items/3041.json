@@ -1,0 +1,25 @@
+{
+    "id": 3041,
+    "strings": {
+        "name": "MMM Crown +1",
+        "article_type": "A",
+        "singular_name": "Maze Monger crown +1",
+        "plural_name": "Maze Monger crowns +1",
+        "description": "A magnificent crown fit for only the\nmost regal of Moblin kings.\nForged by the finest Moblin smiths in\nMovalpolos, it bears an elaborate\nvariant of the Moblin Maze Mongers\nemblem."
+    },
+    "flags": [
+        "Ex",
+        "NoSale",
+        "Rare"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgMzA0MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAIIIAAAEiAEBAwgAgYIIAAAGCACCAggBgYKIAQGCiAEBgogAAYOIAQEECAGBgogBgYKIAgICiAMCAYgBAYMIAIICiAABg4gBggMIAAGECAICAggCggIIAgIDCAGCAwgCAgMIAgKCiAECA4gCAoKIAgICiAICgogCgoKIAoKCiACCA4gAggOIAgIDCAECgwgAggQIAICHCAKCgogCgoKIAoKCiAKCgogCAoMIAoKCiACBhYgCgoKIAQKECAACBIgCAoMIAoKDiAKCgwgAgYYIAAEHCACChIgAgoSIAIMDCACChAgAAoSIAIMDiACDgggBAoQIAIEHCAEChIgBAoSIAIKFCACDBIgAgQgIAIKFCACChYgBAwSIAQIGiACAiYgBAwSIAIMFCAECBwgBAwUIAwODiAODg4gDgwQIAQIHiACDBYgBAwWIAYKGiAECBwgDg4QIBAOECAKDBYgBA4WIAIMGCAECh4gAg4WIBAOEiAEDhggBAggIBAOEiAGDhYgBAweIAYKICACDhogAg4YIAQKIiASDhQgCA4YIA4QFCAIAjAgAg4aIAYMICAGDhogBgokIAoQFiACEhYgBhAYIAQQGiAGCiQgAhAcIAYMJCAQEhQgBg4iIBASFiAIEhogCBQYIAQSHiAGDCYgBhIcIAIUGiAMECAgCBIaIAYSHiAEEh4gBggyIAYMKCAIDCggFBQUIAgQIiAIDCwgAhIeIAgOJiAIDCogBBQeIAYUHiAGFhwgCBIiIAgaFCASFBwgBhQeIAYUICAIDiogFBYYIAwUHCAEFCIgChAoIAoUICAIDi4gCAwwIAYUIiAKECogChAsIA4YHCASFhwgCg4uIAYWIiAMFCYgCg4yIAwWICAIFiIgAhYkIAwWICAKGCAgBhYiIAwSLCAKEC4gChAuIAoOMiAKDjQgFhgaIAoOMiAKEi4gChgiIAYYJCAKEjAgGhoaIBQaHiAMEjAgEBQsIAoSMiAMGiIgCBokIA4WKiAMEjAgChomIAgYKCACGiggDBIyIAgaJiAYHB4gEBgqIBQcICAMFDQgBhwoIBIcJCAOHCQgAhwqIBocHiAMFDYgDhQ4IBIWMiAOFDggCB4oIAQcLCAOHiggHh4gIAoeKiASFjQgHiAgIAweKiAcICQgICAgICIiIiAMICwgHiAkICIiIiAYIiYgICIiIA4gLCAWGjYgIiIiIBwiJiASGD4gDCAwICIiJCAUGD4gDiIwIBQaPiAkJCQgFBo+ICYmJiAMJjIgCiY0ICYmJiAYHj4gKCgoIBgePiAKJjYgKioqIAwqOCAeIj4gLCwsIBouNiAuLi4gLi4uIBIwOiAUMjwgFjQ+ICA6PiAAAAAAPr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fH6+vr68ezi4uLd4uLi3drZ2dna3d3Z1uLi4uLi4uLs8fr6+vrx8eIAFkBPT1ZcX1VmTS4qITkMHSgAAAAA4vHx+vr6+vHx4jHtkpZqJBtMSQgKJVk3Wz9CPTEnAADi8fH6+vr68e+vqdRCRJahXXOhelkwCAc3IjdCCQR1KObx8fr6+vrx2IzX87uWRi9zSWw/eAdwByJRNg5ZWQohtfHx+vr6+uy2yqH+kUJGakFbZzoUB0oSSkFSGA4bUYFutfH6+vr63ceY1P1KeGBkpX+yW0olNmBCMIwHP1IHJXrRy/r6+vrf4MDb82NGjMJBQZgbChQ6akQSmExgCkxgNiXc+vr6+urSofvbskmRSqXA5dCSBzZEOhJKgXpxiEpk0cX6+vr67Pjo/aFM1Ep/cyY+NUOSJCQwMEqBc1FBbJimxfn6+vrm0qT71Ltjb4BiZVpQPmtRDSJEUmBkv75vJe7F+vr6+tjg4O6RwkKhYmJiYlphQ4YHIjBRWb8FAo6Nfbr3+vr5tgjU7sk/c45eZXRlZWV7LREwQVFjUDRHBW19s/T3+veQG377u1k4fHZtcnR0e4qRBkRjc1s7dEtaa6J93/r68S8V6PtnO5vpvW10e3uEg4eLBkSLXZHEZXRlAW/I9/rYFRX17iSb8Ofkg3uDnZ2dioeLERBdvEiDg2syD3n098gVhd71b/Dk5+e5mZ20rLCtsJmLPLJpk4SskN8rfOr0TE7s0/yo4fDp6em3tL20sK2toK52gp2TrFfZ8YVd2O8YaO/inqcz4fbw6+TMz6OtrbC3oJqsubktKeLxtRve3BWf7+IAAAAfVPb28OTNzbm9tLSsq7mZAyAs4vHmMtevd+bx4gAAAB8gDbHN8vLNxs/Bxsa5NBUrGBfi8fHTlZTf8fHiAAAoKisrDRwLU7jO1aqclwwcKysjF+Lx8fnj7/rx8eIAAAApKyscGBUaJycnJycojw4cIxke4vHx+vf6+vHx4gAAACgqKysrWCgAAAAAAAAoqA4cKifi8fH6+vr68fHiAAAAACkcDlgoAAAAAAAAAAAoqA4pAOLx8fr6+vrx8eLi4uLi3Xef3eLi4uLi4uLi4uLdw93i4vHx+vr6+vHv8fHx8fHx7O/x8fHx8fHx8fHx8fHv8fHx7/H6+vr3+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vf6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vo"
+}

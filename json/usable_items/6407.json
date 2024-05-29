@@ -1,0 +1,30 @@
+{
+    "id": 6407,
+    "strings": {
+        "name": "Pork Cutlet Bowl +1",
+        "article_type": "A",
+        "singular_name": "pork cutlet rice bowl +1",
+        "plural_name": "pork cutlet rice bowls +1",
+        "description": "The sauce poured over these pork\ncutlets stimulates the taste buds and\nleaves you begging for more.\nHP+65 MP+65 STR+8 VIT+4\nAGI+6 INT-8 ${icon: fire}+21\nAttack+24% (Max. 130)\nRanged Attack+24% (Max. 130)\n\"Store TP\"+5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjQwNyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAICAiAAAgYgAgIEIAICBCACAgYgAgQGIAIEBiAEBAYgAgQKIAQECCACBAogBAYIIAIEDCAEBgogAgYMIAIEDiAGBgogBAYOIAQGDCAGCAogBAYQIAQGDiAEBhAgBAYSIAgKCiAECA4gBAYSIAQMBiAGCA4gBAwKIAQIECAEBhQgBAYUIAIKDiAECBAgBAgSIAYIEiAEBhYgBAoQIAQGGCAEChIgBAgUIAQIFiAEBhggBAgYIAQKEiAGEAggBAgWIAwMDiAGCBggBgoSIAYODiAGChYgBggYIAQKFCAGDBIgBggaIAQMFiAIChggBggaIAYSCiAGCBwgBhAMIAYMFCAGChogCAoYIAYOFiAGChwgBgocIAgKGiAIEg4gBg4WIAgKHCAMDBYgBAwaIAYOGCAGCh4gCAwcIAYKICAGDhggCAweIAgUDiAGEBggBg4cIAoOHCAIDBwgChYOIAgMIiAGEBogBgwiIAwOHCAKDh4gChAaIAYOICASEhIgCBIYIAwOHiAKDiAgCBAaIAgMJCAIDiIgChYQIAYQHCAMEBwgDA4gIAYQICAIEhwgCBAeIAoSGiAKGBAgCg4iIAwQICAKDiQgChoOIAgSHCAIEh4gChIcIAwOJCAKDiQgChoQIAoYFiAMEiAgDhAiIAoUHiAIFB4gDBAmIAwYFCAMFBwgCg4oIBQUGiAIFCAgChYcIAoUICAWFhYgDBwQIBAQJCAMECYgChAqIAwUICAGFCIgChYgIBYWGiAMHBQgDBYgIA4cFiAOEiggChYiIBAUJiAKFiIgEB4UIBAaGiAIFiQgEhgeIAweFCAMGCAgDBgiIBgYGiAOEiwgDiAWIBAYICAMGCQgGhocIBIYJCAMGiQgHBwcIA4aJiAMHCIgEh4aIBoaICAWGCQgECIWIAwaJiAcHB4gFBomIB4eHiAOIhogFhomIA4cJiASHCQgDhwoIBAkGCAQJBogFhooIBQiHCAUICAgHh4eIBYeJCAOHCggHh4gIBgcKCASHiogDh4qICAgICAQHiggFB4oIBAeKiAUIiIgECIkICAgIiAUICggECAqIBAgLCAiIiIgICAkIBYgKiAiIiIgECIsIBQgLCAiIiYgECIsICQkJCAYIiogFCQsIBAkLCAcJCogEiQuICYmJiAWJCwgJiYmIBImMCAmJiYgKCgoIB4mLiASJjAgFiYwICgoKCASKDIgGCgwICgoKCASKDAgEig0IBgoMiAqKiogKioqIB4qMiASKjYgLCwsIBQsNCAeLDQgGCw2ICIsNCAuLi4gLi4uICYuMiAiLjQgJjI4ICo0OCAAAAAAPr6+vr6+vr6+vr6+vTx7Onp6ezx+fr6+vr6+vr6+vr6+vr6+vr6+vr6+vn0tiAPCBMbDjjg9Pr6+vr6+vr6+vr6+uXl5eXl5eXi1WYODg4GGxgYEw+k2uXl5eXl5eX6+vr65eLV1dXVyI0Y/wYIExsYJBsYGw4gtNLV1dXi5fr6+vrl5dUAAAEDBgcIFBwoQ0w9GgwOEREKBAAA1eXl+vr6+uXl1QAFAgcJGUl2grW+xbixqksyEgwIDQHV5eX6+vr65eXOBAIHH12QkFU3HhkdMDdIWH5fMhIRC8jl5fr6+vrl5I0GH1RsPB4xoyo+Fiq530orPlhsay0HZuDl+vr6+uS0CCiQVTAWGltXVxYqV7Pd7dDfVxluZUAHZuD6+vr6yAlDbBxBKhEueiqEMBIaGpyzg+OaSis+VB4JpPn6+fQgQ1QaMCZaFXKaOoRSFmAri2c/i2pKERIdTBwJ6fr6rBRrGTohmowdRyZ7ZJdKYItadC6UYEchVyodWBKN+vEgVB4aWoRktS5anJx0fEdTp9SaamBaShVyTz5JVSTxtBxfHXxKy2SMasa7e3pgT8u6mj8lO4SDOmo1Whp3HOWkPUxJWqOo0Wp8rZyzjDVKipMlNlmmn5pyhJR7GndY2rBWHXEwxteKR09HeqvR2dDQTkZ/sp3cgyarlDWjPXja00sfK3uMl+O76vX19+/qnoBGlr1/XvLResd6o4ccmeDYVDIehKvy6O7j39/32zYjRH+WoXWi0NaaudbDMBeb4ORARR81bqjU/f789sBOWTajzIaYy66j2dx02ZoZHJnT4lVWMhlHJpxz8vx1NnW3nt3d3+7zuef89qdzHihwj+T50180Jye7x6hywG11vL2Y4ev39d+r4/vbdB4xMniw9Prxb1YtQy+rqHKjzb+hr8nPy9ndos/+1IoxMTJIcOL6+fm0bDMzMzRzV4yMiqjGkozJ4fvK26o3KDctNI+J+fr6+uK0Xzk5PScxequ58viLwnzK3tRVLUMzNEiQqeL6+vr66eSkhWxAND0yhDpy4eagl12BOTlLOUNWm5Xg5fr6+vrl5dIEaX5LQEAtLSI8NzMySFVNQz05hWgQzuXl+vr6+uXl1QABLGl2TEBQUFVcYlxVSD1LhZksAQDV5eX6+vr65eXVAAAABUJ9kHddXGJiXF1riGFCBQAAANXl5fr6+vrl5dXV1dXVyLSVUYKQpaWRcG+swc7V1dXV1eXl+vr6+uXk5eXl5eXl5eDOyM7O0tXE2uXl5eXl5eXl5OX6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vo"
+}

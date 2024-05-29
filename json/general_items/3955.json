@@ -1,0 +1,24 @@
+{
+    "id": 3955,
+    "strings": {
+        "name": "Ghastly Stone +1",
+        "article_type": "A",
+        "singular_name": "ghastly stone +1",
+        "plural_name": "ghastly stones +1",
+        "description": "Cold to the touch, this pallid stone is as ghoulishly powerful as it is frigid."
+    },
+    "flags": [
+        "MysteryBox",
+        "NoSale"
+    ],
+    "stack_size": 99,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 1,
+        "unknown3": 0
+    },
+    "icon_bytes": "kXJlY2VwaSAgMzk1NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAICAiACAgIgAgICIAQCAiAEBAQgBAQEIAgEBCAGBgYgBgYGIAgGBiAIBgYgCAYGIAgICCAKCAggCggIIAoICCAKCAggCggIIAoICCAOCgggDAoKIAwKCiAKCgogCgoKIAwKCiAMCgogDAwKIAwKDCAODAogDAwMIA4MCiAODAwgDgwMIA4MDCASDAwgEA4MIBIODCAQDg4gEA4OIBAODiAODg4gEA4OIBAODiASDg4gEA4OIBQODiAQEA4gEBAQIBIQDiAUEBAgEhAQIBIQECAWEA4gEhAQIBQQECAQEhAgFBIQIBYSECASEhIgFBIQIBQSEiAUEhAgFBISIBQSEiAYEhIgFhISIBYUEiAWFBIgFBQUIBYUFCAUFBQgFhQSIBQUFCAWFBQgGBQUIBYUEiAUFBQgGBQWIBgUFCAYFBQgGBYSIBYWFCAWFhYgGhYUIBoUFiAYFhQgFhYWIBgWFCAaFhYgFBgWIBgWFiAcGBYgGhgWIBgYFiAYFhggGhgWIBwYFiAaGBggFBgYIB4YGCAcGBggGhgYIBgYGCAaGhggGhgaIB4aFiAcGhggHhoYIBwaGiAaGhogHhoYIBwaGiAeGhggHBoaIBoaHCAeGhogHBoaICAcGCAcHBogHhwaICAcGiAgGh4gIBwaIB4cGiAeHBogIBwcIB4cHCAgHhggIBwcIB4eHCAeHCAgIh4cIBweHiAeHh4gIh4cIB4eHiAgHiAgJB4cICIeHCAiHh4gIh4eIB4eHiAkHh4gIB4gICAgHiAmIBwgJCAeIBgiICAkIB4gICAgICQiHCAmIB4gJCAgICAgICAmIhwgJiAgICIgICAoIh4gJCIgICgiHiAqIh4gJiIgICIiIiAiIiIgJCQgICgiIiAkIiIgKCIiICYkIiAoJCIgKiQgICQkJCAoJCIgKCQkICYkIiAcJiQgKiQiICgkJCAsJh4gJiYmICgmJiAsJiIgKiYkIC4mIiAsKCIgJiYmICwmJCAqJiQgJCgmICgoKCAsKCQgLCgmICwqIiAsKCYgLigmICoqJCAsKCggLiokIDIoJiAuKCYgKigoIDIsICAwKiQgKigqICQsKCAoKiogLCooICoqKiAwKiYgNCooIDAsJCAyLCIgNiomIC4qKiAqKiogMiooICwqKiA6KiYgMCwqIC4uKCAuLCwgMiwqICwsLCA4LCggMCwqIDQsKiAuLCwgMiwsIC4uLiA2LiogLi4uIDAuLiAuLi4gOjAoIDAuLiA0MCogODAqIDowLCA2MiogPjAqIDQyMCA4Mi4gNjQsIDY0MCA6NDAgOjQwID42MCA+Oi4gOjY0ID48MiA+PjIgPj44ID4+PCAAAAAAOrq6uhvFhYeJS6H4Orq6urq6urq6urq6urq6urq6urq6urgRg0PHD0wRRYfWMbq5s21tbvg6urq6urq6urq6urq4DAVFhs6J1c9HBYTMUZGMSIiLm+/v7+/v7+/v7/q6upnKDseIScjMB4NNDAhJSEWIycyOm+opaWlpaW7v+rq6imQZR4bIShFQSc4PSEoLShTTUk6FAIAAAAApb+/6urqOnlxIRwhMm2CeT0tISUlHk1TQzIgAwAAAAClv7/q6upnXEshHCg9WmZ+UzIpJSEcSVNaJzAOBAYAAKW/v+rq6CdQLxUhKUNJOj1JTTUwOGIjZnxDUDINBQAApb+/6urqQEw+Ex44RTIjITBZYVdJTDJXeXJQNycHAAClv7/q6uonQVQdIzI4Mi01XmlzfaNJXlpiYlA9PQwBAKW/v+rq6lQ2USIoMDQtOEVsYYiMdUlTVXlyZkkbFgkApb+/6urqjyFRIg8VMEdMVWJTMohQV1dijHVmcA9FLAqlv7/q6uBnMlU0MSNLc2d9gGlhgoKOkJmQhWJ5RYU/BKW/v+rqvz1sPkGgdkM4cmeHg4mqc1d1uXxhWZJykF0JpL+/6urRUHxAhcFYS2Z1Z32Ap3ZIRLmCZpZeYWZilitvv7/q6uBXblXZxmAyFWJudm9YdqR9eleLrGlmckl1K0C/v+rq5m9neo5XVDouN1pjh6SXgFRAbaFNLV5sMCkfH5e/6urqb3OngnWClJ5XI2e1zY9HOkd5gUQnSWFBLSETN6jq6upnc9eneqOzjoVedqikYzxcWmyBO0dDRzQ0KBMNSM3q6oOS0K6ZlG2U5NevdmB0RkZLcJxaLTQyMi0mGxoTVObq4FPQsqmOquXl4vLGcYRqNVKhwpgvJCgvM1VWTygbierqqHjGo73ep7zB6f73odXLtO30x4hRk5qar45le72D6uq/hqbJkLOwuMDf8/v5/Pvu9v3t7+fIxMSnmVB/Z4bq6r+/YfW9lLLM49LU8O7W2+Gy7/jx2dPIyWNHPZSOgOrqv7+bvvrK3KuyzN3Dn5OfutLnuaKdxp2uf2E1cqiP6uq/v6WVzs/YXyA5aLDio36WqZm846CRlK9qfz2eg+rq6r+/pQAAsWQZEQgLSrbQpquwrsGzin+zqmdLRTHR6urqv7+lAAAAWxAAABcYGSpBbMmzo6ONsLyqbG0uTurm6uq/v6WlpaWlpaWlpaWkl4+JbqnArsTQvbJefjy16urq6r+/v7+/v7+/v7+/v7+/v7+/qG+JgJKq4q5Dpb/q6urq6urq6urq6urq6urq6urq6urq6tGb4NrsZ6jq6urq6urq6urq6urq6urq6urq6urq6urm6urq6urq6urq6uo"
+}

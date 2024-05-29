@@ -1,0 +1,29 @@
+{
+    "id": 5772,
+    "strings": {
+        "name": "Crepe Paysanne",
+        "article_type": "A",
+        "singular_name": "crepe paysanne",
+        "plural_name": "crepes paysanne",
+        "description": "Using only the finest ham and cheese and pan-fried to golden perfection, this San d'Orian crepe would be a treat for the palate of Prince Trion himself.\nHP+10% (Max. 30)\nSTR+2 VIT+1\nMagic Accuracy+15\n\"Magic Def. Bonus\"+4\nHP recovered while healing +3"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTc3MiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQEIAAGBiAEDAwgBAoUIAQKFiAEDBYgCA4QIAQMGCAGDBogBg4aIAYMHCAKEhIgChISIAgQGiAIDhwgCA4eIAYQHiAIDiIgDBQUIAgQICAKEhwgCBAgIAgQIiAKEiAgChAkIAgQJiAUFhYgChIiIAoUJCAKEiYgCBIoIAoUJCAWGBggChIoIAoUJiAIEiogEhgaIAwWIiAYGBggEBgcIAoUJiAQGB4gDhYiIAoUKCAWGhogFBoaIAoULCAKFiggChYoIA4YJCAaGhogDBQqIAwWKCAWGhwgChYqIBIaIiAMFiwgDBgoIAoWKiAKFiwgGhwcIBQaIiAYHB4gDBgqIBocHCAMGCwgDBgqIBgeHiAUHCQgCBgwIBweHiAWHCIgDBosIBQaKCAcHh4gEBooIAwaLCAYHiAgDhosIBgeIiAKGi4gEBwsIB4eICAYICAgDhouIAwaMCAKGjIgFBwqIBgeJCAeICAgGCAiIA4cLiAcICAgEh4oIAwaMiAQHCwgDBwwIBYeJiAOHDAgDB4uIAocMCAgICAgEBwuIBogIiAaICQgEh4sIA4cMCAOHDAgICIiIBIeLiAMHjAgHiIiIBwiJCAQHjAgHCIkIAwgMCAiIiIgHiIkIA4eMiAQHjAgEB4yIB4iJiAMHjQgICIkIAweNCAWIiwgEiAwIBoiKiAeJCQgEiAwIA4gNCAQIDIgECIuIBQgMCAgJCYgEiAyICQkJCAcJCggDCA0IA4gNCAgJCYgHCIsIBAiMiAeJCYgEiIyIBQiMCAgJiYgFCI0IA4iNCASIjQgHCQqICAmKCASIjQgICYoIBQiMiAaJDAgECI2IBAiOCAUJDQgICYoIBIiNCAQJDYgECI2ICAmKCAUJDQgFCQ2ICgoKCAiKCogECQ2ICAmLCAiKCogGCQ0IBQkNiASJDYgECQ4ICIoKiAaJjIgFCQ2ICQoKiAiKCwgGigwIBIkOCAiKC4gFiY2IBgmNCAUJjYgEiY4ICQqKiAkKiogFCY4IBYoNCAWJjYgJCosIBQmOCAmKiwgFiY2ICQqLCAmKiwgFig4IBQmOiASKDogHioyICYqLCAYKDggKCwsICYsLiAaKDYgFio4IBYoOiAmLC4gKCwuICgsLiAkLDAgGio4ICgsLiAgLDQgGio6ICgsMCAYKjogKC4wICouLiAoLjAgJi4yIC4uLiAcLDogKi4wIBosPCAcLDogKi4wICowMiAcLjogLDAyIB4uOiAsMDIgIDA4IBwuPiAuMDIgLjIyICAwPiAuMjQgMDQ0ICIyPCAgMjwgMDQ2ICQ0PiAyNjYgNDY4ICg4PiA2ODggKDo+IC48PiA6PDwgMj4+ID4+PiAAAAAAODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4Kenp6enp6enU0tHREQ/PzY/QUdmp6enp6enp6fg4ODgp6d1dXV8PS1dxcXU4uLi3tTBmD8tPXx1dXWnp+Dg4OCnp3UAAg1zijIrqtzX2s7Fy87O4suBEwIAdaen4ODg4KenfANUzhUGBAUVONXT187FsL29y9TScwN8p6fg4ODgp6czoPCYKg8GCBQJDn7a2tPBs7OrpL3cwUGnp+Dg4OCnS8H07mgmIwoKCw8SC0nY5tzGzrOwpJrc3lqn4ODg4FPL9/TqNh0XIxEICRciJB6S3ubqy72ooKjw9Evg4OCJgfn26MFIGDEpIx8QEB4vGhojfuru0surmJr+oG3g4Hz0+e7oqFkcOkAwIkIWFhksayIajrft0sGok8H2TuCJmvzu6OagSDFDOkM3MTcpFixCNHc7WKrcwbOgpO29iXzo9ubl3nFFNWFsSTs7SWExHEA5a6ZJSYDDw6iTs+VwcPTx3e3eUEU1SU07T2dnuKZSIztAbGtrIEq3qKCT5l129O3X7t1ERUyZYVV/Z3+EwK2RHDpPZ4aUPDyOk43laIf05tfo3VA4buSZmWx/xH+bkYhSKTpsXJvZgzRKjdx2gfbuxuWzUEySz9aZhHI3VUlneIKCKTBAVcTpgzxu2odw9+rN2rxIUn99yL6ESTqIwKW/iG5qHB1Ad6HAnqK4dl355cbXq0h/rbKLlXlDNdbb8vPpv7lgIyBVb1/jxNVxU/D5qLyrWYjMxK2EYVyR9en7/fjPz89yOjFvV0aX311aW/7Th6RiuO/MwrKylM/46/r9+6bn4cKWa1+ctNSQbeBm+eWNel6b5NDjyLKtlJ+45PXsldvnzMiUtLPL7nDg4IlE+bxpYLiWe5Wuna++x8TMldHHyOHv0ca3y+ZxbeDg4EFb5Y5n276vnZV5qb7JopWDg4yMusK1s8vlq0Hg4ODgp0dO7U3byLu7r52dg3dlZVF5j7XTzcHL5pA9p+Dg4OCnpzYojp+biIKhn6yxucrKytPXzcW9xu1UM6en4ODg4KendQIHq/bqzcO8s7zN09fOzsHBy+jLEwF1p6fg4ODgp6d1AAABDJP28OXc087S0tLO1+2rEwIAAHWnp+Dg4OCnp3V1dXV1LRslaMHG09PLqGguISd1dXV1daen4ODg4Kenp6enp6enp2YzIRsbGyEtM2anp6enp6enp6fg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4OA"
+}

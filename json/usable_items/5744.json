@@ -1,0 +1,30 @@
+{
+    "id": 5744,
+    "strings": {
+        "name": "Marinara Pizza +1",
+        "article_type": "A",
+        "singular_name": "marinara pizza +1",
+        "plural_name": "marinara pizzas +1",
+        "description": "Ahoy there, captain!\nYou've hauled in the ultimate in\nseafood pizzas, simply loaded with\nsucculent morsels of only the\nfinest ocean delights.\nHP+25 Accuracy+11% (Max. 58)\nAttack+21% (Max. 55)\n\"Undead Killer\"+5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTc0NCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgoQIAwMDCAMDAwgDAwMIAQODiAKDhAgBgoaIAYOFCAGBiIgCAgeIAoMGCAEBCwgBAoeIAgIJCAGCiIgCBAUIBAQEiAOEBQgBBAWIAgOGiAKDB4gBAomIAgWDiAICiYgDBAYIAoOHiAMEhYgBAooIAYILCAIEB4gBg4iIAoWECAECDAgDhAaIAoMJCASFBQgCg4iIAYMKCAKFhQgDBIaIAYMKiASFBYgEhQYIAoSHCAIDiggCBIgIAwQIiAKECYgBgoyIAwaEiAKDiggEhYYIA4UHCAIDC4gEBQaIAoaFCAUFhogDBQgIAwOKiAWFhYgEBQeIAoQJiAIECogDhYcIAwOLCAIDDIgEhgaIAYOLiAMGBogEBQgIBYWGCAMFCQgEBYeIA4SJiAKHBQgEBgaIA4QKiAODi4gDBAsIAoQLCAOFiAgDhIqIAwQLCASGBwgCg4yIA4YICAOFCYgDBIsIA4WJCAYGhogEBoaIAgSLiAIEDQgChAwIBQcGCAIHBwgEhggIAwWJiAOEi4gGBocIA4ULCASFiYgDBQqIBYaHCAUGiAgEBQuIAwUMCASFiogGhocIA4WKiAMEjQgBhQyIAoQOCAUHhogEhYoIAweHiAUGiIgEBokIBAYKiAOFi4gCBYwIA4gGiAcHBwgEBomIBAWLCASFDAgGBweIA4UMiAQHh4gFB4gIBIaKCASFi4gDBgsIAwWMiAcHh4gFhwkIBAcJCAOGiogDhQ2IAoYMiAQHCYgFhooIBQYLiAUGDAgEBgwIBAaLCAeHh4gGBguIBYcJiASGDIgFCAiIBQaLCAUGDAgHiAgIAocMCASHiogGB4mIBIgJCASHC4gFhgyIBYeKCASJCAgEhowIB4gICAYGjAgEhg2IBgcLiAUIiQgGCAoIBIeLiAKHDQgEiAqIBYgKCAYHiwgFhwyIBAoHiASICwgEBw0ICIiIiASHi4gFiAsIBYcMiAWJiIgFiQmIBgiKCAkJCQgGh4wIBYmIiAcIiggEiAyIBgiKiAUIjAgJCQkIA4gNCAWJCwgGCAyIB4iLiAaJCogFCQuIBQgNCAmJiYgFiI0IBogNiAeJiogGiYsIBwiMiAUJDIgIiYoIBYmLCAaJDAgKCgoIBYmMCAcKCwgHCQ0IBQoLiAaLCYgJCgqICAoLiAUJjQgGigwICAqLiAcKDIgHCouICImNCAYKDQgGioyICoqKiAiKjIgHiwwIBoqMiAaKjYgIig2IBwsMCAcKjggIiw0ICQqNiAeLDYgIiw0IC4uLiAeLjQgJi4yICYuNiAeMDggIDI2ICgwNiAqLjogHjI4ICgyNiAiNDggKDI6IC42OiAqODwgLjg6IDY6PiAAAAAAO/v7+/v7+/v7+/v7+/v7+/v7+/v7+/vycnv7+/v7+/v7+/v7+/v7+/v7+/v48Gzs7OzwePv78k5OYe67+/v7+/v79PT09PT09PTh0cSGUBWVlZJN2STJD01PRlke9Pv7+/v08mzs7NtRzlJdZ25qam5v6mcWSILrLV8ViIRk+/v7+/T07MAAzSInczx+P397fvi3NSxYgvs/fetrYgruu/v79PTbQSIxtr47s95UD4mXjOEUDM+Dp9wyP30qYgrwe/v05Mkxs364qpcHC1CMXFdXYBPMxVVu5FjUMT0v5U87+/TZMbr7eFcKbKGVW9TT1hvlq+2B8J+aigKecD0nbrv75PM+OFiRHmMebu4SlNTU8ujpSZqny8sJwlO1nWH7+/JaPrnV2uKjHjYvLyCVz+mi8tYH6ryYIkQan4UFDzv74fu/GJchi6MkXRyG0VAy/b2NiYP6/q8oWpSGlclQ7rQqPduKVNcZ5GErUN/t1uY8v7OTSPWJ8R9FQdQ1pVUh6Te+SkhJr5zxa/SKwUQW1cj648Pr+CgkBVKb2O23EmHpPTKIR0tjv3srvJpKH92Y/KqSkrLkBq77oteKVzfjn/Q8z42KTag7OjIspsuZeTK+uo+kUZshHgpQXhTWPrAadnwFmuUpa5Nkau+2+f43uvIyDBnj+SflmNTWFhrzeZp0PAWao+4dDhfAQdYpfv75KdrtsRlFAFyOGCeDHjH4ivB8w8+TrdLICcyBSbsZmxF8uuEnz8FMicXS6IMfcfif5r5L5EfgnqXiY2K4PWPu/vW/vIKc3x2iZeBVhYc8J2Te/jAZTBSmbanV1ibz8+qkvX+4Jb45JmjShUWDYz8s+/Tvdc+fTtjzsDt874+CBNreGpKEL60z9bOuw0mvt+z7+/T6YoYc5mE1uyZl3oFFGvEPmcTE97ro1NqfbT0h+/v7+9a0ZyOZqfo1s6BsAiEp/oNkp4QSGVnhC9izRuz7+/v77Mq37EvI3NXmLcvI37yuz54ibcsHkE7hbE1e9Pv7+/v05Mq39EtLVJYc0pSfrYtLS0YWXczDnfHUVrT0+/v7+/T03sE3+XDjSVXeFhQeGduJi0wGD251UwDs9PT7+/v79PTswADTN/f1bWDgzoUnDo6rHysxnUGAwCz09Pv7+/v09OzAAADBDTM3+Xl3dXGxsPHv2EGAgMAALPT0+/v7+/T07Ozs7OzZFoRJENDaVQ3KCsqPFqzs7Ozs9PT7+/v79PT09PT09PT09Oah1o8Wm1tmtPT09PT09PT09Pv7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+8"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 5619,
+    "strings": {
+        "name": "Zesty Zoni",
+        "article_type": "A",
+        "singular_name": "bowl of zesty zoni",
+        "plural_name": "bowls of zesty zoni",
+        "description": "Zillions of zany zealots love\nze zestiness of ze zesty zoni.\nHP+12 MP+12 STR+2\nDEX+2 VIT+2 AGI+2\nAccuracy+2 Ranged Accuracy+2\nAttack+2 Ranged Attack+2\nEvasion+2\nHP and MP recovered while healing +1"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTYxOSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYGIAYGCCAGBgggBAYIIAYGCCAGBgggBggIIAYICCAICAggCAgIIAYICiAICAggCAgKIAgICiAICAogCgoKIAgICiAICgogCgoKIAoKCiAICgwgCgoKIAoKCiAKCgwgDAwMIAoMDCAIDA4gDAwMIAoMDiAMDA4gDAwOIA4ODiAKDhAgDg4OIAoOECAODg4gChASIAoSDiAQEBAgCBAQIAwQECAQEBAgDhASIBAQEiAKEhQgCBQQIBISEiAOEhQgEhISIBISEiASEhQgEhIUIAwUEiASFBQgDBYQIAoUFiASFBYgDhQYIA4WFCAKFhQgFBQUIBAUFiAQFBggFBYWIAwWGCAMGBQgFhYWIBAWFiASFhggFBgUIBAaEiAMFhggFBYYIBAaFCAMGhYgFhYYIBAWGiAEEiggDBgaIBIYGiAMGhggFBoWIBYYGiAYGBggEhoWIBIaGCAOHBYgDhoaIAwaHCAYGhogDhgiIBQYHCAQGhwgBBYqIBQcGCAOHBogEhoeIBIeGCASHBogGhoaIBAcGiASHBwgHBwcIBIeGCAQHBwgDBokIBgcHCASHCAgFhwcIBIaJCAcHBwgFhwgIBYeHCAIGDAgFCAaIBocHiAeHh4gGB4gIBAeIiASHh4gDhwmIAocKiAAFjggFiAcIBogHCAaHiAgAhg0IBIeIiAUHCYgAhg2IB4eHiAQHCogChouIAgcLCAQIiAgHiAgIBoeJCAYHiYgCB4sIA4cLiAQHiwgICAgIAwcMCAaIiAgECIkIBQkIiAWICogICAiIBogKCASHi4gAho6IAocNiAQHjAgHiIkICIiIiAEHjggHCIoIBYkKCAQHjIgIiQkIBIkKCAEHDwgAh48IBYiLiAUJCogGiIqICQkJCAeJCogFCIyIBIgNiAAID4gEiIyIAwiOCAiJiYgCiA8IBgkMCASJDQgJCYoICAmKiAoKCggFiQyICgoKCAcKCwgFiguIBwmMiASJjYgGCY0ICAmMCAoKCggIiYuIAgkPiAcJjIgJigsICIoMCAcKjAgCiY+IBooNCAQJjwgHigyIBgoNiAgKDAgIiowIBQmPCAeKjAgKiosIAwoPiAiKjIgGio2ICAqNCAcLDIgECg8IBoqNiAsLCwgIio0ICAsNiAiLDYgHiw6IC4uLiAiLjQgHCw8ICAuOCAoMDYgHDA6ICgwOCAeMDwgLjIyICgyNiAeMjwgKjI4ICo0OiAkNDwgLDQ6ICw2PCAyNjogKjY8ICY2PiAuODwgLDg8ICw6PiA4OjogNjo8IDI6PiAuOj4gMDw+IDQ6PiAwPD4gMjw+IDY8PCAyPD4gNjw+IDQ+PiA4PD4gOD4+IDw+PiAAAAAANra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra1b22tLS2vdXa2tra2tra2tra2tra2rS0tLS0tLSgm4MnJyofHxUZJ4OboLS0tLS0tLTa2tratLSbm5uIZD1MLFpaWi8sHhkSDgcZZIibm5u0tNra2tq0tJsAFzRvoG9aHxEGDRUNEg0VCgUFCRcAm7S02tra2rS0oBdnzaA5H0NrdmZdOEEwHRIOCgUHAhegtLTa2tratLRnGr05AitcXWNmZlhRLigoSDgdDgUFBWS0tNra2tq0dSpvEgQwOj9dh5GRd2ZLODhPYC4VCgUFBW+02tra2nUkIhIEJUVFaZKhuNvMeFhHNUhZQi4VCAUFDpTa2tW9JwoNCyFcRU2entLt/O3DeFc7Tn96T0EEBgUFNtra2qcHDg0VcD9sTaXd8vz7+ui3eF57l6uGIyUOAgUdm9raPQcCA1OaTWam5vX5+vv99eOmcn+jo2owHRIMAxIv2rQqAgQEdH5cyur1+fn7/f785sqMoqucVjgjIxEKAyC9dSsCCyGJs+rw8fX28/Tv6/fo5aaNi3lfOykpAggDHYNUGwIEIafB8fHx9/Tz7t3h5+joyXBHUlJCN0IZBwMRTEMTCA0V3rLi+Pf59OznyLG60NfRiUREX2JXKQYKAgskQxMCCA6n1ZTq+/bs59SZhZm7wKZ2MEZVaGM6BgcIAyJUEwgGDknlg53p9OTfyLupsMe+nVBtX2JzZSMMAQYDQ3UbCgcYIH50qN7p0I9yjKTR3sJbUGNiYnOQEwoBCAZ1tiICCBMfOZ3K5s+fgq+Yls/Jk1w+Vm2QrlIGBwUDEbbaLBMMEhwnSabJ4MvEzr+q1sCKJClGoLJkEwwMDAMv2tpvEwISHCQkU77o3L/E09nRrGwxfYjiSTEgDwwMDHXa2r0kAhMrIBgBOajHrcbZ1rWZbG2yWjIqLCcKDA0v2trV2m8fBiszGQcOHxth19jFsIR0MhkBHCoxLxgPHIja2tratFQVCi8zCgcTE0mJim5bRRMHAQ8ZLy8sHgpktNra2tq0tEMYDywsGSA2NiIqEwEBCgcHAQ8kLDEnPbS02tra2rS0mxcaHi8iPUwsKiATAQEHBwcHDCAvNBSbtLTa2tratLSbABYQJC9DHh4iGBMPDA8KAQwgQBAWAJu0tNra2tq0tJubm5tnLD0cGQoKAQcBDxMiJyxvm5ubm7S02tra2rS0tLS0tLS0m45DMiIgIiAxWpSgtLS0tLS0tLTa2trV2tra2tra2tra2tra2tra2tra2tra2tra2tra2tXa2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2to"
+}

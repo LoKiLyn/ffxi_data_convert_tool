@@ -1,0 +1,29 @@
+{
+    "id": 5181,
+    "strings": {
+        "name": "Tortilla Buena",
+        "article_type": "A",
+        "singular_name": "tortilla buena",
+        "plural_name": "tortillas buenas",
+        "description": "About as tasty as you can make flour\nand water.\nHP+8 VIT+4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTE4MSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAwOIAgMDiAGDA4gBgwQIAgMECAIDhAgCA4SIAgOEiAIDhIgChAUIAoSGCAKEhggChQaIAwUGiAIFBwgEhYYIAwWHCAOFhogDhYcIBIWGiAUGBogDhgcIBYYGCAQGBwgFhgaIBAYHiAUGBwgDhggIA4YICAMGCAgGBocIBgaHCAQGiAgDhoiIBYaHiAYGhwgDhoiIBIaICAKGiYgGBwcIBgcHiAQGiIgFhweIA4aIiAaHBwgDhokIBQcICAaHB4gGhweIA4cJCAQHCQgGBwgIA4cJCAQHCQgGhweIBAcJCAOHCYgHB4eIBAcJCAYHiAgEhwkIBAcJCAcHiAgEB4mIBgeIiAKHCogHh4gIBoeIiAcHiAgEh4mIBQeJCASHiYgEB4mIBweICAQHiggFB4mIB4gICASHiYgEh4qIBAeKCAeICIgFCAmIBIgKCAUHiggECAoIBQgKCAUICggICIiIBQgKCAaICYgFiAoIBAgKiAOICwgHiIkIBQgKCAQICwgFiAoIBQgKiAiIiIgFCAsIBQiKiAaIiYgIiIkIBYiKiAUIiwgEiIsIBYiKiAWIiogFCIqIBoiKCAWIiogIiQkIBYiLCASIiwgGCIqIBYiKiAWIiogGCIqICIkJCAWIiwgGCQqIBgiLCAkJCQgFiQsIBgkLCAkJCYgICQoIBgkLCAYJCwgGCQsIBYkLCAWJC4gGCQsICYmJiAYJC4gGiQsIBgkLCAYJC4gGiQsIBomLCAcJiwgGiYsIBgkLiAWJDAgGCYuIBomLiAYJi4gFiYwIBomLiAaJi4gGiYuICgoKCAoKCggGiYuIBwmLiAaJjAgHCguIBwmMCAcKC4gGiYwIBwoLiAYKDAgHCgwIBwoMCAcKDAgKCgqIBooMiAeKDAgHCgwIBwoMCAYKDIgFig0IB4qMCAeKDIgHiowIBwqMiAeKjAgHCoyIB4qMiAgKjAgKiosIB4qMiAgKjIgHioyIBgqNiAgKjIgHioyIBoqNCAgLDIgHioyICAsMiAgLDIgHiw0ICAsNCAcLDQgIiw0ICAsNCAiLDIgICw0ICAsNCAiLjQgICw0IC4uLiAiLDQgHCw4ICIuNCAeLDYgIC40ICAuNiAeLDggIi40ICIuNiAgLjYgHi44ICQuNCAiLjYgIi42ICQuNiAiLjYgJC42ICQwNiAkMDYgIi44ICQwNiAmMDYgJDA4ICQwNiAkMDYgJDA4ICQwOCAkMDggKDI2ICYyOCAkMjggJjI4ICgyOCAmMjggJjI4ICYyOCAmNDggKDQ4ICg0OCAoNDogKDQ6ICY0OiAoNDggKjQ4ICg0OiAoNDogKjY6ICo2OiAqNjogKjY8ICw2OiAsNjogMvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy5iYmJiYmJiYmT8kMSQoKCQpLU2YmJiYmJiYmJjLy8vLmIZjY2NjQx8jRm6NjY1OaGxILxUZF2NjY2OGmMvLy8uYmGMBBhJHc3lqo8L0/cmfyZt1dCcsCgIAY5iYy8vLy5iYOkdQV6GvddHZxfP+/vrp2bm8fFc+EQVwmJjLy8vLmHsbMnLz8cnX5ePT+Pz7+Pjhs1SX6ZZWFhlnmcvLy8uYJFuM5Ojo7Mny8vX27f/7+enmxbe37JZCRjGYy8vLyx9Eeb7M3/fp4dPpmvvT3vXy7vX579rcm4raWyDLy8t7I1en1dnz+OnO+Pz35Lbb4Orn6fj15+LCrLhZZnDLtTdA1efSzebm6+vy+Pfe6fL27evjt73M0b7DrLFgKctwIYDw7u7r6+Pb5ufw7+nr7/Dr5ufnvcLi2NO8ops3y0Qz8Orm6cfl6dy+vtnj5+S/W7jixcih0Nvj0cXOdVqGNJHP4NDAaarU0cjbyN7g1KplwcLb1NHIx+ClqeRtSyA0hJTb2b6HuMrc3sbO4cna2Mqw2NTQnJy2m5qazqhpIDxdosHR28rHyNPX3d3XxrTJx8LFxaUzksK2ysqzzkkxRJCivsHY08Wzva26xr+otKSkvsC9xcXCzsjK0bLCWUo3s3jBssfXlqqjsbGPj67GuqW+r8C9vbfFyMd5IcCkRSOAOHinopWos5auoE85h7HEsaqxpai0qaW9wIx5vU4/KTZXcZGXl3G2r6GKZGSCnpKjnKqprb/GsZ2tjJ2oM3dRf5WBn6B4OHapkpGXh4qaaZGDgp6ItLphm6GbpYwcZ3dmSICbrpOXfWiRkpOKnJqOmlk2rqFslputn5KuPRiGyzceJaGhqaCHfYmTilmKko6JmqSlnYyLsaWWpXklUcvLfis7gYGBhWF4fGxTXIOejoCVm5aIiHGliZV2UhCmy8vLQ0EudFdhSGh2eFNVfJpTQJWzqoGBlYl5fFIcWMvLy8uYOiY1NjuIgnVtYk5llg8PSZGalZuAgHZTKj+Yy8vLy5mYQwssQEaCdW1ibW1lLh5AYmWfjoBhIgxDmJnLy8vLmJhjAAMEDT45Nix0a1ZrPlZfZVAdCAkHAWOYmMvLy8uYmGNjYzE6KBQOExohTEgqGBQQHzBNY2NjY5iYy8vLy5iYmJiYmJiYmHBNOjRDMDxwhpiYmJiYmJiYmJjLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8s"
+}

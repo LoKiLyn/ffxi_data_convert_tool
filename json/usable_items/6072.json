@@ -1,0 +1,30 @@
+{
+    "id": 6072,
+    "strings": {
+        "name": "Magma Steak +1",
+        "article_type": "A",
+        "singular_name": "magma steak +1",
+        "plural_name": "magma steaks +1",
+        "description": "This thick steak of gabbrath meat\nerupts inside one's stomach, leaving\nan incredible warmth behind even after\nits last remains are digested.\nSTR+9 Attack+24% (Max. 185)\nRanged Attack+24% (Max. 185)\n\"Vermin Killer\"+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjA3MiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgQGIA4GAiAGBgYgBAYIIAYGBiAICAggCAgIIAAEFCASCgQgBggMIAYIDiAKCgogCgoKIAgKDiASDAYgCAoQIAgKEiAIDBAgFBAEIAoKFCAKDBIgDg4OIAwOEiAYEgYgFhIKIAoOFiAQEBAgCg4aIA4QEiAMEBYgEBIQIAoOGCAIDhogFhIOIAgQFiAMDhogEhISIAwSFCAMEBggHBYIIBYUECAUFBIgEhQSIAwQGiAMEBwgFBQSIBASGCAOEBwgFhQSIBQUEiAQFBQgGhYOIAwQHiAQEhogDBAgIAAQJCAYFhAgEBQYIAoSHiAWFhQgEBIcIBgWFCAaFhIgDhIgIBwYDiAOEiIgCBQcIBIUGiACEiQgEBIgIBgYFCAYGBYgCBQiIBYWFiAOEiIgGhgUIBgYFiAQFCAgDBYeIAwSJCAAEiogEhYaIA4UIiAEFCggDhImIB4aEiASFCIgDBggIBAUJiAEFCggHBoWIBQYHiAaGhogFhwYIBgaGiASFiQgEhggIAoaIiAaGhogFBoeIBIYJCAGGCYgGhwcIBIWKCAeHhQgGhwcIBIWJiAMGiQgFhogIBIaJCAUGCYgGhwcIA4YKCAgHhYgFBgoIBQYKCAaHB4gDhwkIBQYKCAeHhwgGBomICIgFiAQHCQgFBooIBweHiAYHiIgCBgwICQiFiAcHh4gGBwoIB4gHCAWHiQgFBwqIBAeJiAgICAgGBwqIB4gICASHiYgGh4kIBYeKCAYHCogCiAoIAQcMiAgICAgGBwsIAocMiAgIiAgECIoICYkGiAeIiIgHCIkIBogJiAaHiwgHiIkICQkHiAiIiIgEiIoIAweNCAcICwgICIkIAwiLCAcIiggCCAyIAoeNiAkJCAgFCIsICQkJCAcIC4gDCA0IBIiMCAkJCQgGiQoIAwiNCAeIi4gICYmICYmJiAUJiwgIiYkICooICAKIjYgDiYuICQmKCAoKCIgJCYmICAmKCAgJiogKCgoICYoJiAkKCggEiY0IA4kOCAiKCogICYuICwqJCAkKCogKCgoICAoLCAiKiogJioqIBYoMCAiKiwgKioqICAqMCAkLCwgIiouIBoqMiAuLiYgLCwsICYsLCAkLC4gLCwsICYsLiAmLDIgLi4sICQuMCAoLjAgLi4uICguNCAqMDAgKC40IC4wMCAmMDIgKjA0ICQwOCAqMDQgMDAwICwwMiAoMjIgJjI0IC4yMiAoMjYgJjI4ICwyNCAyNDIgKjQ2IDQ0MiAuNDggMjQ2IC40OCAwNjggMjY4IDY2NCAyNjggLDg6IDQ4OiAsOjwgMDo6IDg6OCA2OjwgODo8IDo6PCA8PDwgOjw+ID4+PiAAAAAANnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2bu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7vZ2dnZu7icnJycnJycnJycnJycnJycnJycnJycnJy4u9nZ2dm7u5wAAAAAAAAMDAUHBwcHBQwMAAAAAAAAnLu72dnZ2bu7nAAAAAMNG0p9oL3HvbagdUofDQMAAACcu7vZ2dnZu7ucAAUbX8fu6sKVenpycnqbvNi2XxsFAJy7u9nZ2dm7u5AWdeP4/PJ6aZWlt8+zlUETE0GbvV8WkLu72dnZ2bunXZabgOLjydvz8/X1+vz8/PzsaRMYk6Bdp7vZ2dnZnHCTKFavzZd+ZEQ6XLra3Nra3O37/LMJE6tqnNnZ1spwgxiJ0s1+HhcSCxUSHZfS2uHf1drh+vsZApxqytbTiYMYmtLJOgsKCgQEDgoKCgs6EQsXhN/f+fxyApyH08SBGInNxVwSFTZlS0AwDgEKCg4REhIQCrrt8fo/CYnEkD80zbqXNhQgaGuIn42NPT0nPRUUCw4SEm3J7vAJP5BwE6/AwG0nN1V0iIiZrpF3ea55PVBQHA4nFQ6W6bAJcD4ZycDMhFdrhXNZb5+on2hzmWBoUEtQQiQVEETJ7w9HOT/Jusy6hGVGQktZkZFraHyZa2h8hXxvMCcUFbrwOSkiTMm6zLq6mIs9HC1LdHR3fIiNa3R3dGBXLDA2yfBMKUcpzbnUxq+XPS8eIDUnJEZLgldOZW5gQDUnUqLp7TlNkA/FutjDmlxPPXYjFFg1ISwaLTAsIGFhJl5w1d/YE5DEGV3JzOO2irWUzshYQ8hmRVRJU25ujB0zcNjb62kpxNmcD6fJ2+a4hKGdisixdmIICJK0rapxJnjT7um4GZzZ2dBbD6/U6e7WrI5sQ5SmWn9ROJKjpHSQ/P31yhlj0NnZ2atqD4HU5PHirIZ2hoqptL+SVKTB3fv+/tYpaqvZ2dnZu7BqIiqv19vk5N7lzMy+j6Sey+rz+fV6ImOwuNnZ2dm7u5wNMiJNms3n9Pb29vfo4Ovp2Lh4OSUNnLu72dnZ2bu7nAAGDSs8Pk2Br8bGzNGyg1tMSCsNBgCcu7vZ2dnZu7ucAAAAAwUNHysuPDE+PC4rGw0FAwAAAJy7u9nZ2dm7u5ycnJycnJyckJCHh4eHkJCcnJycnJycnLu72dnZ2bu4u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7uLvZ2dnW2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dbZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dk"
+}

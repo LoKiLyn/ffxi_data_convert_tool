@@ -1,0 +1,29 @@
+{
+    "id": 5673,
+    "strings": {
+        "name": "Rolsin",
+        "article_type": "A",
+        "singular_name": "rolsin",
+        "plural_name": "rolsins",
+        "description": "Only the sweetest dried rolanberries\ncan be deemed \"rolsins.\"\nAGI-3 INT+1 "
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY3MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAQGIAYECCAGBgYgBgYGIAYGCCAICAggCAYKIAgGCiAIBgwgCAYOIAoGECAIBhAgCggQIAoIECAMCBAgCggSIAwGFiAMCBQgDAgUIAwIFiAMChQgDAgWIA4KEiAOCBggDggWIA4IGiAODBIgDgwUIA4KFiAOCBggDg4QIA4KGiAQDBQgDgwWIBAKGiAQCBwgDgocIBAMGCAQChogDgggIBAOFiASBiIgEBASIBAMGiAQChwgEAocIA4KHiAQChwgEgwaIBIKICAQDBwgEAweIBIKHiASEBQgEgwcIBIMHCASEBYgEgweIBIKIiASDhogEgweIBIMHiASDCAgEhIWIBIOHCASDCAgEgwgIBIMICAUDhwgEgwgIBQMIiASDh4gFA4eIBIOICASDCIgEg4gIBQOICAUDh4gFA4gIBQMIiAUEhggFBAcIBQQHCAUDh4gEg4gIBAOICAUDiIgFBIYIBIOIiAWDiAgFA4iIBYMJCAUDiAgFA4kIBQUGCASDiIgFhAgIBYOIiAUDiIgFhAgIBYOJiASDiYgFhAgIBYQIiAWECAgFBAkIBYSHiAWDiYgGBAgIBYQIiAYECIgFhYYIBgSICAYECQgFBAkIBYQJiAWECIgFBAmIBYQJCAYEiIgFBIiIBYQJCAYEiIgGBAkIBgQJCAYEiIgFhAmIBgUICAYEiQgGBIkIBYSJiASEiYgGBQgIBgSJCAaEiQgGBImIBoSJCAUECogGhYcIBgSJiAaFCQgGBgcIBoUJCAaFCIgGhQmIBwSKCAaFCQgGBQmIBYUKCAaFCQgFBIsIBoaHCAaFiIgHBYiIBoUJiAcFCYgHBQmIBoWJiAcFCYgHBoeIBwWJiAcFiggGBYoIBwcHCAcFiYgHhgkIBwWKCAYFiogHBgmIBwWKCAeFiggHhweICAYJiAeGCYgGhYqICAYJiAeGCggGhgqICAYKCAeGiYgIBomIBoYLCAeHh4gIBomICAaKCAeHiAgIBgqIBoYLCAiGiggHh4eIB4aKiAgGiYgIBooICAaKiAcGCwgJBooICAaKCAgGiogHBouICQaKCAiGiogICAgICAaKiAiHCggJBwqICIcKiAkHCogIiIiICYcKiAiHCogHhwuICIcKiAkHCwgHhwuICIiIiAkHiwgJB4qICQeLCAmHiwgJCQkICQeLCAoHiwgJCAsICYeLCAmICogKh4sICQgLCAmJCYgJiAuICYgLiAsIiwgJiYmICwiLiAoIi4gKCgoICgkLiAqIjAgKiQwICwkMCAoKCggKiQyICoqKiAsJjIgKiYyICoqKiAuKDQgLCwsICwsLCAuKDQgLi4uIC4uLiAwKjQgNi44IDQuOCAAAAAAPv7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/r6+Ovk3PX18Ovr8PD39/r7+/v7++vr6+vr6+vr6L4pKVE5HRkZDxsbFxccFRksF3D7+/v76+vX19fXcCsfHHGZSVROJzRBSVRnZ2FaRGNDC6T7+/vr69cABQIdGSlxZ3FtjIyMTk5hh7NEZHhnQ0YRIfX7++vr1wENJjdJcZGMeH5dRE5pn3VNfHyBaE89ETAp9fv76+u+CFNtLGfFnKGhk7VDTVece01oeoFKjCQ4Tzn1+/vr6F8Sa8yukKGhnJNuPj6HUDKRSl18kVlCJV0ejvv7++tfMZCQmcbViXuJwHhKh8J9aoyMfT+IOiUzLRXw+/v70ClxmYDBnqqhodSPxO2RnZ/PoqufQkYgSC0RIvX7+/twRXGuzNizu5vs87Pu6a2lz7GBkXwyGjAzJRFw+/r7+0BhmrjM2sazu2/O7eDMn7DIfIGBc0wwQ0oYFdz7+/v6X5ma2arJy/Plb43V4rNCh9GfgldDNDRKSiMU3Pv7+/pAmoW03ebl8dqzz8KqpYZjkWhLc0QwOj0jIBXc+/v6+ClrkLml3/3ZrarCvcLYpml7lGNMRjU6OiMUcOv7+/r3HbTZ2p6p4LDNuXWe2LV4RHibPkM6Oi4lHhRR6/v7+/BFwLDa/PSnydviv1l7rY80ME9DRjo1MC03Hl/r+/v78FPZ3+bu/rOq7dvLhi9oiW1OSEQwPT09YUkd1+j7+/u+Sanjy4zP6rTOsaWlaENkZFpadUQ6P1V3MDbr6/v7+5hU4d+R1dXhxYmNe3s+NEpKQ1pdTUNCUGUepOvr+/v7mH725afg7+fFnHJQXUYuPltqalVNNTo9NBK+6+v7+/vcWtnU2u/v4LDewZR4RnxVVUp6YFtjQzgeCdfr6/v7+/UpacXg7e6/VcHnk4ansIlXLlVbW2pNNBYD1+vr+/v6+5hB5dnq8cuboYKbjHqqpqE/KEtZY15lEwTX6+v7+/v73DzO2NL59saehKhdW3eRfFdCWX90f0QQANfr6/v7+/vrvkWMq+zs1aPTsjVGOypcdF5eanNeDgQA1+vr+/v7+/DrmBNxsrK049bDXj8kdpd/iHOBSgoGAADX6+v7+/v76+vXBAdSiUHB5sPDtrbHvLaviFYMBAAAANfr6/v7+/vr69fX175wQD11romvvMO8qHlWX8rX19fX1+vr+/v7++vo6+vr6+vkpFg5PHJUbzhwjrfr6+vr6+vr6Ov7+/v7+/v7+/v7+/v7+/XXmrqLrPX7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v6+/v7+/v7+/r7+/v7+/v7+/v7+/s"
+}

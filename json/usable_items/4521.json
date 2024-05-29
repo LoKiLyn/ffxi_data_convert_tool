@@ -1,0 +1,30 @@
+{
+    "id": 4521,
+    "strings": {
+        "name": "Humpty Soup",
+        "article_type": "A",
+        "singular_name": "bowl of humpty soup",
+        "plural_name": "bowls of humpty soup",
+        "description": "This egg soup is truly delicious.\nHP+6% (Max. 35) MP+5\nHP recovered while healing +5"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDUyMSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAoMIAYKDiAGDA4gCAwOIAgMDiAIDBAgCAwQIAgMECAIDBAgCAwQIAgMECAIDBAgCAwQIAgOECAIDhIgCA4SIAwOEiAKDhIgCg4SIAwQEiAKEBIgCg4UIAoQEiAKEBQgDhASIAoQFCAOEhQgDBIWIAwSFiAMEhYgEBIUIA4SFiAQFBYgDBQYIA4UGCAOFBggEBQYIA4UGCAOFBogDhYYIBIUGCAOFBogEBYYIBAWGiAKFhogEhYaIBAWGiAUFhggDhYaIBAWGiAQFhwgEhYaIBAWGiASFhogEBYcIBQWGiAQFhwgEBgcIBYYGiASGBwgEBgcIBQYGiAQGBwgFhgaIBIYHCAQGBwgFBgcIBQYHCAWGBogEBgeIBQYHCAUGBwgEhgeIBAaHCAYGhogFhocIBYaHCASGhwgEhoeIBQaHiASGh4gGBocIBYaHiAQGh4gFhoeIBQaHiAUGh4gEhogIBoaHCAUGh4gEhweIBocHCAUGiAgGBweIBYcHiASHCAgFhwgIBIcICAaHB4gGBweIBIcICAWHCAgEhwgIBQcICAaHB4gEBwgIBIeICAWHCIgFBwiIBIeIiAWHCIgFh4iIBAeJCAYHiAgFB4iIBIeIiAcHiAgFh4iIBAeJCAYHiIgFB4iIBgeIiAUHiIgEiAiIBIgIiAeHiAgFB4kIBAeJiAcHiIgGB4iIBQgJCAaHiIgFiAiIBQeJiAYICIgFCAkICAgICAWICQgEiAkIBIgJiAeICIgFiAkIBQgJCAgICIgFCAmIBogJCAcICQgFCIkICAgICAWICQgFCAmIBggJiAWICYgFCImIB4gJCASIiggECImIBogJiAaIiQgFiImIBQiJiAYICYgECIoIBQiKCAaIiQgGCImICIiIiAWIiggFiIoIBwiJiAYIiYgGCIoIBQiJiAUIiggGiIoICAiJiAWIiggFiIqICIiJCAaIiggHiIoIBgkKCAWJCggFiQqIBokKCAaIiogGCQoIBQiLCAcJCYgJCQkICAkJiAcJCggGCQqIBokKCAYJCggGCQqIB4kKCAWJiogHCQqIBokKiAYJCwgGiYoIB4kKiAYJiogGiYqIBgmKiAaJCwgGCYsICYmJiAeJCogHiYoICAmKiAaJiogGCYsICYmJiAeJiogGCYqIBomLCAYJiwgGiYuICgoKCAaJiwgICgqIBgoLiAeKCwgGiguIB4oKiAcKCwgKCgoIBgoLiAeKC4gHCguIB4qLCAeKC4gIiosIBwqLiAgKi4gHCouIB4qLiAgKjAgKiwsIB4sMiAcLDIgHCwyIB4sNCAiLDAgLi4uICIuMiAgLjQgLi4uIB4uNCAiLjQgIjA2ICIyOCAoNDogPr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+t3d3d3d3d3d3d3dkEBAQDswQEWn3d3d3d3d3d36+vr63dGnp6enp4lSGxQUFBQUFBQZFBQbQKenp6fR3fr6+vrd3acACAkMBg0PEhEREQ4EBAMHDg4HBgUAp93d+vr6+t3dswgLDQcTECpCPEFaZlBEMiEWDwIGAwqV3d36+vr63d1+DBUTOk+SnrWfmK+sr4JITUQvLCAOBx/R3fr6+vrllR8VM0iEy8XAwLWfbDo6N11wgmxDNDcDFEDR+vr6+r4lK0SC4cDAZjwvNUplSko5RCY3WlZfLjccFKf6+vr6UiVQeMBwVyxKg4PW4P72wm6ammceT1BmRzgcH/f69+UrRHhmbCtbrZqhu/jy9fnoprn47YpRJjdhZDsas/r3VUhwZlYoapfB7H2xoczg8vvmzu345IdKLE9TXCxM5WkuWnpINrSPi9vGl+6Ui53g9PPGyvzp49VbL2ZhQyGzIUd2YVGX2uqht7eh5Nl829a8o+h9//ax5IqPSFZHRTAhRHAvZZyuuMytfK2h2eLu27icxu7tuWqxzXtKPHpeGTJhZjlxnICMraGK2Mjk/fLQ27ik4reUmsGaW3NEVl47VXhXP4yGd5fZ/N6xzdre0NvMsnfmsenvyJSIe1dCV0NeVjw/dHRUfMbaqLaWsczQ0MSodJfQoOTwj4+geDJWMjRIRD2rZ26gsbvByNB52sSRiLHhl6iowZFnppaqPFYsQUhJOXt0brmme6iXjLHcnMl/tulzjMTPtmB5c8VJORtjNnYtRqZrhXR5ecegkc+4mc+px7qGhs2me1t2xVhBWY02Wj8iYHNudIOWrHxi0rKxxLq6e5GmwqaKW5+eXSPX8T4yVygxYGhlaI6Zf22Of3TY621olm5u35Z21G9CQPr61zJINiZJaI5zYFtgYJ56ZYW9aGtlvdOKbLXLRibl+vf3gTYsYSs1aHaln4prTmtrZVtlhZafjm+S1GInWfr6+vrRRSYuNjIcLCh2q7S0x9i0mauvlm1dhL9JJ0vR+vr6+te+PiAyMiojGCNPV11iRlFYPzE1gbB4PzpV3d36+vr63d2JHSQeKCo2LDw0TVBPT1BkhJtyQiwXAafd3fr6+vrd3ZWnkGkwJSYsLzxBR1pIRFpTPC8pWZWnp93d+vr6+t3X3d3d3b6zjXVEPERDTExcY5CQvtHd3d3d1936+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vo"
+}

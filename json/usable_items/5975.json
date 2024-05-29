@@ -1,0 +1,30 @@
+{
+    "id": 5975,
+    "strings": {
+        "name": "Flapano's Paella",
+        "article_type": "A",
+        "singular_name": "plate of Flapano's paella",
+        "plural_name": "plates of Flapano's paella",
+        "description": "Flapano's legendary barnacle paella.\nSo many ingredients were used to\ncreate this delicacy that it is wholly\nunderstandable why his restaurant runs\nout of foodstuffs when he makes a\nplate of it.\nHP+45 VIT+6\nDEF+26% (Max. 155)\n\"Undead Killer\"+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTk3NSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAICBCAEBAYgBAQGIAQEBiAGBAYgBAYGIAYGBiAGBgYgBgYGIAYGCCAGBgggBgYIIAYGCCAGBgggCAYIIAYGCiAICAggCAgIIAYICiAICAggBggMIAgICiAGCAogCAgKIAYIDCAKCAwgCgoKIAgKDCAGCgwgBggQIAwKDCAMCgwgDAoMIAoKCiAKCgwgDAoOIAYKDiAECg4gCgoMIAwKDCAIChAgDAoMIAYGFiAMDAwgCAoOIAwMDCAMDAwgDAwMIAgMDiAGDBAgDAwMIAwMDiAGChIgCAoSIAwMDiAMDA4gCAwQIA4MDiAMDA4gCAwSIAwMECAMDBAgDg4OIAgMEiAKDBQgCgwSIAgMEiAKDBQgDg4QIAwMFCAKDBYgEA4QIAoOFCAQDhAgCg4WIBAQECAQEBIgDg4UIAoOGCAMDhYgEBASIAoQFiAGEBYgCBAUIA4QFCAMDhggEBASIA4QFiAMEBYgDhAWIBASFCAKEBYgDA4aIAgQGCASEhIgDBAYIBASFCAGEhggDhAYIBISFCAOEBogEBIWIBISFCAQEhYgDhIYIBIUFCAKEhogEBIYIA4SGiASFBYgFBQWIBQUFiAQFBogChQcIBIUGCAOFBogDhIeIBQUFiAGFB4gEhQWIBYWGCAOEiAgFhYWIBAUHCAOFB4gEBYaIAwUHiAUFhggChYcIBAUHCAWFhggFBYaIBIWGiASFhwgChYeIAgWICAQFCIgDBQgIBgYGCASFh4gFhgaIBIWHiAUFiAgDhYgIAgWIiAYGBogEhgeIBQUIiAWGB4gDhYiIBYYHCASGCAgGBoaIAwYIiAKGCQgFBggIBQWIiAaGhwgCBgkIBgaHiAWGiAgCBoiIBwaHCAWGCIgCBomIAgaKCAcHBwgFBoiIBIaJCAYHCAgFBgoIAgcJCAMGiggHBweIBYaJCAaHCAgFBomIBgcJCAIHiggHh4eIBAcKCAIHCogFBoqIBgeIiAeHiAgFhwoIAYeKiAcHiAgDBwsIBgeJiAIICggCB4sIBgeJiAaHiYgGCAkIBgeKiAYHiggICAiIAYgLCAGIiogFh4sICAgJCAaICggFCAoIBwgKCAYICogIiIiIAYkLiAcICogCCIyICQiJCAeIiggHCAuIAoiMCAeIiogFiQqICQkJCAcIi4gBiQyIB4iKiAGJjAgBiQ0IBokLiAgIi4gBiYyICYmJiAGJjYgCCY0IAYmNCAoKCggICYuICgoKCAEJjggIiYwICgoKCAkKCwgBio2ICQoMCAqKiogIigyICosLCAgKjIgEiw4ICIqNiAoLDIgLi4uIC4uLiAAAAAAP7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/u3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3+/v7+7enW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbp7f7+/v7gpX1COxYWJigAAAAAAAAAAAAAAAAAAAAA1u3t/v7+4HWUw9G3k2c4BgQAAAAAAAAAAAAAAAAAAADW7e3+/ulRrrugPxgVRU0QFBk7Mzc6OiobEQ8YAAAAANbt7f7+irWSwMAAAAAIL1FxoKqgpbXDp5R9VC8OBwAA1u3t/v5vnlHt1gAJGkSAwIAkFyAfHR0fIU99fXUrGwrW7e3+/kxeNlPWDh9r1n0NJFuRnbner5FpFxweUXVVIXHW7/7+4ESHIh0uu5kXSnDhzLCw4/zu5tndmGU5LExoK3HW/v7+w1FYTKUuLX7EyPeLX7Golrn4o0evo+XCQBduQYD2/f7+zS6SLiSOx7RwQEDF2789fNufasX5+uzHUhJmLs39/v3WcWYkod28ajBJ3rdqiVbL3j2oxebr8PTOHB1TZvL+/ZJxH1fX5ZclV7Hji3TJn5uBVt7z39fi5eV5DHdB7f34XE8NiLqtYBx0mqh4yfXcMmTB0vjTxs/i6JgNXkHt/vJMTwypodCDQI1scHC2/Jt8ytjYmqaPos/keQ1PIfL+71hREjzC3WwweJUwS7n8r5VvSLYcUrLJprpHDFFx9v72fU8uDY+9iGBfV3TQsvzxn7nnwYSyn4izWg1GNtb+/v3AWE8dLKasHklQ4/u+SyU9wfufmtKJY2UNIn13/v7+/u2uXj4uR6loQByJy4RKUkt7n1fKUCBADD6Za+D+/v7+7e2STzE+MHJJMFJfo8Xj4eerg3seEjaAbka77f7+/v7t7dYFf0YnJ0BAUGp6ttRsfF09HiJxii4qqu3v/v7+/u3t1gACBX9UQcVVF2y2g2CXYEmKdjULrmHA7e3+/v7+7e3WAAAAAgQKbX+MhdLM1biji1g1BpL4gtbt7f7+/v7t7dYAAAAAAAACAgMDEyNZhkNip5zR2goA1u3t/v7+/u3t1gAAAAAAAAAAAAAAAAECAQEEBAQDAADW7e3+/v7+7e3WAAAAAAAAAAAAAAAAAAAAAAAAAAAAANbt7f7+/v7t7dbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1u3t/v7+/u3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3+/v79/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v3+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v4"
+}

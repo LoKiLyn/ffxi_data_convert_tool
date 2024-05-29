@@ -1,0 +1,30 @@
+{
+    "id": 5560,
+    "strings": {
+        "name": "Elysian Eclair",
+        "article_type": "A",
+        "singular_name": "serving of elysian eclair",
+        "plural_name": "servings of elysian eclair",
+        "description": "A serving of mille-feuille\nbaked to perfection using the\nskills of a patissier.\nHP+10 MP+15 INT+2\nHP recovered while healing +2\nMP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 17039360,
+        "unknown3": 2
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTU2MCAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAIYIAAEGCAKCgogCgoKIAoKCiAAACQgCgoKIAgKDCAABBogBAgSIAACIiACBhggAAgYIAAEHiAKDA4gBgoSIAAGHCAACBwgAAggIAAIICAABiIgAAoeIAAKHCAEDBggAAweIAAKICAACiAgAAoiIAAMICAACiQgDhASIAIMHiAADh4gAAwgIAYOHCAKEBYgAAwgIAIMIiAACiYgCg4aIAAOICAADiIgAAwmIAAQICAOEhggAA4kIA4SFiAGECAgBA4kIAwSGiACDiYgBBAiIAAQJCAOEhogAhAkIAAQJCAIEh4gEhQYIAAOKiAMEhwgABIkIAIQKCAAEiYgEBQcIAgSIiACEiYgABIkIBAUGiACEiYgAhImIAYUIiACECogABQmIAYUJiAEFCYgEhQeIAwWICACFiQgAhQmIAISKCASFhwgABIsIBAWHiACFCYgAhIqIAwWIiAAFiYgBhQoIAgUJCAGFCYgAhYmIAAULCAMFiIgBhYmIBgYGiAQGCAgBBYoIBQYHiAGFiYgBhYqIAQYKCAEFiogGBocIAQWLiASGCQgBhgoIAYWLCAEGCogCBgoIBAaIiAMGCYgFhogIAYYKiAIGiggChomIBocHCAMGCwgAhoqIAQYLiAKGiggFhwgIAYaKiACGiogCBguIAYaLCAcHB4gChoqIBQcIiAIGiogAhouIAYcKCAKGiogEBgsIBgaJCAGGDAgHB4eIBocICAGGi4gBhwsIBYcJiAaHiIgCBwsIAgaLiAeHiAgDBwqIAwaLiAIHC4gBB4uICAgICAMHCwgCBwwIBYcKCAQHCwgDBwuIAYeMCAgICAgDh4sIAgeLCAWICYgHiAiIAYgLCAOICogDCAuIAweMCAIIC4gEhwwICIiIiAWHDAgEB4yICIiIiAQICwgDCAyIAgiMCAMIiwgGB4wIBQeMiAQIDIgJCQkIAoiMCAWIC4gECAwIBAeNCAWHjQgECIyIBogMiAQJDAgEiA0ICQkJCAWIjAgGCA0IA4iNCASJC4gHCQsIBIiNCAmJiYgHCIyIBQkMiAmJiYgFCYuIBYiNiAOJjIgKCgoIBwkMiAaJDQgEiYyIBwmMCAUJDYgHCQ2ICAmMCAYJjQgKCgoIBwkNiAgJDQgHigyIBomNCAYJjggFioyIB4mNiAeJjggEio0ICoqKiAaKDQgHiY4IBwoOCAsLCwgFio0ICAoOCAeKDggFCo2ICwsLCAiKDggHio4ICwsLCAkKjggHio8IB4qOiAuLi4gICw6ICQsOCAkLDogJC46ICQuPiAoLjwgJjA8ICowPCAoMD4gKDI8ICgyPiAsND4gLDY+IDQ4PCA0Oj4gODw+IDg+PiAAAAAAO3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3m0+Hp7e3t7e3t7e3t7e3t7e3t7e3t7crKysrKysrDkGJNPGeyysrKysrKysrKysrKysrt7e3tysaqqqqndFG0nVUeJyhfp6qqqqqqqqqqqqrGyu3t7e3KyqoAByRyq5l6bDMqKhQKBQAAAAAAAAAAqsrK7e3t7crKqg9WbXORnrOzs2UqPhUMCAAAAAAAAACqysrt7e3tysZfR21ZeJ6js8nJyZY4PjsbDwMAAAAAAKrKyu3t7e3GZ0olKXizs9zluFVIgaNPRj4nEAQAAAAAqsrK7e3t7X6WeG+eno6epY8LBgYLWGF4OD5FGAcAAACqysrt7endibXizbrArp52k456jisVODhCODhJIA8EAKrKyu3t6emJ2eKOZYGDva2te4F2lDMTHj84OEVFRQoHssrK7e3t7ZXHYUOBjn293t64gU9FdmYOGldJVElCVCBfw8rt7e3tlZGWgUthxe/Xlm14YVphT1QuOCZCQjU4SGREp+3t6d1if1gzZJq9nXp6bVRPnpFaJkJhTyYeDi5hUIRT3enpiZZ3cZmdhGFqxcWTi2xVenhvJiZKSjcTFT9hk2Dd7dNuaDMweE9Po46BgoKblxULJkI3RkI3SkpjRlqied3t5nlZNEuUm4ozERoWEhZQbCsJFkNLjqGhg15aSkpuyu3t6X5zpZMzHBdBj2MuHQ0hKT1DZUNDQ2pqg4NaTjnK7emgYJZkJh00cWgzGRcZIiINFixLV05LNR4qQ3JyQaDtiYR9VTMxcXE1FhEjAgICAhYZLiUlSVdbVElDV1pKUeFdfVxoh3wxQX+a3vf7wWkXEhYSIiUiW0sqLkNDKUtNxl19UkiXl3Wx8Pz+/f3+/O610mY4ZmZCIjUdIhwcHDC8gKS/v6x/glyk7Pj6+Pf09Pn69tiPl2Y1KRoBAREOJrKN4uXCwtLx9fXw7OjkyMjU4ODj4PDuwqR3JRYJAQEjvOGgn+j0+fXz8PDozK/Et7e3t7CmpqnCyM+4j0IdEjR+7emykHCYy9DE2uDk5MzQ2tq+r7C+1NS2u6awsZIxIjLt7crKnAUfLy02QEyMy+fa1dWvr6ior7e31NSmdYV1Xe3tysqqAAADAwMEBAUfOobR6ufn6urj29vU6/Lx186Q7e3KyqqqqqqqqqqqqqqnlX50oO/29PTx1sGNeYicyunt7crKysrKysrKysrKysrKysaylaCIkJynsry8ysrt7e3t7e3t7e3t7e3t7e3t7e3t7e3t3ent7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7ent6e3t7e3t7e3t7e0"
+}

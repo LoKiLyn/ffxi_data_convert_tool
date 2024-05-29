@@ -1,0 +1,28 @@
+{
+    "id": 6612,
+    "strings": {
+        "name": "Sea. Gratin +1",
+        "article_type": "A",
+        "singular_name": "serving of seafood gratin +1",
+        "plural_name": "servings of seafood gratin +1",
+        "description": "The delectable aroma brings chefs and fishermen alike to tears of joy.\nDEX+8 MND+8\nAccuracy+21% (Max. 75)\nRanged Accuracy+21% (Max. 75)\nEvasion+13% (Max. 65)\nMagic Evasion+13% (Max. 65)"
+    },
+    "flags": [
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNjYxMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAICAiAGBgggBggKIAgKCiAKDAwgDAwMIAoMDiAMDhAgBgoYIAwOECAMDhIgBgwaIAYMGiAGDBwgDhASIBAQEiAGDBwgCg4cIBASFCAGDCAgCA4cIAwSFiAMEBwgDhIUIAYQICAIDiIgDBAcIA4SGiAOFhQgCA4kIBIUFiAIEiAgCBAiIA4UGiAKEiAgEBQaIBQWFiAQGBYgDBIiIAwQJCAQFBwgBhAmIBYWFiAQFhogDhIiIAgQKiAOFh4gChIkIA4UICASFhwgGBgYIBAYGCAQFh4gEBQiIA4UIiAOFCQgChQmIA4cFiAYGBggEBYgIBIYHiAKEiwgDBIqIA4YHiASGCAgEBYiIA4UJiAOFiQgChIwIBYYHiAKFC4gDBYoIAwULCAaGhogDhYmIBQaHiAQGCQgEhggIAoUMCAaHBwgEBokIBAWKiAWGiAgDBYuIBgcHiAMGCggEhoiIA4aJiAMFDIgGhweIBQcIiAMGCogFBokIBAaJiAMGC4gEBgsIA4WMCAYHCIgFhwkIBIcJCAeHh4gEBwmIA4aKiAQGC4gGh4gIAoaMCAeHh4gHB4gIBYeJCAOGi4gHh4gIBAgIiASGi4gFB4oICAgICASGDAgGB4mIBYiICAaHiQgHCAiICAgICASHiogDhowIBogJiASGjIgIiIiIBwgJCAaICYgGCAmIBQgKiAWHDAgEBwwIAweMiAWIiQgFiAoIA4cNCAiIiIgICIkIBgeLCAiIiIgHiIkIBQgKiASIC4gDiAwIBgkJCAUHjIgGB4wIBAgLiAcIiggHiImIBQiLCAOIjAgGiAsICAiJiAWHjIgIiQmICQkJCASIi4gEiA0IA4gNCAWIi4gECIyIB4kKCAiJCYgHCIuICQkJCAiJCggFCA0ICIkKCAQIjIgGiQsIBYkMCAaIjIgJiYmICQmKCAUJDAgIiYqIBAkNCAcIjIgFigqIBgmLiAUJjIgGCI0ICgoKCAYJjAgJCYqIBAmNCAcJDQgIiYsIBQmMiAYJjAgJCgqICgoKCAUJjYgJCgsIBQoNCAiKC4gKioqIB4qLCAaKDIgFig0ICYqLCAeKDIgICY0IBIqNiAqKiogHiowIBwqNCAqKiwgFio0ICgqLCASKjggLCwsICgqLiAcKjYgKiwuICYsMCAeLDQgGCw2ICwsLCAmKjYgGCw2ICwuMCAuLi4gKi4yIBYuOCAsLjAgHC44ICouMiAeLjggLjAyIBowOCAqMDIgHDA4IC4wMiAgMDggKjA0IB4wOiAwMjQgIjI4ICwyNiAwMjQgJDI6IDIyNCAuMjYgMjQ2ICo0OiAyNDYgNDQ4IDQ2OCA2NjggNjg6IDo6OiAAAAAAOHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4d3dz8fCwsLCx8/d3eHh4eHh4eHh4eHh4bm5ubm5uaeKPBEGBgYQEAkJBhE8iqe5ubm5ubnh4eHhua+NinpLCwYUS22ly6q7wZc2PgwEC0t6io2vueHh4eG5uYoCAwhWqt3ijmozPlSl1OioeGMZCAMCirm54eHh4bmvNAULpd2yVDNDKiplWE8leLLhwYBjFwU0r7nh4eHhrzQGTd3BTVxCorFzHSqDtqRcWE/L6LKAIwk0r+Hh4d1LDC331E1CZdPcsbEYDkWPsdO3j2WWsvV5RwlL3eHhpwtW/YEuKEW/xdwkCoVVCvHx3OvKtkOk1/uqRwmv4c8RLfuBMj1FTESajA1KYUoSFqvx3IOiwI+s6PubIBHPngzEmzI5X4Pac0wTInK0YRotYobOotDx8bZD/ddjCZ4gVOIuLkyQn77mdt6mP2FAHOfTq7MNFoPn34hP+o4ZLAn1pBeDg5WYMMzmZBsTGA813CVfChVyMQ1fTEyo/GoUEPCXFzFnmI9zOQ0pLhM1JyOFJB8/YpScMclnQoj6jhct830YGDFZWQ0KKAoKOFNpwx4hJ0i4k34rMq1CY+KOHWr3jhgXGFcWDT+ESh5BaXGz1dihhyd+UCHf7bpH6Lsqefp9MxejoyESSK51SlWjteeSJ7w7hEbDDuXp9DPsyzNW+4EcQ4W33OuuYlrIkoKC77zO6aM6YJDr6+PtVOKoM3rs/FhMlV1v3KCpvV7vdxkfIVcnfGDKlUyx4+6X8MFWp6r9y1hSkTHF3/TG6u+gDw8VGw8Nq/LMcw84iMHwxJ7Pr/P9gTaPmTprybr25Q4xP70rGw/j7nM9Nz2W6PV6z+Gvjvv6XlhONiJvuq3ROnzNzaAvEr+r8uJ9rJb+z6/h4d10pf37bjAjHGjJsa3FxbSgiUBJhqPF226s/uFs3eHh4admpfz6eDYjHEmxXTmDQ0ZQRWjc+MZkvv7wbK/h4eHhua9Rnez5xH1PN0U5OT1MNzhDg8Z9ZKjosFGvueHh4eG5uYoCW9L594FzfW5ebm5OPY6WqPDz4FsCirm54eHh4bm5jQABB1vk8/Xm4tfE4ubX/f332XAHAQCNubnh4eHhubmNAAAAAQImW4vS5Ozw5NmwcCYCAQAAAI25ueHh4eG5uY2NjY2NjX96dGxsZmZsbHR0f42NjY2Njbm54eHh4bm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubnh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eE"
+}

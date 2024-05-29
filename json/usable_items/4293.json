@@ -1,0 +1,30 @@
+{
+    "id": 4293,
+    "strings": {
+        "name": "Monastic Saute",
+        "article_type": "A",
+        "singular_name": "serving of monastic saute",
+        "plural_name": "servings of monastic saute",
+        "description": "The beaugreens in this saute have\nbeen cooked in the manner followed by\nthe monks of San d'Oria.\nAGI+1 Ranged Accuracy+7% (Max.20)"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDI5MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKCiAKCgogCgoKIAgOCCAKEAggChAIIAwMDiAKEAogDBAOIAoSCiAKEgggChIMIAoSDCAMEg4gDBIMIAwUCiAOEBAgDBQOIAwUDCAMFAogEBISIA4UDiAQEhIgDBQQIA4WDCAOFA4gDhYOIBAUECAOFg4gDBQUIBAUFCAOFhAgDhgMIA4WECAQFhIgDhgOIBAYECAOFhYgEBgSIA4YEiAQGBAgEhYWIBAaDiAQGhAgFBYUIBIYEiASGBQgEBgUIBIaECAQGhIgEBoUIBAcECASGhIgFBoUIBQYFiAQHBIgFBgYIBQaFCAaGBggEBwSIBIcEiAUHBQgEBoYIBAcFCAWGBogEhwWIBAaHCASHBQgGhgaIBIeFCAUHBYgFhwYIBIcGCAQHBogFB4UIBYaGiAWGhogFhwYIBwaGiAUHhYgEBwaIBQeFiAWHBogFhwaIBYeFiASIBYgFh4YIBwaHCAWIBYgEhweIBYeGCAYHBwgHBwcIBocHCAWHhogFB4aIBYgGCAcHBwgGhwcIBggGCAcHBwgFiAaIBgeHCAcHB4gGh4eIBggGCAWIBogHh4eIBweHiAYHh4gGCAaIBoeHiAaHiAgGCAeIB4eHiAeHh4gHCAeIBweICAYIhwgGiAcIBggICAaICAgFh4iIB4eICAaIhwgGCIcIBogICAaHiIgICAgIBwgICAaIh4gGCAgIBoiHCAgICAgHiAgIBwgICAcICIgHiAiICAgICAYIiAgHiIiIBwgIiAYIiQgICIiIBwkHiAeIiIgHCIiIB4iIiAeIiIgGiIiIBwkICAeIiQgIiIiIB4iJCAiIiIgHiQiIBwkIiAgIiQgIiIiIB4mICAeJCQgICQkIBgkJCAeJiIgJCQkIB4kJiAiJCYgJCQkICAkJiAaJCggIiQmICAmJCAiJiYgICQmICQkJCAgJiYgHCYoICImKCAmJiYgJCYoICYmJiAiJiggGigoICQmJiAkJiggJiYmICImKCAiJiggKCgoICQoKCAiKCogJCgoIB4oKiAoKCggJCgqICYoKCAkKCogJigqICAqKiAoKCggJioqICQqKiAiKiwgHiosICQqLCAmKiogICosICYqLCAoKiwgHiouICoqKiAkKi4gKCosICQsLCAmLCwgLCwsICosLCAoLC4gKCwuICgsLiAqLC4gKC4uIC4uLiAoLjAgLi4uICouLiAqLjAgJi4yICwwMCAkMDIgKjAwICwwMCAmMDQgLDAyICowMiAmMDQgLjIyIC4yMiAuMjQgLjI0ICgyNiAsNDYgMDQ0IC40NiAwNDYgMjQ2IDI2NiAyNjYgMDY4IDQ2OCA0ODggNjo6IDY8PCA4PD4gOLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4r6+vr6+vrSmgoKcoKmmmqCMh3WanLS+vr6+vr7i4uLivr6ampqCZjxZaYeLprq1oJaMfV5QRmaMmpq+vuLi4uK+vpoDBFBmmbra5Obr6+7rk5PWv7+bi1kEjL6+4uLi4r67dRhqqtbr9vvr6P7/6Nv8++Pc8eTKqm5tvr7i4uLivoJZrOb24eH+/fXk+/fR6ff3vdiT9tHbwYORqeLi4uCCabzd+/357PqqxMTm29HO6+i39vTO0fn445mR2eLisHTc8eHM+PHLgV1yXYnAvLe8t8vY287v9O7R3I/D4sltz/f8+d+8saeBKyBCZMx8kJtUT0lold/wxNv7z4vDqa7Yt9XozpREW3qnOr0gOCQkKiMzQ57XYKPk8PTwurZZz/bd1c6vJx9ASlidYCMPEEAxO4RRKpKta53w3L3Wg6zw6+/hd29zGQ1YWDN5TwwTExceHBcySGJ4VbPY6embx6/V5byUXZUwEw1nQxdxNwsQFyYXEBA2GxtOwN3dxr3axsbdmY9yloQbDQ5nJgdcKAUJEw0TISEhIyF3v8TA1t7r6di8lImJhjQQHiojByM5KAULDhchP36ST0/c6ena3uvLt7zEiXE3fxsUOTUMCywvaK2lGxEXMmVrksTAwOPczsDOr72be01IRQYHGhcmcH8mO4aYO2wjZYZ20ePaz8Xe5tuqp8RkMBc+HAYGNIWyf5cvN1Z4hEg4cZ25vcHFqdLWvaKit5U4HT1aoUnC5+2rhZdPSFFwklWirNizvaheqJSny5uZox4vRy1rodDy5+qynnBieHiGOqLP3tLBh7SMv9bmtY97KhpHPj5rjdDNyLhhLVxsbE12s7+zx5ac1JyWwbWPm2g7LSpXU3hRYbikYSg7SGJwTqLP0r2WrtTiu4yWo5nKxTktKiVMYjQpQ1YwHVFwa5JqtaK5lmO+4uDimnWOqL+AnXkjJSUmO1hnZzYwLnuErpOKn4uRmuLg4uK7oGZjlpaTjrk1Uktqn7+VRUiGrnKTk4qIXrC+4uLi4r6+kQQIY3aVk3mVnWq1v2qon3uOi4pfFgSavr7i4uLivr6aAAADChJkaoqTlJuTk4puWQEBBAMCAJq+vuLi4uK+vpqampqagnVuZnZmbm5edHSCkZqampqamr6+4uLi4r62vr6+vr6+tLu2tra+vr6+vr6+vr6+vr6+tr7i4uLg4uLi4uLi4uLZw9TU2eLi4uLi4uLi4uLi4uLi4uDi4uLi4uLi4uLi4uLi4uLg4uLi4uLi4uLi4uLi4uLi4uI"
+}

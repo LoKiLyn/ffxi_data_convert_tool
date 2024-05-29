@@ -1,0 +1,29 @@
+{
+    "id": 5202,
+    "strings": {
+        "name": "Nero Seppia +1",
+        "article_type": "A",
+        "singular_name": "dish of spag. nero di seppia +1",
+        "plural_name": "dishes of spaghetti nero di seppia +1",
+        "description": "More squid ink means more\nsquid flavor!\nHP+17% (Max. 140)\nDEX+3 VIT+2 AGI-1 MND-2 CHR-1\n\"Double Attack\"+1%\n\"Store TP\"+6"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTIwMiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABgYIIAgGCCAGCAogCAgIIAgICiAECAwgCgoKIAoKCiAKCgogCAoMIAQKDCAICgwgCgwOIAgMDiAKDA4gCAwQIAYOECAKDBAgCg4QIAoOEiAODg4gDA4SIAgOFCAKEBIgDBASIAwQEiAMEBQgEhISIA4SFCAMEhQgDhIUIA4SFiAMFBYgFBQUIA4UFiAKEhggDhQWIBAUFiAOFBggEBYYIA4WGCAQFhggChYcIBAWGiAWGBYgFBYYIBIYGiASGBogFBgcIBgYGiASGhwgEhocIBoaGiAYGhwgEhoeIBwcGCAcGhogFhoeIBQcHiASHB4gEBogIBocHiAcHBwgGhwgIBYcICAUHCIgHBwcIBYeICAcHh4gEBwkIBQeIiAeHh4gFh4iIB4eHiAYICIgHh4gIBggIiAgICAgGCAkICAgICAYICQgICAiIB4gJCAUICggHCIkIBoiJCAiIiIgIiIiICIiIiAaIiYgIiQkIBwkKCAWJCogJCQkICQkJCAYJCwgIiQmIBwmKCAkJCYgJiYmIBgmLCAmJiYgJCYoIB4mKiAcJiogJiYmICAmLCAoKCggIigqIBwoLCAeJDAgHigsICAmLiAoKCggJCgsICIoLCAqKiYgKCgoICYoLCAcKC4gHiosIB4mMiAgKDAgKioqICgqLCAqKiogLCooICYqLCAmKC4gJCouICoqLCAiKi4gIiouICIqMCAmKi4gJiowICwsLCAmKi4gJCowICIoNCAiLDAgJCwwICIqNCAqLC4gKCwwIC4sLCAiLDIgIio2IBwsNCAsLCwgJiwyICosMCAiKjQgKiwwICQsMCAoLDIgLi4sICYsMiAkLDQgJCo2ICosMiAqLDAgIiw2ICgsMiAmLDQgLi4uICYsNCAqLDIgKiwyICIsNiAuLjAgKi4yICguNCAmLDYgLi4uIBwuOCAqLjIgKC40ICIuNCAuLjIgKC42ICouMiAuMDAgLC4yICouNCAsMDIgLDA0ICgwNiAwMDIgLDA2IC4wNCAqMDYgMjIyICwwNiAgMDogKjA4IDIyMiAsMDYgLDI0ICwwNiAuMjQgLjI2ICowOiAwMjQgLjI2IDIyNCAuMjYgLjI4ICg0OCAkMjogNDQ0IC4yOCAsMjogLjQ2IDI0NiAwNDggNDQ0IDA0OCA0NjYgMDQ4IDI2OCAyNjggMDY6ICo2PiAyNjggMjY6IDA2OiAyNjogNDg6IDI4OiAyNjwgNDg4IDQ4OiA0ODwgMjg+IDg4OiA4ODogNjg8IDY6PCA2OjogNDo8IDo6OiA2OjogNjo8IDg6PiA4OjwgOjw8IDY6PiA8PDwgOjw8IDg8PiA8PDwgODw+IDo+PiA8Pj4gKampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampmxsbGxsbGxsbFtQSEM/P0NIUF5sbGxsbGxsbGympqambGpYWFhYTj81P1Jng5CQfWNSQzlDTlhYWFhqbKampqZsbFgACRxFc6nJycjIzdDY3N3hzYFMIgkAWGxspqampmxsUBxMmLaxrLakoZycnKnI2tzp9vO4TBxSbGympqambFk5gaiorKiXpJyamqGimpGou9rP5fbwiENbbKampqZZSJqhmpyHgpe8k1xVOiw8bpy5yMq+z+381FBZpqaWfkOsnJyKgrHKniQKDiVBTR0PGyFcx8KtyPn85VB2lqZKoqGcio6jqj0mBAEDBgoOEyBaSzMzUdqtvun811emaluppJGCo2UmBQEBEBMKBBAsNBgYGCYPVt2twvn8pmxKz6KRdHh4FxQNAQ4bKRQECiUTBQUgLxQwVsunz/f8V1jatoBreFQPCx4MAQ4vMAICGDceExYOGxI33Y+x5fxkg9DNdIZpEg8GHhkTDi9NDQQTHxk7DRMbFCnHwJ7P9rTFzcqpcWkKDQ4UHxsvKGgxDwQUIWglHxtBS23AjsL308XP4tqGXRgOECAbHRtBRI0lDBQPhCMaKIRikKWGwvnTks/k6qWtKwMbGx0dES8paIQPJQ9WIyNcebP+jIvP/Kt+0Nz41NSwKR0hNyYqMDFJXCUlGkkxJmhw0u56juX8fna/0Pjk39+VDw80FhM7VlpJQRQlTShEhcPvtW+k8/dyiX3P5v719edGEy5PISgWGR5RGCxPMHng4996hcL8kommdrrU9/T19dE0J0tEIxYWEzM0SzE8yev0jHGy8+12ppaWW7/a+vj7+4IxO0k+NDssJxRNJoDr1aB7qfD8W5aWpqZkX6za//v4/ehuVk00ICAzKixVkb56hrLw8mRkpqampmxkUHza9//6/f7WVDRiSSxCYJmUe57P/M5XZGympqambGxXLWa42vT9/v775tXErpmPj7zW8Ox/MldsbKampqZsbFgABzJhmNDp9vTx/v7+8eHo6c51OAcAWGxspqampmxsWAAAAAcVNlN3r8HZ28y3nWZAFQcAAABYbGympqambGxYAAAAAAAABwcICAgICAgHBwAAAAAAAFhsbKampqZsbFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWGxspqampmxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGympqaWpqampqampqampqampqampqampqampqampqamppampqampqampqampqampqampqampqampqampqampqampqY"
+}

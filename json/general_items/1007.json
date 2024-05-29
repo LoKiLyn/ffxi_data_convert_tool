@@ -1,0 +1,24 @@
+{
+    "id": 1007,
+    "strings": {
+        "name": "Nine of Coins",
+        "article_type": "A",
+        "singular_name": "nine of coins card",
+        "plural_name": "nine of coins cards",
+        "description": "One of the cards used to control\nthe magical soldiers, the Cardians.\nEach card is specific to one Cardian\nregistration number."
+    },
+    "flags": [
+        "MysteryBox",
+        "Rare"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "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"
+}

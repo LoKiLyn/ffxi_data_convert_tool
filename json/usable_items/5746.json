@@ -1,0 +1,30 @@
+{
+    "id": 5746,
+    "strings": {
+        "name": "Cherry Bavarois +1",
+        "article_type": "A",
+        "singular_name": "serving of cherry bavarois +1",
+        "plural_name": "servings of cherry bavarois +1",
+        "description": "The sweetest, ripest cherries have\nbeen hand-picked to create a sublime\nbavarois fit for emperors and kings.\nHP+30 MP+15 INT+4\nHP recovered while healing +4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTc0NiAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAOIAYGBiAGBgYgBgYGIAYGBiAGBgggCAgIIAQEEiAAABogCAgIIAYICiAAABwgCAgMIAQEFiAGBhQgCgoOIAQEGiACAiAgCAwMIAYIFCAKDAwgCAwOIAgIGiAMDg4gCAoYIAwODiAKChYgDg4OIAoOECAGBiAgBhAQIAgIHiAMEBAgDAwWIAoMGCAIDBogBAQqIAgOFiAMDBggCgwaIAwOGCAKCiAgBggmIA4QEiAMDBwgBAYqIAwOGCAKDB4gEBASIAwOGiAODhwgCgwiIA4OHCAKEhYgDA4eIBASFCAQEBggEBQUIA4OHiAOEBwgCAosIBASGiAOEB4gDBAgIBQUFCAQFBYgEBIaIA4QIiAQEhwgEBAgIBQWFiAOECIgCg4oIBASICASFhggFhYWIBQWGCASEiAgEBIiIBASIiAWFhggFBQcIBQUICASEiIgGBgYIBASJCAQEiYgFhgaIBQYGiAUFh4gFBgaIBgYGCAUFh4gFBQiIBAUJiASFCQgFhgaIBgaGiASFCYgEhYkIBQWJCAaGhogFBQmIBoaGiAYGhwgFhggIBYWJCAWGhwgFBYoIBQUKiAUFiYgHBwcIBYaICAUFiggGBoiIBYYJiAaHB4gGBwgIBYYKCAcHBwgGhweIBgaJCAYHCIgFhgoIBgcICAWGCogGh4eIBoeICAYGiYgFBYwIB4eHiAcHiAgFhosIBoeJCAYHCggHB4gIBgaLCAgICAgGBoqIBweIiAcICAgGhwoIBYWNiAcICIgHB4mIBgcKiAcICQgICAgIB4gIiAcHCogHiAiIB4iIiAaJB4gHCAoICIiIiAcHiwgHiIkIBwgKCAiIiIgHiIkIB4gLCAaHi4gHiIoIBwgLiAgJCQgHiAsIBwgLiAgJCYgHiQmIBwgMCAiJCYgHiAuICAkKiAkJCQgGiAyICImJiAgJCggHCIwICAkKCAgIi4gHiIwICYmJiAiJiggHCYqICIkKiAiJiggHiQwICQmKCAiJC4gKCgoICImKiAgIDggICQyICQoKCAeJDIgKCgoICQoKiAgJjAgICQ0ICQoKiAiJjAgICY0ICYoKiAgJjYgKioqICImMiAgJjQgJiosICYoMCAmKDAgJiosICYoMiAkKDQgKCwsICYoNCAmKjIgKCwuICIoOCAoLC4gKCo0ICgsMCAqLi4gJCo4ICosMiAoLDQgKi4wICQqOCAuLi4gKi4wICwuMCAoLDggKi40ICosNiAsMDIgLC42IC4wMiAuMDQgLDA4IC4yNCAuMDYgLjI4IDAyOCAwNDYgMjQ2IDI0PCAyNjYgNDY4IDQ4OiA4OjogODo8IDo8PCA8PD4gPD4+ID4+PiAAAAAAOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5L6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr6+vr7k5OTkvrafn5+fn5+DeGZmVUdHTFxicIOfn5+fn5+2vuTk5OS+vp8AAAIEBRUdLEJRUVlMSywhHQsHAwAAn76+5OTk5L6+nwMGGjphjaC6wsLIy8vIxaWQTToWBgOfvr7k5OTkxJtBOFugyOXi3t7e3t7e2dnTvNPLy5hNE2i+vuTk5OSbWWaY5ebi3t7e29Pe08u6vMvLy7y6t8uETHi+5OTevlls2ebe4uLe29a/ua2jnpqBepGlq8vLt6DLaXDk5M11aerq1tvZy7+zo7HIyLyxqJ2TcXGMl5eXl6ClYpTklGnv7Oze06NdaoZ7U0UpGSQjPFJ2k3Z2jY2QmJiQYp949uzs792GGw0QLyInNTItOzItIy85WoyEeY2Ql5eVVaX5+/nTXREXNQgbJzJIY0hGYFZQNTMnKYx/eYiNjY1Z9O/4+RcBDCURFBk7SlZyflA/UEhGJzU8Mox1f4SNjYT09/ZKEgkrjx4jG1BQZ3KJfkBUUE87O05GWpBphJWYiPn794I9LkmCwCNOb0pkdImkZz9QVj8yU14+lX+XoKuo5f78b24eJCYoVHTHiW9tiaSiUFBQUDdOZUWQmKilq39m+/1lKg43HzZlosrfcmd3oseLZFZkSk5rWoS6urqoaK6X/flXIECZPIGcw+OyfoWkx6Z3X21eXnRzutDT0Ga25JR59vPJwrjDb5y12tqFhaTHtYVjd3xvdKnb09N1vuTk5IqN9/P3ybXSoqLM57JjqsPBoXKLnI6H1turaZTk5OTkvp9isO/zveeOpK/u6Ymy1eimfpyslpKodWafvuTk5OS+vooKMb/Szt+7yt/11Nfn6L2mztScXRgKn76+5OTk5L6+nwACHJvD8PDK4f7x8fzo18nh6WscAgCfvr7k5OTkvr6fAAACTe76/uvgoay97tzr+vHUQwQAAJ++vuTk5OS+vp8AAAAE9/Lw3Y40RGSSwenu1Kc4AgAAn76+5OTk5L6+nwAAAAJY/v7rYFZWb5bJ2PrSgAQAAACfvr7k5OTkvr6fAAAAAAOb9Pro0Zy00dTy7VgCAAAAAJ++vuTk5OS+vp+fn5+fn2hMQbby0cTy5mJRcJ+fn5+fn76+5OTk5L62vr6+vr6+vr6bcFxRR1Fwir6+vr6+vr6+tr7k5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OQ"
+}

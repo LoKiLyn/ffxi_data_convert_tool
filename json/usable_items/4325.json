@@ -1,0 +1,29 @@
+{
+    "id": 4325,
+    "strings": {
+        "name": "Hobgoblin Pie",
+        "article_type": "A",
+        "singular_name": "Hobgoblin pie",
+        "plural_name": "Hobgoblin pies",
+        "description": "This strangely baked Goblin pie looks\nburnt in some places.\nHP+15 MP+15 AGI+4 CHR-7\nDEF+12% (Max. 60)\nHP recovered while healing +2"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 12,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNDMyNSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAoKDiAKCg4gCgwQIAwMDCAMDAwgDAwQIA4ODiAKDBAgCgwSIA4ODiAMDBQgDg4OIA4ODiAMDhAgDA4QIAwOFCAQEBAgEBAQIA4OFiAOEBIgDA4WIAwQEiAOEBIgEg4UIBAQFCAMEBQgDg4YIBASEiAQEBIgDhAUIBIOFiASEBQgDhAWIBQOFiAOEhQgDhAWIA4QFiASEBYgDBIWIA4QGCAOEhIgEBIUIA4SFiASEhQgDhIWIA4QGCAMEBggEBIUIBQQGCAOFBQgDhIYIBISFiASEhggDhIaIBISFiAQEhYgEBQUIBQUFCASFBYgFBIYIBYSGiASFBggEBIYIBIUFiAUFBQgEBQWIBISGiAQEhogDBIcIBIWFiAWEhogEhQYIA4UGiAOFBogFBYWIBQUGCAOFhYgEhQaIAwUHCAYEhogEBQaIBIWGCAYFBogEhYaIBYWFiASFhggEBYYIBIUGiASFBwgDhQcIBQWGCAYFBwgDBgaIBIUHCAYFhogEBgYIBIWGCASFhogFhYaIBQUHCASFB4gFhgYIBAWHCAQFh4gFhYYIBIWGiAWFhwgFBgYIBIYGiASFh4gDhgaIBIWHCAUFhwgGBYcIBYYGiAUGBogFBgaIBIWHiAUGBwgGBgYIBIYGiASGBwgFBgeIBAYHCAYFh4gEhgeIBIWICAWGBwgFBoaIBoaGiAOGh4gGBgeIBQYHiAUGCAgFhgcIBIWIiAaGhogFhgcIBIYHiAUGCAgFBoeIBAYICASGh4gFhocIBIaHiAUHBwgFhoeIBoaGiAWGh4gEBogIBQaICAaGiAgFBoiIBgaHiAOGiIgFBwgIBAaJCAYHB4gFhoiIBocHiASHCIgHBwcIBYcICAUHCAgFBokIBYcICAUGiQgEhwiIBIcIiAaHB4gGBwiIBoaIiAUGiQgFhwiIBIcIiAeHh4gFhwkIBQaJiAYHCIgEhwkIBgeIiAUHiIgGBwkIBAeJiAeHh4gEh4kIBYeJCASHCggFh4kIBweICAgICAgFB4mIBAeKCAYHiQgFh4oIBAgJiAgICAgGB4oIBQgKCAYICYgGCAoIBYeKiAYICogFiAoIBggKiAYIiggIiIiIBogLCASIiogHiAqIBgiKCAYICwgFiIqIBQiKiAkJCQgGCIqIBggLCAaJCggHiIsIBYkKiAaIiwgJCQkIBgiLiAaIiwgGiQqICYmJiAaJCwgHCQsIBwkKiAYJDAgHiQuICYmJiAaJCwgHiQuIBwmLCAmJiYgGiYuIBwmLiAoKCggHCgsIBwmLiAeJjAgHCguICImMCAeKC4gHCgyICoqKiAqKiogHig0ICAqMiAsLCwgLCwsICIsNCAuLi4gP////////////////////////////////////////////////////////////////////////////////////////Dw8PDw8PDw8O3j0MCxo6OxwNDf7fDw8PDw8PD/////8OnQ0NDQ0MajeVZ2jDk5SUk/TUJnsdDQ0NDp8P/////w8NAAAAALJI/B1tbISkBAQD9JZJtqBgAA0PDw//////Dw0AAABmvZ5NbW2cGwaFxjY2OBiJtMBQDQ8PD/////8PDQAAZryM3Bweru7tmisKlxaHiLm6ENCNDw8P/////w8NgGLKKwwbnk9PTu9N3IsLCqpJu/qzgF0PDw//////Dwow9pqam1yOri7Oz+9evVwrClr7y2iAbQ8PD/////8OMtTHxwhM/N2c/s+/Xc5d7e0sWwl52kD8bw8P/////wwBBJQ2G2u7DJ1Orz69Po9/r317udfV5iQu3w/////+NnTTwqk5adfbfP4erl3tHa7+Dv5M2dkFgrsfD/////3x1DMyqWdo6WpMPK4ere1dXL1cvK1MmvnVcd2P////+jHzE6U5GCely0rbjU2c3Oy7OuxLKlr7zDkG1W/f///FZBMyqfgnZTgayZrcO8x7OJiaausqB7jq+venbj///4KyVDgo5iQ2KBlJ+stKCNgImJd6ComIxxpcm3btj//+MuaHp1dWI8XHaCi2JVUlp3d3eJmqiymH+vw9uS2P//32h/blOCQVNXYjpBPElSZW9vgHeNmqCgoL7P8bvQ///wSVt7p5F1bUctQUFBSVlZZXeAgIBmWneguMf21tD///lcaIaWm4iRYm1ueFM/Py9Pb3F3ZVpaW0ZQRt3P2P/9/YpGcYuWp6eIi3ZcMTElLkRPTy83RS83MEZQ2Y7t////xjlfhpSWkYF0ZE0YGB8mNkQ5Hy40NDdFW669dPz////tg0lyhWxsZGxNGB8YJTVINjEfLjRKcWmpmn/G//////DjQmNzc2xgTRoaGBo1UTYxHx8rOVJfe4yXle3/////8PDAHl1zbGBRNRoaIzY+IiUfHyUuRTdSKGft8P/////w8NAIEz1UVEghIRkjMjYmJRsmJi8cJgkB0PDw//////Dw0AAICxI9NTIhICMjMiYvJhwcKBEHAwDQ8PD/////8PDQAAAACAsOOycnIBwcHCgKCQQCAwwAANDw8P/////w8NDQ0NDQ0NDGuqOVioOKlaO6xtDQ0NDQ0PDw//////Dw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PD///////////////////////////////////////////////////////////////////////////////////////8"
+}

@@ -1,0 +1,30 @@
+{
+    "id": 5999,
+    "strings": {
+        "name": "Adoulinian Soup +1",
+        "article_type": "A",
+        "singular_name": "bowl of Adoulinian soup +1",
+        "plural_name": "bowls of Adoulinian soup +1",
+        "description": "This soup is as nostalgic as it is delicious, and many Adoulinians have returned halfway through their journeys just to taste this soup once more.\nHP+4% (Max. 45) VIT+4\nDEF+16% (Max. 75)\nHP recovered while healing +7"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTk5OSAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAECAggBggKIAYKDCAIDA4gCg4SIAwOFCAKFA4gDBAUIAwUECAOEhYgDBQQIAwSFiAIEBwgDhYSIAwSGCAMEBwgDhYSIA4SGCAIECAgChAeIAwUGCAOFBggEhQWIA4UGiAOFBggDhQaIA4WFCAQFBggDhgUIA4UGiAOFBogChIgIBAUGiAOFhogEBYWIA4UHCAQGBYgDhYaIA4WHCASFhogEBgWIBIYGCAUFhogDhYcIA4WHCAOFCAgDBIiIA4WHCAOFhwgEBgWIBQWGiAOFhwgDBQkIBAWHCASFCAgDBQkIAwSKCAQFCIgDhQkIBQYGiASGBwgDhgcIBAWHCAYGBggEhoYIBIYGiAOFCQgEBgcIBAYHiAOFiIgDhQmIBQYHCAWGBogEhYiIBAYHiAQGB4gEhoaIBQYHCAQFiIgDhQmIBAWIiAUGhogEBgeIBAYHiAWGBwgEhYiIA4WJCAQGCAgDhQoIBgaGiAQGCAgFBwaIBYaHCAQGh4gGhocIBIaICASGCIgFhoeIBIYJCAUGh4gEhogIBIaICAYGhwgEhogIBYaHiASGiAgEhgmIBocHCASGiAgGBweIBQeHCASHCIgFBokIBIYKiAcHB4gEBgoIBYcICASHCIgEhwiIBQaJiAaHB4gHBweIBQaJiAWHCIgFBomIBgcICASHCIgGh4gIBgcIiASHCQgEhgsIBgcJCAaHCAgGB4gIBQeJCAcHh4gEhooIB4eHiAUGiwgGB4iIBYcJiAUHiQgFB4kIBYgICAWHCYgGh4iIBYeJCAYHCYgHh4gIBQeJCAUHCggHiAgIBgeJiAUHiYgGiAiIBYeJCAaHiYgGBwqIBwgIiAgICAgGh4kIBggIiAcICIgGCAkIBQgJiAcICQgFiAmIBogJCAaICYgFiAmIBQgJiAgICAgGiAkIBQgJiAaICYgHiAiIBogJCAWICggIiIiIBwiJCAcICYgFiAoIBogKiAiIiIgHiIkIBggKCAaHiogIiIiIBoiJiAaIiYgHCImIBwgKCAYIiggHiImICIiJCAYIiggGiImIBwiJiAeIiggGiIoIBgiKiAeJCYgHCQoICQkJCAYJCogGiQqIB4kKCAcJCogJCQkIBwkKCAgJCggJCQmIB4kKiAaJCogHCQsIB4mKCAeJCggHiYoIBwkKiAmJiYgICQqICAmKiAmJiYgIiYqIB4mLCAeJiwgKCgoICAmKiAgJiwgHiYsIBwmLCAiJiwgIigsICAoLCAiJi4gHiguICgoKCAiKCwgICguICAoLiAiKC4gICouICoqKiAiKi4gJCguICIqLiAkKi4gLCwsICQsMCAqLDAgLCwsICosMCAmLDIgLi4uICosMiAAAAAAP39/f39/f39/f39/f39/f36+v39/f39/f39/f39/f39/f39/f39/f39/ffT0MLL0MvCu7ey2+z9/f39/f39/f39/eLi4uLi3p9yeA4YISUlMxgVFA5mXnnC4uLi4uL9/f394tu7u4lZDg4VJSshIywrIx0dITIVFAtZn7vb4v39/f3i4rIADhQdK1NpgYaxwMexmX5sPT4lHRYCieLi/f39/eLiWRsjPVp+sc3v9fX19fXv4eHNql8vNRtZu+z9/f393qsZNX6b4fHx1anAucOmuc3H2uX15shfIz15q/39/f2UHlKV5fXaqXV1m5l1m3t7ZWx+hqTa7uuOGT158v394mhlufHlhl+bo+342OP2493YvK6zm2mk5fWmIy+7/eyvSs3xpmd7xI8kEFHd/uNtO1SlrCAbxENvwPGGLK/s2z3N8c1kp8q9HAgaBhDRYUeFKjsqIAQF3YZXw/FLRLivje/AWsTz5I8cBiQoQGNckdnYYTsnCRHRypJk1e5kuKLV4GeSygUJytduMVEiY8716uqlmt+01Pbw6Up+7rBpme52XaMHByAtYnrJs32E7/D53WGLz4JGSfzpo13Mx47I5mdKexcgdEk6YkJwoOj09LNhvtdxiJ05TvjZQ6nrucyxV128GRfRthNCVnrR6c6RxbPk8/DWunA29tFTgeat1ZtTPa6srIuILk6dts7Rvtfz8/z7qE/zjFjc3T1ktcDMjktDgMGaY0+TVU7jpddNMmE7pe1COHM4OujoQ1q1qa2NWiVozg0ajJwfE2APKiph2IV9Mr03T1ag9LxKWsyZpKpfPBbBHA2QNDdigwwgR33SwXRH2aHFQcndY1NnyH6GrWxDPT+zW0xzYpNwEkVls+PnymhBDQ1A6H8+RJmkbx1+ql89JUiaxa5wQh8ujJpHbcGzi4UNEApRUlJEtYEv00qtfks9PB1jvOCWepiQvCAXhazSySQoIkFKRIaVSrfyl2m1Z0QvLx0dHTx7mMHcxsa/rJGwY0FDX1+VmWmv8v3ef2mtfj4sJR4jGSUlJSshISsdIUNdUldkqqRpaN79/f24ckN1dldLKyY1IyMmJSs9MFdLQ112qo5+Q3S4/f39/eK7XiVKb36GZEswPjAwNT1LX3aGpG9KJSVZ0+L9/f394uKyAAEhM1JngZmZpK2VqpmNhl1KJR0DALfi4v39/f3i4ru7u4leRxQUHSU9MzMvGBUVSl5ribe7u+Li/f39/eLe4uLi4uLbu6ufl5SHh4mrssvb4uLi4uLi3uL9/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f0"
+}

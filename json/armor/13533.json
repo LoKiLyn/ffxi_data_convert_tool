@@ -1,0 +1,22 @@
+{
+    "ID": 13533,
+    "name": "Solace Ring",
+    "item_type": "Armor",
+    "description": "MND+3 ${icon: water}+6",
+    "flags": "Inscribable, CanEquip",
+    "stack_size": 1,
+    "equipment": {
+        "level": 36,
+        "ilevel": 0,
+        "jobs": "All",
+        "races": "All",
+        "slots": "Rings",
+        "superior_level": 0,
+        "shield_size": 0,
+        "max_charges": 0,
+        "casting_time": 0,
+        "use_delay": 0,
+        "reuse_delay": 0
+    },
+    "icon_bytes": "kWFybW9yICAgMTM1MzMgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADAwMIAwMDCAMDAwgDAwMIA4OCiAMDgwgFBAGIA4ODiAOEA4gFBAMIBgUCiAaFAogDhQSIBAUEiAcFgogEBQSIBoWCiAOFBIgGhYMIA4WEiASFBQgFBQUIBoYDCAUFhIgHhgKIBgWDiAQFhQgEhYUIB4aCCAcGA4gEBgUIBQWFiAgGgogEBgUIBYWFiASGBYgGBgSIBAYFiASGBYgHhoOICIaDCASGhYgFhgYICIcDCAUGhYgHhoQIBgYGCAYGBggFhgYIBIaGCAiHA4gHBoWIBYaGCAYGhggHhwSIBwaFCASHBggGhoWICIcECAkHg4gGhwWIBQcGCAaGhogFhwaIBocGiAUHBogJh4QICQeECAaGhwgHBwcIB4eFiAUHhogHBwaIBwcHCAWHhwgGB4aICYgECAmIBAgHBwcICgiECAcHBwgFh4cIBweHCAYHhwgFiAcIBweHiAmIhIgFiAcIBweHiAoIhIgHh4eIBogHCAeHh4gGCAeIB4eHiAqIhIgKiQQICgiFCAYIh4gLCQQIB4gICAeICAgGiIeICokFCAgICAgHiAgIBgiHiAsJBIgGiIgICwmEiAoJBggICAgIBgiHiAsJBQgHiIgICwmEiAgIiAgICIgIC4mEiAYJCAgHCQgICIkHiAcJCAgLiYUIB4iIiAcJCAgGiQgICwmFiAwKBIgKiYaICAiIiAcJCIgLigUICwmGCAaJiIgLigWICIiIiAgJCIgHiQiIDAoFCAaJiIgLCgYICIkJCAyKhQgMCgUIB4mIiAaJiIgICYkICQmICAcJiQgNCoUICImJCAaKCIgMCoWICAmJCAuKhggHiYkIBwoJCAeJiQgICYkIDAqGCAmJiYgHCgkIB4oJCA2LBQgJiYmIDQsFiAwKhogHCokICIoJiAmKCYgHCokIDQsGCAgKiYgMCwcIDIsGiAeKiYgHiomICIqJiAwKiAgHiomIDIsHCAiKiggICwmICgoKCAkKiggIiwoIDgwGCAqKiogJiooIDIuHiAiLCggICwoICQsKiAkLCogMi4iICIuKiAkLCogKCwqICYuKiAkLiogNjAgIDQwIiAyLiQgLCwsICwsLCAkLiogJC4qICYuLCAmLiwgLCwsICguLCAmMCwgKDAsIC4uLiAmMCwgODIiICgwLCA0MiYgLi4uICgwLiAuLi4gLDAuIDgyJiAoMi4gNDIoICoyMCA2MiogMDAwICwyMCAwMDAgMDAwIDAwMCAyMjIgMjIyICwyMCA2NCwgLjQyIC40MiAuNDIgMDQyIDA2NCA0NjQgMjY0IDI2NiA0ODYgNDg2IDY4OCA2OjggODo6IDo6OiA6PDwgPDw8IDw+PiA+Pj4gOnp6enp6enp6enp6enp6evp6enr6enp6enp6enp6enp6evp6enp6enp6enp6+nr6enp6dNfW1FbZVFK6enr6+np6ejq6ujo6Ojo6Ojo6OjqWT9FZnuzu9Lm+qk5Nujp6evp6Ojn5+fn5+fn5+fcRhZzfsXV0KSek6x44w0NRd7p6eno6OcAAAAAAAAAAglcwNrd4/LmwLXheCp/Ig0Oot7p6ejo5wAAAAAAAgQnxtS7stry+PS1Y5nJOWsbFA1l1+np6OrnAAAAAQMQw8KqmXhrjez896OeKjKjQhtVDSTe6+no6OcAAAIGoNpxOSobDUiefx9IcTJVtX8qEngNJIPr6ejq5wADEO7PKioyIh8iKjJCUo3d1IRjeTJIqRIyVunp6OrnBFn1jUAUGzJYSz6HxeHPqj5Ui7tjMqxxMnmD6+no6GmS8JltJjmj2uPj4bierG19rnnCpEiHmVJelI/p6ejon/KNhGOy2trAeYfs9u+kXr7u0m05rOGNeKCY0+vp6FHmuLcy5sVcCgsXCwVx/fee3/w1JrjxwUJt7HDp6elRtanvh7jPJQwzPDxDQxGL//VjOS2Z0OZYpLtLzunrdriek8lI8TUHPGAsTUNOGQyg/+YqZ//5uJ3Alonp6euYnjl4Y3HyGCxghpyciHJOLBPC/Yfa/+9e2uM26OnrX2pYGyIf7tAuUIComnxhhWhaIR7s2jI5ObfBWYno6elWVDIqIj7Q0Dtap3yFdJd0WmwzGXr/bZ6+rrgj6ujp6SA5JiIUwMLvHlqnvKWBbjNabDwPHvGzcfPlkiPo6OnpIBsmKpl5mfEFTYynrYGMUJBhUCwRlftUY8Ijaejo6ekrjVK4bXte9S0hcrawkYFNboF3Qyg69GepwgTn6Orp6aKHmYTA8nF43RpNqLCadGSBd2FXMyXxnZ2bA+fq6OnpzmVAYxs5VjX6hx2MsMqwmoWhgkQsOuyzhBwB5+jq6+npj13dwXjJoMbxPWR0tsu/2cy0jjtJ2sZ+CADn6Ojr6+neRWeE2Pf9jfTYNzNv4OTt4q9vHqr+xiMAAOfo6Onp6evNdX1Se5Z/s/iNF3zE2+TEYik0yfhLCAAA5+ro6enp6eqmU3Oru/J5xvhxN4CAhlo8OIrw0gkAAADn6Ojr6enp6ujcAwgcwMLVyPLFTDo4R3rH9tYWAAAAAOfo6Ovp6eno6Ofn52kvMVO6yPDx4+zm8O+xMefn5+fn5+ro6enp6+jo6ujo6OjouU8wP7qKwdF7QVno6Ojo6Ojo6ujr6enp6enp6enp6enp6de9cGVfSnC96enp6enp6enp6enp6+nr6evp6enp6enp6enp6enr6enp6enp6enp6enp6ek"
+}

@@ -1,0 +1,24 @@
+{
+    "id": 987,
+    "strings": {
+        "name": "Two of Swords",
+        "article_type": "A",
+        "singular_name": "two of swords card",
+        "plural_name": "two of swords cards",
+        "description": "One of the cards used to control\nthe magical soldiers, the Cardians.\nEach card is specific to one Cardian\nregistration number."
+    },
+    "flags": [
+        "MysteryBox",
+        "Rare"
+    ],
+    "stack_size": 1,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "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"
+}

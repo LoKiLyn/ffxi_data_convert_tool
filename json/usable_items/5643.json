@@ -1,0 +1,30 @@
+{
+    "id": 5643,
+    "strings": {
+        "name": "Cibarious Cilbir",
+        "article_type": "A",
+        "singular_name": "serving of cibarious cilbir",
+        "plural_name": "servings of cibarious cilbir",
+        "description": "The eggs in this exotic dish\nhave been poached to perfection.\nHP+6% (Max. 150) MP+6% (Max. 100)\nHP recovered while healing +3\nMP recovered while healing +4"
+    },
+    "flags": [
+        "MysteryBox",
+        "MogGarden",
+        "Inscribable",
+        "CanUse",
+        "CanTradeNPC"
+    ],
+    "stack_size": 1,
+    "item_type": "UsableItem",
+    "resource_id": 200,
+    "valid_targets": [
+        "SelfTarget"
+    ],
+    "usable_item": {
+        "activation_time": 4,
+        "unknown1": 0,
+        "unknown2": 0,
+        "unknown3": 1
+    },
+    "icon_bytes": "kWl0ZW0gICAgNTY0MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAADAwMIAwMDCAMDAwgDg4OIA4ODiAODhAgEBAQIBIQECASEhIgChQSIAoSFiAGFBggFBQUIBQUFCAWFBQgDBYaIAoaFiAIFhwgFhYYIAgaGCAOGBwgGBgYIBgYGCAYGBggCBoiIBoaGiAaGhogHBwaIBoaHCAcHBwgHBwcIAwgGiAOGCggHBwcIBIcHiAcHBwgHBwcIBwcHiAOHCYgCBguIB4eHiAaHh4gEBoqIBQcJiAOHCggHh4eIAwaLiAeHh4gHh4eIBQgICAgICAgGh4kIAgaMiAeIB4gFh4mIAwaMCAAHDIgFBwqIB4gICAeICIgFh4oIAoaNCAgICAgICIgIAwcMiAiIiIgGCAqIBIeLiACHjQgICIiIBYgKiAgIiIgFB4sIAAgNCAiIiIgICIiIBQgLiAiJCIgGiQkICQkIiAQHjQgGCAsIAAgNCAYJCYgFCAwICIkIiAQIDIgIiQkIBQiLiAMIDQgHCIsICImJCAiJCYgGiIsIBYiMCAkJCQgICQoIBQiMCAOIjQgJCYkIBQgNCAeJCwgIiYkIBAiNCAkJiYgGCQwIBYiMiAkJiYgEiQyIBokMCAQIjYgJiYmICYmJiAeJCwgFiQ0ICQoJiAgJiwgCiQ4IBAkNiAUIjggJCYqIBwkMCAoKCggGiooIBokMiAUJDYgJigmICAmLiAQJDYgEiQ2IBAkOCAaJjIgJigoIB4mMCASJDggIigsIAomOCAoKiggGCY2ICImLiAaJjQgICYwIB4mMiAoKiogEiY6ICgqKCAcKDQgGiY2IBYmOCAQKDggKCoqICIoMCASKDYgKioqIBosLCAiKDAgGCg4ICYqLiAgKDIgHig0ICYqLCAWKDggEig4ICIoNCAYKjYgECg6ICosKiAkKjIgGCg4IBIqOiAqLCwgICo2IBYoOiAmKjIgHCo2IBoqOCAqLC4gIio0ICwsLCAYKjogKCwyIBwqOCAgKjYgHCo4ICYuLiAsLiwgJiw0ICIsNCAeKjggGio6ICAsNiAcLDggLi4sIC4uLiAqLjIgICw4IC4uLiAoLjIgJiw0ICAsOCAkLDggMDAuICguNCAmLjYgKi40ICIuOCAuMDAgMDAuICguNiAsMDIgJC44ICYuOCAgLjogMDIwIBwuPCAoMDggJDA6IDIyMiAwMjIgJDA6IDIyMiAiMDwgKDA6ICY0NCAsMjggNDQyICYyOiAqMjogLDQ2ICgyPCA0NDQgKDI8IDQ0NCAsMjogNDY0IDA0OiAuNDwgNjY2IC42PCA2ODYgMjY6IDA2PiA4ODggMDY8IDA2PiAyOD4gODg4IDI4PiA6OjogNjo+IDY6PiA4PD4gPj4+ID4+PiAAAAAAMLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwnt7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7e3vCwsLCe3BLS0tLS0tLS1AiHx8fHyJQS0tLS0tLS0twe8LCwsJ7e0sAAAAAAQIFCRYeHhgYDwQCAQAAAAAAS3t7wsLCwnt7SwAAAgYYM2mSipp/f39/cFAcCAICAABLe3vCwsLCe3tQAgc/xbqzkoVwf3RcVk5OTmmKUA0CAEt7e8LCwsJ7exodutarmqeSf2lkZFhWTk5AQEhMimAIInt7wsLCwnsmZNrBuquaf39hUj09Nzc0QEBAQEg2TroaMX/CwsLCIrHixcGrcFhhLy8oNUFEOishITo8TEA2O9oxMcLCwkuX59DFwWR1dY9z5O/kxHh+Pj44KFFuRkA7O9YiUMJgLufQ0MqKiJ7x34uV3+z043Y5RdHRj1VfRkhAO7MzwkLC4trKuqGerp+Nt7jO5uro16ZKme/76mpEXExAUEtQJuni3bqoZoxDSXOlvc7m3M7ApnZTme379o5hTkw7hTNG6+LapFKAW0NZlKWp4/rVqbCZo6KW2fT8+o5dTkBnLpDw4sNfjJxmXoSBd4ODh7S4v6mjv9Pt8vX81GxWSFwzl/Dpw4bhu4x6am1ab4GHori/0+Pm5vLy9vjtbFhWXDNd8OfNteG8vI6GbWNjWndtfWKy2OTm7e/y8vRcWFhnMTHw7taxu6Skn5+Ohmt6XkdiaqDJ2NzI5NTfy1xYVn8bO+7w+bGoZY3M2MeOgEMsSVeClL29xNm/pceeWFhWdEJkXfDu1n96a9HMJwwLCzdNgq3A9d62vc63rmRnZH8uYMJC3fDr2ophOi0nGRIKFUltdoORoravzsdkbGRnbELCwsIm7u7r2nAqIxUnEBFUfYFjY3edtszNf39nbJIiwsLCwnQa7vDr0AoUMmwqIBShnI2Uk6+XkIp/dGySF3vCwsLCf3sb4vDrfOUyVE+b4MbG0tunmpeKf390hRd7e8LCwsJ7e0sDMOnu59LSufz++dDKxbqnmoWFkjAES3t7wsLCwnt7SwACBj/r6+fi5/7988XBurO6kCkJAgBLe3vCwsLCe3tLAAAAAgMOJXHF6/P34pBAJA0DAgAAAEt7e8LCwsJ7e0tLS0tLS0sfHxsbGhsbGx8fM0tLS0tLS3t7wsLCwntwe3t7e3t7e3t7e3t7e3t7e3t7e3t7e3t7cHvCwsK6wsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwrrCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsI"
+}

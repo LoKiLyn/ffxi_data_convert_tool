@@ -1,0 +1,24 @@
+{
+    "id": 1453,
+    "strings": {
+        "name": "M. Silverpiece",
+        "article_type": "A",
+        "singular_name": "Montiont silverpiece",
+        "plural_name": "Montiont silverpieces",
+        "description": "This ancient San d'Orian currency,\nvaluing 100 noits, dates back to C.E.\n563. It commemorates the hero of the\nFirst Battle of Konschtat, Lady\nEldie Montiont."
+    },
+    "flags": [
+        "MysteryBox",
+        "NoSale"
+    ],
+    "stack_size": 99,
+    "item_type": "Item",
+    "resource_id": 65000,
+    "valid_targets": [],
+    "furnishing": {
+        "element": "Undecided",
+        "storage_slots": 0,
+        "unknown3": 0
+    },
+    "icon_bytes": "kWl0ZW0gICAgMTQ1MyAgICAoAAAAIAAAACAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACgoKIAwMDCAMDAwgDAwMIAwOECAMDhAgDg4OIBAQECAMEBAgDhASIBAQECAQEBAgDhISIBASFCAQEhQgEhQUIBAUFCAQFBYgEBQWIBAUFiASFBYgEBQWIBQUFCAQFBYgEhYWIBIWFiAQFhYgEhYWIBIWGCAWFhYgEhYYIBIWGCASFhogFBgYIBYYGCASGBogGBgYIBQYGiAUGBogEhgaIBQYGiAYGBogFBgaIBQYGiAYGBogFhgaIBQaGiAUGhwgFBocIBYaGiAWGhwgFhocIBgaGiAUGhwgFBocIBQaHCAaGhogFhocIBYaHCAWGhwgGhocIBYaHCAaGhogFhoeIBYcHCAWHB4gGhwcIBYcHCAWHB4gGBwcIBYcHiAWHB4gHBwcIBYcHiAWHB4gFhweIBgcHiAcHBwgGBweIBYcHiAWHB4gHBwcIBgcHiAYHCAgGB4eIBgeHiAYHiAgHh4eIBgeICAYHiAgGB4gIBweHiAYHiAgGB4gIBgeICAcHiAgGB4gIBgeICAYHiAgHB4gIBgeICAYHiIgHh4eIBwgICAcICAgGiAiIBogIiAaICIgGiAiIBggIiAaICIgGiAiIBwgIiAaICIgICAgIBogIiAaICIgHiAiIBogIiAaICQgGiAiIBogJCAaICQgICIiICIiIiAaIiQgHCAkIBwiJCAaIiQgIiIiIBwiJCAcIiQgHiIiIBwiJCAcIiQgIiIiIBwiJCAcIiYgICIkIBwiJCAiIiIgHCImIBwiJCAiIiIgHCQmIB4kJCAeJCQgHCImICQkJCAeJCYgHCQmIB4kJiAcJCYgHCQmIBwkJiAeJCYgHiQmIB4kJiAeJCYgHiQmIB4kJiAeJCYgHiQmIB4kKCAkJCQgJCQkIB4kKCAmJiYgHiYoIB4mKCAiJiYgHiYoICImKCAeJiggJiYmICImKCAeJiggICYoICAmKCAiJiggHiYqICQmKCAgKCogICYqICgoKCAgKCogJCgoICAoKiAoKCggICgqICYoKCAiKCogICgsICgoKCAkKiogICgsICgoKCAiKCwgJCoqICQqLCAmKiogKioqICQqLCAkKiwgJCosICIqLiAkLC4gJCwuICwsLCAoLCwgJCwuICQsLiAsLCwgJCwuICYsLiAoLC4gJCwwICwsLCAkLC4gJiwuICYsMCAkLDAgLi4uICguMCAuLi4gLi4uICYuMCAqLi4gKC4wICYuMiAmMDIgKDAyICowMCAoMDIgLDAyICgwNCAoMDQgKjA0ICgyNCAqMjQgKjI0ICwyNiAwNDQgLDQ2IC40NiAsNDggMDY2IC42OCAwODogNDo8IDA8PiA4PDwgOj4+IDo+PiAAAAAAOLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi0b2mlZWmvdXi4uLi4uLi4uLi4uLi4rm5ubm5ubm5gkl8veTr0pOlaE59ubm5ubm5ubni4uLiua+IiIiIWCXS8/Pbz6xtNzeT89I5UoiIiIivueLi4uK5uYgAAAeS5WWD1HnUN8aH0yZMsfPJCwAAiLm54uLi4rm5iAAM8b6DvnogGxIyMgoVS9nZerHpFwGIubni4uLiubmICPiR1NQ3MUITs9uuVCcmenrZ2XrxEIi5ueLi4uK5uSX3jNTUg202FucyGFoYb39vS0yuupnqObm54uLi4rmNtue3t4ODOxZ1zx0nfhgmVDdLW0tdpHrHfbni4uLir0PEYeXPYoN6hPp3JwVaGCYTW1t+N0ybYdlkueLi4uKIs4w8PKeMYl38uo4nD1onJg4TOjp1e0ybYdyC4uLi4kPEnNepbT4+Nk0kFA8sIKQmKSRLUF5dTG5Xzlzi4uLaYJ08qXk8PDAwH2MNFBkYzZdsS0BAZldUSqCuhdHi4sKcV0ZWSmVXIC9H8sAZJyAaDy/GKSlukW5MoGHDveLir7BBHF9jV1ePwI8UK2IzMxoSOE84OEFBUINKLLKm4uKQyFdfY2NVpEUiRxgdnXcSEh8rODs7QTg+g0SAy5Xi4pCjVyRhoWODRSJjHx8fDQ0RIE9rSlNHV1FEOyipleLir5y3UXmRlGpFYyQdDQYGRz4yMM1HUF50U0REorSo4uLCcdYkV5R+Y8yfRy4sHBwSHDIwl0VVZoZBPiiJrcLi4uFD9ldqoIODn+ODLqGZHAkVHMRMVVVZanTNovBp2t/i4lLlwNBymYSK44OKT3d3Rx0cl0xTVW1ql76i8Eni4eLiplz2e1WAjJR1zHd3RxwcNuNqK3d4TFrNmPuyguLi4uK5P/bgutCZdYqBmZl1dzaZ9GpVinVMaleZ+zm54uLi4rmmKv26jpnQgaF4dODM9P1quLhto89AavZojbni4uLiubk/u/2z1reGd0g+TTakz4p7mm3X8qz2ni25ueLi4uK5uYgH2P3Mkdd+ulo2mFR7W8aB6GF77KoIiLm54uLi4rm5iAACq/71sdfypPSs4+2O+H7G3e+eCACIubni4uLiubmIAAADNfn+9e7T5pqa3ZrM7OzeNAQAAIi5ueLi4uK5uYiIiIhzHov4/v719fXX7OzWaSNniIiIiLm54uLi4rm5ubm5ubm5lVI9aa3LyLJ2Q0mQubm5ubm5ubni4uLi4uLi4uLi4uLi4t/KqJWVqMXh4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uI"
+}
